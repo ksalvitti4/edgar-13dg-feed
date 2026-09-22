@@ -1,0 +1,37 @@
+name: Update 13D/G feeds
+ 
+on:
+  schedule:
+    # Every 2 hours, Monday through early Saturday (times are UTC).
+    - cron: "20 */2 * * 1-6"
+  workflow_dispatch:   # adds a "Run workflow" button for manual runs
+ 
+permissions:
+  contents: write
+ 
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+ 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+ 
+      - run: pip install -r requirements.txt
+ 
+      - name: Build feeds
+        run: python edgar_filter.py
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+          MAX_MARKET_CAP: ${{ vars.MAX_MARKET_CAP }}
+ 
+      - name: Save results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add docs data
+          git diff --staged --quiet || (git commit -m "Update feeds" && git push)
+ 
