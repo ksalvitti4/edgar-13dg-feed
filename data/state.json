@@ -1,0 +1,1423 @@
+{
+ "kept": {
+  "0001193125-26-397073": {
+   "acc": "0001193125-26-397073",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/1472091/000119312526397073/0001193125-26-397073-index.htm",
+   "updated": "2026-09-21T21:56:16-04:00",
+   "filers": [
+    "Nant Capital, LLC"
+   ],
+   "issuer": "PDS Biotechnology Corp",
+   "issuer_cik": "0001472091",
+   "ticker": "PDSB",
+   "group": "13D",
+   "cap": 65110829.096162796,
+   "cap_src": "yahoo",
+   "pct": 19.9,
+   "event_date": "09/14/2026"
+  },
+  "0002107788-26-000008": {
+   "acc": "0002107788-26-000008",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/1951667/000210778826000008/0002107788-26-000008-index.htm",
+   "updated": "2026-09-21T21:40:30-04:00",
+   "filers": [
+    "Takeover Time 2026 LLC"
+   ],
+   "issuer": "CHEETAH NET SUPPLY CHAIN SERVICE INC.",
+   "issuer_cik": "0001951667",
+   "ticker": "CTNT",
+   "group": "13D",
+   "cap": 131746.61040592566,
+   "cap_src": "yahoo",
+   "pct": 62.5,
+   "event_date": "09/17/2026"
+  },
+  "0001193125-26-397057": {
+   "acc": "0001193125-26-397057",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1956439/000119312526397057/0001193125-26-397057-index.htm",
+   "updated": "2026-09-21T21:30:03-04:00",
+   "filers": [
+    "Apeiron Investment Group Ltd."
+   ],
+   "issuer": "Enhanced Group Inc.",
+   "issuer_cik": "0001956439",
+   "ticker": "ENHA",
+   "group": "13D",
+   "cap": 201393743.53032267,
+   "cap_src": "yahoo",
+   "pct": 34.3,
+   "event_date": "09/17/2026"
+  },
+  "0001346824-26-000239": {
+   "acc": "0001346824-26-000239",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2036042/000134682426000239/0001346824-26-000239-index.htm",
+   "updated": "2026-09-21T18:57:34-04:00",
+   "filers": [
+    "RA CAPITAL MANAGEMENT, L.P."
+   ],
+   "issuer": "Sionna Therapeutics, Inc.",
+   "issuer_cik": "0002036042",
+   "ticker": "SION",
+   "group": "13D",
+   "cap": 264431935.16192436,
+   "cap_src": "yahoo",
+   "pct": 14.3,
+   "event_date": "09/17/2026"
+  },
+  "0001213900-26-101879": {
+   "acc": "0001213900-26-101879",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2085659/000121390026101879/0001213900-26-101879-index.htm",
+   "updated": "2026-09-21T18:48:08-04:00",
+   "filers": [
+    "SILICON VALLEY ACQUISITION SPONSOR LLC"
+   ],
+   "issuer": "Silicon Valley Acquisition Corp.",
+   "issuer_cik": "0002085659",
+   "ticker": "SVAQ",
+   "group": "13D",
+   "cap": 296728020.76448345,
+   "cap_src": "yahoo",
+   "pct": 24.2,
+   "event_date": "09/17/2026"
+  },
+  "0000921895-26-002614": {
+   "acc": "0000921895-26-002614",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1772720/000092189526002614/0000921895-26-002614-index.htm",
+   "updated": "2026-09-21T17:55:14-04:00",
+   "filers": [
+    "STEEL PARTNERS HOLDINGS L.P."
+   ],
+   "issuer": "SPRUCE POWER HOLDING CORP",
+   "issuer_cik": "0001772720",
+   "ticker": "SPRU",
+   "group": "13D",
+   "cap": 38023067.80900788,
+   "cap_src": "yahoo",
+   "pct": 17.8,
+   "event_date": "09/18/2026"
+  },
+  "0001493152-26-043601": {
+   "acc": "0001493152-26-043601",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1872292/000149315226043601/0001493152-26-043601-index.htm",
+   "updated": "2026-09-21T17:18:40-04:00",
+   "filers": [
+    "O'CONNOR MICHAEL JOHN"
+   ],
+   "issuer": "Rainmaker Worldwide Inc.",
+   "issuer_cik": "0001872292",
+   "ticker": "RAKR",
+   "group": "13D",
+   "cap": 570025.638,
+   "cap_src": "yahoo",
+   "pct": 16.2,
+   "event_date": "01/02/2025"
+  },
+  "0002152025-26-000004": {
+   "acc": "0002152025-26-000004",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/1095565/000215202526000004/0002152025-26-000004-index.htm",
+   "updated": "2026-09-21T16:55:28-04:00",
+   "filers": [
+    "WJRJJ Ventures, LLC"
+   ],
+   "issuer": "HEALTHSTREAM INC",
+   "issuer_cik": "0001095565",
+   "ticker": "HSTM",
+   "group": "13D",
+   "cap": 888963506.1221237,
+   "cap_src": "yahoo",
+   "pct": 9.6,
+   "event_date": "09/14/2026"
+  },
+  "0001104659-26-109327": {
+   "acc": "0001104659-26-109327",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1638290/000110465926109327/0001104659-26-109327-index.htm",
+   "updated": "2026-09-21T16:30:13-04:00",
+   "filers": [
+    "ROLLINS GARY W"
+   ],
+   "issuer": "MasterCraft Boat Holdings, Inc.",
+   "issuer_cik": "0001638290",
+   "ticker": "MCFT",
+   "group": "13D",
+   "cap": 487030819.2808399,
+   "cap_src": "yahoo",
+   "pct": 19.9,
+   "event_date": "09/17/2026"
+  },
+  "0000902664-26-003887": {
+   "acc": "0000902664-26-003887",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/807882/000090266426003887/0000902664-26-003887-index.htm",
+   "updated": "2026-09-21T16:15:33-04:00",
+   "filers": [
+    "GreenWood Investors LLC"
+   ],
+   "issuer": "JACK IN THE BOX INC",
+   "issuer_cik": "0000807882",
+   "ticker": "JACK",
+   "group": "13D",
+   "cap": 259935243.7956848,
+   "cap_src": "yahoo",
+   "pct": 7.1,
+   "event_date": "09/17/2026"
+  },
+  "0000921895-26-002598": {
+   "acc": "0000921895-26-002598",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1482541/000092189526002598/0000921895-26-002598-index.htm",
+   "updated": "2026-09-21T16:10:54-04:00",
+   "filers": [
+    "YZILabs Management Ltd."
+   ],
+   "issuer": "CEA Industries Inc.",
+   "issuer_cik": "0001482541",
+   "ticker": "BNC",
+   "group": "13D",
+   "cap": 257336562.5,
+   "cap_src": "yahoo",
+   "pct": 19.99,
+   "event_date": "09/17/2026"
+  },
+  "0001171843-26-006133": {
+   "acc": "0001171843-26-006133",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1296484/000117184326006133/0001171843-26-006133-index.htm",
+   "updated": "2026-09-21T16:06:18-04:00",
+   "filers": [
+    "Family Trading Inc."
+   ],
+   "issuer": "TOP SHIPS INC.",
+   "issuer_cik": "0001296484",
+   "ticker": "TOPS",
+   "group": "13D",
+   "cap": 7113281.879786491,
+   "cap_src": "yahoo",
+   "pct": 37.55,
+   "event_date": "09/17/2026"
+  },
+  "0001104659-26-109294": {
+   "acc": "0001104659-26-109294",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1436126/000110465926109294/0001104659-26-109294-index.htm",
+   "updated": "2026-09-21T16:05:09-04:00",
+   "filers": [
+    "Foglia Stephanie Athena"
+   ],
+   "issuer": "Mistras Group, Inc.",
+   "issuer_cik": "0001436126",
+   "ticker": "MG",
+   "group": "13D",
+   "cap": 670978996.1047363,
+   "cap_src": "yahoo",
+   "pct": 19.1,
+   "event_date": "09/17/2026"
+  },
+  "0002146263-26-000004": {
+   "acc": "0002146263-26-000004",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1419275/000214626326000004/0002146263-26-000004-index.htm",
+   "updated": "2026-09-21T15:45:43-04:00",
+   "filers": [
+    "Dorsett Jason Christopher"
+   ],
+   "issuer": "RTB Digital, Inc.",
+   "issuer_cik": "0001419275",
+   "ticker": "RTB",
+   "group": "13D",
+   "cap": 136255732.40355492,
+   "cap_src": "yahoo",
+   "pct": 29.9,
+   "event_date": "09/17/2026"
+  },
+  "0001493152-26-043552": {
+   "acc": "0001493152-26-043552",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/1872292/000149315226043552/0001493152-26-043552-index.htm",
+   "updated": "2026-09-21T15:35:06-04:00",
+   "filers": [
+    "WHITE KELLY MICHELLE"
+   ],
+   "issuer": "Rainmaker Worldwide Inc.",
+   "issuer_cik": "0001872292",
+   "ticker": "RAKR",
+   "group": "13D",
+   "cap": 570025.638,
+   "cap_src": "yahoo",
+   "pct": 16.9,
+   "event_date": "01/02/2025"
+  },
+  "0001213900-26-101765": {
+   "acc": "0001213900-26-101765",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1653558/000121390026101765/0001213900-26-101765-index.htm",
+   "updated": "2026-09-21T14:51:56-04:00",
+   "filers": [
+    "Priore Thomas Charles"
+   ],
+   "issuer": "Priority Technology Holdings, Inc.",
+   "issuer_cik": "0001653558",
+   "ticker": "PRTH",
+   "group": "13D",
+   "cap": 643695670.747705,
+   "cap_src": "yahoo",
+   "pct": 56.5,
+   "event_date": "09/18/2026"
+  },
+  "0001193125-26-396333": {
+   "acc": "0001193125-26-396333",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2054992/000119312526396333/0001193125-26-396333-index.htm",
+   "updated": "2026-09-21T11:52:19-04:00",
+   "filers": [
+    "Lincoln Financial Investments Corp"
+   ],
+   "issuer": "Lincoln Bain Capital Total Credit Fund",
+   "issuer_cik": "0002054992",
+   "ticker": null,
+   "group": "13D",
+   "cap": null,
+   "cap_src": null,
+   "pct": 72.21,
+   "event_date": "09/17/2026"
+  },
+  "0001135423-26-000003": {
+   "acc": "0001135423-26-000003",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/1987342/000113542326000003/0001135423-26-000003-index.htm",
+   "updated": "2026-09-21T11:11:12-04:00",
+   "filers": [
+    "ECKLER JOE M JR"
+   ],
+   "issuer": "Regents Partners Income Fund IV, LP",
+   "issuer_cik": "0001987342",
+   "ticker": null,
+   "group": "13D",
+   "cap": null,
+   "cap_src": null,
+   "pct": 5.0,
+   "event_date": "09/15/2026"
+  },
+  "0001493152-26-043480": {
+   "acc": "0001493152-26-043480",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1866816/000149315226043480/0001493152-26-043480-index.htm",
+   "updated": "2026-09-21T07:45:35-04:00",
+   "filers": [
+    "Kapoor Alok"
+   ],
+   "issuer": "SYNTEC OPTICS HOLDINGS, INC.",
+   "issuer_cik": "0001866816",
+   "ticker": "OPTX",
+   "group": "13D",
+   "cap": 292431923.4993324,
+   "cap_src": "yahoo",
+   "pct": 73.56,
+   "event_date": "09/18/2026"
+  },
+  "0001193125-26-395888": {
+   "acc": "0001193125-26-395888",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/1749723/000119312526395888/0001193125-26-395888-index.htm",
+   "updated": "2026-09-18T21:49:57-04:00",
+   "filers": [
+    "Strategic Value Partners, LLC"
+   ],
+   "issuer": "New Fortress Energy Inc.",
+   "issuer_cik": "0001749723",
+   "ticker": "NFE",
+   "group": "13D",
+   "cap": 45987179.73960972,
+   "cap_src": "yahoo",
+   "pct": 14.7,
+   "event_date": "09/11/2026"
+  },
+  "0001493152-26-043448": {
+   "acc": "0001493152-26-043448",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2076163/000149315226043448/0001493152-26-043448-index.htm",
+   "updated": "2026-09-18T21:45:06-04:00",
+   "filers": [
+    "Pompliano Anthony John III"
+   ],
+   "issuer": "Silvia, Inc.",
+   "issuer_cik": "0002076163",
+   "ticker": "BRR",
+   "group": "13D",
+   "cap": 359664170.25,
+   "cap_src": "yahoo",
+   "pct": 17.37,
+   "event_date": "09/18/2026"
+  },
+  "0001213900-26-101561": {
+   "acc": "0001213900-26-101561",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2112446/000121390026101561/0001213900-26-101561-index.htm",
+   "updated": "2026-09-18T19:26:11-04:00",
+   "filers": [
+    "JATT Ventures II L.P."
+   ],
+   "issuer": "JATT II Acquisition Corp.",
+   "issuer_cik": "0002112446",
+   "ticker": "JATT",
+   "group": "13D",
+   "cap": 95159998.51226807,
+   "cap_src": "yahoo",
+   "pct": 23.1,
+   "event_date": "04/20/2026"
+  },
+  "0001193125-26-395732": {
+   "acc": "0001193125-26-395732",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1436126/000119312526395732/0001193125-26-395732-index.htm",
+   "updated": "2026-09-18T17:22:29-04:00",
+   "filers": [
+    "Mill Road Capital III, L.P."
+   ],
+   "issuer": "Mistras Group, Inc.",
+   "issuer_cik": "0001436126",
+   "ticker": "MG",
+   "group": "13D",
+   "cap": 670978996.1047363,
+   "cap_src": "yahoo",
+   "pct": 6.1,
+   "event_date": "09/16/2026"
+  },
+  "0001493152-26-043373": {
+   "acc": "0001493152-26-043373",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2013320/000149315226043373/0001493152-26-043373-index.htm",
+   "updated": "2026-09-18T17:00:00-04:00",
+   "filers": [
+    "Wong Albert"
+   ],
+   "issuer": "Eastern International Ltd.",
+   "issuer_cik": "0002013320",
+   "ticker": "ELOG",
+   "group": "13D",
+   "cap": 6113164.645195007,
+   "cap_src": "yahoo",
+   "pct": 39.8,
+   "event_date": "08/27/2026"
+  },
+  "0001944761-26-000004": {
+   "acc": "0001944761-26-000004",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/931148/000194476126000004/0001944761-26-000004-index.htm",
+   "updated": "2026-09-18T16:45:56-04:00",
+   "filers": [
+    "Undavia Nilesh"
+   ],
+   "issuer": "GRAFTECH INTERNATIONAL LTD",
+   "issuer_cik": "0000931148",
+   "ticker": "EAF",
+   "group": "13D",
+   "cap": 290734548.1391258,
+   "cap_src": "yahoo",
+   "pct": 8.5,
+   "event_date": "09/16/2026"
+  },
+  "0001477932-26-005699": {
+   "acc": "0001477932-26-005699",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1437925/000147793226005699/0001477932-26-005699-index.htm",
+   "updated": "2026-09-18T16:05:16-04:00",
+   "filers": [
+    "Goodman Anthony Brian"
+   ],
+   "issuer": "Meridian Holdings Inc./NV",
+   "issuer_cik": "0001437925",
+   "ticker": "MRDN",
+   "group": "13D",
+   "cap": 173338110.48674297,
+   "cap_src": "yahoo",
+   "pct": 5.51,
+   "event_date": "08/28/2026"
+  },
+  "0001140361-26-037105": {
+   "acc": "0001140361-26-037105",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1803958/000114036126037105/0001140361-26-037105-index.htm",
+   "updated": "2026-09-18T16:05:08-04:00",
+   "filers": [
+    "KKR Alternative Assets LLC"
+   ],
+   "issuer": "KKR Real Estate Select Trust Inc.",
+   "issuer_cik": "0001803958",
+   "ticker": null,
+   "group": "13D",
+   "cap": null,
+   "cap_src": null,
+   "pct": 29.4,
+   "event_date": "09/16/2026"
+  },
+  "0001213900-26-101399": {
+   "acc": "0001213900-26-101399",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1871638/000121390026101399/0001213900-26-101399-index.htm",
+   "updated": "2026-09-18T16:01:26-04:00",
+   "filers": [
+    "Bess Ventures & Advisory, LLC"
+   ],
+   "issuer": "Blaize Holdings, Inc.",
+   "issuer_cik": "0001871638",
+   "ticker": "BZAI",
+   "group": "13D",
+   "cap": 85508833.00789905,
+   "cap_src": "yahoo",
+   "pct": 9.0,
+   "event_date": "09/16/2026"
+  },
+  "0001104659-26-108905": {
+   "acc": "0001104659-26-108905",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/879585/000110465926108905/0001104659-26-108905-index.htm",
+   "updated": "2026-09-18T15:28:20-04:00",
+   "filers": [
+    "PRIOR CORNELIUS B JR"
+   ],
+   "issuer": "ATN International, Inc.",
+   "issuer_cik": "0000879585",
+   "ticker": "ATNI",
+   "group": "13D",
+   "cap": 453320801.2107315,
+   "cap_src": "yahoo",
+   "pct": 28.19,
+   "event_date": "08/10/2026"
+  },
+  "0001493152-26-043321": {
+   "acc": "0001493152-26-043321",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/1872292/000149315226043321/0001493152-26-043321-index.htm",
+   "updated": "2026-09-18T15:27:45-04:00",
+   "filers": [
+    "O'CONNOR MICHAEL JOHN"
+   ],
+   "issuer": "Rainmaker Worldwide Inc.",
+   "issuer_cik": "0001872292",
+   "ticker": "RAKR",
+   "group": "13D",
+   "cap": 570025.638,
+   "cap_src": "yahoo",
+   "pct": 16.0,
+   "event_date": "01/02/2025"
+  },
+  "0000929638-26-003569": {
+   "acc": "0000929638-26-003569",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2097545/000092963826003569/0000929638-26-003569-index.htm",
+   "updated": "2026-09-18T13:29:30-04:00",
+   "filers": [
+    "BROWN BROTHERS HARRIMAN & CO"
+   ],
+   "issuer": "AMG BBH Asset-Backed Credit Fund, LLC",
+   "issuer_cik": "0002097545",
+   "ticker": null,
+   "group": "13D",
+   "cap": null,
+   "cap_src": null,
+   "pct": 66.23,
+   "event_date": "09/16/2026"
+  },
+  "0001104659-26-108753": {
+   "acc": "0001104659-26-108753",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/1412095/000110465926108753/0001104659-26-108753-index.htm",
+   "updated": "2026-09-18T09:00:10-04:00",
+   "filers": [
+    "JMD CORPORATE SERVICES Ltd"
+   ],
+   "issuer": "Troops, Inc. /Cayman Islands/",
+   "issuer_cik": "0001412095",
+   "ticker": "TROO",
+   "group": "13D",
+   "cap": 235769113.9724443,
+   "cap_src": "yahoo",
+   "pct": 14.7,
+   "event_date": "09/18/2026"
+  },
+  "0000912282-26-001297": {
+   "acc": "0000912282-26-001297",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1679628/000091228226001297/0000912282-26-001297-index.htm",
+   "updated": "2026-09-22T11:59:08-04:00",
+   "filers": [
+    "PharmAla Biotech Holdings Inc."
+   ],
+   "issuer": "JUPITER NEUROSCIENCES, INC.",
+   "issuer_cik": "0001679628",
+   "ticker": "JUNS",
+   "group": "13G",
+   "cap": 3955431.2832005024,
+   "cap_src": "yahoo",
+   "pct": 17.3,
+   "event_date": "08/20/2026"
+  },
+  "0001019432-26-000013": {
+   "acc": "0001019432-26-000013",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1123494/000101943226000013/0001019432-26-000013-index.htm",
+   "updated": "2026-09-22T10:21:00-04:00",
+   "filers": [
+    "Leviticus Partners LP"
+   ],
+   "issuer": "HARVARD BIOSCIENCE INC",
+   "issuer_cik": "0001123494",
+   "ticker": "HBIO",
+   "group": "13G",
+   "cap": 36008731.85537338,
+   "cap_src": "yahoo",
+   "pct": 5.2,
+   "event_date": "09/14/2026"
+  },
+  "0001493152-26-043674": {
+   "acc": "0001493152-26-043674",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2034400/000149315226043674/0001493152-26-043674-index.htm",
+   "updated": "2026-09-22T10:18:02-04:00",
+   "filers": [
+    "ARC Group Ltd"
+   ],
+   "issuer": "Black Titan Corp",
+   "issuer_cik": "0002034400",
+   "ticker": "BTTC",
+   "group": "13G",
+   "cap": 7663054.759980738,
+   "cap_src": "yahoo",
+   "pct": 18.26,
+   "event_date": "09/15/2026"
+  },
+  "0002155122-26-000001": {
+   "acc": "0002155122-26-000001",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1941029/000215512226000001/0002155122-26-000001-index.htm",
+   "updated": "2026-09-22T07:54:45-04:00",
+   "filers": [
+    "ADVANCE ON VENTURES Ltd"
+   ],
+   "issuer": "Advanced Biomed Inc.",
+   "issuer_cik": "0001941029",
+   "ticker": "ADVB",
+   "group": "13G",
+   "cap": 10953641.979071617,
+   "cap_src": "yahoo",
+   "pct": 7.5,
+   "event_date": "03/06/2025"
+  },
+  "0001738048-26-000071": {
+   "acc": "0001738048-26-000071",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1501697/000173804826000071/0001738048-26-000071-index.htm",
+   "updated": "2026-09-21T20:24:35-04:00",
+   "filers": [
+    "Venrock Healthcare Capital Partners III, L.P."
+   ],
+   "issuer": "X4 Pharmaceuticals, Inc",
+   "issuer_cik": "0001501697",
+   "ticker": "XFOR",
+   "group": "13G",
+   "cap": 339577590.0473149,
+   "cap_src": "yahoo",
+   "pct": 5.6,
+   "event_date": "09/14/2026"
+  },
+  "0000314984-26-000045": {
+   "acc": "0000314984-26-000045",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1501072/000031498426000045/0000314984-26-000045-index.htm",
+   "updated": "2026-09-21T17:38:46-04:00",
+   "filers": [
+    "THRIVENT FINANCIAL FOR LUTHERANS"
+   ],
+   "issuer": "RIVERNORTH OPPORTUNITIES FUND, INC.",
+   "issuer_cik": "0001501072",
+   "ticker": "RIV",
+   "group": "13G",
+   "cap": 290135398.2413082,
+   "cap_src": "yahoo",
+   "pct": 24.7,
+   "event_date": "09/18/2026"
+  },
+  "0002156260-26-000001": {
+   "acc": "0002156260-26-000001",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1680637/000215626026000001/0002156260-26-000001-index.htm",
+   "updated": "2026-09-21T16:13:46-04:00",
+   "filers": [
+    "Wagner Menachem"
+   ],
+   "issuer": "Nuran Wireless Inc.",
+   "issuer_cik": "0001680637",
+   "ticker": "NUR",
+   "group": "13G",
+   "cap": 16361428.125834465,
+   "cap_src": "yahoo",
+   "pct": 9.9,
+   "event_date": "06/30/2026"
+  },
+  "0001231919-26-001199": {
+   "acc": "0001231919-26-001199",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1557746/000123191926001199/0001231919-26-001199-index.htm",
+   "updated": "2026-09-21T16:09:33-04:00",
+   "filers": [
+    "Frazier Life Sciences Public Fund, L.P."
+   ],
+   "issuer": "Aclaris Therapeutics, Inc.",
+   "issuer_cik": "0001557746",
+   "ticker": "ACRS",
+   "group": "13G",
+   "cap": 819161847.9677882,
+   "cap_src": "yahoo",
+   "pct": 5.4,
+   "event_date": "09/14/2026"
+  },
+  "0000905148-26-004240": {
+   "acc": "0000905148-26-004240",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1448397/000090514826004240/0000905148-26-004240-index.htm",
+   "updated": "2026-09-21T16:08:35-04:00",
+   "filers": [
+    "Konstantakopoulos Konstantinos"
+   ],
+   "issuer": "Seanergy Maritime Holdings Corp.",
+   "issuer_cik": "0001448397",
+   "ticker": "SHIP",
+   "group": "13G",
+   "cap": 394794552.6816292,
+   "cap_src": "yahoo",
+   "pct": 4.9,
+   "event_date": "09/18/2026"
+  },
+  "0000912282-26-001290": {
+   "acc": "0000912282-26-001290",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2109823/000091228226001290/0000912282-26-001290-index.htm",
+   "updated": "2026-09-21T14:59:20-04:00",
+   "filers": [
+    "MMCAP International Inc. SPC"
+   ],
+   "issuer": "Leader's Advantage Acquisition Corp.",
+   "issuer_cik": "0002109823",
+   "ticker": "LEDR",
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 8.6,
+   "event_date": "09/18/2026"
+  },
+  "0000912282-26-001288": {
+   "acc": "0000912282-26-001288",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2111838/000091228226001288/0000912282-26-001288-index.htm",
+   "updated": "2026-09-21T14:52:22-04:00",
+   "filers": [
+    "MMCAP International Inc. SPC"
+   ],
+   "issuer": "Haymaker Acquisition Corp V",
+   "issuer_cik": "0002111838",
+   "ticker": "HYAC",
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 8.8,
+   "event_date": "09/17/2026"
+  },
+  "0001193125-26-396331": {
+   "acc": "0001193125-26-396331",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2054992/000119312526396331/0001193125-26-396331-index.htm",
+   "updated": "2026-09-21T11:47:24-04:00",
+   "filers": [
+    "LVIP GLOBAL GROWTH ALLOCATION MANAGED RISK FUND"
+   ],
+   "issuer": "Lincoln Bain Capital Total Credit Fund",
+   "issuer_cik": "0002054992",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 28.85,
+   "event_date": "09/17/2026"
+  },
+  "0001732748-26-000003": {
+   "acc": "0001732748-26-000003",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1785530/000173274826000003/0001732748-26-000003-index.htm",
+   "updated": "2026-09-21T11:11:41-04:00",
+   "filers": [
+    "MOLL PETER"
+   ],
+   "issuer": "Werewolf Therapeutics, Inc.",
+   "issuer_cik": "0001785530",
+   "ticker": "HOWL",
+   "group": "13G",
+   "cap": 48117936.51652646,
+   "cap_src": "yahoo",
+   "pct": 5.2,
+   "event_date": "09/18/2026"
+  },
+  "0001213900-26-101572": {
+   "acc": "0001213900-26-101572",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1357671/000121390026101572/0001213900-26-101572-index.htm",
+   "updated": "2026-09-18T20:41:05-04:00",
+   "filers": [
+    "Castaldo Gregory"
+   ],
+   "issuer": "Creatd, Inc.",
+   "issuer_cik": "0001357671",
+   "ticker": "CRTD",
+   "group": "13G",
+   "cap": 9419919.75,
+   "cap_src": "yahoo",
+   "pct": 9.61,
+   "event_date": "09/09/2026"
+  },
+  "0001199835-26-000344": {
+   "acc": "0001199835-26-000344",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1424958/000119983526000344/0001199835-26-000344-index.htm",
+   "updated": "2026-09-18T20:13:33-04:00",
+   "filers": [
+    "Rao Upender V."
+   ],
+   "issuer": "Direxion Shares ETF Trust",
+   "issuer_cik": "0001424958",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 11.0,
+   "event_date": "09/17/2026"
+  },
+  "0001199835-26-000342": {
+   "acc": "0001199835-26-000342",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1424958/000119983526000342/0001199835-26-000342-index.htm",
+   "updated": "2026-09-18T20:11:46-04:00",
+   "filers": [
+    "Rao Upender V."
+   ],
+   "issuer": "Direxion Shares ETF Trust",
+   "issuer_cik": "0001424958",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 13.8,
+   "event_date": "09/14/2026"
+  },
+  "0001104659-26-108977": {
+   "acc": "0001104659-26-108977",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1925283/000110465926108977/0001104659-26-108977-index.htm",
+   "updated": "2026-09-18T17:14:34-04:00",
+   "filers": [
+    "MILLENNIUM MANAGEMENT LLC"
+   ],
+   "issuer": "Lincoln International, Inc.",
+   "issuer_cik": "0001925283",
+   "ticker": "LCLN",
+   "group": "13G",
+   "cap": 814547970.5,
+   "cap_src": "yahoo",
+   "pct": 5.6,
+   "event_date": "09/14/2026"
+  },
+  "0001493152-26-043377": {
+   "acc": "0001493152-26-043377",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1506492/000149315226043377/0001493152-26-043377-index.htm",
+   "updated": "2026-09-18T17:00:01-04:00",
+   "filers": [
+    "Orca Capital AG"
+   ],
+   "issuer": "Nuwellis, Inc.",
+   "issuer_cik": "0001506492",
+   "ticker": "NUWE",
+   "group": "13G",
+   "cap": 2643298.994439125,
+   "cap_src": "yahoo",
+   "pct": 4.9,
+   "event_date": "09/17/2026"
+  },
+  "0001493152-26-043375": {
+   "acc": "0001493152-26-043375",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2028707/000149315226043375/0001493152-26-043375-index.htm",
+   "updated": "2026-09-18T17:00:01-04:00",
+   "filers": [
+    "FR Capital Holdings, L.P."
+   ],
+   "issuer": "Merlin, Inc.",
+   "issuer_cik": "0002028707",
+   "ticker": "MRLN",
+   "group": "13G",
+   "cap": 188491418.1238575,
+   "cap_src": "yahoo",
+   "pct": 1.0,
+   "event_date": "09/16/2026"
+  },
+  "0000921895-26-002587": {
+   "acc": "0000921895-26-002587",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1653087/000092189526002587/0000921895-26-002587-index.htm",
+   "updated": "2026-09-18T16:57:12-04:00",
+   "filers": [
+    "BIOTECHNOLOGY VALUE FUND L P"
+   ],
+   "issuer": "Alector, Inc.",
+   "issuer_cik": "0001653087",
+   "ticker": "ALEC",
+   "group": "13G",
+   "cap": 220522417.6871084,
+   "cap_src": "yahoo",
+   "pct": 8.4,
+   "event_date": "09/11/2026"
+  },
+  "0001595888-26-000117": {
+   "acc": "0001595888-26-000117",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1892292/000159588826000117/0001595888-26-000117-index.htm",
+   "updated": "2026-09-18T16:18:53-04:00",
+   "filers": [
+    "JANE STREET GROUP, LLC"
+   ],
+   "issuer": "Maison Solutions Inc.",
+   "issuer_cik": "0001892292",
+   "ticker": "MSS",
+   "group": "13G",
+   "cap": 1366746.2756615877,
+   "cap_src": "yahoo",
+   "pct": 5.3,
+   "event_date": "09/14/2026"
+  },
+  "0002103370-26-000003": {
+   "acc": "0002103370-26-000003",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1534525/000210337026000003/0002103370-26-000003-index.htm",
+   "updated": "2026-09-18T14:35:35-04:00",
+   "filers": [
+    "MJL Manager LLC"
+   ],
+   "issuer": "Xenetic Biosciences, Inc.",
+   "issuer_cik": "0001534525",
+   "ticker": "XBIO",
+   "group": "13G",
+   "cap": 5707754.534436464,
+   "cap_src": "yahoo",
+   "pct": 0.0,
+   "event_date": "09/16/2026"
+  },
+  "0002058451-26-000002": {
+   "acc": "0002058451-26-000002",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/65770/000205845126000002/0002058451-26-000002-index.htm",
+   "updated": "2026-09-18T13:32:50-04:00",
+   "filers": [
+    "Gnauck Johannes"
+   ],
+   "issuer": "MICROVISION, INC.",
+   "issuer_cik": "0000065770",
+   "ticker": "MVIS",
+   "group": "13G",
+   "cap": 51236327.31640983,
+   "cap_src": "yahoo",
+   "pct": 7.9,
+   "event_date": "09/16/2026"
+  },
+  "0001213900-26-101301": {
+   "acc": "0001213900-26-101301",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1357671/000121390026101301/0001213900-26-101301-index.htm",
+   "updated": "2026-09-18T13:09:06-04:00",
+   "filers": [
+    "SEG Opportunity Fund, LLC"
+   ],
+   "issuer": "Creatd, Inc.",
+   "issuer_cik": "0001357671",
+   "ticker": "CRTD",
+   "group": "13G",
+   "cap": 9419919.75,
+   "cap_src": "yahoo",
+   "pct": 6.53,
+   "event_date": "09/09/2026"
+  },
+  "0001213900-26-101297": {
+   "acc": "0001213900-26-101297",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1357671/000121390026101297/0001213900-26-101297-index.htm",
+   "updated": "2026-09-18T13:00:35-04:00",
+   "filers": [
+    "Reda Joseph"
+   ],
+   "issuer": "Creatd, Inc.",
+   "issuer_cik": "0001357671",
+   "ticker": "CRTD",
+   "group": "13G",
+   "cap": 9419919.75,
+   "cap_src": "yahoo",
+   "pct": 9.45,
+   "event_date": "09/09/2026"
+  },
+  "0001820959-26-000001": {
+   "acc": "0001820959-26-000001",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1819253/000182095926000001/0001820959-26-000001-index.htm",
+   "updated": "2026-09-18T09:03:56-04:00",
+   "filers": [
+    "AGARWAL AMIT MOHAN"
+   ],
+   "issuer": "biote Corp.",
+   "issuer_cik": "0001819253",
+   "ticker": "BTMD",
+   "group": "13G",
+   "cap": 38284582.4089632,
+   "cap_src": "yahoo",
+   "pct": 8.4,
+   "event_date": "09/10/2026"
+  }
+ },
+ "seen": {
+  "0001104659-26-109479": "2026-09-22T15:59:28.623895+00:00",
+  "0000902664-26-003894": "2026-09-22T15:59:28.623895+00:00",
+  "0000905148-26-004248": "2026-09-22T15:59:28.623895+00:00",
+  "0001193125-26-397073": "2026-09-22T15:59:28.623895+00:00",
+  "0002107788-26-000008": "2026-09-22T15:59:28.623895+00:00",
+  "0001193125-26-397057": "2026-09-22T15:59:28.623895+00:00",
+  "0001213900-26-101887": "2026-09-22T15:59:28.623895+00:00",
+  "0000905148-26-004247": "2026-09-22T15:59:28.623895+00:00",
+  "0001346824-26-000239": "2026-09-22T15:59:28.623895+00:00",
+  "0001213900-26-101879": "2026-09-22T15:59:28.623895+00:00",
+  "0000919574-26-006414": "2026-09-22T15:59:28.623895+00:00",
+  "0000921895-26-002614": "2026-09-22T15:59:28.623895+00:00",
+  "0001493152-26-043601": "2026-09-22T15:59:28.623895+00:00",
+  "0000921895-26-002607": "2026-09-22T15:59:28.623895+00:00",
+  "0002152025-26-000004": "2026-09-22T15:59:28.623895+00:00",
+  "0001104659-26-109332": "2026-09-22T15:59:28.623895+00:00",
+  "0001104659-26-109328": "2026-09-22T15:59:28.623895+00:00",
+  "0001104659-26-109327": "2026-09-22T15:59:28.623895+00:00",
+  "0000902664-26-003887": "2026-09-22T15:59:28.623895+00:00",
+  "0000921895-26-002598": "2026-09-22T15:59:28.623895+00:00",
+  "0001171843-26-006133": "2026-09-22T15:59:28.623895+00:00",
+  "0001104659-26-109294": "2026-09-22T15:59:28.623895+00:00",
+  "0002146263-26-000004": "2026-09-22T15:59:28.623895+00:00",
+  "0001062993-26-005029": "2026-09-22T15:59:28.623895+00:00",
+  "0001493152-26-043552": "2026-09-22T15:59:28.623895+00:00",
+  "0001213900-26-101765": "2026-09-22T15:59:28.623895+00:00",
+  "0001193125-26-396333": "2026-09-22T15:59:28.623895+00:00",
+  "0001135423-26-000003": "2026-09-22T15:59:28.623895+00:00",
+  "0001493152-26-043480": "2026-09-22T15:59:28.623895+00:00",
+  "0001193125-26-395888": "2026-09-22T15:59:28.623895+00:00",
+  "0001493152-26-043448": "2026-09-22T15:59:28.623895+00:00",
+  "0001193125-26-395843": "2026-09-22T15:59:28.623895+00:00",
+  "0001213900-26-101561": "2026-09-22T15:59:28.623895+00:00",
+  "0001193125-26-395732": "2026-09-22T15:59:28.623895+00:00",
+  "0001493152-26-043373": "2026-09-22T15:59:28.623895+00:00",
+  "0001944761-26-000004": "2026-09-22T15:59:28.623895+00:00",
+  "0001140361-26-037143": "2026-09-22T15:59:28.623895+00:00",
+  "0001477932-26-005699": "2026-09-22T15:59:28.623895+00:00",
+  "0001140361-26-037105": "2026-09-22T15:59:28.623895+00:00",
+  "0000929638-26-003570": "2026-09-22T15:59:28.623895+00:00",
+  "0001213900-26-101399": "2026-09-22T15:59:28.623895+00:00",
+  "0001104659-26-108905": "2026-09-22T15:59:28.623895+00:00",
+  "0001493152-26-043321": "2026-09-22T15:59:28.623895+00:00",
+  "0000929638-26-003569": "2026-09-22T15:59:28.623895+00:00",
+  "0001104659-26-108753": "2026-09-22T15:59:28.623895+00:00",
+  "0001193125-26-395000": "2026-09-22T15:59:28.623895+00:00",
+  "0000912282-26-001297": "2026-09-22T15:59:28.623895+00:00",
+  "0001019432-26-000013": "2026-09-22T15:59:28.623895+00:00",
+  "0001493152-26-043674": "2026-09-22T15:59:28.623895+00:00",
+  "0002155122-26-000001": "2026-09-22T15:59:28.623895+00:00",
+  "0001738048-26-000071": "2026-09-22T15:59:28.623895+00:00",
+  "0000947871-26-000879": "2026-09-22T15:59:28.623895+00:00",
+  "0000314984-26-000045": "2026-09-22T15:59:28.623895+00:00",
+  "0000921895-26-002613": "2026-09-22T15:59:28.623895+00:00",
+  "0002156260-26-000001": "2026-09-22T15:59:28.623895+00:00",
+  "0001231919-26-001199": "2026-09-22T15:59:28.623895+00:00",
+  "0000905148-26-004240": "2026-09-22T15:59:28.623895+00:00",
+  "0001213900-26-101798": "2026-09-22T15:59:28.623895+00:00",
+  "0001096906-26-001396": "2026-09-22T15:59:28.623895+00:00",
+  "0000912282-26-001290": "2026-09-22T15:59:28.623895+00:00",
+  "0000912282-26-001288": "2026-09-22T15:59:28.623895+00:00",
+  "0001193125-26-396331": "2026-09-22T15:59:28.623895+00:00",
+  "0001732748-26-000003": "2026-09-22T15:59:28.623895+00:00",
+  "0001213900-26-101572": "2026-09-22T15:59:28.623895+00:00",
+  "0001199835-26-000344": "2026-09-22T15:59:28.623895+00:00",
+  "0001199835-26-000342": "2026-09-22T15:59:28.623895+00:00",
+  "0000950142-26-002568": "2026-09-22T15:59:28.623895+00:00",
+  "0001104659-26-108977": "2026-09-22T15:59:28.623895+00:00",
+  "0001493152-26-043377": "2026-09-22T15:59:28.623895+00:00",
+  "0001493152-26-043375": "2026-09-22T15:59:28.623895+00:00",
+  "0001985479-26-000024": "2026-09-22T15:59:28.623895+00:00",
+  "0001985479-26-000022": "2026-09-22T15:59:28.623895+00:00",
+  "0000921895-26-002587": "2026-09-22T15:59:28.623895+00:00",
+  "0001595888-26-000117": "2026-09-22T15:59:28.623895+00:00",
+  "0002103370-26-000003": "2026-09-22T15:59:28.623895+00:00",
+  "0002058451-26-000002": "2026-09-22T15:59:28.623895+00:00",
+  "0001213900-26-101301": "2026-09-22T15:59:28.623895+00:00",
+  "0001213900-26-101297": "2026-09-22T15:59:28.623895+00:00",
+  "0001820959-26-000001": "2026-09-22T15:59:28.623895+00:00"
+ },
+ "caps": {
+  "0001677250": {
+   "cap": 14898372569.25026,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0000812011": {
+   "cap": 4980498081.262848,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001031203": {
+   "cap": 2995935840.205765,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001472091": {
+   "cap": 65110829.096162796,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001951667": {
+   "cap": 131746.61040592566,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001956439": {
+   "cap": 201393743.53032267,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001057060": {
+   "cap": 1158228353.0684853,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001692787": {
+   "cap": 4339860150.222576,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0002036042": {
+   "cap": 264431935.16192436,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0002085659": {
+   "cap": 296728020.76448345,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001737706": {
+   "cap": 2954145098.2772675,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001772720": {
+   "cap": 38023067.80900788,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001872292": {
+   "cap": 570025.638,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001326380": {
+   "cap": 11984420594.05592,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001095565": {
+   "cap": 888963506.1221237,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0000084839": {
+   "cap": 15851335187.946075,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0000742278": {
+   "cap": 1293368673.475544,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001638290": {
+   "cap": 487030819.2808399,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0000807882": {
+   "cap": 259935243.7956848,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001482541": {
+   "cap": 257336562.5,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001296484": {
+   "cap": 7113281.879786491,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001436126": {
+   "cap": 670978996.1047363,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001419275": {
+   "cap": 136255732.40355492,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001864843": {
+   "cap": 1438809075.9326591,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001653558": {
+   "cap": 643695670.747705,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0002054992": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001987342": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001866816": {
+   "cap": 292431923.4993324,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001749723": {
+   "cap": 45987179.73960972,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0002076163": {
+   "cap": 359664170.25,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001568651": {
+   "cap": 9270152527.90451,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0002112446": {
+   "cap": 95159998.51226807,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0002013320": {
+   "cap": 6113164.645195007,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0000931148": {
+   "cap": 290734548.1391258,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001001250": {
+   "cap": 35687810428.05568,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001437925": {
+   "cap": 173338110.48674297,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001803958": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0000924805": {
+   "cap": 11171134258.043213,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001871638": {
+   "cap": 85508833.00789905,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0000879585": {
+   "cap": 453320801.2107315,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0002097545": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001412095": {
+   "cap": 235769113.9724443,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001381640": {
+   "cap": 1823270311.0953197,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001679628": {
+   "cap": 3955431.2832005024,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001123494": {
+   "cap": 36008731.85537338,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0002034400": {
+   "cap": 7663054.759980738,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001941029": {
+   "cap": 10953641.979071617,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001501697": {
+   "cap": 339577590.0473149,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001501072": {
+   "cap": 290135398.2413082,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001863127": {
+   "cap": 1752588869.3730145,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001680637": {
+   "cap": 16361428.125834465,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001557746": {
+   "cap": 819161847.9677882,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001448397": {
+   "cap": 394794552.6816292,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001828962": {
+   "cap": 1189644246.9264832,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0002093536": {
+   "cap": 22043229773.54329,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0002109823": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0002111838": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001785530": {
+   "cap": 48117936.51652646,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001357671": {
+   "cap": 9419919.75,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001424958": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001755237": {
+   "cap": 1480096312.5,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001925283": {
+   "cap": 814547970.5,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001506492": {
+   "cap": 2643298.994439125,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0002028707": {
+   "cap": 188491418.1238575,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0002078416": {
+   "cap": 8775012736.0,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001653087": {
+   "cap": 220522417.6871084,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001892292": {
+   "cap": 1366746.2756615877,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001534525": {
+   "cap": 5707754.534436464,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0000065770": {
+   "cap": 51236327.31640983,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  },
+  "0001819253": {
+   "cap": 38284582.4089632,
+   "src": "yahoo",
+   "checked": "2026-09-22T15:59:28.623895+00:00"
+  }
+ }
+}
