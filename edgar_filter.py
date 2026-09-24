@@ -15,6 +15,13 @@ obscure slips past.
 Settings come from environment variables (set them in GitHub, see the guide):
     SEC_USER_AGENT   required by the SEC, e.g. "Kyle Smith kyle@gmail.com"
     MAX_MARKET_CAP   cutoff in dollars, default 500000000 ($500M)
+
+New 13Ds from a filer that previously reported the same stake on a 13G are
+tagged "[13G→13D]". Two checks, either one is enough:
+    1. the filer ticked the "previously filed on Schedule 13G" box on the
+       13D cover page (previouslyFiledFlag in the XML), or
+    2. EDGAR shows a 13G from the same filer on the same issuer in the last
+       CONVERSION_LOOKBACK_YEARS years (backstop for filers who skip the box).
 """
 
 import json
@@ -35,6 +42,7 @@ PAGES_PER_FORM = 5          # 5 pages x 100 = up to 500 recent filings per form
 KEEP_DAYS = 45              # how long a filing stays in the feed
 CAP_CACHE_DAYS = 5          # re-check a company's market cap after this many days
 FEED_BASE = os.environ.get("FEED_BASE_URL", "")  # optional, for <link> tags
+CONVERSION_LOOKBACK_YEARS = 3  # how far back to look for an earlier 13G
 
 ROOT = Path(__file__).parent
 STATE_FILE = ROOT / "data" / "state.json"
@@ -121,7 +129,7 @@ def group_by_filing(entries):
     for e in entries:
         f = filings.setdefault(e["acc"], {"acc": e["acc"], "form": e["form"],
                                           "link": e["link"], "updated": e["updated"],
-                                          "filers": []})
+                                          "filers": [], "filer_ciks": []})
         if e["role"].lower().startswith("subject"):
             f["issuer"] = e["name"]
             f["issuer_cik"] = e["cik"]
@@ -129,6 +137,8 @@ def group_by_filing(entries):
         else:
             if e["name"] not in f["filers"]:
                 f["filers"].append(e["name"])
+            if e["cik"] not in f["filer_ciks"]:
+                f["filer_ciks"].append(e["cik"])
     # Only keep filings where we've seen the issuer entry; the rest get
     # picked up on a later run once the issuer entry shows up.
     return {k: v for k, v in filings.items() if "issuer_cik" in v}
@@ -182,13 +192,15 @@ def filing_details(cik, acc):
         root = ET.fromstring(sec_get(url))
     except Exception:  # noqa: BLE001
         return {}
-    pct, event = [], None
+    pct, event, prev_13g = [], None, False
     for el in root.iter():
         tag = el.tag.split("}")[-1].lower()
         text = (el.text or "").strip()
         if not text:
             continue
-        if "percent" in tag:
+        if tag == "previouslyfiledflag":
+            prev_13g = text.lower() in ("true", "y", "yes", "1")
+        elif "percent" in tag:
             try:
                 pct.append(float(text.replace("%", "")))
             except ValueError:
@@ -200,13 +212,46 @@ def filing_details(cik, acc):
         out["pct"] = max(pct)
     if event:
         out["event_date"] = event
+    if prev_13g:
+        out["prev_13g_box"] = True
     return out
+
+
+def recent_filings(cik):
+    """Accession number -> (form, filing date) from EDGAR's submissions API.
+    For an issuer this includes 13D/13G filings other people made about it."""
+    try:
+        data = json.loads(sec_get(f"https://data.sec.gov/submissions/CIK{cik}.json"))
+        r = data["filings"]["recent"]
+        return {a: (f, d) for a, f, d in zip(r["accessionNumber"], r["form"], r["filingDate"])}
+    except Exception:  # noqa: BLE001
+        return {}
+
+
+def had_prior_13g(issuer_cik, filer_ciks, acc, filed_on):
+    """Backstop: did any of this filing's filers file a 13G on this issuer
+    recently? Match accession numbers present in both the issuer's and the
+    filer's EDGAR histories."""
+    if not filer_ciks:
+        return False
+    since = (filed_on - timedelta(days=365 * CONVERSION_LOOKBACK_YEARS)).strftime("%Y-%m-%d")
+    before = filed_on.strftime("%Y-%m-%d")
+    issuer_13g = {a for a, (form, d) in recent_filings(issuer_cik).items()
+                  if "13G" in form and since <= d <= before and a != acc}
+    if not issuer_13g:
+        return False
+    for fc in filer_ciks:
+        if issuer_13g & set(recent_filings(fc)):
+            return True
+    return False
 
 
 # ----------------------------------------------------------------- output
 def item_title(f):
     tick = f" ({f['ticker']})" if f.get("ticker") else ""
     prefix = "[Cap unknown] " if f.get("cap") is None else ""
+    if f.get("converted"):
+        prefix = "[13G→13D] " + prefix
     pct = f" · {f['pct']:g}%" if f.get("pct") is not None else ""
     filer = f" · by {f['filers'][0]}" if f.get("filers") else ""
     return f"{prefix}{f['form']} — {f['issuer']}{tick} · {fmt_cap(f.get('cap'))}{pct}{filer}"
@@ -220,6 +265,10 @@ def item_body(f):
         ("Filed by", ", ".join(f.get("filers") or ["—"])),
         ("% of class", f"{f['pct']:g}%" if f.get("pct") is not None else "—"),
         ("Event date", f.get("event_date") or "—"),
+        ("Converted from 13G", {"box": "Yes (cover-page box ticked)",
+                                "history": "Yes (earlier 13G on EDGAR; box not ticked)",
+                                "both": "Yes (box ticked and earlier 13G on EDGAR)"}
+                               .get(f.get("converted"), "—")),
         ("Accession", f["acc"]),
     ]
     html = "".join(f"<tr><td><b>{escape(k)}</b></td><td>{escape(str(v))}</td></tr>" for k, v in rows)
@@ -255,10 +304,11 @@ def write_rss(path, title, items):
 def write_index(path, items):
     rows = []
     for f in items:
+        conv = f.get("converted")
         rows.append(
-            "<tr>"
+            ("<tr class=conv>" if conv else "<tr>") +
             f"<td>{escape(f['updated'][:10])}</td>"
-            f"<td>{escape(f['form'])}</td>"
+            f"<td>{escape(f['form'])}{' <b>13G→13D</b>' if conv else ''}</td>"
             f"<td><a href=\"{escape(f['link'])}\">{escape(f['issuer'])}</a></td>"
             f"<td>{escape(f.get('ticker') or '')}</td>"
             f"<td class=n>{escape(fmt_cap(f.get('cap')))}</td>"
@@ -273,9 +323,10 @@ def write_index(path, items):
 body{{font:14px -apple-system,Segoe UI,sans-serif;margin:24px;color:#222}}
 table{{border-collapse:collapse;width:100%}} td,th{{padding:6px 8px;border-bottom:1px solid #eee;text-align:left}}
 th{{background:#f6f6f6}} .n{{text-align:right;white-space:nowrap}} .wrap{{overflow-x:auto}}
+tr.conv td{{background:#fff4d6}}
 </style></head><body>
 <h2>Small-cap 13D / 13G filings (under {fmt_cap(MAX_CAP)})</h2>
-<p>Updated {stamp} · RSS: <a href="13d.xml">13D</a> · <a href="13g.xml">13G</a></p>
+<p>Updated {stamp} · RSS: <a href="13d.xml">13D</a> · <a href="13g.xml">13G</a> · highlighted rows = filer switched from 13G to 13D</p>
 <div class="wrap"><table><tr><th>Filed</th><th>Form</th><th>Issuer</th><th>Ticker</th>
 <th class=n>Size</th><th class=n>% class</th><th>Filed by</th></tr>
 {''.join(rows)}</table></div></body></html>""", encoding="utf-8")
@@ -326,6 +377,20 @@ def main():
 
             f["cap"], f["cap_src"] = cap, src
             f.update(filing_details(cik, f["acc"]))
+
+            # 13G -> 13D check, original 13Ds only (amendments repeat the box)
+            if f["form"].upper() == "SCHEDULE 13D":
+                try:
+                    filed_on = datetime.fromisoformat(f["updated"])
+                except Exception:  # noqa: BLE001
+                    filed_on = now
+                box = f.pop("prev_13g_box", False)
+                hist = had_prior_13g(cik, f.get("filer_ciks"), f["acc"], filed_on)
+                if box or hist:
+                    f["converted"] = "both" if box and hist else ("box" if box else "history")
+            else:
+                f.pop("prev_13g_box", None)
+
             kept[f["acc"]] = f
             print(f"  + {item_title(f)}")
 
@@ -347,3 +412,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
