@@ -23,7 +23,24 @@ jobs:
       - run: pip install -r requirements.txt
  
       - name: Build feeds
-        run: python edgar_filter.py
+        run: |
+          # SEC endpoints can occasionally time out while reading a response.
+          # The script already retries individual requests; retry the complete
+          # build as a final safeguard so one transient SEC outage does not
+          # fail the scheduled workflow.
+          for attempt in 1 2 3; do
+            echo "Build attempt ${attempt}/3"
+            if python edgar_filter.py; then
+              exit 0
+            fi
+            if [ "${attempt}" -lt 3 ]; then
+              delay=$((attempt * 30))
+              echo "Build failed; retrying in ${delay}s..."
+              sleep "${delay}"
+            fi
+          done
+          echo "Feed build failed after 3 attempts."
+          exit 1
         env:
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
           MAX_MARKET_CAP: ${{ vars.MAX_MARKET_CAP }}
