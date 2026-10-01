@@ -4020,6 +4020,406 @@
    "cap_src": "yahoo",
    "pct": 11.6,
    "event_date": "03/31/2026"
+  },
+  "0001193125-26-410420": {
+   "acc": "0001193125-26-410420",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2097545/000119312526410420/0001193125-26-410420-index.htm",
+   "updated": "2026-10-01T14:14:00-04:00",
+   "filers": [
+    "AMG New York Holdings Corp."
+   ],
+   "filer_ciks": [
+    "0002073844"
+   ],
+   "issuer": "AMG BBH Asset-Backed Credit Fund, LLC",
+   "issuer_cik": "0002097545",
+   "ticker": null,
+   "group": "13D",
+   "cap": null,
+   "cap_src": null,
+   "pct": 35.3,
+   "event_date": "09/29/2026"
+  },
+  "0001072613-26-000808": {
+   "acc": "0001072613-26-000808",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1254370/000107261326000808/0001072613-26-000808-index.htm",
+   "updated": "2026-10-01T13:44:48-04:00",
+   "filers": [
+    "Karpus Management, Inc."
+   ],
+   "filer_ciks": [
+    "0001048703"
+   ],
+   "issuer": "WESTERN ASSET INFLATION-LINKED INCOME FUND",
+   "issuer_cik": "0001254370",
+   "ticker": "WIA",
+   "group": "13D",
+   "cap": 178881712.969347,
+   "cap_src": "yahoo",
+   "pct": 38.14,
+   "event_date": "09/29/2026"
+  },
+  "0002096493-26-000005": {
+   "acc": "0002096493-26-000005",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/1840416/000209649326000005/0002096493-26-000005-index.htm",
+   "updated": "2026-10-01T13:25:27-04:00",
+   "filers": [
+    "Alpine Fox Capital LLC"
+   ],
+   "filer_ciks": [
+    "0002096493"
+   ],
+   "issuer": "Sono Group N.V.",
+   "issuer_cik": "0001840416",
+   "ticker": "SSM",
+   "group": "13D",
+   "cap": 2841778.043818474,
+   "cap_src": "yahoo",
+   "pct": 21.5,
+   "event_date": "09/28/2026"
+  },
+  "0001193125-26-410213": {
+   "acc": "0001193125-26-410213",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1034665/000119312526410213/0001193125-26-410213-index.htm",
+   "updated": "2026-10-01T11:59:23-04:00",
+   "filers": [
+    "JPMORGAN CHASE & CO"
+   ],
+   "filer_ciks": [
+    "0000019617"
+   ],
+   "issuer": "BLACKROCK MUNIHOLDINGS FUND, INC.",
+   "issuer_cik": "0001034665",
+   "ticker": "MHD",
+   "group": "13D",
+   "cap": 535233706.1414032,
+   "cap_src": "yahoo",
+   "pct": 100.0,
+   "event_date": "09/28/2026"
+  },
+  "0000769317-26-000028": {
+   "acc": "0000769317-26-000028",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/827773/000076931726000028/0000769317-26-000028-index.htm",
+   "updated": "2026-10-01T14:28:02-04:00",
+   "filers": [
+    "SIT INVESTMENT ASSOCIATES INC"
+   ],
+   "filer_ciks": [
+    "0000769317"
+   ],
+   "issuer": "FRANKLIN PREMIER INCOME TRUST",
+   "issuer_cik": "0000827773",
+   "ticker": "PPT",
+   "group": "13G",
+   "cap": 313461518.62579083,
+   "cap_src": "yahoo",
+   "pct": 30.9,
+   "event_date": "09/29/2026"
+  },
+  "0001033427-26-000012": {
+   "acc": "0001033427-26-000012",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1785424/000103342726000012/0001033427-26-000012-index.htm",
+   "updated": "2026-10-01T13:30:38-04:00",
+   "filers": [
+    "IRIDIAN ASSET MANAGEMENT LLC/CT"
+   ],
+   "filer_ciks": [
+    "0001033427"
+   ],
+   "issuer": "Katapult Holdings, Inc.",
+   "issuer_cik": "0001785424",
+   "ticker": "KPLT",
+   "group": "13G",
+   "cap": 382669257.4704075,
+   "cap_src": "yahoo",
+   "pct": 1.1,
+   "event_date": "09/18/2026"
+  },
+  "0001193125-26-410335": {
+   "acc": "0001193125-26-410335",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1987221/000119312526410335/0001193125-26-410335-index.htm",
+   "updated": "2026-10-01T13:18:32-04:00",
+   "filers": [
+    "Manulife (International) Ltd"
+   ],
+   "filer_ciks": [
+    "0001765518"
+   ],
+   "issuer": "John Hancock Comvest Private Income Fund",
+   "issuer_cik": "0001987221",
+   "ticker": null,
+   "group": "13G",
+   "cap": 0.0,
+   "cap_src": "float",
+   "pct": 5.0,
+   "event_date": "09/30/2026"
+  },
+  "0001193125-26-410322": {
+   "acc": "0001193125-26-410322",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1987221/000119312526410322/0001193125-26-410322-index.htm",
+   "updated": "2026-10-01T13:14:23-04:00",
+   "filers": [
+    "Manulife Private Credit Plus Fund"
+   ],
+   "filer_ciks": [
+    "0001988855"
+   ],
+   "issuer": "John Hancock Comvest Private Income Fund",
+   "issuer_cik": "0001987221",
+   "ticker": null,
+   "group": "13G",
+   "cap": 0.0,
+   "cap_src": "float",
+   "pct": 23.0,
+   "event_date": "09/30/2026"
+  },
+  "0001193125-26-410298": {
+   "acc": "0001193125-26-410298",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2098410/000119312526410298/0001193125-26-410298-index.htm",
+   "updated": "2026-10-01T12:49:47-04:00",
+   "filers": [
+    "Linden Capital L.P."
+   ],
+   "filer_ciks": [
+    "0001349339"
+   ],
+   "issuer": "Bluerock Acquisition Corp. II",
+   "issuer_cik": "0002098410",
+   "ticker": "BRRK",
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 5.8,
+   "event_date": "09/29/2026"
+  },
+  "0002156110-26-000001": {
+   "acc": "0002156110-26-000001",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1771146/000215611026000001/0002156110-26-000001-index.htm",
+   "updated": "2026-10-01T12:44:43-04:00",
+   "filers": [
+    "Whitman Charles Thomas"
+   ],
+   "filer_ciks": [
+    "0002156110"
+   ],
+   "issuer": "ETF Opportunities Trust",
+   "issuer_cik": "0001771146",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 36.6,
+   "event_date": "06/30/2026"
+  },
+  "0002102021-26-000005": {
+   "acc": "0002102021-26-000005",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/7623/000210202126000005/0002102021-26-000005-index.htm",
+   "updated": "2026-10-01T12:37:59-04:00",
+   "filers": [
+    "Walther Larry M"
+   ],
+   "filer_ciks": [
+    "0002102021"
+   ],
+   "issuer": "ARTS WAY MANUFACTURING CO INC",
+   "issuer_cik": "0000007623",
+   "ticker": "ARTW",
+   "group": "13G",
+   "cap": 16072282.293561459,
+   "cap_src": "yahoo",
+   "pct": 9.8341,
+   "event_date": "09/30/2026"
+  },
+  "0000769317-26-000026": {
+   "acc": "0000769317-26-000026",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/830622/000076931726000026/0000769317-26-000026-index.htm",
+   "updated": "2026-10-01T12:26:55-04:00",
+   "filers": [
+    "SIT INVESTMENT ASSOCIATES INC"
+   ],
+   "filer_ciks": [
+    "0000769317"
+   ],
+   "issuer": "FRANKLIN MASTER INTERMEDIATE INCOME TRUST",
+   "issuer_cik": "0000830622",
+   "ticker": "PIM",
+   "group": "13G",
+   "cap": 145034865.95047832,
+   "cap_src": "yahoo",
+   "pct": 48.2,
+   "event_date": "09/29/2026"
+  },
+  "0000769317-26-000025": {
+   "acc": "0000769317-26-000025",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/826735/000076931726000025/0000769317-26-000025-index.htm",
+   "updated": "2026-10-01T12:25:48-04:00",
+   "filers": [
+    "SIT INVESTMENT ASSOCIATES INC"
+   ],
+   "filer_ciks": [
+    "0000769317"
+   ],
+   "issuer": "ABERDEEN INTERMEDIATE INCOME FUND",
+   "issuer_cik": "0000826735",
+   "ticker": "MIN",
+   "group": "13G",
+   "cap": 263442927.4815874,
+   "cap_src": "yahoo",
+   "pct": 31.1,
+   "event_date": "09/29/2026"
+  },
+  "0000769317-26-000024": {
+   "acc": "0000769317-26-000024",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/811922/000076931726000024/0000769317-26-000024-index.htm",
+   "updated": "2026-10-01T12:24:40-04:00",
+   "filers": [
+    "SIT INVESTMENT ASSOCIATES INC"
+   ],
+   "filer_ciks": [
+    "0000769317"
+   ],
+   "issuer": "ABERDEEN GOVERNMENT MARKETS INCOME FUND",
+   "issuer_cik": "0000811922",
+   "ticker": "MGF",
+   "group": "13G",
+   "cap": 88645325.8924129,
+   "cap_src": "yahoo",
+   "pct": 37.3,
+   "event_date": "09/29/2026"
+  },
+  "0000769317-26-000023": {
+   "acc": "0000769317-26-000023",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/839533/000076931726000023/0000769317-26-000023-index.htm",
+   "updated": "2026-10-01T12:22:24-04:00",
+   "filers": [
+    "SIT INVESTMENT ASSOCIATES INC"
+   ],
+   "filer_ciks": [
+    "0000769317"
+   ],
+   "issuer": "DWS MUNICIPAL INCOME TRUST",
+   "issuer_cik": "0000839533",
+   "ticker": "KTF",
+   "group": "13G",
+   "cap": 312207510.6412115,
+   "cap_src": "yahoo",
+   "pct": 22.9,
+   "event_date": "09/29/2026"
+  },
+  "0000769317-26-000022": {
+   "acc": "0000769317-26-000022",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1319183/000076931726000022/0000769317-26-000022-index.htm",
+   "updated": "2026-10-01T12:20:36-04:00",
+   "filers": [
+    "SIT INVESTMENT ASSOCIATES INC"
+   ],
+   "filer_ciks": [
+    "0000769317"
+   ],
+   "issuer": "FIRST TRUST MORTGAGE INCOME FUND",
+   "issuer_cik": "0001319183",
+   "ticker": "FMY",
+   "group": "13G",
+   "cap": 46466446.52431011,
+   "cap_src": "yahoo",
+   "pct": 55.1,
+   "event_date": "09/29/2026"
+  },
+  "0000769317-26-000021": {
+   "acc": "0000769317-26-000021",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1222922/000076931726000021/0000769317-26-000021-index.htm",
+   "updated": "2026-10-01T12:18:57-04:00",
+   "filers": [
+    "SIT INVESTMENT ASSOCIATES INC"
+   ],
+   "filer_ciks": [
+    "0000769317"
+   ],
+   "issuer": "Eaton Vance Ltd Duration Income Fund",
+   "issuer_cik": "0001222922",
+   "ticker": "EVV",
+   "group": "13G",
+   "cap": 976109019.6718979,
+   "cap_src": "yahoo",
+   "pct": 7.7,
+   "event_date": "09/29/2026"
+  },
+  "0000769317-26-000020": {
+   "acc": "0000769317-26-000020",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1287498/000076931726000020/0000769317-26-000020-index.htm",
+   "updated": "2026-10-01T12:16:45-04:00",
+   "filers": [
+    "SIT INVESTMENT ASSOCIATES INC"
+   ],
+   "filer_ciks": [
+    "0000769317"
+   ],
+   "issuer": "Eaton Vance Short Duration Diversified Income Fund",
+   "issuer_cik": "0001287498",
+   "ticker": "EVG",
+   "group": "13G",
+   "cap": 133627080.6867218,
+   "cap_src": "yahoo",
+   "pct": 5.8,
+   "event_date": "09/29/2026"
+  },
+  "0000899140-26-001079": {
+   "acc": "0000899140-26-001079",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1669779/000089914026001079/0000899140-26-001079-index.htm",
+   "updated": "2026-10-01T11:44:31-04:00",
+   "filers": [
+    "Wolf Hill Capital Management, LP"
+   ],
+   "filer_ciks": [
+    "0001785988"
+   ],
+   "issuer": "Camping World Holdings, Inc.",
+   "issuer_cik": "0001669779",
+   "ticker": "CWH",
+   "group": "13G",
+   "cap": 317544055.11289215,
+   "cap_src": "yahoo",
+   "pct": 7.7,
+   "event_date": "06/30/2026"
+  },
+  "0001557306-26-000003": {
+   "acc": "0001557306-26-000003",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1854445/000155730626000003/0001557306-26-000003-index.htm",
+   "updated": "2026-10-01T09:56:53-04:00",
+   "filers": [
+    "KRONSTADT ALLEN"
+   ],
+   "filer_ciks": [
+    "0001557306"
+   ],
+   "issuer": "Brightline Interactive, Inc./NV",
+   "issuer_cik": "0001854445",
+   "ticker": "BTLN",
+   "group": "13G",
+   "cap": 12951476.283669949,
+   "cap_src": "yahoo",
+   "pct": 7.9,
+   "event_date": "09/28/2026"
   }
  },
  "seen": {
@@ -4293,7 +4693,27 @@
   "0001104659-26-112558": "2026-10-01T13:27:02.237905+00:00",
   "0001193805-26-001309": "2026-10-01T13:27:02.237905+00:00",
   "0002052205-26-000008": "2026-10-01T13:27:02.237905+00:00",
-  "0002129337-26-000005": "2026-10-01T13:27:02.237905+00:00"
+  "0002129337-26-000005": "2026-10-01T13:27:02.237905+00:00",
+  "0001193125-26-410420": "2026-10-01T19:35:59.491976+00:00",
+  "0001072613-26-000808": "2026-10-01T19:35:59.491976+00:00",
+  "0002096493-26-000005": "2026-10-01T19:35:59.491976+00:00",
+  "0001193125-26-410213": "2026-10-01T19:35:59.491976+00:00",
+  "0000769317-26-000028": "2026-10-01T19:35:59.491976+00:00",
+  "0001033427-26-000012": "2026-10-01T19:35:59.491976+00:00",
+  "0001193125-26-410335": "2026-10-01T19:35:59.491976+00:00",
+  "0001193125-26-410322": "2026-10-01T19:35:59.491976+00:00",
+  "0001193125-26-410298": "2026-10-01T19:35:59.491976+00:00",
+  "0002156110-26-000001": "2026-10-01T19:35:59.491976+00:00",
+  "0002102021-26-000005": "2026-10-01T19:35:59.491976+00:00",
+  "0000769317-26-000026": "2026-10-01T19:35:59.491976+00:00",
+  "0000769317-26-000025": "2026-10-01T19:35:59.491976+00:00",
+  "0000769317-26-000024": "2026-10-01T19:35:59.491976+00:00",
+  "0000769317-26-000023": "2026-10-01T19:35:59.491976+00:00",
+  "0000769317-26-000022": "2026-10-01T19:35:59.491976+00:00",
+  "0000769317-26-000021": "2026-10-01T19:35:59.491976+00:00",
+  "0000769317-26-000020": "2026-10-01T19:35:59.491976+00:00",
+  "0000899140-26-001079": "2026-10-01T19:35:59.491976+00:00",
+  "0001557306-26-000003": "2026-10-01T19:35:59.491976+00:00"
  },
  "caps": {
   "0001677250": {
@@ -5410,6 +5830,86 @@
    "cap": 654947611.0814118,
    "src": "yahoo",
    "checked": "2026-10-01T13:27:02.237905+00:00"
+  },
+  "0001254370": {
+   "cap": 178881712.969347,
+   "src": "yahoo",
+   "checked": "2026-10-01T19:35:59.491976+00:00"
+  },
+  "0001840416": {
+   "cap": 2841778.043818474,
+   "src": "yahoo",
+   "checked": "2026-10-01T19:35:59.491976+00:00"
+  },
+  "0001034665": {
+   "cap": 535233706.1414032,
+   "src": "yahoo",
+   "checked": "2026-10-01T19:35:59.491976+00:00"
+  },
+  "0000827773": {
+   "cap": 313461518.62579083,
+   "src": "yahoo",
+   "checked": "2026-10-01T19:35:59.491976+00:00"
+  },
+  "0001785424": {
+   "cap": 382669257.4704075,
+   "src": "yahoo",
+   "checked": "2026-10-01T19:35:59.491976+00:00"
+  },
+  "0001987221": {
+   "cap": 0.0,
+   "src": "float",
+   "checked": "2026-10-01T19:35:59.491976+00:00"
+  },
+  "0002098410": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-01T19:35:59.491976+00:00"
+  },
+  "0001771146": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-01T19:35:59.491976+00:00"
+  },
+  "0000007623": {
+   "cap": 16072282.293561459,
+   "src": "yahoo",
+   "checked": "2026-10-01T19:35:59.491976+00:00"
+  },
+  "0000830622": {
+   "cap": 145034865.95047832,
+   "src": "yahoo",
+   "checked": "2026-10-01T19:35:59.491976+00:00"
+  },
+  "0000826735": {
+   "cap": 263442927.4815874,
+   "src": "yahoo",
+   "checked": "2026-10-01T19:35:59.491976+00:00"
+  },
+  "0000811922": {
+   "cap": 88645325.8924129,
+   "src": "yahoo",
+   "checked": "2026-10-01T19:35:59.491976+00:00"
+  },
+  "0001319183": {
+   "cap": 46466446.52431011,
+   "src": "yahoo",
+   "checked": "2026-10-01T19:35:59.491976+00:00"
+  },
+  "0001287498": {
+   "cap": 133627080.6867218,
+   "src": "yahoo",
+   "checked": "2026-10-01T19:35:59.491976+00:00"
+  },
+  "0001669779": {
+   "cap": 317544055.11289215,
+   "src": "yahoo",
+   "checked": "2026-10-01T19:35:59.491976+00:00"
+  },
+  "0001854445": {
+   "cap": 12951476.283669949,
+   "src": "yahoo",
+   "checked": "2026-10-01T19:35:59.491976+00:00"
   }
  }
 }
