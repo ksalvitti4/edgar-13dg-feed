@@ -5201,6 +5201,586 @@
    "cap_src": "yahoo",
    "pct": 0.0,
    "event_date": "08/19/2026"
+  },
+  "0001213900-26-106583": {
+   "acc": "0001213900-26-106583",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/2097702/000121390026106583/0001213900-26-106583-index.htm",
+   "updated": "2026-10-02T19:12:31-04:00",
+   "filers": [
+    "Hegro Well PTE. Ltd."
+   ],
+   "filer_ciks": [
+    "0002153905"
+   ],
+   "issuer": "GOWell Energy Technology",
+   "issuer_cik": "0002097702",
+   "ticker": "GOW",
+   "group": "13D",
+   "cap": 180884491.2510109,
+   "cap_src": "yahoo",
+   "pct": 74.0,
+   "event_date": "09/25/2026"
+  },
+  "0001140361-26-038446": {
+   "acc": "0001140361-26-038446",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/1351636/000114036126038446/0001140361-26-038446-index.htm",
+   "updated": "2026-10-02T17:34:00-04:00",
+   "filers": [
+    "LAUDER GARY M"
+   ],
+   "filer_ciks": [
+    "0001008088"
+   ],
+   "issuer": "SOUNDTHINKING, INC.",
+   "issuer_cik": "0001351636",
+   "ticker": "SSTI",
+   "group": "13D",
+   "cap": 110028660.27593994,
+   "cap_src": "yahoo",
+   "pct": 17.0,
+   "event_date": "09/28/2026"
+  },
+  "0000807249-26-000088": {
+   "acc": "0000807249-26-000088",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1099160/000080724926000088/0000807249-26-000088-index.htm",
+   "updated": "2026-10-02T17:29:57-04:00",
+   "filers": [
+    "GAMCO INVESTORS, INC. ET AL"
+   ],
+   "filer_ciks": [
+    "0000807249"
+   ],
+   "issuer": "BEASLEY BROADCAST GROUP INC",
+   "issuer_cik": "0001099160",
+   "ticker": "BBGI",
+   "group": "13D",
+   "cap": 22744480.923387527,
+   "cap_src": "yahoo",
+   "pct": 5.2,
+   "event_date": "09/30/2026"
+  },
+  "0001437749-26-031910": {
+   "acc": "0001437749-26-031910",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/1757715/000143774926031910/0001437749-26-031910-index.htm",
+   "updated": "2026-10-02T17:16:54-04:00",
+   "filers": [
+    "Chang Woei Jiann"
+   ],
+   "filer_ciks": [
+    "0002157391"
+   ],
+   "issuer": "Aterian, Inc.",
+   "issuer_cik": "0001757715",
+   "ticker": "ATER",
+   "group": "13D",
+   "cap": 11319153.214327097,
+   "cap_src": "yahoo",
+   "pct": 10.0,
+   "event_date": "09/25/2026"
+  },
+  "0001437749-26-031908": {
+   "acc": "0001437749-26-031908",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/1757715/000143774926031908/0001437749-26-031908-index.htm",
+   "updated": "2026-10-02T17:13:01-04:00",
+   "filers": [
+    "Michelle Chiam Sin Ling"
+   ],
+   "filer_ciks": [
+    "0002157453"
+   ],
+   "issuer": "Aterian, Inc.",
+   "issuer_cik": "0001757715",
+   "ticker": "ATER",
+   "group": "13D",
+   "cap": 11319153.214327097,
+   "cap_src": "yahoo",
+   "pct": 10.0,
+   "event_date": "09/25/2026"
+  },
+  "0001493152-26-045572": {
+   "acc": "0001493152-26-045572",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1831979/000149315226045572/0001493152-26-045572-index.htm",
+   "updated": "2026-10-02T16:58:03-04:00",
+   "filers": [
+    "PUJARI ROSHEN"
+   ],
+   "filer_ciks": [
+    "0002028136"
+   ],
+   "issuer": "Stardust Power Inc.",
+   "issuer_cik": "0001831979",
+   "ticker": "SDST",
+   "group": "13D",
+   "cap": 1233081.9000997022,
+   "cap_src": "yahoo",
+   "pct": 3.12,
+   "event_date": "06/15/2026"
+  },
+  "0001493152-26-045571": {
+   "acc": "0001493152-26-045571",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1831979/000149315226045571/0001493152-26-045571-index.htm",
+   "updated": "2026-10-02T16:58:02-04:00",
+   "filers": [
+    "CORTEGOSO PABLO"
+   ],
+   "filer_ciks": [
+    "0002028166"
+   ],
+   "issuer": "Stardust Power Inc.",
+   "issuer_cik": "0001831979",
+   "ticker": "SDST",
+   "group": "13D",
+   "cap": 1233081.9000997022,
+   "cap_src": "yahoo",
+   "pct": 0.86,
+   "event_date": "09/16/2026"
+  },
+  "0000070858-26-000471": {
+   "acc": "0000070858-26-000471",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1774342/000007085826000471/0000070858-26-000471-index.htm",
+   "updated": "2026-10-02T16:47:11-04:00",
+   "filers": [
+    "BANK OF AMERICA CORP /DE/"
+   ],
+   "filer_ciks": [
+    "0000070858"
+   ],
+   "issuer": "Nuveen Municipal Credit Opportunities Fund",
+   "issuer_cik": "0001774342",
+   "ticker": "NMCO",
+   "group": "13D",
+   "cap": 499150565.65611744,
+   "cap_src": "yahoo",
+   "pct": 50.7,
+   "event_date": "09/30/2026"
+  },
+  "0000891839-26-000433": {
+   "acc": "0000891839-26-000433",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1104038/000089183926000433/0000891839-26-000433-index.htm",
+   "updated": "2026-10-02T16:33:31-04:00",
+   "filers": [
+    "Stedham Adam H"
+   ],
+   "filer_ciks": [
+    "0001723447"
+   ],
+   "issuer": "OpenWorld, Inc.",
+   "issuer_cik": "0001104038",
+   "ticker": "VRME",
+   "group": "13D",
+   "cap": 11822348.99734497,
+   "cap_src": "yahoo",
+   "pct": 0.6,
+   "event_date": "09/30/2026"
+  },
+  "0001273348-26-000013": {
+   "acc": "0001273348-26-000013",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/105744/000127334826000013/0001273348-26-000013-index.htm",
+   "updated": "2026-10-02T15:57:28-04:00",
+   "filers": [
+    "REALTY ADVISORS INC"
+   ],
+   "filer_ciks": [
+    "0001267710"
+   ],
+   "issuer": "New Concept Energy, Inc.",
+   "issuer_cik": "0000105744",
+   "ticker": "GBR",
+   "group": "13D",
+   "cap": 3929521.7747256756,
+   "cap_src": "yahoo",
+   "pct": 33.7,
+   "event_date": "09/29/2026"
+  },
+  "0001493152-26-045500": {
+   "acc": "0001493152-26-045500",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1838716/000149315226045500/0001493152-26-045500-index.htm",
+   "updated": "2026-10-02T15:34:30-04:00",
+   "filers": [
+    "Nuzzo Marco"
+   ],
+   "filer_ciks": [
+    "0002131493"
+   ],
+   "issuer": "Genenta Science S.p.A.",
+   "issuer_cik": "0001838716",
+   "ticker": "GNTA",
+   "group": "13D",
+   "cap": 35921559.439915895,
+   "cap_src": "yahoo",
+   "pct": 11.5,
+   "event_date": "05/29/2026"
+  },
+  "0000769317-26-000048": {
+   "acc": "0000769317-26-000048",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/901243/000076931726000048/0000769317-26-000048-index.htm",
+   "updated": "2026-10-02T17:22:39-04:00",
+   "filers": [
+    "SIT INVESTMENT ASSOCIATES INC"
+   ],
+   "filer_ciks": [
+    "0000769317"
+   ],
+   "issuer": "BLACKROCK MUNIASSETS FUND, INC.",
+   "issuer_cik": "0000901243",
+   "ticker": "MUA",
+   "group": "13G",
+   "cap": 485307078.7217865,
+   "cap_src": "yahoo",
+   "pct": 10.6,
+   "event_date": "09/30/2026"
+  },
+  "0000769317-26-000047": {
+   "acc": "0000769317-26-000047",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/810766/000076931726000047/0000769317-26-000047-index.htm",
+   "updated": "2026-10-02T17:19:46-04:00",
+   "filers": [
+    "SIT INVESTMENT ASSOCIATES INC"
+   ],
+   "filer_ciks": [
+    "0000769317"
+   ],
+   "issuer": "UBS ASSET MANAGEMENT INCOME FUND, INC.",
+   "issuer_cik": "0000810766",
+   "ticker": "CIK",
+   "group": "13G",
+   "cap": 127274173.21772933,
+   "cap_src": "yahoo",
+   "pct": 5.1,
+   "event_date": "09/30/2026"
+  },
+  "0000769317-26-000046": {
+   "acc": "0000769317-26-000046",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1565381/000076931726000046/0000769317-26-000046-index.htm",
+   "updated": "2026-10-02T17:18:28-04:00",
+   "filers": [
+    "SIT INVESTMENT ASSOCIATES INC"
+   ],
+   "filer_ciks": [
+    "0000769317"
+   ],
+   "issuer": "BNY Mellon Municipal Bond Infrastructure Fund, Inc.",
+   "issuer_cik": "0001565381",
+   "ticker": "DMB",
+   "group": "13G",
+   "cap": 174488606.13441467,
+   "cap_src": "yahoo",
+   "pct": 6.6,
+   "event_date": "09/30/2026"
+  },
+  "0000769317-26-000045": {
+   "acc": "0000769317-26-000045",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/855887/000076931726000045/0000769317-26-000045-index.htm",
+   "updated": "2026-10-02T17:17:20-04:00",
+   "filers": [
+    "SIT INVESTMENT ASSOCIATES INC"
+   ],
+   "filer_ciks": [
+    "0000769317"
+   ],
+   "issuer": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "issuer_cik": "0000855887",
+   "ticker": "DSM",
+   "group": "13G",
+   "cap": 256040610.89500284,
+   "cap_src": "yahoo",
+   "pct": 6.0,
+   "event_date": "09/30/2026"
+  },
+  "0000769317-26-000044": {
+   "acc": "0000769317-26-000044",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1504234/000076931726000044/0000769317-26-000044-index.htm",
+   "updated": "2026-10-02T17:15:34-04:00",
+   "filers": [
+    "SIT INVESTMENT ASSOCIATES INC"
+   ],
+   "filer_ciks": [
+    "0000769317"
+   ],
+   "issuer": "Blackstone Long-Short Credit Income Fund",
+   "issuer_cik": "0001504234",
+   "ticker": "BGX",
+   "group": "13G",
+   "cap": 133945218.01521778,
+   "cap_src": "yahoo",
+   "pct": 5.5,
+   "event_date": "09/30/2026"
+  },
+  "0000769317-26-000043": {
+   "acc": "0000769317-26-000043",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/818972/000076931726000043/0000769317-26-000043-index.htm",
+   "updated": "2026-10-02T17:11:53-04:00",
+   "filers": [
+    "SIT INVESTMENT ASSOCIATES INC"
+   ],
+   "filer_ciks": [
+    "0000769317"
+   ],
+   "issuer": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
+   "issuer_cik": "0000818972",
+   "ticker": "LEO",
+   "group": "13G",
+   "cap": 348205883.36483,
+   "cap_src": "yahoo",
+   "pct": 5.1,
+   "event_date": "09/30/2026"
+  },
+  "0000769317-26-000042": {
+   "acc": "0000769317-26-000042",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1261166/000076931726000042/0000769317-26-000042-index.htm",
+   "updated": "2026-10-02T17:10:12-04:00",
+   "filers": [
+    "SIT INVESTMENT ASSOCIATES INC"
+   ],
+   "filer_ciks": [
+    "0000769317"
+   ],
+   "issuer": "NEUBERGER REAL ESTATE SECURITIES INCOME FUND INC",
+   "issuer_cik": "0001261166",
+   "ticker": "NRO",
+   "group": "13G",
+   "cap": 162839906.5801413,
+   "cap_src": "yahoo",
+   "pct": 3.2,
+   "event_date": "09/30/2026"
+  },
+  "0000769317-26-000041": {
+   "acc": "0000769317-26-000041",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1228509/000076931726000041/0000769317-26-000041-index.htm",
+   "updated": "2026-10-02T17:08:44-04:00",
+   "filers": [
+    "SIT INVESTMENT ASSOCIATES INC"
+   ],
+   "filer_ciks": [
+    "0000769317"
+   ],
+   "issuer": "WESTERN ASSET GLOBAL HIGH INCOME FUND INC.",
+   "issuer_cik": "0001228509",
+   "ticker": "EHI",
+   "group": "13G",
+   "cap": 165133588.12078285,
+   "cap_src": "yahoo",
+   "pct": 4.6,
+   "event_date": "09/30/2026"
+  },
+  "0000769317-26-000039": {
+   "acc": "0000769317-26-000039",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1270131/000076931726000039/0000769317-26-000039-index.htm",
+   "updated": "2026-10-02T17:05:34-04:00",
+   "filers": [
+    "SIT INVESTMENT ASSOCIATES INC"
+   ],
+   "filer_ciks": [
+    "0000769317"
+   ],
+   "issuer": "LMP CAPITAL & INCOME FUND INC.",
+   "issuer_cik": "0001270131",
+   "ticker": "SCD",
+   "group": "13G",
+   "cap": 335806896.92477036,
+   "cap_src": "yahoo",
+   "pct": 8.2,
+   "event_date": "09/30/2025"
+  },
+  "0001085146-26-000791": {
+   "acc": "0001085146-26-000791",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1742912/000108514626000791/0001085146-26-000791-index.htm",
+   "updated": "2026-10-02T17:02:46-04:00",
+   "filers": [
+    "Weil Company, Inc."
+   ],
+   "filer_ciks": [
+    "0001318011"
+   ],
+   "issuer": "Tidal Trust I",
+   "issuer_cik": "0001742912",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 0.53,
+   "event_date": "09/30/2026"
+  },
+  "0001085146-26-000790": {
+   "acc": "0001085146-26-000790",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1426439/000108514626000790/0001085146-26-000790-index.htm",
+   "updated": "2026-10-02T17:01:01-04:00",
+   "filers": [
+    "Weil Company, Inc."
+   ],
+   "filer_ciks": [
+    "0001318011"
+   ],
+   "issuer": "NYLIM Active ETF Trust",
+   "issuer_cik": "0001426439",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 10.3,
+   "event_date": "09/30/2026"
+  },
+  "0001085146-26-000789": {
+   "acc": "0001085146-26-000789",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1804196/000108514626000789/0001085146-26-000789-index.htm",
+   "updated": "2026-10-02T16:59:32-04:00",
+   "filers": [
+    "Weil Company, Inc."
+   ],
+   "filer_ciks": [
+    "0001318011"
+   ],
+   "issuer": "BlackRock ETF Trust II",
+   "issuer_cik": "0001804196",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 4.1705,
+   "event_date": "09/30/2026"
+  },
+  "0001085146-26-000788": {
+   "acc": "0001085146-26-000788",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1485894/000108514626000788/0001085146-26-000788-index.htm",
+   "updated": "2026-10-02T16:57:18-04:00",
+   "filers": [
+    "Weil Company, Inc."
+   ],
+   "filer_ciks": [
+    "0001318011"
+   ],
+   "issuer": "J.P. Morgan Exchange-Traded Fund Trust",
+   "issuer_cik": "0001485894",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 10.81,
+   "event_date": "09/30/2026"
+  },
+  "0001728689-26-000007": {
+   "acc": "0001728689-26-000007",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1351636/000172868926000007/0001728689-26-000007-index.htm",
+   "updated": "2026-10-02T16:37:49-04:00",
+   "filers": [
+    "Kopion Asset Management, LLC"
+   ],
+   "filer_ciks": [
+    "0001728689"
+   ],
+   "issuer": "SOUNDTHINKING, INC.",
+   "issuer_cik": "0001351636",
+   "ticker": "SSTI",
+   "group": "13G",
+   "cap": 110028660.27593994,
+   "cap_src": "yahoo",
+   "pct": 9.7,
+   "event_date": "09/30/2026"
+  },
+  "0001213900-26-106389": {
+   "acc": "0001213900-26-106389",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/12239/000121390026106389/0001213900-26-106389-index.htm",
+   "updated": "2026-10-02T16:15:20-04:00",
+   "filers": [
+    "Blue Finn Group LLC"
+   ],
+   "filer_ciks": [
+    "0002058775"
+   ],
+   "issuer": "Dominari Holdings Inc.",
+   "issuer_cik": "0000012239",
+   "ticker": "DOMH",
+   "group": "13G",
+   "cap": 54305767.271205425,
+   "cap_src": "yahoo",
+   "pct": 2.57,
+   "event_date": "09/28/2026"
+  },
+  "0002144385-26-000003": {
+   "acc": "0002144385-26-000003",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1641631/000214438526000003/0002144385-26-000003-index.htm",
+   "updated": "2026-10-02T16:01:52-04:00",
+   "filers": [
+    "Lin Yi-Chien"
+   ],
+   "filer_ciks": [
+    "0002144385"
+   ],
+   "issuer": "Beyond Air, Inc.",
+   "issuer_cik": "0001641631",
+   "ticker": "XAIR",
+   "group": "13G",
+   "cap": 2776027.674283743,
+   "cap_src": "yahoo",
+   "pct": 14.8,
+   "event_date": "09/28/2026"
+  },
+  "0002044285-26-000010": {
+   "acc": "0002044285-26-000010",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1075880/000204428526000010/0002044285-26-000010-index.htm",
+   "updated": "2026-10-02T15:56:34-04:00",
+   "filers": [
+    "Dauntless Investment Group, LLC"
+   ],
+   "filer_ciks": [
+    "0002044285"
+   ],
+   "issuer": "KAZIA THERAPEUTICS LTD",
+   "issuer_cik": "0001075880",
+   "ticker": "KZIA",
+   "group": "13G",
+   "cap": 105927358.96081924,
+   "cap_src": "yahoo",
+   "pct": 5.42,
+   "event_date": "09/25/2026"
+  },
+  "0001104659-26-113252": {
+   "acc": "0001104659-26-113252",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1113809/000110465926113252/0001104659-26-113252-index.htm",
+   "updated": "2026-10-02T15:48:06-04:00",
+   "filers": [
+    "Pacifica Capital Investments, LLC"
+   ],
+   "filer_ciks": [
+    "0001486713"
+   ],
+   "issuer": "BUILD-A-BEAR WORKSHOP INC",
+   "issuer_cik": "0001113809",
+   "ticker": "BBW",
+   "group": "13G",
+   "cap": 314882196.0207653,
+   "cap_src": "yahoo",
+   "pct": 10.23,
+   "event_date": "10/01/2026"
   }
  },
  "seen": {
@@ -5538,7 +6118,41 @@
   "0001963358-26-000002": "2026-10-02T19:22:38.541733+00:00",
   "0001214659-26-012453": "2026-10-02T19:22:38.541733+00:00",
   "0001214659-26-012451": "2026-10-02T19:22:38.541733+00:00",
-  "0001166573-26-000003": "2026-10-02T19:22:38.541733+00:00"
+  "0001166573-26-000003": "2026-10-02T19:22:38.541733+00:00",
+  "0001213900-26-106583": "2026-10-02T23:50:03.432191+00:00",
+  "0000947871-26-000917": "2026-10-02T23:50:03.432191+00:00",
+  "0001140361-26-038446": "2026-10-02T23:50:03.432191+00:00",
+  "0000807249-26-000088": "2026-10-02T23:50:03.432191+00:00",
+  "0001437749-26-031910": "2026-10-02T23:50:03.432191+00:00",
+  "0001437749-26-031908": "2026-10-02T23:50:03.432191+00:00",
+  "0001493152-26-045572": "2026-10-02T23:50:03.432191+00:00",
+  "0001493152-26-045571": "2026-10-02T23:50:03.432191+00:00",
+  "0000921895-26-002718": "2026-10-02T23:50:03.432191+00:00",
+  "0000070858-26-000471": "2026-10-02T23:50:03.432191+00:00",
+  "0000891839-26-000433": "2026-10-02T23:50:03.432191+00:00",
+  "0001104659-26-113274": "2026-10-02T23:50:03.432191+00:00",
+  "0001273348-26-000013": "2026-10-02T23:50:03.432191+00:00",
+  "0001493152-26-045500": "2026-10-02T23:50:03.432191+00:00",
+  "0002061858-26-000008": "2026-10-02T23:50:03.432191+00:00",
+  "0000919574-26-006645": "2026-10-02T23:50:03.432191+00:00",
+  "0000769317-26-000048": "2026-10-02T23:50:03.432191+00:00",
+  "0000769317-26-000047": "2026-10-02T23:50:03.432191+00:00",
+  "0000769317-26-000046": "2026-10-02T23:50:03.432191+00:00",
+  "0000769317-26-000045": "2026-10-02T23:50:03.432191+00:00",
+  "0000769317-26-000044": "2026-10-02T23:50:03.432191+00:00",
+  "0000769317-26-000043": "2026-10-02T23:50:03.432191+00:00",
+  "0000769317-26-000042": "2026-10-02T23:50:03.432191+00:00",
+  "0000769317-26-000041": "2026-10-02T23:50:03.432191+00:00",
+  "0000769317-26-000039": "2026-10-02T23:50:03.432191+00:00",
+  "0001085146-26-000791": "2026-10-02T23:50:03.432191+00:00",
+  "0001085146-26-000790": "2026-10-02T23:50:03.432191+00:00",
+  "0001085146-26-000789": "2026-10-02T23:50:03.432191+00:00",
+  "0001085146-26-000788": "2026-10-02T23:50:03.432191+00:00",
+  "0001728689-26-000007": "2026-10-02T23:50:03.432191+00:00",
+  "0001213900-26-106389": "2026-10-02T23:50:03.432191+00:00",
+  "0002144385-26-000003": "2026-10-02T23:50:03.432191+00:00",
+  "0002044285-26-000010": "2026-10-02T23:50:03.432191+00:00",
+  "0001104659-26-113252": "2026-10-02T23:50:03.432191+00:00"
  },
  "caps": {
   "0001677250": {
@@ -6920,6 +7534,141 @@
    "cap": 1240223.0361521244,
    "src": "yahoo",
    "checked": "2026-10-02T19:22:38.541733+00:00"
+  },
+  "0002097702": {
+   "cap": 180884491.2510109,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0001099160": {
+   "cap": 22744480.923387527,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0001831979": {
+   "cap": 1233081.9000997022,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0001774342": {
+   "cap": 499150565.65611744,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0001104038": {
+   "cap": 11822348.99734497,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0001061219": {
+   "cap": 78129884633.44012,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0000105744": {
+   "cap": 3929521.7747256756,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0001838716": {
+   "cap": 35921559.439915895,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0001866364": {
+   "cap": 3960813818.3395386,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0000805928": {
+   "cap": 2193727835.2597504,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0000901243": {
+   "cap": 485307078.7217865,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0000810766": {
+   "cap": 127274173.21772933,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0001565381": {
+   "cap": 174488606.13441467,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0000855887": {
+   "cap": 256040610.89500284,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0001504234": {
+   "cap": 133945218.01521778,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0000818972": {
+   "cap": 348205883.36483,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0001261166": {
+   "cap": 162839906.5801413,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0001228509": {
+   "cap": 165133588.12078285,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0001270131": {
+   "cap": 335806896.92477036,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0001742912": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0001426439": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0001804196": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0001485894": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0000012239": {
+   "cap": 54305767.271205425,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0001641631": {
+   "cap": 2776027.674283743,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0001075880": {
+   "cap": 105927358.96081924,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
+  },
+  "0001113809": {
+   "cap": 314882196.0207653,
+   "src": "yahoo",
+   "checked": "2026-10-02T23:50:03.432191+00:00"
   }
  }
 }
