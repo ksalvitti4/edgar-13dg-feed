@@ -5861,6 +5861,206 @@
    "cap_src": "yahoo",
    "pct": 9.35,
    "event_date": "09/25/2026"
+  },
+  "0000919574-26-006652": {
+   "acc": "0000919574-26-006652",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1918767/000091957426006652/0000919574-26-006652-index.htm",
+   "updated": "2026-10-05T10:41:25-04:00",
+   "filers": [
+    "Universities Superannuation Scheme Ltd as sole corporate trustee for Universities Superannuation Scheme"
+   ],
+   "filer_ciks": [
+    "0001523591"
+   ],
+   "issuer": "Constitution Capital Access Fund, LLC",
+   "issuer_cik": "0001918767",
+   "ticker": null,
+   "group": "13D",
+   "cap": null,
+   "cap_src": null,
+   "pct": 66.6,
+   "event_date": "08/31/2026"
+  },
+  "0001541597-26-000007": {
+   "acc": "0001541597-26-000007",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1100663/000154159726000007/0001541597-26-000007-index.htm",
+   "updated": "2026-10-05T10:47:42-04:00",
+   "filers": [
+    "Itau USA Asset Management Inc."
+   ],
+   "filer_ciks": [
+    "0001541597"
+   ],
+   "issuer": "iSHARES TRUST",
+   "issuer_cik": "0001100663",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 21.4,
+   "event_date": "09/30/2026"
+  },
+  "0001104659-26-113597": {
+   "acc": "0001104659-26-113597",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1782223/000110465926113597/0001104659-26-113597-index.htm",
+   "updated": "2026-10-05T10:25:50-04:00",
+   "filers": [
+    "Coastlands Capital LP"
+   ],
+   "filer_ciks": [
+    "0002068530"
+   ],
+   "issuer": "Pyxis Oncology, Inc.",
+   "issuer_cik": "0001782223",
+   "ticker": "PYXS",
+   "group": "13G",
+   "cap": 182663634.2726469,
+   "cap_src": "yahoo",
+   "pct": 5.42,
+   "event_date": "10/01/2026"
+  },
+  "0000898358-26-000010": {
+   "acc": "0000898358-26-000010",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1141688/000089835826000010/0000898358-26-000010-index.htm",
+   "updated": "2026-10-05T10:12:14-04:00",
+   "filers": [
+    "KORNITZER CAPITAL MANAGEMENT INC /KS"
+   ],
+   "filer_ciks": [
+    "0000898358"
+   ],
+   "issuer": "LANDMARK BANCORP INC",
+   "issuer_cik": "0001141688",
+   "ticker": "LARK",
+   "group": "13G",
+   "cap": 191314251.52,
+   "cap_src": "yahoo",
+   "pct": 6.3,
+   "event_date": "09/30/2026"
+  },
+  "0000929638-26-003845": {
+   "acc": "0000929638-26-003845",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1191070/000092963826003845/0000929638-26-003845-index.htm",
+   "updated": "2026-10-05T09:41:29-04:00",
+   "filers": [
+    "AdvisorShares Trust"
+   ],
+   "filer_ciks": [
+    "0001408970"
+   ],
+   "issuer": "Neuphoria Therapeutics Inc.",
+   "issuer_cik": "0001191070",
+   "ticker": "NEUP",
+   "group": "13G",
+   "cap": 18560875.981245518,
+   "cap_src": "yahoo",
+   "pct": 5.78,
+   "event_date": "09/30/2026"
+  },
+  "0000929638-26-003844": {
+   "acc": "0000929638-26-003844",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1985062/000092963826003844/0000929638-26-003844-index.htm",
+   "updated": "2026-10-05T09:40:45-04:00",
+   "filers": [
+    "AdvisorShares Trust"
+   ],
+   "filer_ciks": [
+    "0001408970"
+   ],
+   "issuer": "PSYENCE BIOMEDICAL LTD.",
+   "issuer_cik": "0001985062",
+   "ticker": "PBM",
+   "group": "13G",
+   "cap": 20107610.6059494,
+   "cap_src": "yahoo",
+   "pct": 6.78,
+   "event_date": "09/30/2026"
+  },
+  "0000929638-26-003843": {
+   "acc": "0000929638-26-003843",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1771885/000092963826003843/0000929638-26-003843-index.htm",
+   "updated": "2026-10-05T09:39:44-04:00",
+   "filers": [
+    "AdvisorShares Trust"
+   ],
+   "filer_ciks": [
+    "0001408970"
+   ],
+   "issuer": "Quantum Biopharma Ltd.",
+   "issuer_cik": "0001771885",
+   "ticker": "QNTM",
+   "group": "13G",
+   "cap": 21539142.63682604,
+   "cap_src": "yahoo",
+   "pct": 4.95,
+   "event_date": "09/30/2026"
+  },
+  "0001172661-26-004393": {
+   "acc": "0001172661-26-004393",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2107724/000117266126004393/0001172661-26-004393-index.htm",
+   "updated": "2026-10-05T09:18:36-04:00",
+   "filers": [
+    "Mudita Advisors LLP"
+   ],
+   "filer_ciks": [
+    "0001907809"
+   ],
+   "issuer": "Metals Acquisition Corp. II",
+   "issuer_cik": "0002107724",
+   "ticker": "MTAL",
+   "group": "13G",
+   "cap": 311266670.05,
+   "cap_src": "yahoo",
+   "pct": 8.15,
+   "event_date": "09/30/2026"
+  },
+  "0001104659-26-113560": {
+   "acc": "0001104659-26-113560",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1682639/000110465926113560/0001104659-26-113560-index.htm",
+   "updated": "2026-10-05T09:00:03-04:00",
+   "filers": [
+    "Forsakringsaktiebolaget Avanza Pension"
+   ],
+   "filer_ciks": [
+    "0001540910"
+   ],
+   "issuer": "HYPERION DEFI, INC.",
+   "issuer_cik": "0001682639",
+   "ticker": "HYPD",
+   "group": "13G",
+   "cap": 58171821.959121704,
+   "cap_src": "yahoo",
+   "pct": 10.0,
+   "event_date": "09/30/2026"
+  },
+  "0001753926-26-001894": {
+   "acc": "0001753926-26-001894",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1951067/000175392626001894/0001753926-26-001894-index.htm",
+   "updated": "2026-10-05T06:07:37-04:00",
+   "filers": [
+    "Ascent Partners Fund LLC"
+   ],
+   "filer_ciks": [
+    "0002059960"
+   ],
+   "issuer": "C3is Inc.",
+   "issuer_cik": "0001951067",
+   "ticker": "CISS",
+   "group": "13G",
+   "cap": 1240223.0361521244,
+   "cap_src": "yahoo",
+   "pct": 0.0,
+   "event_date": "10/01/2026"
   }
  },
  "seen": {
@@ -6236,7 +6436,18 @@
   "0001193805-26-001332": "2026-10-03T05:24:35.899246+00:00",
   "0001213900-26-106590": "2026-10-03T05:24:35.899246+00:00",
   "0001217160-26-000076": "2026-10-03T05:24:35.899246+00:00",
-  "0001213900-26-106589": "2026-10-03T05:24:35.899246+00:00"
+  "0001213900-26-106589": "2026-10-03T05:24:35.899246+00:00",
+  "0000919574-26-006652": "2026-10-05T14:51:22.567459+00:00",
+  "0001541597-26-000007": "2026-10-05T14:51:22.567459+00:00",
+  "0001104659-26-113597": "2026-10-05T14:51:22.567459+00:00",
+  "0001085146-26-000796": "2026-10-05T14:51:22.567459+00:00",
+  "0000898358-26-000010": "2026-10-05T14:51:22.567459+00:00",
+  "0000929638-26-003845": "2026-10-05T14:51:22.567459+00:00",
+  "0000929638-26-003844": "2026-10-05T14:51:22.567459+00:00",
+  "0000929638-26-003843": "2026-10-05T14:51:22.567459+00:00",
+  "0001172661-26-004393": "2026-10-05T14:51:22.567459+00:00",
+  "0001104659-26-113560": "2026-10-05T14:51:22.567459+00:00",
+  "0001753926-26-001894": "2026-10-05T14:51:22.567459+00:00"
  },
  "caps": {
   "0001677250": {
@@ -7758,6 +7969,51 @@
    "cap": 41294474.07962966,
    "src": "yahoo",
    "checked": "2026-10-03T05:24:35.899246+00:00"
+  },
+  "0001918767": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-05T14:51:22.567459+00:00"
+  },
+  "0001100663": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-05T14:51:22.567459+00:00"
+  },
+  "0000092380": {
+   "cap": 20661708667.82399,
+   "src": "yahoo",
+   "checked": "2026-10-05T14:51:22.567459+00:00"
+  },
+  "0001141688": {
+   "cap": 191314251.52,
+   "src": "yahoo",
+   "checked": "2026-10-05T14:51:22.567459+00:00"
+  },
+  "0001191070": {
+   "cap": 18560875.981245518,
+   "src": "yahoo",
+   "checked": "2026-10-05T14:51:22.567459+00:00"
+  },
+  "0001985062": {
+   "cap": 20107610.6059494,
+   "src": "yahoo",
+   "checked": "2026-10-05T14:51:22.567459+00:00"
+  },
+  "0001771885": {
+   "cap": 21539142.63682604,
+   "src": "yahoo",
+   "checked": "2026-10-05T14:51:22.567459+00:00"
+  },
+  "0002107724": {
+   "cap": 311266670.05,
+   "src": "yahoo",
+   "checked": "2026-10-05T14:51:22.567459+00:00"
+  },
+  "0001682639": {
+   "cap": 58171821.959121704,
+   "src": "yahoo",
+   "checked": "2026-10-05T14:51:22.567459+00:00"
   }
  }
 }
