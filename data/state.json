@@ -10982,6 +10982,166 @@
    "cap_src": "yahoo",
    "pct": 8.0,
    "event_date": "09/30/2026"
+  },
+  "0001104659-26-114474": {
+   "acc": "0001104659-26-114474",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/1937073/000110465926114474/0001104659-26-114474-index.htm",
+   "updated": "2026-10-07T21:57:15-04:00",
+   "filers": [
+    "Vos James H"
+   ],
+   "filer_ciks": [
+    "0001323271"
+   ],
+   "issuer": "Calamos Aksia Alternative Credit & Income Fund",
+   "issuer_cik": "0001937073",
+   "ticker": null,
+   "group": "13D",
+   "cap": null,
+   "cap_src": null,
+   "pct": 7.7,
+   "event_date": "10/01/2026"
+  },
+  "0001185185-26-004644": {
+   "acc": "0001185185-26-004644",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/2148436/000118518526004644/0001185185-26-004644-index.htm",
+   "updated": "2026-10-07T20:15:27-04:00",
+   "filers": [
+    "SOUTHPORT ACQUISITION SPONSOR II LLC"
+   ],
+   "filer_ciks": [
+    "0002151492"
+   ],
+   "issuer": "Southport Acquisition Corp. II",
+   "issuer_cik": "0002148436",
+   "ticker": "PORT",
+   "group": "13D",
+   "cap": null,
+   "cap_src": null,
+   "pct": 27.7,
+   "event_date": "09/30/2026"
+  },
+  "0001213900-26-107675": {
+   "acc": "0001213900-26-107675",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1999261/000121390026107675/0001213900-26-107675-index.htm",
+   "updated": "2026-10-07T19:56:54-04:00",
+   "filers": [
+    "Artikkhodjaev Jakhongir Abidovich"
+   ],
+   "filer_ciks": [
+    "0002140692"
+   ],
+   "issuer": "StageWise Strategies Corp.",
+   "issuer_cik": "0001999261",
+   "ticker": "STWI",
+   "group": "13D",
+   "cap": 0.0,
+   "cap_src": "float",
+   "pct": 79.3,
+   "event_date": "10/05/2026"
+  },
+  "0001104659-26-114475": {
+   "acc": "0001104659-26-114475",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1937073/000110465926114475/0001104659-26-114475-index.htm",
+   "updated": "2026-10-07T21:59:16-04:00",
+   "filers": [
+    "K-Multi CAPIX Fo1, LP"
+   ],
+   "filer_ciks": [
+    "0002131282"
+   ],
+   "issuer": "Calamos Aksia Alternative Credit & Income Fund",
+   "issuer_cik": "0001937073",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 7.5,
+   "event_date": "10/01/2026"
+  },
+  "0001104659-26-114447": {
+   "acc": "0001104659-26-114447",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1637715/000110465926114447/0001104659-26-114447-index.htm",
+   "updated": "2026-10-07T20:06:04-04:00",
+   "filers": [
+    "Coastlands Capital LP"
+   ],
+   "filer_ciks": [
+    "0002068530"
+   ],
+   "issuer": "OnKure Therapeutics, Inc.",
+   "issuer_cik": "0001637715",
+   "ticker": "OKUR",
+   "group": "13G",
+   "cap": 94929374.14758682,
+   "cap_src": "yahoo",
+   "pct": 6.67,
+   "event_date": "10/01/2026"
+  },
+  "0001947975-26-000020": {
+   "acc": "0001947975-26-000020",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1879403/000194797526000020/0001947975-26-000020-index.htm",
+   "updated": "2026-10-07T19:55:26-04:00",
+   "filers": [
+    "ATW Partners Opportunities Management, LLC"
+   ],
+   "filer_ciks": [
+    "0001947975"
+   ],
+   "issuer": "La Rosa Holdings Corp.",
+   "issuer_cik": "0001879403",
+   "ticker": "LRHC",
+   "group": "13G",
+   "cap": 860154.8845674992,
+   "cap_src": "yahoo",
+   "pct": 9.9,
+   "event_date": "09/30/2026"
+  },
+  "0002073679-26-000164": {
+   "acc": "0002073679-26-000164",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1518461/000207367926000164/0002073679-26-000164-index.htm",
+   "updated": "2026-10-07T19:50:50-04:00",
+   "filers": [
+    "Funicular Funds, LP"
+   ],
+   "filer_ciks": [
+    "0001937147"
+   ],
+   "issuer": "AmpliTech Group, Inc.",
+   "issuer_cik": "0001518461",
+   "ticker": "AMPG",
+   "group": "13G",
+   "cap": 89831222.41652083,
+   "cap_src": "yahoo",
+   "pct": 5.4,
+   "event_date": "09/21/2026"
+  },
+  "0001104659-26-114423": {
+   "acc": "0001104659-26-114423",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1992243/000110465926114423/0001104659-26-114423-index.htm",
+   "updated": "2026-10-07T19:09:47-04:00",
+   "filers": [
+    "MILLENNIUM MANAGEMENT LLC"
+   ],
+   "filer_ciks": [
+    "0001273087"
+   ],
+   "issuer": "T1 Energy Inc.",
+   "issuer_cik": "0001992243",
+   "ticker": "TE",
+   "group": "13G",
+   "cap": 1098397443.866694,
+   "cap_src": "yahoo",
+   "pct": 7.3,
+   "event_date": "09/30/2026"
   }
  },
  "seen": {
@@ -11693,7 +11853,17 @@
   "0001890906-26-000068": "2026-10-07T23:09:26.872865+00:00",
   "0001890906-26-000067": "2026-10-07T23:09:26.872865+00:00",
   "0001890906-26-000066": "2026-10-07T23:09:26.872865+00:00",
-  "0001890906-26-000065": "2026-10-07T23:09:26.872865+00:00"
+  "0001890906-26-000065": "2026-10-07T23:09:26.872865+00:00",
+  "0001104659-26-114474": "2026-10-08T06:13:35.283760+00:00",
+  "0001185185-26-004644": "2026-10-08T06:13:35.283760+00:00",
+  "0001213900-26-107675": "2026-10-08T06:13:35.283760+00:00",
+  "0001104659-26-114475": "2026-10-08T06:13:35.283760+00:00",
+  "0001193125-26-417254": "2026-10-08T06:13:35.283760+00:00",
+  "0001104659-26-114447": "2026-10-08T06:13:35.283760+00:00",
+  "0001947975-26-000020": "2026-10-08T06:13:35.283760+00:00",
+  "0002073679-26-000164": "2026-10-08T06:13:35.283760+00:00",
+  "0000886982-26-000526": "2026-10-08T06:13:35.283760+00:00",
+  "0001104659-26-114423": "2026-10-08T06:13:35.283760+00:00"
  },
  "caps": {
   "0001677250": {
@@ -14405,6 +14575,41 @@
    "cap": 443024679.0986309,
    "src": "yahoo",
    "checked": "2026-10-07T23:09:26.872865+00:00"
+  },
+  "0001937073": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-08T06:13:35.283760+00:00"
+  },
+  "0001999261": {
+   "cap": 0.0,
+   "src": "float",
+   "checked": "2026-10-08T06:13:35.283760+00:00"
+  },
+  "0000920760": {
+   "cap": 18111344541.65748,
+   "src": "yahoo",
+   "checked": "2026-10-08T06:13:35.283760+00:00"
+  },
+  "0001637715": {
+   "cap": 94929374.14758682,
+   "src": "yahoo",
+   "checked": "2026-10-08T06:13:35.283760+00:00"
+  },
+  "0001879403": {
+   "cap": 860154.8845674992,
+   "src": "yahoo",
+   "checked": "2026-10-08T06:13:35.283760+00:00"
+  },
+  "0001513845": {
+   "cap": 64470463289.42743,
+   "src": "yahoo",
+   "checked": "2026-10-08T06:13:35.283760+00:00"
+  },
+  "0001992243": {
+   "cap": 1098397443.866694,
+   "src": "yahoo",
+   "checked": "2026-10-08T06:13:35.283760+00:00"
   }
  }
 }
