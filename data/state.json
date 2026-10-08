@@ -11222,6 +11222,1186 @@
    "cap_src": "yahoo",
    "pct": 8.5,
    "event_date": "07/14/2026"
+  },
+  "0001493152-26-046317": {
+   "acc": "0001493152-26-046317",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1872292/000149315226046317/0001493152-26-046317-index.htm",
+   "updated": "2026-10-08T15:15:07-04:00",
+   "filers": [
+    "O'CONNOR MICHAEL JOHN"
+   ],
+   "filer_ciks": [
+    "0002055656"
+   ],
+   "issuer": "Rainmaker Worldwide Inc.",
+   "issuer_cik": "0001872292",
+   "ticker": "RAKR",
+   "group": "13D",
+   "cap": 19000.854600000002,
+   "cap_src": "yahoo",
+   "pct": 8.0,
+   "event_date": "09/29/2026"
+  },
+  "0001185185-26-004654": {
+   "acc": "0001185185-26-004654",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1705402/000118518526004654/0001185185-26-004654-index.htm",
+   "updated": "2026-10-08T11:17:17-04:00",
+   "filers": [
+    "Zhang Rui Katherine"
+   ],
+   "filer_ciks": [
+    "0002148834"
+   ],
+   "issuer": "AGM GROUP HOLDINGS, INC.",
+   "issuer_cik": "0001705402",
+   "ticker": "AGMH",
+   "group": "13D",
+   "cap": 2428441.98745203,
+   "cap_src": "yahoo",
+   "pct": 81.48,
+   "event_date": "10/05/2026"
+  },
+  "0001213900-26-107784": {
+   "acc": "0001213900-26-107784",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1631487/000121390026107784/0001213900-26-107784-index.htm",
+   "updated": "2026-10-08T10:54:33-04:00",
+   "filers": [
+    "Sagy Ami"
+   ],
+   "filer_ciks": [
+    "0001740791"
+   ],
+   "issuer": "CollPlant Biotechnologies Ltd",
+   "issuer_cik": "0001631487",
+   "ticker": "CLGN",
+   "group": "13D",
+   "cap": 7468743.040161371,
+   "cap_src": "yahoo",
+   "pct": 5.7,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001074": {
+   "acc": "0000354204-26-001074",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2126198/000035420426001074/0000354204-26-001074-index.htm",
+   "updated": "2026-10-08T14:25:42-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "Expro Ltd",
+   "issuer_cik": "0002126198",
+   "ticker": "XPRO",
+   "group": "13G",
+   "cap": 1826235322.7078419,
+   "cap_src": "yahoo",
+   "pct": 5.4,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001031": {
+   "acc": "0000354204-26-001031",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1683606/000035420426001031/0000354204-26-001031-index.htm",
+   "updated": "2026-10-08T14:25:42-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "Cars.com Inc.",
+   "issuer_cik": "0001683606",
+   "ticker": "CARS",
+   "group": "13G",
+   "cap": 521140952.4110012,
+   "cap_src": "yahoo",
+   "pct": 6.7,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001073": {
+   "acc": "0000354204-26-001073",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1575828/000035420426001073/0000354204-26-001073-index.htm",
+   "updated": "2026-10-08T14:25:42-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "EXPRO GROUP HOLDINGS N.V.",
+   "issuer_cik": "0001575828",
+   "ticker": null,
+   "group": "13G",
+   "cap": 882300000.0,
+   "cap_src": "float",
+   "pct": 0.0,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001083": {
+   "acc": "0000354204-26-001083",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1516912/000035420426001083/0000354204-26-001083-index.htm",
+   "updated": "2026-10-08T14:25:42-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "Origin Bancorp, Inc.",
+   "issuer_cik": "0001516912",
+   "ticker": "OBK",
+   "group": "13G",
+   "cap": 1618682642.3182983,
+   "cap_src": "yahoo",
+   "pct": 5.1,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001060": {
+   "acc": "0000354204-26-001060",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1498828/000035420426001060/0000354204-26-001060-index.htm",
+   "updated": "2026-10-08T14:25:42-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "Howard Hughes Corp",
+   "issuer_cik": "0001498828",
+   "ticker": null,
+   "group": "13G",
+   "cap": 0.0,
+   "cap_src": "float",
+   "pct": 5.1,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001049": {
+   "acc": "0000354204-26-001049",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1493225/000035420426001049/0000354204-26-001049-index.htm",
+   "updated": "2026-10-08T14:25:42-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "Northfield Bancorp, Inc.",
+   "issuer_cik": "0001493225",
+   "ticker": null,
+   "group": "13G",
+   "cap": 437700000.0,
+   "cap_src": "float",
+   "pct": 0.0,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001080": {
+   "acc": "0000354204-26-001080",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1046025/000035420426001080/0000354204-26-001080-index.htm",
+   "updated": "2026-10-08T14:25:42-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "HERITAGE FINANCIAL CORP /WA/",
+   "issuer_cik": "0001046025",
+   "ticker": "HFWA",
+   "group": "13G",
+   "cap": 1128041921.5735626,
+   "cap_src": "yahoo",
+   "pct": 5.5,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001075": {
+   "acc": "0000354204-26-001075",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1044777/000035420426001075/0000354204-26-001075-index.htm",
+   "updated": "2026-10-08T14:25:42-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "OneSpan Inc.",
+   "issuer_cik": "0001044777",
+   "ticker": "OSPN",
+   "group": "13G",
+   "cap": 664076174.329586,
+   "cap_src": "yahoo",
+   "pct": 5.2,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001020": {
+   "acc": "0000354204-26-001020",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1013488/000035420426001020/0000354204-26-001020-index.htm",
+   "updated": "2026-10-08T14:25:42-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "BJs RESTAURANTS INC",
+   "issuer_cik": "0001013488",
+   "ticker": "BJRI",
+   "group": "13G",
+   "cap": 1267065472.6150703,
+   "cap_src": "yahoo",
+   "pct": 4.6,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001086": {
+   "acc": "0000354204-26-001086",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1004702/000035420426001086/0000354204-26-001086-index.htm",
+   "updated": "2026-10-08T14:25:42-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "OCEANFIRST FINANCIAL CORP",
+   "issuer_cik": "0001004702",
+   "ticker": "OCFC",
+   "group": "13G",
+   "cap": 1589330596.9612198,
+   "cap_src": "yahoo",
+   "pct": 5.1,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001032": {
+   "acc": "0000354204-26-001032",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/886136/000035420426001032/0000354204-26-001032-index.htm",
+   "updated": "2026-10-08T14:25:42-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "SAGA COMMUNICATIONS INC",
+   "issuer_cik": "0000886136",
+   "ticker": "SGA",
+   "group": "13G",
+   "cap": 53533622.78284073,
+   "cap_src": "yahoo",
+   "pct": 4.7,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001068": {
+   "acc": "0000354204-26-001068",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/883237/000035420426001068/0000354204-26-001068-index.htm",
+   "updated": "2026-10-08T14:25:42-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "VIRTUS INVESTMENT PARTNERS, INC.",
+   "issuer_cik": "0000883237",
+   "ticker": "VRTS",
+   "group": "13G",
+   "cap": 872075770.6939697,
+   "cap_src": "yahoo",
+   "pct": 5.6,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001040": {
+   "acc": "0000354204-26-001040",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/812074/000035420426001040/0000354204-26-001040-index.htm",
+   "updated": "2026-10-08T14:25:42-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "O-I Glass, Inc. /DE/",
+   "issuer_cik": "0000812074",
+   "ticker": "OI",
+   "group": "13G",
+   "cap": 950385526.4025187,
+   "cap_src": "yahoo",
+   "pct": 4.3,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001047": {
+   "acc": "0000354204-26-001047",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/763744/000035420426001047/0000354204-26-001047-index.htm",
+   "updated": "2026-10-08T14:25:42-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "LCI INDUSTRIES",
+   "issuer_cik": "0000763744",
+   "ticker": "LCII",
+   "group": "13G",
+   "cap": 1947959498.375,
+   "cap_src": "yahoo",
+   "pct": 6.4,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001084": {
+   "acc": "0000354204-26-001084",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/357173/000035420426001084/0000354204-26-001084-index.htm",
+   "updated": "2026-10-08T14:25:42-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "OLD SECOND BANCORP INC",
+   "issuer_cik": "0000357173",
+   "ticker": "OSBC",
+   "group": "13G",
+   "cap": 1264261562.0075455,
+   "cap_src": "yahoo",
+   "pct": 5.1,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001076": {
+   "acc": "0000354204-26-001076",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/94049/000035420426001076/0000354204-26-001076-index.htm",
+   "updated": "2026-10-08T14:25:42-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "STEPAN CO",
+   "issuer_cik": "0000094049",
+   "ticker": "SCL",
+   "group": "13G",
+   "cap": 1385889304.5687103,
+   "cap_src": "yahoo",
+   "pct": 5.2,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001048": {
+   "acc": "0000354204-26-001048",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/37472/000035420426001048/0000354204-26-001048-index.htm",
+   "updated": "2026-10-08T14:25:42-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "FLEXSTEEL INDUSTRIES INC",
+   "issuer_cik": "0000037472",
+   "ticker": "FLXS",
+   "group": "13G",
+   "cap": 353240008.02220154,
+   "cap_src": "yahoo",
+   "pct": 8.1,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001028": {
+   "acc": "0000354204-26-001028",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/96869/000035420426001028/0000354204-26-001028-index.htm",
+   "updated": "2026-10-08T14:25:42-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "TEJON RANCH CO",
+   "issuer_cik": "0000096869",
+   "ticker": "TRC",
+   "group": "13G",
+   "cap": 443151671.29213715,
+   "cap_src": "yahoo",
+   "pct": 4.7,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001063": {
+   "acc": "0000354204-26-001063",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2105139/000035420426001063/0000354204-26-001063-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "ADI GLOBAL DISTRIBUTION INC.",
+   "issuer_cik": "0002105139",
+   "ticker": "ADIG",
+   "group": "13G",
+   "cap": 1307017865.1549606,
+   "cap_src": "yahoo",
+   "pct": 5.1,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001088": {
+   "acc": "0000354204-26-001088",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2057463/000035420426001088/0000354204-26-001088-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "Liberty Capital Corp/NV",
+   "issuer_cik": "0002057463",
+   "ticker": "GLIBA",
+   "group": "13G",
+   "cap": 941358814.5490189,
+   "cap_src": "yahoo",
+   "pct": 5.2,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001038": {
+   "acc": "0000354204-26-001038",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1829576/000035420426001038/0000354204-26-001038-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "Carter Bankshares, Inc.",
+   "issuer_cik": "0001829576",
+   "ticker": "CARE",
+   "group": "13G",
+   "cap": 675778251.1170788,
+   "cap_src": "yahoo",
+   "pct": 6.2,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001029": {
+   "acc": "0000354204-26-001029",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1808997/000035420426001029/0000354204-26-001029-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "American Outdoor Brands, Inc.",
+   "issuer_cik": "0001808997",
+   "ticker": "AOUT",
+   "group": "13G",
+   "cap": 202823081.8983078,
+   "cap_src": "yahoo",
+   "pct": 5.5,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001018": {
+   "acc": "0000354204-26-001018",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1725255/000035420426001018/0000354204-26-001018-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "AdaptHealth Corp.",
+   "issuer_cik": "0001725255",
+   "ticker": "AHCO",
+   "group": "13G",
+   "cap": 809126569.0987334,
+   "cap_src": "yahoo",
+   "pct": 4.7,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001057": {
+   "acc": "0000354204-26-001057",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1710155/000035420426001057/0000354204-26-001057-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "National Vision Holdings, Inc.",
+   "issuer_cik": "0001710155",
+   "ticker": "EYE",
+   "group": "13G",
+   "cap": 1322038859.0674114,
+   "cap_src": "yahoo",
+   "pct": 5.1,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001041": {
+   "acc": "0000354204-26-001041",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1593538/000035420426001041/0000354204-26-001041-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "NAVIENT CORP",
+   "issuer_cik": "0001593538",
+   "ticker": "NAVI",
+   "group": "13G",
+   "cap": 872221764.662118,
+   "cap_src": "yahoo",
+   "pct": 4.8,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001067": {
+   "acc": "0000354204-26-001067",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1546417/000035420426001067/0000354204-26-001067-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "Bloomin' Brands, Inc.",
+   "issuer_cik": "0001546417",
+   "ticker": "BLMN",
+   "group": "13G",
+   "cap": 725209189.8532515,
+   "cap_src": "yahoo",
+   "pct": 5.2,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001030": {
+   "acc": "0000354204-26-001030",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1522540/000035420426001030/0000354204-26-001030-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "Marqeta, Inc.",
+   "issuer_cik": "0001522540",
+   "ticker": "MQ",
+   "group": "13G",
+   "cap": 1817565546.334671,
+   "cap_src": "yahoo",
+   "pct": 2.0,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001072": {
+   "acc": "0000354204-26-001072",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1488139/000035420426001072/0000354204-26-001072-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "Ameresco, Inc.",
+   "issuer_cik": "0001488139",
+   "ticker": "AMRC",
+   "group": "13G",
+   "cap": 1118635723.8313694,
+   "cap_src": "yahoo",
+   "pct": 5.2,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001069": {
+   "acc": "0000354204-26-001069",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1477449/000035420426001069/0000354204-26-001069-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "Teladoc Health, Inc.",
+   "issuer_cik": "0001477449",
+   "ticker": "TDOC",
+   "group": "13G",
+   "cap": 1002895792.4546523,
+   "cap_src": "yahoo",
+   "pct": 5.0,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001052": {
+   "acc": "0000354204-26-001052",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1475841/000035420426001052/0000354204-26-001052-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "National Bank Holdings Corp",
+   "issuer_cik": "0001475841",
+   "ticker": "NBHC",
+   "group": "13G",
+   "cap": 1691267690.6029587,
+   "cap_src": "yahoo",
+   "pct": 5.5,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001053": {
+   "acc": "0000354204-26-001053",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1444323/000035420426001053/0000354204-26-001053-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "Bank of Queensland Ltd.",
+   "issuer_cik": "0001444323",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 5.1,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001042": {
+   "acc": "0000354204-26-001042",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1368458/000035420426001042/0000354204-26-001042-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "Sally Beauty Holdings, Inc.",
+   "issuer_cik": "0001368458",
+   "ticker": "SBH",
+   "group": "13G",
+   "cap": 1500765405.0453262,
+   "cap_src": "yahoo",
+   "pct": 6.5,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001043": {
+   "acc": "0000354204-26-001043",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1315257/000035420426001043/0000354204-26-001043-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "Koppers Holdings Inc.",
+   "issuer_cik": "0001315257",
+   "ticker": "KOP",
+   "group": "13G",
+   "cap": 837215124.0170288,
+   "cap_src": "yahoo",
+   "pct": 6.7,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001059": {
+   "acc": "0000354204-26-001059",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1127371/000035420426001059/0000354204-26-001059-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "Community West Bancshares",
+   "issuer_cik": "0001127371",
+   "ticker": "CWBC",
+   "group": "13G",
+   "cap": 708121146.1496849,
+   "cap_src": "yahoo",
+   "pct": 5.1,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001033": {
+   "acc": "0000354204-26-001033",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1084048/000035420426001033/0000354204-26-001033-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "ZIFF DAVIS, INC.",
+   "issuer_cik": "0001084048",
+   "ticker": "ZD",
+   "group": "13G",
+   "cap": 1915969219.6626892,
+   "cap_src": "yahoo",
+   "pct": 6.6,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001039": {
+   "acc": "0000354204-26-001039",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1013934/000035420426001039/0000354204-26-001039-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "Strategic Education, Inc.",
+   "issuer_cik": "0001013934",
+   "ticker": "STRA",
+   "group": "13G",
+   "cap": 1828570326.73349,
+   "cap_src": "yahoo",
+   "pct": 6.6,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001026": {
+   "acc": "0000354204-26-001026",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1001385/000035420426001026/0000354204-26-001026-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "NWPX Infrastructure, Inc.",
+   "issuer_cik": "0001001385",
+   "ticker": "NWPX",
+   "group": "13G",
+   "cap": 970273500.3010406,
+   "cap_src": "yahoo",
+   "pct": 5.7,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001071": {
+   "acc": "0000354204-26-001071",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1000623/000035420426001071/0000354204-26-001071-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "Mativ Holdings, Inc.",
+   "issuer_cik": "0001000623",
+   "ticker": "MATV",
+   "group": "13G",
+   "cap": 657865972.3706703,
+   "cap_src": "yahoo",
+   "pct": 5.1,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001064": {
+   "acc": "0000354204-26-001064",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/944745/000035420426001064/0000354204-26-001064-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "CIVISTA BANCSHARES, INC.",
+   "issuer_cik": "0000944745",
+   "ticker": "CIVB",
+   "group": "13G",
+   "cap": 560196782.8253212,
+   "cap_src": "yahoo",
+   "pct": 5.3,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001087": {
+   "acc": "0000354204-26-001087",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/933036/000035420426001087/0000354204-26-001087-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "UPBOUND GROUP, INC.",
+   "issuer_cik": "0000933036",
+   "ticker": "UPBD",
+   "group": "13G",
+   "cap": 914717639.9865961,
+   "cap_src": "yahoo",
+   "pct": 5.4,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001037": {
+   "acc": "0000354204-26-001037",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/895447/000035420426001037/0000354204-26-001037-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "SHOE STATION GROUP INC",
+   "issuer_cik": "0000895447",
+   "ticker": "SHOE",
+   "group": "13G",
+   "cap": 354884713.120842,
+   "cap_src": "yahoo",
+   "pct": 5.5,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001055": {
+   "acc": "0000354204-26-001055",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/866729/000035420426001055/0000354204-26-001055-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "SCHOLASTIC CORP",
+   "issuer_cik": "0000866729",
+   "ticker": "SCHL",
+   "group": "13G",
+   "cap": 706554480.3834076,
+   "cap_src": "yahoo",
+   "pct": 9.5,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001056": {
+   "acc": "0000354204-26-001056",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/826154/000035420426001056/0000354204-26-001056-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "ORRSTOWN FINANCIAL SERVICES INC",
+   "issuer_cik": "0000826154",
+   "ticker": "ORRF",
+   "group": "13G",
+   "cap": 814715872.9038391,
+   "cap_src": "yahoo",
+   "pct": 5.1,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001061": {
+   "acc": "0000354204-26-001061",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/354963/000035420426001061/0000354204-26-001061-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+   "issuer_cik": "0000354963",
+   "ticker": "SHEN",
+   "group": "13G",
+   "cap": 620084405.4400253,
+   "cap_src": "yahoo",
+   "pct": 5.2,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001078": {
+   "acc": "0000354204-26-001078",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/42582/000035420426001078/0000354204-26-001078-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "GOODYEAR TIRE & RUBBER CO /OH/",
+   "issuer_cik": "0000042582",
+   "ticker": "GT",
+   "group": "13G",
+   "cap": 1368958527.3823957,
+   "cap_src": "yahoo",
+   "pct": 5.2,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001050": {
+   "acc": "0000354204-26-001050",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/8146/000035420426001050/0000354204-26-001050-index.htm",
+   "updated": "2026-10-08T14:25:41-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "AstroNova, Inc.",
+   "issuer_cik": "0000008146",
+   "ticker": null,
+   "group": "13G",
+   "cap": 85207000.0,
+   "cap_src": "float",
+   "pct": 0.0,
+   "event_date": "09/30/2026"
+  },
+  "0000354204-26-001036": {
+   "acc": "0000354204-26-001036",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1473844/000035420426001036/0000354204-26-001036-index.htm",
+   "updated": "2026-10-08T14:25:40-04:00",
+   "filers": [
+    "DIMENSIONAL FUND ADVISORS LP"
+   ],
+   "filer_ciks": [
+    "0000354204"
+   ],
+   "issuer": "Stellar Bancorp, Inc.",
+   "issuer_cik": "0001473844",
+   "ticker": null,
+   "group": "13G",
+   "cap": 1300000000.0,
+   "cap_src": "float",
+   "pct": 0.0,
+   "event_date": "09/30/2026"
+  },
+  "0001159363-26-000011": {
+   "acc": "0001159363-26-000011",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1841968/000115936326000011/0001159363-26-000011-index.htm",
+   "updated": "2026-10-08T13:42:14-04:00",
+   "filers": [
+    "CAZ INVESTMENTS LP"
+   ],
+   "filer_ciks": [
+    "0001159363"
+   ],
+   "issuer": "Ridgepost Capital, Inc.",
+   "issuer_cik": "0001841968",
+   "ticker": "RPC",
+   "group": "13G",
+   "cap": 879151548.4868431,
+   "cap_src": "yahoo",
+   "pct": 100.0,
+   "event_date": "03/25/2026"
+  },
+  "0001844495-26-000036": {
+   "acc": "0001844495-26-000036",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2015955/000184449526000036/0001844495-26-000036-index.htm",
+   "updated": "2026-10-08T13:03:42-04:00",
+   "filers": [
+    "Wealthspring Capital LLC"
+   ],
+   "filer_ciks": [
+    "0001844495"
+   ],
+   "issuer": "Lionheart Holdings",
+   "issuer_cik": "0002015955",
+   "ticker": "CUB",
+   "group": "13G",
+   "cap": 285305665.0687704,
+   "cap_src": "yahoo",
+   "pct": 4.51,
+   "event_date": "09/30/2026"
+  },
+  "0001398344-26-018019": {
+   "acc": "0001398344-26-018019",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1906364/000139834426018019/0001398344-26-018019-index.htm",
+   "updated": "2026-10-08T11:40:20-04:00",
+   "filers": [
+    "RIVERNORTH CAPITAL MANAGEMENT, LLC"
+   ],
+   "filer_ciks": [
+    "0001447578"
+   ],
+   "issuer": "BOXABL Inc.",
+   "issuer_cik": "0001906364",
+   "ticker": "BXBL",
+   "group": "13G",
+   "cap": 763531967.1629868,
+   "cap_src": "yahoo",
+   "pct": 0.0,
+   "event_date": "09/30/2026"
+  },
+  "0001398344-26-018018": {
+   "acc": "0001398344-26-018018",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2020987/000139834426018018/0001398344-26-018018-index.htm",
+   "updated": "2026-10-08T11:35:23-04:00",
+   "filers": [
+    "RIVERNORTH CAPITAL MANAGEMENT, LLC"
+   ],
+   "filer_ciks": [
+    "0001447578"
+   ],
+   "issuer": "YHN Acquisition I Ltd",
+   "issuer_cik": "0002020987",
+   "ticker": "YHNA",
+   "group": "13G",
+   "cap": 47315463.839999996,
+   "cap_src": "yahoo",
+   "pct": 0.0,
+   "event_date": "09/30/2026"
+  },
+  "0000903939-26-000034": {
+   "acc": "0000903939-26-000034",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2066579/000090393926000034/0000903939-26-000034-index.htm",
+   "updated": "2026-10-08T11:18:15-04:00",
+   "filers": [
+    "BANKERS LIFE & CASUALTY CO"
+   ],
+   "filer_ciks": [
+    "0000903939"
+   ],
+   "issuer": "Privacore VPC Asset Backed Credit Fund",
+   "issuer_cik": "0002066579",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 34.8,
+   "event_date": "09/30/2026"
+  },
+  "0001213900-26-107785": {
+   "acc": "0001213900-26-107785",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1631487/000121390026107785/0001213900-26-107785-index.htm",
+   "updated": "2026-10-08T10:56:32-04:00",
+   "filers": [
+    "Sagy Ami"
+   ],
+   "filer_ciks": [
+    "0001740791"
+   ],
+   "issuer": "CollPlant Biotechnologies Ltd",
+   "issuer_cik": "0001631487",
+   "ticker": "CLGN",
+   "group": "13G",
+   "cap": 7468743.040161371,
+   "cap_src": "yahoo",
+   "pct": 5.7,
+   "event_date": "09/30/2026"
+  },
+  "0001846718-26-000016": {
+   "acc": "0001846718-26-000016",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2076561/000184671826000016/0001846718-26-000016-index.htm",
+   "updated": "2026-10-08T10:45:28-04:00",
+   "filers": [
+    "Space Summit Capital LLC"
+   ],
+   "filer_ciks": [
+    "0001846718"
+   ],
+   "issuer": "Pine Tree Acquisition Corp.",
+   "issuer_cik": "0002076561",
+   "ticker": "PAXG",
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 8.5,
+   "event_date": "10/06/2026"
+  },
+  "0001636587-26-000086": {
+   "acc": "0001636587-26-000086",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1503802/000163658726000086/0001636587-26-000086-index.htm",
+   "updated": "2026-10-08T10:26:56-04:00",
+   "filers": [
+    "ACORN BIOVENTURES, L.P."
+   ],
+   "filer_ciks": [
+    "0001766853"
+   ],
+   "issuer": "Karyopharm Therapeutics Inc.",
+   "issuer_cik": "0001503802",
+   "ticker": "KPTI",
+   "group": "13G",
+   "cap": 13645166.139160395,
+   "cap_src": "yahoo",
+   "pct": 4.5,
+   "event_date": "10/02/2026"
+  },
+  "0001062993-26-005241": {
+   "acc": "0001062993-26-005241",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2057463/000106299326005241/0001062993-26-005241-index.htm",
+   "updated": "2026-10-08T10:07:16-04:00",
+   "filers": [
+    "GEODE CAPITAL MANAGEMENT, LLC"
+   ],
+   "filer_ciks": [
+    "0001214717"
+   ],
+   "issuer": "Liberty Capital Corp/NV",
+   "issuer_cik": "0002057463",
+   "ticker": "GLIBA",
+   "group": "13G",
+   "cap": 941358814.5490189,
+   "cap_src": "yahoo",
+   "pct": 3.51,
+   "event_date": "09/30/2026"
   }
  },
  "seen": {
@@ -11948,7 +13128,95 @@
   "0000936872-26-000020": "2026-10-08T13:38:34.159163+00:00",
   "0001104659-26-114548": "2026-10-08T13:38:34.159163+00:00",
   "0001398344-26-018004": "2026-10-08T13:38:34.159163+00:00",
-  "0001213900-26-107721": "2026-10-08T13:38:34.159163+00:00"
+  "0001213900-26-107721": "2026-10-08T13:38:34.159163+00:00",
+  "0001493152-26-046317": "2026-10-08T19:59:09.488809+00:00",
+  "0001185185-26-004654": "2026-10-08T19:59:09.488809+00:00",
+  "0001213900-26-107784": "2026-10-08T19:59:09.488809+00:00",
+  "0001172661-26-004448": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001074": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001070": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001021": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001054": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001031": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001073": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001023": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001066": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001083": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001060": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001049": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001046": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001089": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001019": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001077": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001080": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001075": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001020": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001086": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001032": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001068": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001092": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001040": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001047": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001027": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001084": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001090": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001076": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001051": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001048": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001028": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001063": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001088": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001024": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001038": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001029": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001018": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001057": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001034": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001081": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001041": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001067": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001030": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001072": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001069": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001052": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001053": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001042": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001025": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001043": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001059": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001058": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001033": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001091": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001035": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001039": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001026": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001071": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001064": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001087": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001037": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001082": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001055": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001056": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001045": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001085": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001061": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001079": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001078": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001065": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001062": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001050": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001044": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001022": "2026-10-08T19:59:09.488809+00:00",
+  "0000354204-26-001036": "2026-10-08T19:59:09.488809+00:00",
+  "0001159363-26-000011": "2026-10-08T19:59:09.488809+00:00",
+  "0001844495-26-000036": "2026-10-08T19:59:09.488809+00:00",
+  "0001398344-26-018019": "2026-10-08T19:59:09.488809+00:00",
+  "0001398344-26-018018": "2026-10-08T19:59:09.488809+00:00",
+  "0000903939-26-000034": "2026-10-08T19:59:09.488809+00:00",
+  "0001213900-26-107785": "2026-10-08T19:59:09.488809+00:00",
+  "0001846718-26-000016": "2026-10-08T19:59:09.488809+00:00",
+  "0001636587-26-000086": "2026-10-08T19:59:09.488809+00:00",
+  "0001062993-26-005241": "2026-10-08T19:59:09.488809+00:00"
  },
  "caps": {
   "0001677250": {
@@ -12012,9 +13280,9 @@
    "checked": "2026-09-22T15:59:28.623895+00:00"
   },
   "0001872292": {
-   "cap": 570025.638,
+   "cap": 19000.854600000002,
    "src": "yahoo",
-   "checked": "2026-09-22T15:59:28.623895+00:00"
+   "checked": "2026-10-08T19:59:09.488809+00:00"
   },
   "0001326380": {
    "cap": 11986943637.871113,
@@ -12577,9 +13845,9 @@
    "checked": "2026-10-01T23:56:09.202878+00:00"
   },
   "0001503802": {
-   "cap": 39692555.0,
+   "cap": 13645166.139160395,
    "src": "yahoo",
-   "checked": "2026-09-25T17:17:13.880718+00:00"
+   "checked": "2026-10-08T19:59:09.488809+00:00"
   },
   "0002088082": {
    "cap": 724958342.2218466,
@@ -14720,6 +15988,406 @@
    "cap": 159889753.8026924,
    "src": "yahoo",
    "checked": "2026-10-08T13:38:34.159163+00:00"
+  },
+  "0001631487": {
+   "cap": 7468743.040161371,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001174169": {
+   "cap": 3907251970.2778673,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0002126198": {
+   "cap": 1826235322.7078419,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001866175": {
+   "cap": 4290291879.124893,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001740332": {
+   "cap": 2609497109.834751,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001703056": {
+   "cap": 4744982232.154129,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001683606": {
+   "cap": 521140952.4110012,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001575828": {
+   "cap": 882300000.0,
+   "src": "float",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001562476": {
+   "cap": 5972996298.0,
+   "src": "float",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001520697": {
+   "cap": 2658012780.220127,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001516912": {
+   "cap": 1618682642.3182983,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001498828": {
+   "cap": 0.0,
+   "src": "float",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001493225": {
+   "cap": 437700000.0,
+   "src": "float",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001395942": {
+   "cap": 4356063300.162449,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001157408": {
+   "cap": 3379438897.6394653,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001144980": {
+   "cap": 3027949807.519058,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001050797": {
+   "cap": 2907773380.1426926,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001046025": {
+   "cap": 1128041921.5735626,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001044777": {
+   "cap": 664076174.329586,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001013488": {
+   "cap": 1267065472.6150703,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001004702": {
+   "cap": 1589330596.9612198,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000886136": {
+   "cap": 53533622.78284073,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000883237": {
+   "cap": 872075770.6939697,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000880266": {
+   "cap": 7582335063.738136,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000812074": {
+   "cap": 950385526.4025187,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000763744": {
+   "cap": 1947959498.375,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000733269": {
+   "cap": 2283459607.4092026,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000357173": {
+   "cap": 1264261562.0075455,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000039911": {
+   "cap": 8228502691.227154,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000094049": {
+   "cap": 1385889304.5687103,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000352915": {
+   "cap": 10354556464.237976,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000037472": {
+   "cap": 353240008.02220154,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000096869": {
+   "cap": 443151671.29213715,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0002105139": {
+   "cap": 1307017865.1549606,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0002057463": {
+   "cap": 941358814.5490189,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001915657": {
+   "cap": 21460288250.024025,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001829576": {
+   "cap": 675778251.1170788,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001725255": {
+   "cap": 809126569.0987334,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001710155": {
+   "cap": 1322038859.0674114,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001693256": {
+   "cap": 2526468395.709732,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001674168": {
+   "cap": 2686534965.18713,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001593538": {
+   "cap": 872221764.662118,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001546417": {
+   "cap": 725209189.8532515,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001522540": {
+   "cap": 1817565546.334671,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001488139": {
+   "cap": 1118635723.8313694,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001477449": {
+   "cap": 1002895792.4546523,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001475841": {
+   "cap": 1691267690.6029587,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001444323": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001368458": {
+   "cap": 1500765405.0453262,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001341335": {
+   "cap": 3147506878.48427,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001315257": {
+   "cap": 837215124.0170288,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001127371": {
+   "cap": 708121146.1496849,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001084961": {
+   "cap": 2125708674.9870758,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001084048": {
+   "cap": 1915969219.6626892,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001032220": {
+   "cap": 3074971397.022518,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001025835": {
+   "cap": 2148026006.774597,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001013934": {
+   "cap": 1828570326.73349,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001001385": {
+   "cap": 970273500.3010406,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000944745": {
+   "cap": 560196782.8253212,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000933036": {
+   "cap": 914717639.9865961,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000895447": {
+   "cap": 354884713.120842,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000885639": {
+   "cap": 2276032219.874363,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000866729": {
+   "cap": 706554480.3834076,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000826154": {
+   "cap": 814715872.9038391,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000717954": {
+   "cap": 4696007403.020935,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000355811": {
+   "cap": 4457006011.969763,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000067716": {
+   "cap": 3955621584.2735596,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000042582": {
+   "cap": 1368958527.3823957,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000091767": {
+   "cap": 4787527464.214462,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000076605": {
+   "cap": 2089935428.6782837,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000008146": {
+   "cap": 85207000.0,
+   "src": "float",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000008063": {
+   "cap": 2772364226.064026,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0000016160": {
+   "cap": 3027781920.405052,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001473844": {
+   "cap": 1300000000.0,
+   "src": "float",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001841968": {
+   "cap": 879151548.4868431,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0002015955": {
+   "cap": 285305665.0687704,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0001906364": {
+   "cap": 763531967.1629868,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0002020987": {
+   "cap": 47315463.839999996,
+   "src": "yahoo",
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0002066579": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-08T19:59:09.488809+00:00"
+  },
+  "0002076561": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-08T19:59:09.488809+00:00"
   }
  }
 }
