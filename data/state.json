@@ -12862,6 +12862,246 @@
    "cap_src": "yahoo",
    "pct": 6.0,
    "event_date": "10/06/2026"
+  },
+  "0001477932-26-006147": {
+   "acc": "0001477932-26-006147",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1729637/000147793226006147/0001477932-26-006147-index.htm",
+   "updated": "2026-10-09T12:35:17-04:00",
+   "filers": [
+    "Morsevo Trade, Inc."
+   ],
+   "filer_ciks": [
+    "0001996107"
+   ],
+   "issuer": "Karbon-X Corp.",
+   "issuer_cik": "0001729637",
+   "ticker": "KARX",
+   "group": "13D",
+   "cap": 17813656.259999998,
+   "cap_src": "yahoo",
+   "pct": 6.7,
+   "event_date": "09/25/2026"
+  },
+  "0001477932-26-006142": {
+   "acc": "0001477932-26-006142",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/1404804/000147793226006142/0001477932-26-006142-index.htm",
+   "updated": "2026-10-09T10:02:38-04:00",
+   "filers": [
+    "Hard Rock Holdco LLC"
+   ],
+   "filer_ciks": [
+    "0002157340"
+   ],
+   "issuer": "Omnitek Engineering Corp",
+   "issuer_cik": "0001404804",
+   "ticker": "OMTK",
+   "group": "13D",
+   "cap": 656247.9099110514,
+   "cap_src": "yahoo",
+   "pct": 85.2,
+   "event_date": "09/29/2026"
+  },
+  "0001193125-26-418401": {
+   "acc": "0001193125-26-418401",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1886190/000119312526418401/0001193125-26-418401-index.htm",
+   "updated": "2026-10-09T06:02:41-04:00",
+   "filers": [
+    "Gold Sino Assets Ltd"
+   ],
+   "filer_ciks": [
+    "0001923287"
+   ],
+   "issuer": "Gogoro Inc.",
+   "issuer_cik": "0001886190",
+   "ticker": "GGR",
+   "group": "13D",
+   "cap": 58735294.527813435,
+   "cap_src": "yahoo",
+   "pct": 54.35,
+   "event_date": "10/07/2026"
+  },
+  "0001193125-26-418399": {
+   "acc": "0001193125-26-418399",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1381640/000119312526418399/0001193125-26-418399-index.htm",
+   "updated": "2026-10-09T06:01:34-04:00",
+   "filers": [
+    "Melco International Development LTD"
+   ],
+   "filer_ciks": [
+    "0001389153"
+   ],
+   "issuer": "Melco Resorts & Entertainment LTD",
+   "issuer_cik": "0001381640",
+   "ticker": "MLCO",
+   "group": "13D",
+   "cap": 1616037267.75,
+   "cap_src": "yahoo",
+   "pct": 62.6,
+   "event_date": "10/09/2026"
+  },
+  "0001333986-26-000050": {
+   "acc": "0001333986-26-000050",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1501072/000133398626000050/0001333986-26-000050-index.htm",
+   "updated": "2026-10-09T12:50:21-04:00",
+   "filers": [
+    "Equitable Holdings, Inc."
+   ],
+   "filer_ciks": [
+    "0001333986"
+   ],
+   "issuer": "RIVERNORTH OPPORTUNITIES FUND, INC.",
+   "issuer_cik": "0001501072",
+   "ticker": "RIV",
+   "group": "13G",
+   "cap": 314194414.99682426,
+   "cap_src": "yahoo",
+   "pct": 47.0,
+   "event_date": "09/30/2026"
+  },
+  "0000810972-26-000050": {
+   "acc": "0000810972-26-000050",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1329377/000081097226000050/0000810972-26-000050-index.htm",
+   "updated": "2026-10-09T11:21:14-04:00",
+   "filers": [
+    "Robert W. Baird & Co. Inc"
+   ],
+   "filer_ciks": [
+    "0000810972"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND",
+   "issuer_cik": "0001329377",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 4.9,
+   "event_date": "09/30/2026"
+  },
+  "0001665976-26-000003": {
+   "acc": "0001665976-26-000003",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1546429/000166597626000003/0001665976-26-000003-index.htm",
+   "updated": "2026-10-09T10:18:13-04:00",
+   "filers": [
+    "Coastal Bridge Advisors, LLC"
+   ],
+   "filer_ciks": [
+    "0001665976"
+   ],
+   "issuer": "Blackstone Strategic Credit 2027 Term Fund",
+   "issuer_cik": "0001546429",
+   "ticker": "BGB",
+   "group": "13G",
+   "cap": 494651714.18691635,
+   "cap_src": "yahoo",
+   "pct": 5.1,
+   "event_date": "03/31/2018"
+  },
+  "0001104659-26-114899": {
+   "acc": "0001104659-26-114899",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1937073/000110465926114899/0001104659-26-114899-index.htm",
+   "updated": "2026-10-09T10:00:54-04:00",
+   "filers": [
+    "Calamos Wealth Management LLC"
+   ],
+   "filer_ciks": [
+    "0001455258"
+   ],
+   "issuer": "Calamos Aksia Alternative Credit & Income Fund",
+   "issuer_cik": "0001937073",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 9.2,
+   "event_date": "09/30/2026"
+  },
+  "0001104659-26-114884": {
+   "acc": "0001104659-26-114884",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2015947/000110465926114884/0001104659-26-114884-index.htm",
+   "updated": "2026-10-09T09:22:38-04:00",
+   "filers": [
+    "CALAMOS INVESTMENT TRUST/IL"
+   ],
+   "filer_ciks": [
+    "0000826732"
+   ],
+   "issuer": "SilverBox Corp IV",
+   "issuer_cik": "0002015947",
+   "ticker": "SBXDF",
+   "group": "13G",
+   "cap": 280005000.0,
+   "cap_src": "yahoo",
+   "pct": 7.8,
+   "event_date": "09/30/2026"
+  },
+  "0001104659-26-114883": {
+   "acc": "0001104659-26-114883",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1863719/000110465926114883/0001104659-26-114883-index.htm",
+   "updated": "2026-10-09T09:17:51-04:00",
+   "filers": [
+    "CALAMOS INVESTMENT TRUST/IL"
+   ],
+   "filer_ciks": [
+    "0000826732"
+   ],
+   "issuer": "Everest Consolidator Acquisition Corp",
+   "issuer_cik": "0001863719",
+   "ticker": null,
+   "group": "13G",
+   "cap": 183712500.0,
+   "cap_src": "float",
+   "pct": 44.6,
+   "event_date": "09/30/2026"
+  },
+  "0001104659-26-114881": {
+   "acc": "0001104659-26-114881",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2047442/000110465926114881/0001104659-26-114881-index.htm",
+   "updated": "2026-10-09T09:12:26-04:00",
+   "filers": [
+    "Calamos Wealth Management LLC"
+   ],
+   "filer_ciks": [
+    "0001455258"
+   ],
+   "issuer": "Calamos Aksia Private Equity & Alternatives Fund",
+   "issuer_cik": "0002047442",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 26.3,
+   "event_date": "09/30/2026"
+  },
+  "0001104659-26-114879": {
+   "acc": "0001104659-26-114879",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2047442/000110465926114879/0001104659-26-114879-index.htm",
+   "updated": "2026-10-09T09:07:19-04:00",
+   "filers": [
+    "Calamos Wealth Management LLC"
+   ],
+   "filer_ciks": [
+    "0001455258"
+   ],
+   "issuer": "Calamos Aksia Private Equity & Alternatives Fund",
+   "issuer_cik": "0002047442",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 21.2,
+   "event_date": "09/30/2026"
   }
  },
  "seen": {
@@ -13705,7 +13945,20 @@
   "0001213900-26-107959": "2026-10-09T00:26:23.783574+00:00",
   "0001172661-26-004451": "2026-10-09T00:26:23.783574+00:00",
   "0001104659-26-114800": "2026-10-09T09:12:02.996714+00:00",
-  "0001104659-26-114792": "2026-10-09T09:12:02.996714+00:00"
+  "0001104659-26-114792": "2026-10-09T09:12:02.996714+00:00",
+  "0001477932-26-006147": "2026-10-09T17:01:42.820828+00:00",
+  "0001477932-26-006142": "2026-10-09T17:01:42.820828+00:00",
+  "0001193125-26-418401": "2026-10-09T17:01:42.820828+00:00",
+  "0001193125-26-418399": "2026-10-09T17:01:42.820828+00:00",
+  "0001333986-26-000050": "2026-10-09T17:01:42.820828+00:00",
+  "0001145665-26-000005": "2026-10-09T17:01:42.820828+00:00",
+  "0000810972-26-000050": "2026-10-09T17:01:42.820828+00:00",
+  "0001665976-26-000003": "2026-10-09T17:01:42.820828+00:00",
+  "0001104659-26-114899": "2026-10-09T17:01:42.820828+00:00",
+  "0001104659-26-114884": "2026-10-09T17:01:42.820828+00:00",
+  "0001104659-26-114883": "2026-10-09T17:01:42.820828+00:00",
+  "0001104659-26-114881": "2026-10-09T17:01:42.820828+00:00",
+  "0001104659-26-114879": "2026-10-09T17:01:42.820828+00:00"
  },
  "caps": {
   "0001677250": {
@@ -13919,9 +14172,9 @@
    "checked": "2026-09-22T15:59:28.623895+00:00"
   },
   "0001381640": {
-   "cap": 1823270311.0953197,
+   "cap": 1616037267.75,
    "src": "yahoo",
-   "checked": "2026-09-22T15:59:28.623895+00:00"
+   "checked": "2026-10-09T17:01:42.820828+00:00"
   },
   "0001679628": {
    "cap": 3955431.2832005024,
@@ -13949,9 +14202,9 @@
    "checked": "2026-10-07T17:27:17.382343+00:00"
   },
   "0001501072": {
-   "cap": 290135398.2413082,
+   "cap": 314194414.99682426,
    "src": "yahoo",
-   "checked": "2026-09-22T15:59:28.623895+00:00"
+   "checked": "2026-10-09T17:01:42.820828+00:00"
   },
   "0001863127": {
    "cap": 1752588869.3730145,
@@ -16962,6 +17215,46 @@
    "cap": 740616547.92,
    "src": "yahoo",
    "checked": "2026-10-09T00:26:23.783574+00:00"
+  },
+  "0001729637": {
+   "cap": 17813656.259999998,
+   "src": "yahoo",
+   "checked": "2026-10-09T17:01:42.820828+00:00"
+  },
+  "0001404804": {
+   "cap": 656247.9099110514,
+   "src": "yahoo",
+   "checked": "2026-10-09T17:01:42.820828+00:00"
+  },
+  "0001886190": {
+   "cap": 58735294.527813435,
+   "src": "yahoo",
+   "checked": "2026-10-09T17:01:42.820828+00:00"
+  },
+  "0000839923": {
+   "cap": 35978749083.0575,
+   "src": "yahoo",
+   "checked": "2026-10-09T17:01:42.820828+00:00"
+  },
+  "0001546429": {
+   "cap": 494651714.18691635,
+   "src": "yahoo",
+   "checked": "2026-10-09T17:01:42.820828+00:00"
+  },
+  "0002015947": {
+   "cap": 280005000.0,
+   "src": "yahoo",
+   "checked": "2026-10-09T17:01:42.820828+00:00"
+  },
+  "0001863719": {
+   "cap": 183712500.0,
+   "src": "float",
+   "checked": "2026-10-09T17:01:42.820828+00:00"
+  },
+  "0002047442": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-09T17:01:42.820828+00:00"
   }
  }
 }
