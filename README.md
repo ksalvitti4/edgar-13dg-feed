@@ -1,6 +1,6 @@
 # Small-cap 13D / 13G feed: setup guide
 
-This builds two RSS feeds, one for 13Ds and one for 13Gs, that only include filings on companies under your market-cap cutoff. It also builds a simple web page listing the same filings. Everything runs free on GitHub. It updates every 2 hours on weekdays, and you read the results in Inoreader.
+This builds RSS feeds for 13Ds, 13Gs, CEO and board changes, activist settlements and proxy fights, issuer tender offers, capital allocation announcements, and a "catalyst stack" flag, all limited to companies under your market-cap cutoff. It also builds a simple web page listing the same filings. Everything runs free on GitHub. It updates every 2 hours on weekdays, and you read the results in Inoreader.
 
 Each item looks like this:
 
@@ -84,6 +84,14 @@ In Inoreader, click **Add new**, then **Feed**, and add each of these (replace Y
 
 Rename them "13D – Small cap" and "13G – Small cap." You can keep the raw EDGAR feeds as a backup or unfollow them.
 
+Add the catalyst feeds the same way:
+
+- `https://YOUR-USERNAME.github.io/edgar-13dg-feed/leadership.xml` — CEO, CFO, officer and board changes (8-K Item 5.02)
+- `https://YOUR-USERNAME.github.io/edgar-13dg-feed/activism.xml` — cooperation/nomination agreements with investors, and proxy fights
+- `https://YOUR-USERNAME.github.io/edgar-13dg-feed/tender.xml` — companies tendering for their own shares (SC TO-I)
+- `https://YOUR-USERNAME.github.io/edgar-13dg-feed/capital.xml` — new or bigger buybacks, special dividends, dividend initiations, Dutch auctions, strategic reviews, capital allocation frameworks
+- `https://YOUR-USERNAME.github.io/edgar-13dg-feed/catalyst.xml` — the stacking flag (see below). Start here if you only follow one.
+
 The page at `https://YOUR-USERNAME.github.io/edgar-13dg-feed/` shows the same filings as a table, if you'd rather browse that way.
 
 ---
@@ -97,6 +105,30 @@ The page at `https://YOUR-USERNAME.github.io/edgar-13dg-feed/` shows the same fi
 - If neither source has a number, the filing is **kept** and marked **[Cap unknown]**. These are usually private companies, foreign issuers, SPACs, or brand-new listings. You get to decide whether they matter.
 - For filings it keeps, it reads the filing's structured data to get the **% of class** and the **event date**.
 - Filings stay in the feed for 45 days, then drop off.
+
+### 13D Item 4 tags
+
+13Ds and 13D/As get an **[Item 4: ...]** tag when the purpose section describes something the filer did or plans to do: `nominating` (nominations, board seats), `letter` (letters, presentations, settlement talks), `capital` (buybacks, special dividends, excess cash), or `sale` (strategic alternatives, sale of the company). The standard "may from time to time discuss (a) through (j)" boilerplate doesn't trigger a tag. These usually come months before a board change or a new capital allocation plan.
+
+### Catalyst feeds
+
+- **Leadership** reads every 8-K with Item 5.02 and tags it **CEO change**, **CFO change**, **Officer change** or **Board change**. Compensation-only 5.02s (bonuses, employment agreement amendments, severance terms) are dropped, and so are biographies of new hires that mention past jobs elsewhere.
+- **Activism** includes 8-Ks describing a cooperation, nomination or standstill agreement with an investor, plus PREC14A, DEFC14A and DFAN14A filings. DFAN14As from operating companies (usually merger communications) are skipped, and a proxy fight is only posted once per 60 days per company.
+- **Tender** is every original SC TO-I.
+- **Capital** reads 8-Ks with Items 1.01, 2.02, 7.01 or 8.01 (including the press release exhibits) for new buyback authorizations, buyback increases, special dividends, dividend initiations, Dutch auctions/self-tenders, strategic reviews, and capital allocation frameworks. Sentences about existing or previously authorized programs, forward-looking boilerplate, and "strategic alternatives" that are really a search for financing are ignored. Each tag is posted once per 180 days per company, since earnings releases keep repeating "our ongoing review of strategic alternatives."
+- These feeds only include companies with an exchange ticker and skip funds, BDCs and SPACs.
+- Every item shows the sentence that triggered the tag, so you can triage without opening the filing.
+
+### Catalyst stacking flag
+
+The script keeps a 12-month history of signals for each company, from these feeds and from the company's EDGAR filing history. A company lands in `catalyst.xml` when it has both:
+
+- a **change** signal: 13D, 13G→13D, 13D Item 4 tag, CEO change, activist settlement, or proxy fight, and
+- a **capital** signal: tender offer, new buyback, buyback increase, special dividend, dividend initiation, or strategic review.
+
+Board, CFO and officer changes and "capital allocation" language show up in the timeline but don't qualify on their own, since they're too common. Each item shows the signal timeline and whether the company is actually spending on buybacks (from XBRL cash-flow data vs. the prior year). A company re-appears in the feed whenever a new signal is added to its stack.
+
+The script reads at most 900 filing documents per run (set with a `DOC_BUDGET` variable). Anything left over is picked up on the next run, so the first few runs after an upgrade take longer and fill in gradually.
 
 ## Troubleshooting
 
