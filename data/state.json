@@ -22387,6 +22387,12 @@
     "d": "2026-09-21",
     "acc": "0002107788-26-000008",
     "link": "https://www.sec.gov/Archives/edgar/data/1951667/000210778826000008/0002107788-26-000008-index.htm"
+   },
+   {
+    "t": "Proxy fight",
+    "d": "2026-10-01",
+    "acc": "0002107788-26-000010",
+    "link": "https://www.sec.gov/Archives/edgar/data/1951667/000210778826000010/0002107788-26-000010-index.htm"
    }
   ],
   "0001095565": [
@@ -22415,6 +22421,18 @@
     "d": "2026-09-18",
     "acc": "0001493152-26-043321",
     "link": "https://www.sec.gov/Archives/edgar/data/1872292/000149315226043321/0001493152-26-043321-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2026-09-11",
+    "acc": "0001493152-26-042453",
+    "link": "https://www.sec.gov/Archives/edgar/data/1872292/000149315226042453/0001493152-26-042453-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2026-09-11",
+    "acc": "0001493152-26-042451",
+    "link": "https://www.sec.gov/Archives/edgar/data/1872292/000149315226042451/0001493152-26-042451-index.htm"
    }
   ],
   "0001987342": [
@@ -22431,6 +22449,18 @@
     "d": "2026-09-18",
     "acc": "0001193125-26-395888",
     "link": "https://www.sec.gov/Archives/edgar/data/1749723/000119312526395888/0001193125-26-395888-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2026-03-09",
+    "acc": "0000935836-26-000152",
+    "link": "https://www.sec.gov/Archives/edgar/data/1749723/000093583626000152/0000935836-26-000152-index.htm"
+   },
+   {
+    "t": "Board change",
+    "d": "2026-09-11",
+    "acc": "0001749723-26-000118",
+    "link": "https://www.sec.gov/Archives/edgar/data/1749723/000174972326000118/0001749723-26-000118-index.htm"
    }
   ],
   "0001412095": [
@@ -22487,6 +22517,12 @@
     "d": "2026-09-23",
     "acc": "0000921895-26-002628",
     "link": "https://www.sec.gov/Archives/edgar/data/2084261/000092189526002628/0000921895-26-002628-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2026-03-31",
+    "acc": "0000921895-26-000845",
+    "link": "https://www.sec.gov/Archives/edgar/data/2084261/000092189526000845/0000921895-26-000845-index.htm"
    }
   ],
   "0001738758": [
@@ -22578,6 +22614,12 @@
   "0001974044": [
    {
     "t": "13G\u219213D",
+    "d": "2026-09-29",
+    "acc": "0000921895-26-002662",
+    "link": "https://www.sec.gov/Archives/edgar/data/1974044/000092189526002662/0000921895-26-002662-index.htm"
+   },
+   {
+    "t": "13D",
     "d": "2026-09-29",
     "acc": "0000921895-26-002662",
     "link": "https://www.sec.gov/Archives/edgar/data/1974044/000092189526002662/0000921895-26-002662-index.htm"
@@ -22689,6 +22731,18 @@
     "d": "2026-10-01",
     "acc": "0002096493-26-000005",
     "link": "https://www.sec.gov/Archives/edgar/data/1840416/000209649326000005/0002096493-26-000005-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2026-09-08",
+    "acc": "0001213900-26-098095",
+    "link": "https://www.sec.gov/Archives/edgar/data/1840416/000121390026098095/0001213900-26-098095-index.htm"
+   },
+   {
+    "t": "Strategic review",
+    "d": "2026-03-19",
+    "acc": "0001171843-26-001794",
+    "link": "https://www.sec.gov/Archives/edgar/data/1840416/000117184326001794/0001171843-26-001794-index.htm"
    }
   ],
   "0001187953": [
@@ -22811,6 +22865,48 @@
     "d": "2026-10-02",
     "acc": "0001437749-26-031908",
     "link": "https://www.sec.gov/Archives/edgar/data/1757715/000143774926031908/0001437749-26-031908-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2026-09-10",
+    "acc": "0001829126-26-010004",
+    "link": "https://www.sec.gov/Archives/edgar/data/1757715/000182912626010004/0001829126-26-010004-index.htm"
+   },
+   {
+    "t": "Board change",
+    "d": "2026-09-29",
+    "acc": "0001437749-26-031486",
+    "link": "https://www.sec.gov/Archives/edgar/data/1757715/000143774926031486/0001437749-26-031486-index.htm"
+   },
+   {
+    "t": "CEO change",
+    "d": "2026-07-20",
+    "acc": "0001437749-26-023879",
+    "link": "https://www.sec.gov/Archives/edgar/data/1757715/000143774926023879/0001437749-26-023879-index.htm"
+   },
+   {
+    "t": "Board change",
+    "d": "2026-07-20",
+    "acc": "0001437749-26-023879",
+    "link": "https://www.sec.gov/Archives/edgar/data/1757715/000143774926023879/0001437749-26-023879-index.htm"
+   },
+   {
+    "t": "Board change",
+    "d": "2026-04-29",
+    "acc": "0001437749-26-013884",
+    "link": "https://www.sec.gov/Archives/edgar/data/1757715/000143774926013884/0001437749-26-013884-index.htm"
+   },
+   {
+    "t": "CEO change",
+    "d": "2026-04-29",
+    "acc": "0001437749-26-013884",
+    "link": "https://www.sec.gov/Archives/edgar/data/1757715/000143774926013884/0001437749-26-013884-index.htm"
+   },
+   {
+    "t": "Strategic review",
+    "d": "2026-03-23",
+    "acc": "0001437749-26-009432",
+    "link": "https://www.sec.gov/Archives/edgar/data/1757715/000143774926009432/0001437749-26-009432-index.htm"
    }
   ],
   "0001541401": [
@@ -22913,6 +23009,12 @@
     "d": "2026-10-06",
     "acc": "0001213900-26-107336",
     "link": "https://www.sec.gov/Archives/edgar/data/2020385/000121390026107336/0001213900-26-107336-index.htm"
+   },
+   {
+    "t": "Board change",
+    "d": "2026-10-02",
+    "acc": "0001213900-26-106418",
+    "link": "https://www.sec.gov/Archives/edgar/data/2020385/000121390026106418/0001213900-26-106418-index.htm"
    }
   ],
   "0001444839": [
@@ -22929,6 +23031,12 @@
     "d": "2026-10-07",
     "acc": "0002159490-26-000001",
     "link": "https://www.sec.gov/Archives/edgar/data/1828098/000215949026000001/0002159490-26-000001-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2025-11-10",
+    "acc": "0001213900-25-108317",
+    "link": "https://www.sec.gov/Archives/edgar/data/1828098/000121390025108317/0001213900-25-108317-index.htm"
    }
   ],
   "0001784700": [
@@ -22991,6 +23099,12 @@
     "d": "2026-10-07",
     "acc": "0001185185-26-004644",
     "link": "https://www.sec.gov/Archives/edgar/data/2148436/000118518526004644/0001185185-26-004644-index.htm"
+   },
+   {
+    "t": "Board change",
+    "d": "2026-10-05",
+    "acc": "0001185185-26-004580",
+    "link": "https://www.sec.gov/Archives/edgar/data/2148436/000118518526004580/0001185185-26-004580-index.htm"
    }
   ],
   "0002101411": [
@@ -23047,6 +23161,30 @@
     "d": "2026-10-13",
     "acc": "0001104659-26-115597",
     "link": "https://www.sec.gov/Archives/edgar/data/2009312/000110465926115597/0001104659-26-115597-index.htm"
+   },
+   {
+    "t": "Officer change",
+    "d": "2026-10-06",
+    "acc": "0001493152-26-045960",
+    "link": "https://www.sec.gov/Archives/edgar/data/2009312/000149315226045960/0001493152-26-045960-index.htm"
+   },
+   {
+    "t": "Board change",
+    "d": "2026-10-01",
+    "acc": "0001493152-26-045385",
+    "link": "https://www.sec.gov/Archives/edgar/data/2009312/000149315226045385/0001493152-26-045385-index.htm"
+   },
+   {
+    "t": "CEO change",
+    "d": "2026-10-01",
+    "acc": "0001493152-26-045385",
+    "link": "https://www.sec.gov/Archives/edgar/data/2009312/000149315226045385/0001493152-26-045385-index.htm"
+   },
+   {
+    "t": "CFO change",
+    "d": "2026-10-01",
+    "acc": "0001493152-26-045385",
+    "link": "https://www.sec.gov/Archives/edgar/data/2009312/000149315226045385/0001493152-26-045385-index.htm"
    }
   ],
   "0001404804": [
@@ -23066,6 +23204,12 @@
   "0001938865": [
    {
     "t": "13G\u219213D",
+    "d": "2026-10-09",
+    "acc": "0001213900-26-108554",
+    "link": "https://www.sec.gov/Archives/edgar/data/1938865/000121390026108554/0001213900-26-108554-index.htm"
+   },
+   {
+    "t": "13D",
     "d": "2026-10-09",
     "acc": "0001213900-26-108554",
     "link": "https://www.sec.gov/Archives/edgar/data/1938865/000121390026108554/0001213900-26-108554-index.htm"
@@ -23099,6 +23243,18 @@
     "d": "2026-10-09",
     "acc": "0002117480-26-000005",
     "link": "https://www.sec.gov/Archives/edgar/data/2033264/000211748026000005/0002117480-26-000005-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2026-10-09",
+    "acc": "0002116307-26-000009",
+    "link": "https://www.sec.gov/Archives/edgar/data/2033264/000211630726000009/0002116307-26-000009-index.htm"
+   },
+   {
+    "t": "CFO change",
+    "d": "2026-08-21",
+    "acc": "0001493152-26-039667",
+    "link": "https://www.sec.gov/Archives/edgar/data/2033264/000149315226039667/0001493152-26-039667-index.htm"
    }
   ],
   "0001800373": [
@@ -23261,6 +23417,12 @@
     "d": "2026-10-13",
     "acc": "0000950103-26-015480",
     "link": "https://www.sec.gov/Archives/edgar/data/1830043/000095010326015480/0000950103-26-015480-index.htm"
+   },
+   {
+    "t": "Board change",
+    "d": "2026-07-02",
+    "acc": "0001193125-26-294479",
+    "link": "https://www.sec.gov/Archives/edgar/data/1830043/000119312526294479/0001193125-26-294479-index.htm"
    }
   ],
   "0002012706": [
@@ -23489,6 +23651,114 @@
     "d": "2026-10-13",
     "acc": "0000921895-26-002785",
     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526002785/0000921895-26-002785-index.htm"
+   },
+   {
+    "t": "Proxy fight",
+    "d": "2026-10-08",
+    "acc": "0000921895-26-002767",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526002767/0000921895-26-002767-index.htm"
+   },
+   {
+    "t": "Proxy fight",
+    "d": "2026-09-28",
+    "acc": "0000921895-26-002659",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526002659/0000921895-26-002659-index.htm"
+   },
+   {
+    "t": "Proxy fight",
+    "d": "2026-09-25",
+    "acc": "0000921895-26-002648",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526002648/0000921895-26-002648-index.htm"
+   },
+   {
+    "t": "Proxy fight",
+    "d": "2026-09-17",
+    "acc": "0000921895-26-002572",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526002572/0000921895-26-002572-index.htm"
+   },
+   {
+    "t": "Proxy fight",
+    "d": "2026-09-16",
+    "acc": "0000921895-26-002561",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526002561/0000921895-26-002561-index.htm"
+   },
+   {
+    "t": "Proxy fight",
+    "d": "2026-09-10",
+    "acc": "0000921895-26-002526",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526002526/0000921895-26-002526-index.htm"
+   },
+   {
+    "t": "Proxy fight",
+    "d": "2026-09-04",
+    "acc": "0000921895-26-002480",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526002480/0000921895-26-002480-index.htm"
+   },
+   {
+    "t": "Proxy fight",
+    "d": "2026-09-03",
+    "acc": "0001683168-26-006915",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826006915/0001683168-26-006915-index.htm"
+   },
+   {
+    "t": "Proxy fight",
+    "d": "2026-09-01",
+    "acc": "0000921895-26-002450",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526002450/0000921895-26-002450-index.htm"
+   },
+   {
+    "t": "Proxy fight",
+    "d": "2026-08-25",
+    "acc": "0001683168-26-006720",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826006720/0001683168-26-006720-index.htm"
+   },
+   {
+    "t": "Proxy fight",
+    "d": "2026-08-05",
+    "acc": "0001683168-26-005994",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826005994/0001683168-26-005994-index.htm"
+   },
+   {
+    "t": "Proxy fight",
+    "d": "2026-04-06",
+    "acc": "0000921895-26-000925",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526000925/0000921895-26-000925-index.htm"
+   },
+   {
+    "t": "Proxy fight",
+    "d": "2026-03-23",
+    "acc": "0000921895-26-000764",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526000764/0000921895-26-000764-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2026-02-03",
+    "acc": "0001999371-26-002511",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000199937126002511/0001999371-26-002511-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2026-01-26",
+    "acc": "0001193805-26-000067",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000119380526000067/0001193805-26-000067-index.htm"
+   },
+   {
+    "t": "Capital allocation",
+    "d": "2026-07-23",
+    "acc": "0001683168-26-005723",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826005723/0001683168-26-005723-index.htm"
+   },
+   {
+    "t": "Capital allocation",
+    "d": "2026-07-01",
+    "acc": "0001683168-26-005201",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826005201/0001683168-26-005201-index.htm"
+   },
+   {
+    "t": "Buyback increase",
+    "d": "2026-02-03",
+    "acc": "0001683168-26-000679",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826000679/0001683168-26-000679-index.htm"
    }
   ]
  },
@@ -25397,6 +25667,664 @@
    "tags": [],
    "snips": {},
    "d": "2026-10-14"
+  },
+  "0001738827-26-000023": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001738827-26-000019": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001738827-26-000015": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001738827-26-000010": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001738827-25-000076": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001738827-25-000072": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001749723-26-000166": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001749723-26-000118": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "Wanner resigned from their positions as members of the Board of Directors, as well as their respective positions as members of various committees thereof, in each case, effective on the Closing Date substantially concurrently with the consummation of the Transaction."
+   },
+   "d": "2026-10-14"
+  },
+  "0001749723-26-000101": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001749723-26-000067": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001749723-26-000054": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001749723-26-000035": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001749723-26-000025": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001749723-26-000022": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001437749-26-031486": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "Resignation of Director On September 23, 2026, the Company received the resignation of Avraham Ben-Tzvi as a member of the Board and from all committees of the Board, effective September 25, 2026."
+   },
+   "d": "2026-10-14"
+  },
+  "0001437749-26-023879": {
+   "tags": [
+    "CEO change",
+    "Board change"
+   ],
+   "snips": {
+    "CEO change": "Change in Chief Executive Officer and Transition Services As previously announced, pursuant to the terms of the Securities Purchase Agreement, the Board agreed to appoint Lazar as the sole Chief Executive Officer of the Company promptly following the Second SPA Closing.",
+    "Board change": "Harlam and Susan Lattmann resigned from the Board (the \u201c Board Resignations \u201d)."
+   },
+   "d": "2026-10-14"
+  },
+  "0001437749-26-023359": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001437749-26-021850": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001437749-26-018074": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001437749-26-013884": {
+   "tags": [
+    "Board change",
+    "CEO change"
+   ],
+   "snips": {
+    "Board change": "Appointment of Director In connection with the transactions contemplated by, and immediately prior to the execution of, the Securities Purchase Agreement, the Board increased the authorized number of directors to five and appointed Lazar to the Board to fill the vacancy created by such increase, effective immediately, as a Class II director with a term expiring at the Company\u2019s 2027 annual meeting",
+    "CEO change": "Post-Closing Appointment of Chief Executive Officer In accordance with the Securities Purchase Agreement, the Board agreed to appoint Lazar as the sole Chief Executive Officer of the Company promptly following the Second SPA Closing."
+   },
+   "d": "2026-10-14"
+  },
+  "0001437749-26-009432": {
+   "tags": [
+    "Strategic review"
+   ],
+   "snips": {
+    "Strategic review": "Date: March 23, 2026 By: /s/ Arturo Rodriguez Name: Arturo Rodriguez Title: Chief Executive Officer  EX-99.1 2 ex_935968.htm EXHIBIT 99.1 ex_935968.htm Exhibit 99.1 Aterian Provides Update on Strategic Alternatives Process SUMMIT, N.J. - March 23, 2026 - Aterian, Inc."
+   },
+   "d": "2026-10-14"
+  },
+  "0001193125-26-344091": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001193125-26-219679": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001193125-26-114292": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001193125-25-272110": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001683168-26-005723": {
+   "tags": [
+    "Capital allocation"
+   ],
+   "snips": {
+    "Capital allocation": "About Empery Digital Empery Digital is focused on building long-term shareholder value through its disciplined capital allocation strategy."
+   },
+   "d": "2026-10-14"
+  },
+  "0001683168-26-005429": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001683168-26-005307": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001683168-26-005201": {
+   "tags": [
+    "Capital allocation"
+   ],
+   "snips": {
+    "Capital allocation": "Date: July 1, 2026 /s/ Greg Endo Greg Endo Chief Financial Officer 4  EX-99.1 2 empery_ex9901.htm PRESS RELEASE Exhibit 99.1 FOR IMMEDIATE RELEASE Empery Digital Provides Additional Information Regarding Capital Needs and Go-Forward Capital Allocation Strategy LOI Tenant to Fund All Data Center Build Out & Operating Costs No Equity Issuances Anticipated at or Near Current Share Price Levels Compan"
+   },
+   "d": "2026-10-14"
+  },
+  "0001683168-26-005178": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001683168-26-004479": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001683168-26-002114": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001683168-26-000898": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001683168-26-000866": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001683168-26-000679": {
+   "tags": [
+    "Buyback increase"
+   ],
+   "snips": {
+    "Buyback increase": "By: /s/ Greg Endo Name: Greg Endo Title: Chief Financial Officer Date: February 3, 2026 7  EX-99.1 4 empery_ex9901.htm PRESS RELEASE Exhibit 99.1 Empery Digital Adopts Limited-Duration Shareholder Rights Plan Board Takes Action in Response to ATG Capital\u2019s Rapid Stock Accumulation Board Increases Share Repurchase Program AUSTIN, Texas \u2013 February 3, 2026 \u2013 Empery Digital Inc."
+   },
+   "d": "2026-10-14"
+  },
+  "0001193125-26-294479": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "(the \u201cCompany\u201d or \u201cBumble\u201d) of his decision to resign from the Board, effective as of June 30, 2026."
+   },
+   "d": "2026-10-14"
+  },
+  "0001193125-26-177142": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001830043-25-000039": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001171843-26-005808": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001171843-26-001794": {
+   "tags": [
+    "Strategic review"
+   ],
+   "snips": {
+    "Strategic review": "The Company is also exploring other strategic alternatives to maximize shareholder value."
+   },
+   "d": "2026-10-14"
+  },
+  "0001493152-26-044924": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-043936": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-043680": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-039917": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-039511": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-036762": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-036097": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-026878": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-015160": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-25-019001": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-043885": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-017106": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-002277": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-000421": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-25-025903": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001193125-26-410775": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001193125-26-391409": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001193125-26-159600": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001193125-26-035454": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001193125-25-311206": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001193125-25-286999": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-046165": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-044804": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-043572": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-043135": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-040455": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-040292": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-037586": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-026988": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-026419": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-007192": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-25-023636": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-25-020279": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001104659-26-112407": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001104659-26-107715": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001104659-26-101479": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001104659-26-096060": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001104659-26-076373": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001104659-26-070532": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001104659-26-068903": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001104659-26-060588": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001104659-26-048601": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001104659-26-044124": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001104659-26-039184": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001104659-26-034519": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-045960": {
+   "tags": [
+    "Officer change"
+   ],
+   "snips": {
+    "Officer change": "On October 1, 2026, the Company appointed Colin Chisholm as its Chief Operating Officer, with an expected start date of October 12, 2026."
+   },
+   "d": "2026-10-14"
+  },
+  "0001493152-26-045385": {
+   "tags": [
+    "Board change",
+    "CEO change",
+    "CFO change"
+   ],
+   "snips": {
+    "Board change": "Appointment of Directors Effective upon the Closing, Andrew Fox, Brett Velicovich, Jason Finger, Matthew Britton and Richard Allorto were appointed to the Board along with Vuk Jeremic, who remained on the Board.",
+    "CEO change": "[Interim] Departure of Executive Officers In accordance with the Merger Agreement, effective as of the Closing, Matthew Saker resigned as Interim Chief Executive Officer and director of the Company, and Sam Wai Sing Lui resigned as Chief Financial Officer of the Company.",
+    "CFO change": "Departure of Executive Officers In accordance with the Merger Agreement, effective as of the Closing, Matthew Saker resigned as Interim Chief Executive Officer and director of the Company, and Sam Wai Sing Lui resigned as Chief Financial Officer of the Company."
+   },
+   "d": "2026-10-14"
+  },
+  "0001493152-26-038731": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-033903": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-024234": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-012209": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-009672": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-009265": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001628280-26-063244": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001829126-26-008416": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001829126-26-001969": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001213900-26-106418": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "On September 28, 2026, each of Christophe Charlier, Marsha Kutkevitch and Darrell Mays resigned from the Board and each of their corresponding committees."
+   },
+   "d": "2026-10-14"
+  },
+  "0001213900-26-077643": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001213900-26-065833": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001213900-26-011558": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-039667": {
+   "tags": [
+    "CFO change"
+   ],
+   "snips": {
+    "CFO change": "Appointment of Interim Chief Financial Officer Vertical Data Inc."
+   },
+   "d": "2026-10-14"
+  },
+  "0001493152-26-037266": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-26-026649": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001493152-25-020404": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001213900-26-059046": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001477932-26-006073": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0000943374-26-000412": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001104659-26-035280": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001104659-26-032564": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001104659-26-025052": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001104659-26-002896": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001193125-26-396646": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001213900-26-099386": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001213900-26-095697": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001213900-26-094593": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001213900-26-092206": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001185185-26-004666": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001185185-26-004580": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "On October 1, 2026, in connection with the IPO, Jared Stone, Matthew Hansen, David Winfield, Cathleen Schriner-Gates, John Aslanian and Robert Katz (collectively with Jeb Spencer, the \u201c Directors \u201d) were appointed to the board of directors of the Company (the \u201c Board \u201d) upon the commencement of trading of the Company\u2019s Units on the New York Stock Exchange."
+   },
+   "d": "2026-10-14"
   }
  },
  "catalysts": {
@@ -25707,43 +26635,226 @@
    "n": 2,
    "updated": "2026-10-14T02:18:12.664220+00:00",
    "buyback": "$2.0M spent on buybacks in the 6 months to 2026-06-30"
+  },
+  "0001757715": {
+   "cik": "0001757715",
+   "issuer": "Aterian, Inc.",
+   "ticker": "ATER",
+   "cap": 11319153.214327097,
+   "timeline": [
+    {
+     "t": "Strategic review",
+     "d": "2026-03-23",
+     "acc": "0001437749-26-009432",
+     "link": "https://www.sec.gov/Archives/edgar/data/1757715/000143774926009432/0001437749-26-009432-index.htm"
+    },
+    {
+     "t": "Board change",
+     "d": "2026-04-29",
+     "acc": "0001437749-26-013884",
+     "link": "https://www.sec.gov/Archives/edgar/data/1757715/000143774926013884/0001437749-26-013884-index.htm"
+    },
+    {
+     "t": "CEO change",
+     "d": "2026-04-29",
+     "acc": "0001437749-26-013884",
+     "link": "https://www.sec.gov/Archives/edgar/data/1757715/000143774926013884/0001437749-26-013884-index.htm"
+    },
+    {
+     "t": "Board change",
+     "d": "2026-07-20",
+     "acc": "0001437749-26-023879",
+     "link": "https://www.sec.gov/Archives/edgar/data/1757715/000143774926023879/0001437749-26-023879-index.htm"
+    },
+    {
+     "t": "CEO change",
+     "d": "2026-07-20",
+     "acc": "0001437749-26-023879",
+     "link": "https://www.sec.gov/Archives/edgar/data/1757715/000143774926023879/0001437749-26-023879-index.htm"
+    },
+    {
+     "t": "13D",
+     "d": "2026-09-10",
+     "acc": "0001829126-26-010004",
+     "link": "https://www.sec.gov/Archives/edgar/data/1757715/000182912626010004/0001829126-26-010004-index.htm"
+    },
+    {
+     "t": "Board change",
+     "d": "2026-09-29",
+     "acc": "0001437749-26-031486",
+     "link": "https://www.sec.gov/Archives/edgar/data/1757715/000143774926031486/0001437749-26-031486-index.htm"
+    },
+    {
+     "t": "13D",
+     "d": "2026-10-02",
+     "acc": "0001437749-26-031910",
+     "link": "https://www.sec.gov/Archives/edgar/data/1757715/000143774926031910/0001437749-26-031910-index.htm"
+    },
+    {
+     "t": "13D",
+     "d": "2026-10-02",
+     "acc": "0001437749-26-031908",
+     "link": "https://www.sec.gov/Archives/edgar/data/1757715/000143774926031908/0001437749-26-031908-index.htm"
+    }
+   ],
+   "n": 4,
+   "updated": "2026-10-14T07:44:00.804517+00:00",
+   "buyback": "no repurchase spending reported in XBRL"
+  },
+  "0001829794": {
+   "cik": "0001829794",
+   "issuer": "Empery Digital Inc.",
+   "ticker": "EMPD",
+   "cap": 98041998.86322021,
+   "timeline": [
+    {
+     "t": "13D",
+     "d": "2026-01-26",
+     "acc": "0001193805-26-000067",
+     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000119380526000067/0001193805-26-000067-index.htm"
+    },
+    {
+     "t": "13D",
+     "d": "2026-02-03",
+     "acc": "0001999371-26-002511",
+     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000199937126002511/0001999371-26-002511-index.htm"
+    },
+    {
+     "t": "Buyback increase",
+     "d": "2026-02-03",
+     "acc": "0001683168-26-000679",
+     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826000679/0001683168-26-000679-index.htm"
+    },
+    {
+     "t": "Proxy fight",
+     "d": "2026-03-23",
+     "acc": "0000921895-26-000764",
+     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526000764/0000921895-26-000764-index.htm"
+    },
+    {
+     "t": "Proxy fight",
+     "d": "2026-04-06",
+     "acc": "0000921895-26-000925",
+     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526000925/0000921895-26-000925-index.htm"
+    },
+    {
+     "t": "Capital allocation",
+     "d": "2026-07-01",
+     "acc": "0001683168-26-005201",
+     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826005201/0001683168-26-005201-index.htm"
+    },
+    {
+     "t": "Capital allocation",
+     "d": "2026-07-23",
+     "acc": "0001683168-26-005723",
+     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826005723/0001683168-26-005723-index.htm"
+    },
+    {
+     "t": "Proxy fight",
+     "d": "2026-08-05",
+     "acc": "0001683168-26-005994",
+     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826005994/0001683168-26-005994-index.htm"
+    },
+    {
+     "t": "Proxy fight",
+     "d": "2026-08-25",
+     "acc": "0001683168-26-006720",
+     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826006720/0001683168-26-006720-index.htm"
+    },
+    {
+     "t": "Proxy fight",
+     "d": "2026-09-01",
+     "acc": "0000921895-26-002450",
+     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526002450/0000921895-26-002450-index.htm"
+    },
+    {
+     "t": "Proxy fight",
+     "d": "2026-09-03",
+     "acc": "0001683168-26-006915",
+     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826006915/0001683168-26-006915-index.htm"
+    },
+    {
+     "t": "Proxy fight",
+     "d": "2026-09-04",
+     "acc": "0000921895-26-002480",
+     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526002480/0000921895-26-002480-index.htm"
+    },
+    {
+     "t": "Proxy fight",
+     "d": "2026-09-10",
+     "acc": "0000921895-26-002526",
+     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526002526/0000921895-26-002526-index.htm"
+    },
+    {
+     "t": "Proxy fight",
+     "d": "2026-09-16",
+     "acc": "0000921895-26-002561",
+     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526002561/0000921895-26-002561-index.htm"
+    },
+    {
+     "t": "Proxy fight",
+     "d": "2026-09-17",
+     "acc": "0000921895-26-002572",
+     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526002572/0000921895-26-002572-index.htm"
+    },
+    {
+     "t": "Proxy fight",
+     "d": "2026-09-25",
+     "acc": "0000921895-26-002648",
+     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526002648/0000921895-26-002648-index.htm"
+    },
+    {
+     "t": "Proxy fight",
+     "d": "2026-09-28",
+     "acc": "0000921895-26-002659",
+     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526002659/0000921895-26-002659-index.htm"
+    },
+    {
+     "t": "Proxy fight",
+     "d": "2026-10-08",
+     "acc": "0000921895-26-002767",
+     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526002767/0000921895-26-002767-index.htm"
+    },
+    {
+     "t": "Proxy fight",
+     "d": "2026-10-13",
+     "acc": "0000921895-26-002785",
+     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526002785/0000921895-26-002785-index.htm"
+    }
+   ],
+   "n": 4,
+   "updated": "2026-10-14T07:44:00.804517+00:00",
+   "buyback": "$54.0M spent on buybacks in the 6 months to 2026-06-30 (prior year: $511K)"
+  },
+  "0001840416": {
+   "cik": "0001840416",
+   "issuer": "Sono Group N.V.",
+   "ticker": "SSM",
+   "cap": 1801599.3402321339,
+   "timeline": [
+    {
+     "t": "Strategic review",
+     "d": "2026-03-19",
+     "acc": "0001171843-26-001794",
+     "link": "https://www.sec.gov/Archives/edgar/data/1840416/000117184326001794/0001171843-26-001794-index.htm"
+    },
+    {
+     "t": "13D",
+     "d": "2026-09-08",
+     "acc": "0001213900-26-098095",
+     "link": "https://www.sec.gov/Archives/edgar/data/1840416/000121390026098095/0001213900-26-098095-index.htm"
+    },
+    {
+     "t": "13D",
+     "d": "2026-10-01",
+     "acc": "0002096493-26-000005",
+     "link": "https://www.sec.gov/Archives/edgar/data/1840416/000209649326000005/0002096493-26-000005-index.htm"
+    }
+   ],
+   "n": 2,
+   "updated": "2026-10-14T07:44:00.804517+00:00",
+   "buyback": "no repurchase spending reported in XBRL"
   }
  },
- "pending": [
-  "0001738827",
-  "0001749723",
-  "0001757715",
-  "0001784700",
-  "0001800373",
-  "0001801834",
-  "0001828098",
-  "0001829794",
-  "0001830043",
-  "0001840416",
-  "0001846416",
-  "0001872292",
-  "0001888654",
-  "0001937073",
-  "0001938865",
-  "0001946703",
-  "0001948864",
-  "0001951667",
-  "0001974044",
-  "0001986694",
-  "0001987342",
-  "0001993097",
-  "0002009312",
-  "0002012706",
-  "0002020385",
-  "0002033264",
-  "0002051587",
-  "0002076561",
-  "0002084261",
-  "0002088082",
-  "0002097702",
-  "0002101411",
-  "0002133719",
-  "0002136387",
-  "0002148436"
- ]
+ "pending": []
 }
