@@ -15285,6 +15285,269 @@
    "cap_src": "yahoo",
    "pct": 15.98,
    "event_date": "09/30/2026"
+  },
+  "0001213900-26-109357": {
+   "acc": "0001213900-26-109357",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2101411/000121390026109357/0001213900-26-109357-index.htm",
+   "updated": "2026-10-14T14:22:06-04:00",
+   "filers": [
+    "WISeQey Corp."
+   ],
+   "filer_ciks": [
+    "0001738699"
+   ],
+   "issuer": "WISeSat.Space Holdings Corp.",
+   "issuer_cik": "0002101411",
+   "ticker": "SAIQ",
+   "group": "13D",
+   "cap": 65593212.40396309,
+   "cap_src": "yahoo",
+   "pct": 88.5,
+   "event_date": "10/09/2026",
+   "intent": [
+    "sale"
+   ]
+  },
+  "0001493152-26-046947": {
+   "acc": "0001493152-26-046947",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/2041338/000149315226046947/0001493152-26-046947-index.htm",
+   "updated": "2026-10-14T11:05:05-04:00",
+   "filers": [
+    "Seto Wai Yue"
+   ],
+   "filer_ciks": [
+    "0002125603"
+   ],
+   "issuer": "Dreamland Ltd",
+   "issuer_cik": "0002041338",
+   "ticker": "TDIC",
+   "group": "13D",
+   "cap": 7526950.254564285,
+   "cap_src": "yahoo",
+   "pct": 53.15,
+   "event_date": "10/09/2026"
+  },
+  "0001104659-26-115801": {
+   "acc": "0001104659-26-115801",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1420720/000110465926115801/0001104659-26-115801-index.htm",
+   "updated": "2026-10-14T11:56:32-04:00",
+   "filers": [
+    "Coastlands Capital LP"
+   ],
+   "filer_ciks": [
+    "0002068530"
+   ],
+   "issuer": "iBio, Inc.",
+   "issuer_cik": "0001420720",
+   "ticker": "IBIO",
+   "group": "13G",
+   "cap": 50159657.84015465,
+   "cap_src": "yahoo",
+   "pct": 9.72,
+   "event_date": "10/07/2026"
+  },
+  "0002063341-26-000003": {
+   "acc": "0002063341-26-000003",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1402328/000206334126000003/0002063341-26-000003-index.htm",
+   "updated": "2026-10-14T10:41:40-04:00",
+   "filers": [
+    "BJI Financial Group"
+   ],
+   "filer_ciks": [
+    "0002063341"
+   ],
+   "issuer": "Sunshine Biopharma Inc.",
+   "issuer_cik": "0001402328",
+   "ticker": "SBFM",
+   "group": "13G",
+   "cap": 3501820.2993568033,
+   "cap_src": "yahoo",
+   "pct": 6.0,
+   "event_date": "10/08/2026"
+  },
+  "0001445546-26-007627": {
+   "acc": "0001445546-26-007627",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007627/0001445546-26-007627-index.htm",
+   "updated": "2026-10-14T09:58:46-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+   "issuer_cik": "0001667919",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 13.48,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007626": {
+   "acc": "0001445546-26-007626",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007626/0001445546-26-007626-index.htm",
+   "updated": "2026-10-14T09:57:51-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+   "issuer_cik": "0001667919",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 16.6,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007625": {
+   "acc": "0001445546-26-007625",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1648403/000144554626007625/0001445546-26-007625-index.htm",
+   "updated": "2026-10-14T09:56:52-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "Virtus ETF Trust II",
+   "issuer_cik": "0001648403",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 10.78,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007624": {
+   "acc": "0001445546-26-007624",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1812923/000144554626007624/0001445546-26-007624-index.htm",
+   "updated": "2026-10-14T09:56:06-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "PGIM Short Duration High Yield Opportunities Fund",
+   "issuer_cik": "0001812923",
+   "ticker": "SDHY",
+   "group": "13G",
+   "cap": 372069682.5975952,
+   "cap_src": "yahoo",
+   "pct": 13.67,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007623": {
+   "acc": "0001445546-26-007623",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1517936/000144554626007623/0001445546-26-007623-index.htm",
+   "updated": "2026-10-14T09:54:28-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND IV",
+   "issuer_cik": "0001517936",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 14.32,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007622": {
+   "acc": "0001445546-26-007622",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1517936/000144554626007622/0001445546-26-007622-index.htm",
+   "updated": "2026-10-14T09:52:53-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND IV",
+   "issuer_cik": "0001517936",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 11.08,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007621": {
+   "acc": "0001445546-26-007621",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/904112/000144554626007621/0001445546-26-007621-index.htm",
+   "updated": "2026-10-14T09:50:17-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "MORGAN STANLEY EMERGING MARKETS DEBT FUND INC",
+   "issuer_cik": "0000904112",
+   "ticker": "MSD",
+   "group": "13G",
+   "cap": 134032249.875,
+   "cap_src": "yahoo",
+   "pct": 16.23,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007619": {
+   "acc": "0001445546-26-007619",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1518557/000144554626007619/0001445546-26-007619-index.htm",
+   "updated": "2026-10-14T09:49:18-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "NYLIM MacKay DefinedTerm Muni Opportunities Fund",
+   "issuer_cik": "0001518557",
+   "ticker": "MMD",
+   "group": "13G",
+   "cap": 257654100.17465496,
+   "cap_src": "yahoo",
+   "pct": 9.05,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007618": {
+   "acc": "0001445546-26-007618",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007618/0001445546-26-007618-index.htm",
+   "updated": "2026-10-14T09:48:33-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+   "issuer_cik": "0001667919",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 15.0,
+   "event_date": "09/30/2026"
   }
  },
  "seen": {
@@ -16770,7 +17033,48 @@
   "0001829126-26-011096": "2026-10-14T13:48:03.566552+00:00",
   "0001062993-26-005311": "2026-10-14T13:48:03.566552+00:00",
   "0001193125-26-420684": "2026-10-14T13:48:03.566552+00:00",
-  "0001628280-26-065823": "2026-10-14T13:48:03.566552+00:00"
+  "0001628280-26-065823": "2026-10-14T13:48:03.566552+00:00",
+  "0001213900-26-109357": "2026-10-14T18:41:37.904801+00:00",
+  "0001493152-26-046947": "2026-10-14T18:41:37.904801+00:00",
+  "0001104659-26-115801": "2026-10-14T18:41:37.904801+00:00",
+  "0002063341-26-000003": "2026-10-14T18:41:37.904801+00:00",
+  "0001445546-26-007627": "2026-10-14T18:41:37.904801+00:00",
+  "0001445546-26-007626": "2026-10-14T18:41:37.904801+00:00",
+  "0001445546-26-007625": "2026-10-14T18:41:37.904801+00:00",
+  "0001445546-26-007624": "2026-10-14T18:41:37.904801+00:00",
+  "0001445546-26-007623": "2026-10-14T18:41:37.904801+00:00",
+  "0001445546-26-007622": "2026-10-14T18:41:37.904801+00:00",
+  "0001445546-26-007621": "2026-10-14T18:41:37.904801+00:00",
+  "0001445546-26-007619": "2026-10-14T18:41:37.904801+00:00",
+  "0001445546-26-007618": "2026-10-14T18:41:37.904801+00:00",
+  "0001140361-26-039576": "2026-10-14T18:41:37.904801+00:00",
+  "0001628280-26-065855": "2026-10-14T18:41:37.904801+00:00",
+  "0001140361-26-039573": "2026-10-14T18:41:37.904801+00:00",
+  "0001140361-26-039572": "2026-10-14T18:41:37.904801+00:00",
+  "0001140361-26-039570": "2026-10-14T18:41:37.904801+00:00",
+  "0001331451-26-000188": "2026-10-14T18:41:37.904801+00:00",
+  "0001493152-26-046971": "2026-10-14T18:41:37.904801+00:00",
+  "0001493152-26-046969": "2026-10-14T18:41:37.904801+00:00",
+  "0001539497-26-002683": "2026-10-14T18:41:37.904801+00:00",
+  "0000929638-26-003905": "2026-10-14T18:41:37.904801+00:00",
+  "0001493152-26-046961": "2026-10-14T18:41:37.904801+00:00",
+  "0001193125-26-421357": "2026-10-14T18:41:37.904801+00:00",
+  "0001493152-26-046955": "2026-10-14T18:41:37.904801+00:00",
+  "0001140361-26-039551": "2026-10-14T18:41:37.904801+00:00",
+  "0001537435-26-000092": "2026-10-14T18:41:37.904801+00:00",
+  "0001213900-26-109308": "2026-10-14T18:41:37.904801+00:00",
+  "0001140361-26-039519": "2026-10-14T18:41:37.904801+00:00",
+  "0001628280-26-065842": "2026-10-14T18:41:37.904801+00:00",
+  "0000908315-26-000038": "2026-10-14T18:41:37.904801+00:00",
+  "0001493152-26-046953": "2026-10-14T18:41:37.904801+00:00",
+  "0001325814-26-000163": "2026-10-14T18:41:37.904801+00:00",
+  "0001213900-26-109301": "2026-10-14T18:41:37.904801+00:00",
+  "0001493152-26-046949": "2026-10-14T18:41:37.904801+00:00",
+  "0000929638-26-003891": "2026-10-14T18:41:37.904801+00:00",
+  "0000929638-26-003886": "2026-10-14T18:41:37.904801+00:00",
+  "0001628280-26-065837": "2026-10-14T18:41:37.904801+00:00",
+  "0001213900-26-109362": "2026-10-14T18:41:37.904801+00:00",
+  "0001580642-26-006880": "2026-10-14T18:41:37.904801+00:00"
  },
  "caps": {
   "0001677250": {
@@ -19959,9 +20263,9 @@
    "checked": "2026-10-09T00:26:23.783574+00:00"
   },
   "0002101411": {
-   "cap": 164049169.39,
+   "cap": 65593212.40396309,
    "src": "yahoo",
-   "checked": "2026-10-09T00:26:23.783574+00:00"
+   "checked": "2026-10-14T18:41:37.904801+00:00"
   },
   "0001871983": {
    "cap": 31998772.24,
@@ -22107,6 +22411,81 @@
    "cap": 63999465.99796295,
    "src": "yahoo",
    "checked": "2026-10-14T13:48:03.566552+00:00"
+  },
+  "0002041338": {
+   "cap": 7526950.254564285,
+   "src": "yahoo",
+   "checked": "2026-10-14T18:41:37.904801+00:00"
+  },
+  "0001648403": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-14T18:41:37.904801+00:00"
+  },
+  "0001812923": {
+   "cap": 372069682.5975952,
+   "src": "yahoo",
+   "checked": "2026-10-14T18:41:37.904801+00:00"
+  },
+  "0000904112": {
+   "cap": 134032249.875,
+   "src": "yahoo",
+   "checked": "2026-10-14T18:41:37.904801+00:00"
+  },
+  "0001518557": {
+   "cap": 257654100.17465496,
+   "src": "yahoo",
+   "checked": "2026-10-14T18:41:37.904801+00:00"
+  },
+  "0001873722": {
+   "cap": 91592.75085042202,
+   "src": "yahoo",
+   "checked": "2026-10-14T18:41:37.904801+00:00"
+  },
+  "0001722731": {
+   "cap": 500039041.32000005,
+   "src": "yahoo",
+   "checked": "2026-10-14T18:41:37.904801+00:00"
+  },
+  "0000314808": {
+   "cap": 5938844487.949493,
+   "src": "yahoo",
+   "checked": "2026-10-14T18:41:37.904801+00:00"
+  },
+  "0001537435": {
+   "cap": 70035745.02474546,
+   "src": "yahoo",
+   "checked": "2026-10-14T18:41:37.904801+00:00"
+  },
+  "0000095572": {
+   "cap": 27172316.0,
+   "src": "float",
+   "checked": "2026-10-14T18:41:37.904801+00:00"
+  },
+  "0001275168": {
+   "cap": 1040597795.9960098,
+   "src": "yahoo",
+   "checked": "2026-10-14T18:41:37.904801+00:00"
+  },
+  "0000908315": {
+   "cap": 1085122363.2853088,
+   "src": "yahoo",
+   "checked": "2026-10-14T18:41:37.904801+00:00"
+  },
+  "0001865111": {
+   "cap": 49695214.800000004,
+   "src": "yahoo",
+   "checked": "2026-10-14T18:41:37.904801+00:00"
+  },
+  "0001648087": {
+   "cap": 2434410.9278357103,
+   "src": "yahoo",
+   "checked": "2026-10-14T18:41:37.904801+00:00"
+  },
+  "0000915779": {
+   "cap": 850278066.676712,
+   "src": "yahoo",
+   "checked": "2026-10-14T18:41:37.904801+00:00"
   }
  },
  "events": {
@@ -23112,6 +23491,81 @@
    "groups": [
     "LEAD"
    ]
+  },
+  "0001493152-26-046971": {
+   "acc": "0001493152-26-046971",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1873722/000149315226046971/0001493152-26-046971-index.htm",
+   "updated": "2026-10-14T13:38:01-04:00",
+   "issuer": "Bubblr Inc.",
+   "issuer_cik": "0001873722",
+   "ticker": "BBLR",
+   "cap": 91592.75085042202,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02"
+   ],
+   "filers": [],
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "(b) On October 2, 2026, Steve Morris delivered to the Receiver written notice of his resignation as a director of Bubblr, Inc."
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0001493152-26-046969": {
+   "acc": "0001493152-26-046969",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1873722/000149315226046969/0001493152-26-046969-index.htm",
+   "updated": "2026-10-14T13:34:22-04:00",
+   "issuer": "Bubblr Inc.",
+   "issuer_cik": "0001873722",
+   "ticker": "BBLR",
+   "cap": 91592.75085042202,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02"
+   ],
+   "filers": [],
+   "tags": [
+    "Officer change"
+   ],
+   "snips": {
+    "Officer change": "(b) On October 1, 2026, Patrick Kenneth Andrew Ensor delivered to the Receiver written notice of his resignation as Chief Revenue Officer of Bubblr, Inc."
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0000908315-26-000038": {
+   "acc": "0000908315-26-000038",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/908315/000090831526000038/0000908315-26-000038-index.htm",
+   "updated": "2026-10-14T11:39:42-04:00",
+   "issuer": "WINMARK CORP",
+   "issuer_cik": "0000908315",
+   "ticker": "WINA",
+   "cap": 1085122363.2853088,
+   "cap_src": "yahoo",
+   "items": [
+    "2.02",
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "Special dividend"
+   ],
+   "snips": {
+    "Special dividend": "Additionally, the Board of Directors approved the payment of a special dividend to its shareholders."
+   },
+   "groups": [
+    "CAP"
+   ]
   }
  },
  "signals": {
@@ -23873,6 +24327,12 @@
     "d": "2026-10-08",
     "acc": "0001213900-26-108089",
     "link": "https://www.sec.gov/Archives/edgar/data/2101411/000121390026108089/0001213900-26-108089-index.htm"
+   },
+   {
+    "t": "13D Item 4",
+    "d": "2026-10-14",
+    "acc": "0001213900-26-109357",
+    "link": "https://www.sec.gov/Archives/edgar/data/2101411/000121390026109357/0001213900-26-109357-index.htm"
    }
   ],
   "0001681682": [
@@ -24567,6 +25027,48 @@
     "d": "2026-10-14",
     "acc": "0001104659-26-115687",
     "link": "https://www.sec.gov/Archives/edgar/data/1526119/000110465926115687/0001104659-26-115687-index.htm"
+   }
+  ],
+  "0002041338": [
+   {
+    "t": "13D",
+    "d": "2026-10-14",
+    "acc": "0001493152-26-046947",
+    "link": "https://www.sec.gov/Archives/edgar/data/2041338/000149315226046947/0001493152-26-046947-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2026-07-13",
+    "acc": "0001493152-26-032907",
+    "link": "https://www.sec.gov/Archives/edgar/data/2041338/000149315226032907/0001493152-26-032907-index.htm"
+   }
+  ],
+  "0001873722": [
+   {
+    "t": "Board change",
+    "d": "2026-10-14",
+    "acc": "0001493152-26-046971",
+    "link": "https://www.sec.gov/Archives/edgar/data/1873722/000149315226046971/0001493152-26-046971-index.htm"
+   },
+   {
+    "t": "Officer change",
+    "d": "2026-10-14",
+    "acc": "0001493152-26-046969",
+    "link": "https://www.sec.gov/Archives/edgar/data/1873722/000149315226046969/0001493152-26-046969-index.htm"
+   }
+  ],
+  "0000908315": [
+   {
+    "t": "Special dividend",
+    "d": "2026-10-14",
+    "acc": "0000908315-26-000038",
+    "link": "https://www.sec.gov/Archives/edgar/data/908315/000090831526000038/0000908315-26-000038-index.htm"
+   },
+   {
+    "t": "Special dividend",
+    "d": "2025-10-15",
+    "acc": "0000908315-25-000036",
+    "link": "https://www.sec.gov/Archives/edgar/data/908315/000090831525000036/0000908315-25-000036-index.htm"
    }
   ]
  },
@@ -27351,6 +27853,97 @@
    "snips": {
     "Strategic review": "The Company and its Board of Directors (the \u201cBoard\u201d) believe these outcomes provide substantially greater financial, investment, and operational flexibility, creating a stronger foundation from which to evaluate and pursue additional transactions or other strategic alternatives that can deliver greater long-term value to shareholders.",
     "New buyback": "On April 29, 2026, our Board of Directors re-approved our stock repurchase plan to acquire up to $50.0 million in the aggregate of our common stock at prices at certain thresholds below our net asset value per share, in accordance with the guidelines specified in Rule 10b-18 and Rule 10b5-1 of the Securities Exchange Act of 1934 (the \u201cCompany Repurchase Plan\u201d), to be in effect through the earlier "
+   },
+   "d": "2026-10-14"
+  },
+  "0001493152-26-046971": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "(b) On October 2, 2026, Steve Morris delivered to the Receiver written notice of his resignation as a director of Bubblr, Inc."
+   },
+   "d": "2026-10-14"
+  },
+  "0001493152-26-046969": {
+   "tags": [
+    "Officer change"
+   ],
+   "snips": {
+    "Officer change": "(b) On October 1, 2026, Patrick Kenneth Andrew Ensor delivered to the Receiver written notice of his resignation as Chief Revenue Officer of Bubblr, Inc."
+   },
+   "d": "2026-10-14"
+  },
+  "0001493152-26-046961": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001537435-26-000092": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001213900-26-109308": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001628280-26-065842": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0000908315-26-000038": {
+   "tags": [
+    "Special dividend"
+   ],
+   "snips": {
+    "Special dividend": "Additionally, the Board of Directors approved the payment of a special dividend to its shareholders."
+   },
+   "d": "2026-10-14"
+  },
+  "0001493152-26-046949": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0001628280-26-065837": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0000908315-26-000027": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0000908315-26-000021": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0000908315-26-000016": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0000908315-26-000012": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0000908315-26-000002": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-14"
+  },
+  "0000908315-25-000036": {
+   "tags": [
+    "Special dividend"
+   ],
+   "snips": {
+    "Special dividend": "Additionally, the Board of Directors has approved the payment of a special dividend to shareholders."
    },
    "d": "2026-10-14"
   }
