@@ -15791,6 +15791,146 @@
    "cap_src": "yahoo",
    "pct": 8.4,
    "event_date": "10/06/2026"
+  },
+  "0000950157-26-001101": {
+   "acc": "0000950157-26-001101",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1632127/000095015726001101/0000950157-26-001101-index.htm",
+   "updated": "2026-10-14T21:55:47-04:00",
+   "filers": [
+    "GRAHAM DONALD"
+   ],
+   "filer_ciks": [
+    "0001018401"
+   ],
+   "issuer": "Cable One, Inc.",
+   "issuer_cik": "0001632127",
+   "ticker": "CABO",
+   "group": "13D",
+   "cap": 54469682.16443062,
+   "cap_src": "yahoo",
+   "pct": 6.88,
+   "event_date": "10/13/2026"
+  },
+  "0001104659-26-115924": {
+   "acc": "0001104659-26-115924",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1830043/000110465926115924/0001104659-26-115924-index.htm",
+   "updated": "2026-10-14T21:44:51-04:00",
+   "filers": [
+    "Herd Whitney Wolfe"
+   ],
+   "filer_ciks": [
+    "0001842687"
+   ],
+   "issuer": "Bumble Inc.",
+   "issuer_cik": "0001830043",
+   "ticker": "BMBL",
+   "group": "13D",
+   "cap": 785211443.1290417,
+   "cap_src": "yahoo",
+   "pct": 14.7,
+   "event_date": "10/12/2026"
+  },
+  "0001214659-26-012926": {
+   "acc": "0001214659-26-012926",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/1031316/000121465926012926/0001214659-26-012926-index.htm",
+   "updated": "2026-10-14T20:26:42-04:00",
+   "filers": [
+    "Powell Anderson Capital Partners LLC"
+   ],
+   "filer_ciks": [
+    "0002048057"
+   ],
+   "issuer": "FRANKLIN STREET PROPERTIES CORP /MA/",
+   "issuer_cik": "0001031316",
+   "ticker": "FSP",
+   "group": "13D",
+   "cap": 40564564.63210058,
+   "cap_src": "yahoo",
+   "pct": 6.8,
+   "event_date": "10/06/2026"
+  },
+  "0001062993-26-005348": {
+   "acc": "0001062993-26-005348",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1260563/000106299326005348/0001062993-26-005348-index.htm",
+   "updated": "2026-10-14T19:25:24-04:00",
+   "filers": [
+    "Saba Capital Management, L.P."
+   ],
+   "filer_ciks": [
+    "0001510281"
+   ],
+   "issuer": "Virtus Dividend, Interest & Premium Strategy Fund",
+   "issuer_cik": "0001260563",
+   "ticker": "NFJ",
+   "group": "13D",
+   "cap": 1404939365.2375793,
+   "cap_src": "yahoo",
+   "pct": 2.81,
+   "event_date": "10/12/2026"
+  },
+  "0001214659-26-012928": {
+   "acc": "0001214659-26-012928",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1949257/000121465926012928/0001214659-26-012928-index.htm",
+   "updated": "2026-10-14T21:16:17-04:00",
+   "filers": [
+    "Regal Partners Funds Management Pty Ltd"
+   ],
+   "filer_ciks": [
+    "0002099534"
+   ],
+   "issuer": "Radiopharm Theranostics Ltd",
+   "issuer_cik": "0001949257",
+   "ticker": "RADX",
+   "group": "13G",
+   "cap": 16342851.909579277,
+   "cap_src": "yahoo",
+   "pct": 3.34,
+   "event_date": "09/30/2026"
+  },
+  "0001213900-26-109526": {
+   "acc": "0001213900-26-109526",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1884516/000121390026109526/0001213900-26-109526-index.htm",
+   "updated": "2026-10-14T20:17:55-04:00",
+   "filers": [
+    "Sammons Capital, Inc."
+   ],
+   "filer_ciks": [
+    "0002133988"
+   ],
+   "issuer": "Drilling Tools International Corp",
+   "issuer_cik": "0001884516",
+   "ticker": "DTI",
+   "group": "13G",
+   "cap": 71270091.80704498,
+   "cap_src": "yahoo",
+   "pct": 0.03,
+   "event_date": "09/30/2026"
+  },
+  "0002087482-26-000001": {
+   "acc": "0002087482-26-000001",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1897087/000208748226000001/0002087482-26-000001-index.htm",
+   "updated": "2026-10-14T19:43:09-04:00",
+   "filers": [
+    "QIU ZHONGWEI"
+   ],
+   "filer_ciks": [
+    "0002087482"
+   ],
+   "issuer": "SuperX AI Technology Ltd",
+   "issuer_cik": "0001897087",
+   "ticker": "SUPX",
+   "group": "13G",
+   "cap": 307429800.5830388,
+   "cap_src": "yahoo",
+   "pct": 4.2,
+   "event_date": "09/22/2026"
   }
  },
  "seen": {
@@ -17413,7 +17553,14 @@
   "0001534504-26-000035": "2026-10-14T23:17:13.925197+00:00",
   "0001140361-26-039577": "2026-10-14T23:17:13.925197+00:00",
   "0001096906-26-001545": "2026-10-14T23:17:13.925197+00:00",
-  "0000921895-26-002793": "2026-10-14T23:17:13.925197+00:00"
+  "0000921895-26-002793": "2026-10-14T23:17:13.925197+00:00",
+  "0000950157-26-001101": "2026-10-15T04:48:52.879232+00:00",
+  "0001104659-26-115924": "2026-10-15T04:48:52.879232+00:00",
+  "0001214659-26-012926": "2026-10-15T04:48:52.879232+00:00",
+  "0001062993-26-005348": "2026-10-15T04:48:52.879232+00:00",
+  "0001214659-26-012928": "2026-10-15T04:48:52.879232+00:00",
+  "0001213900-26-109526": "2026-10-15T04:48:52.879232+00:00",
+  "0002087482-26-000001": "2026-10-15T04:48:52.879232+00:00"
  },
  "caps": {
   "0001677250": {
@@ -23100,6 +23247,26 @@
    "cap": 1232007143.740778,
    "src": "yahoo",
    "checked": "2026-10-14T23:17:13.925197+00:00"
+  },
+  "0001632127": {
+   "cap": 54469682.16443062,
+   "src": "yahoo",
+   "checked": "2026-10-15T04:48:52.879232+00:00"
+  },
+  "0001031316": {
+   "cap": 40564564.63210058,
+   "src": "yahoo",
+   "checked": "2026-10-15T04:48:52.879232+00:00"
+  },
+  "0001949257": {
+   "cap": 16342851.909579277,
+   "src": "yahoo",
+   "checked": "2026-10-15T04:48:52.879232+00:00"
+  },
+  "0001897087": {
+   "cap": 307429800.5830388,
+   "src": "yahoo",
+   "checked": "2026-10-15T04:48:52.879232+00:00"
   }
  },
  "events": {
@@ -26177,6 +26344,26 @@
     "d": "2026-06-12",
     "acc": "0001574085-26-000100",
     "link": "https://www.sec.gov/Archives/edgar/data/1574085/000157408526000100/0001574085-26-000100-index.htm"
+   }
+  ],
+  "0001031316": [
+   {
+    "t": "13D",
+    "d": "2026-10-14",
+    "acc": "0001214659-26-012926",
+    "link": "https://www.sec.gov/Archives/edgar/data/1031316/000121465926012926/0001214659-26-012926-index.htm"
+   },
+   {
+    "t": "Strategic review",
+    "d": "2026-07-28",
+    "acc": "0001104659-26-087553",
+    "link": "https://www.sec.gov/Archives/edgar/data/1031316/000110465926087553/0001104659-26-087553-index.htm"
+   },
+   {
+    "t": "Dividend initiation",
+    "d": "2026-07-28",
+    "acc": "0001104659-26-087553",
+    "link": "https://www.sec.gov/Archives/edgar/data/1031316/000110465926087553/0001104659-26-087553-index.htm"
    }
   ]
  },
@@ -29421,6 +29608,17 @@
    "tags": [],
    "snips": {},
    "d": "2026-10-14"
+  },
+  "0001104659-26-087553": {
+   "tags": [
+    "Strategic review",
+    "Dividend initiation"
+   ],
+   "snips": {
+    "Strategic review": "Notably, we were successful in reducing general and administrative expenses for the six months ended June 30, 2026 by $1.7 million compared to the six months ended June 30, 2025 as a result of lower personnel costs. \u200b -2- \u200b We continue to believe that the combination of an expanded and active strategic review process, disciplined execution, and leasing progress provides the best path to maximizing",
+    "Dividend initiation": "The Board and the Company will reassess, on a quarterly basis, when and if quarterly dividend payments can be reinstated and will announce any change to the dividend policy. \u200b Consolidation of Sponsored REI T As of January 1, 2023, we consolidated the operations of our Monument Circle sponsored REIT into our financial statements and on June 6, 2025, the property held by Monument Circle was sold an"
+   },
+   "d": "2026-10-15"
   }
  },
  "catalysts": {
@@ -30103,6 +30301,35 @@
    "n": 3,
    "updated": "2026-10-14T23:17:13.925197+00:00",
    "buyback": "$0 spent on buybacks in the 6 months to 2026-06-30 (prior year: $28.7M)"
+  },
+  "0001031316": {
+   "cik": "0001031316",
+   "issuer": "FRANKLIN STREET PROPERTIES CORP /MA/",
+   "ticker": "FSP",
+   "cap": 40564564.63210058,
+   "timeline": [
+    {
+     "t": "Dividend initiation",
+     "d": "2026-07-28",
+     "acc": "0001104659-26-087553",
+     "link": "https://www.sec.gov/Archives/edgar/data/1031316/000110465926087553/0001104659-26-087553-index.htm"
+    },
+    {
+     "t": "Strategic review",
+     "d": "2026-07-28",
+     "acc": "0001104659-26-087553",
+     "link": "https://www.sec.gov/Archives/edgar/data/1031316/000110465926087553/0001104659-26-087553-index.htm"
+    },
+    {
+     "t": "13D",
+     "d": "2026-10-14",
+     "acc": "0001214659-26-012926",
+     "link": "https://www.sec.gov/Archives/edgar/data/1031316/000121465926012926/0001214659-26-012926-index.htm"
+    }
+   ],
+   "n": 3,
+   "updated": "2026-10-15T04:48:52.879232+00:00",
+   "buyback": "no recent repurchase spending reported in XBRL"
   }
  },
  "pending": []
