@@ -16658,6 +16658,129 @@
    "cap_src": "yahoo",
    "pct": 4.5,
    "event_date": "10/13/2026"
+  },
+  "0001104659-26-116452": {
+   "acc": "0001104659-26-116452",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1659494/000110465926116452/0001104659-26-116452-index.htm",
+   "updated": "2026-10-16T09:16:39-04:00",
+   "filers": [
+    "Huang Jack Jiajia"
+   ],
+   "filer_ciks": [
+    "0002029760"
+   ],
+   "issuer": "51Talk Online Education Group",
+   "issuer_cik": "0001659494",
+   "ticker": "COE",
+   "group": "13D",
+   "cap": 70285584.3541956,
+   "cap_src": "yahoo",
+   "pct": 37.4,
+   "event_date": "07/01/2026"
+  },
+  "0001104659-26-116448": {
+   "acc": "0001104659-26-116448",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1221029/000110465926116448/0001104659-26-116448-index.htm",
+   "updated": "2026-10-16T09:07:29-04:00",
+   "filers": [
+    "HOLCIM LTD."
+   ],
+   "filer_ciks": [
+    "0002016373"
+   ],
+   "issuer": "CEMENTOS PACASMAYO SAA",
+   "issuer_cik": "0001221029",
+   "ticker": "CPAC",
+   "group": "13D",
+   "cap": 1084822751.762392,
+   "cap_src": "yahoo",
+   "pct": 50.01,
+   "event_date": "10/14/2026",
+   "intent": [
+    "capital"
+   ]
+  },
+  "0001493152-26-047321": {
+   "acc": "0001493152-26-047321",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1873093/000149315226047321/0001493152-26-047321-index.htm",
+   "updated": "2026-10-16T06:05:31-04:00",
+   "filers": [
+    "Choo Chee Kong"
+   ],
+   "filer_ciks": [
+    "0001970632"
+   ],
+   "issuer": "CytoMed Therapeutics Ltd",
+   "issuer_cik": "0001873093",
+   "ticker": "GDTC",
+   "group": "13D",
+   "cap": 10383370.016910076,
+   "cap_src": "yahoo",
+   "pct": 25.17,
+   "event_date": "10/12/2026"
+  },
+  "0002160411-26-000001": {
+   "acc": "0002160411-26-000001",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1807046/000216041126000001/0002160411-26-000001-index.htm",
+   "updated": "2026-10-16T07:29:19-04:00",
+   "filers": [
+    "Donnalley David James"
+   ],
+   "filer_ciks": [
+    "0002160411"
+   ],
+   "issuer": "Belpointe PREP, LLC",
+   "issuer_cik": "0001807046",
+   "ticker": "OZ",
+   "group": "13G",
+   "cap": 150066717.17562103,
+   "cap_src": "yahoo",
+   "pct": 5.6,
+   "event_date": "10/15/2026"
+  },
+  "0001901361-26-000015": {
+   "acc": "0001901361-26-000015",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1855747/000190136126000015/0001901361-26-000015-index.htm",
+   "updated": "2026-10-16T06:59:56-04:00",
+   "filers": [
+    "Capricorn Fund Managers Ltd"
+   ],
+   "filer_ciks": [
+    "0001901361"
+   ],
+   "issuer": "Blend Labs, Inc.",
+   "issuer_cik": "0001855747",
+   "ticker": "BLND",
+   "group": "13G",
+   "cap": 236513319.0,
+   "cap_src": "yahoo",
+   "pct": 5.6,
+   "event_date": "09/30/2026"
+  },
+  "0001193125-26-423326": {
+   "acc": "0001193125-26-423326",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2119292/000119312526423326/0001193125-26-423326-index.htm",
+   "updated": "2026-10-16T06:01:45-04:00",
+   "filers": [
+    "Temasek Holdings (Private) Ltd"
+   ],
+   "filer_ciks": [
+    "0001021944"
+   ],
+   "issuer": "Pasqal Holding SA",
+   "issuer_cik": "0002119292",
+   "ticker": "PSQL",
+   "group": "13G",
+   "cap": 1248286927.3750849,
+   "cap_src": "yahoo",
+   "pct": 5.6,
+   "event_date": "09/30/2026"
   }
  },
  "seen": {
@@ -18560,7 +18683,60 @@
   "0001213900-26-109932": "2026-10-16T00:27:36.312096+00:00",
   "0001193125-26-423089": "2026-10-16T00:27:36.312096+00:00",
   "0001947975-26-000023": "2026-10-16T00:27:36.312096+00:00",
-  "0001214659-26-012970": "2026-10-16T07:17:00.701328+00:00"
+  "0001214659-26-012970": "2026-10-16T07:17:00.701328+00:00",
+  "0001104659-26-116452": "2026-10-16T13:18:45.549494+00:00",
+  "0001104659-26-116448": "2026-10-16T13:18:45.549494+00:00",
+  "0001493152-26-047321": "2026-10-16T13:18:45.549494+00:00",
+  "0002160411-26-000001": "2026-10-16T13:18:45.549494+00:00",
+  "0001901361-26-000015": "2026-10-16T13:18:45.549494+00:00",
+  "0001193125-26-423326": "2026-10-16T13:18:45.549494+00:00",
+  "0001213900-26-110051": "2026-10-16T13:18:45.549494+00:00",
+  "0000100885-26-000305": "2026-10-16T13:18:45.549494+00:00",
+  "0001213900-26-110041": "2026-10-16T13:18:45.549494+00:00",
+  "0001193125-26-423434": "2026-10-16T13:18:45.549494+00:00",
+  "0001193125-26-423433": "2026-10-16T13:18:45.549494+00:00",
+  "0001213900-26-110039": "2026-10-16T13:18:45.549494+00:00",
+  "0001193125-26-423431": "2026-10-16T13:18:45.549494+00:00",
+  "0001628280-26-066051": "2026-10-16T13:18:45.549494+00:00",
+  "0001577670-26-000050": "2026-10-16T13:18:45.549494+00:00",
+  "0001104659-26-116441": "2026-10-16T13:18:45.549494+00:00",
+  "0001493152-26-047342": "2026-10-16T13:18:45.549494+00:00",
+  "0001193125-26-423422": "2026-10-16T13:18:45.549494+00:00",
+  "0000746598-26-000049": "2026-10-16T13:18:45.549494+00:00",
+  "0000091388-26-000060": "2026-10-16T13:18:45.549494+00:00",
+  "0001213900-26-110029": "2026-10-16T13:18:45.549494+00:00",
+  "0002077096-26-000284": "2026-10-16T13:18:45.549494+00:00",
+  "0001705284-26-000010": "2026-10-16T13:18:45.549494+00:00",
+  "0002115436-26-000013": "2026-10-16T13:18:45.549494+00:00",
+  "0000950103-26-015690": "2026-10-16T13:18:45.549494+00:00",
+  "0001193125-26-423400": "2026-10-16T13:18:45.549494+00:00",
+  "0001628280-26-066048": "2026-10-16T13:18:45.549494+00:00",
+  "0001367644-26-000098": "2026-10-16T13:18:45.549494+00:00",
+  "0001868419-26-000054": "2026-10-16T13:18:45.549494+00:00",
+  "0001104659-26-116423": "2026-10-16T13:18:45.549494+00:00",
+  "0001193125-26-423384": "2026-10-16T13:18:45.549494+00:00",
+  "0001193125-26-423377": "2026-10-16T13:18:45.549494+00:00",
+  "0001213900-26-110006": "2026-10-16T13:18:45.549494+00:00",
+  "0001193125-26-423376": "2026-10-16T13:18:45.549494+00:00",
+  "0001193125-26-423375": "2026-10-16T13:18:45.549494+00:00",
+  "0000086312-26-000180": "2026-10-16T13:18:45.549494+00:00",
+  "0000759944-26-000206": "2026-10-16T13:18:45.549494+00:00",
+  "0000092230-26-000108": "2026-10-16T13:18:45.549494+00:00",
+  "0001564708-26-000230": "2026-10-16T13:18:45.549494+00:00",
+  "0001213900-26-109980": "2026-10-16T13:18:45.549494+00:00",
+  "0001193125-26-423329": "2026-10-16T13:18:45.549494+00:00",
+  "0001104659-26-116371": "2026-10-16T13:18:45.549494+00:00",
+  "0000036270-26-000057": "2026-10-16T13:18:45.549494+00:00",
+  "0001281761-26-000063": "2026-10-16T13:18:45.549494+00:00",
+  "0001493152-26-047317": "2026-10-16T13:18:45.549494+00:00",
+  "0001493152-26-047314": "2026-10-16T13:18:45.549494+00:00",
+  "0001801661-26-000120": "2026-10-16T13:18:45.549494+00:00",
+  "0001104659-26-116333": "2026-10-16T13:18:45.549494+00:00",
+  "0001575872-26-000707": "2026-10-16T13:18:45.549494+00:00",
+  "0001104659-26-116323": "2026-10-16T13:18:45.549494+00:00",
+  "0001193125-26-423088": "2026-10-16T13:18:45.549494+00:00",
+  "0001193125-26-423054": "2026-10-16T13:18:45.549494+00:00",
+  "0001193125-26-423450": "2026-10-16T13:18:45.549494+00:00"
  },
  "caps": {
   "0001677250": {
@@ -19129,9 +19305,9 @@
    "checked": "2026-09-24T23:14:59.064908+00:00"
   },
   "0001705284": {
-   "cap": 491207465.08203125,
+   "cap": 482046360.21875,
    "src": "yahoo",
-   "checked": "2026-09-24T23:14:59.064908+00:00"
+   "checked": "2026-10-16T13:18:45.549494+00:00"
   },
   "0001788230": {
    "cap": 2200812.8655924797,
@@ -19909,9 +20085,9 @@
    "checked": "2026-10-02T19:22:38.541733+00:00"
   },
   "0000350698": {
-   "cap": 5403458213.354858,
+   "cap": 5283116899.693573,
    "src": "yahoo",
-   "checked": "2026-10-02T19:22:38.541733+00:00"
+   "checked": "2026-10-16T13:18:45.549494+00:00"
   },
   "0001415726": {
    "cap": null,
@@ -21119,9 +21295,9 @@
    "checked": "2026-10-07T23:09:26.872865+00:00"
   },
   "0002119292": {
-   "cap": 1541252245.2501698,
+   "cap": 1248286927.3750849,
    "src": "yahoo",
-   "checked": "2026-10-07T23:09:26.872865+00:00"
+   "checked": "2026-10-16T13:18:45.549494+00:00"
   },
   "0001001115": {
    "cap": 60667978.81018114,
@@ -21759,9 +21935,9 @@
    "checked": "2026-10-09T00:26:23.783574+00:00"
   },
   "0001679049": {
-   "cap": 6033904306.0199995,
+   "cap": 5602486617.441513,
    "src": "yahoo",
-   "checked": "2026-10-09T00:26:23.783574+00:00"
+   "checked": "2026-10-16T13:18:45.549494+00:00"
   },
   "0000866706": {
    "cap": 6582076472.02,
@@ -25057,6 +25233,161 @@
    "cap": 1407469252.9648209,
    "src": "yahoo",
    "checked": "2026-10-15T21:29:29.370933+00:00"
+  },
+  "0001659494": {
+   "cap": 70285584.3541956,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0001221029": {
+   "cap": 1084822751.762392,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0001807046": {
+   "cap": 150066717.17562103,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0001855747": {
+   "cap": 236513319.0,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0001840425": {
+   "cap": 7023738.504661858,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0000100885": {
+   "cap": 171515531951.25128,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0001376339": {
+   "cap": 682972498.9487171,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0001761918": {
+   "cap": 5200961420.422912,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0001630212": {
+   "cap": 1915569.4027328491,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0000750558": {
+   "cap": 284075612.25,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0001577670": {
+   "cap": 1118951933.743782,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0002062583": {
+   "cap": 5064298758.0,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0001429764": {
+   "cap": 64207849.56386411,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0000798528": {
+   "cap": 37562488.120412946,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0000091388": {
+   "cap": 7276821944.627575,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0002115436": {
+   "cap": 718268751056.2573,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0001560672": {
+   "cap": 130868997.00164795,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0001367644": {
+   "cap": 368142543.67834854,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0001868419": {
+   "cap": 8042804.610804081,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0001446847": {
+   "cap": 622954597.0382981,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0000092230": {
+   "cap": 56891131202.34927,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0001800637": {
+   "cap": 40095954.36872864,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0000086312": {
+   "cap": 80069868250.87817,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0000759944": {
+   "cap": 26715243791.372955,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0000036270": {
+   "cap": 31689599565.39917,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0001281761": {
+   "cap": 23266194353.880558,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0001838163": {
+   "cap": 44693248.2582922,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0001801661": {
+   "cap": 192319508.41728973,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0001923780": {
+   "cap": 2335761.0,
+   "src": "float",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0000784977": {
+   "cap": 5159451428.181381,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
+  },
+  "0001001233": {
+   "cap": 58000438.826935396,
+   "src": "yahoo",
+   "checked": "2026-10-16T13:18:45.549494+00:00"
   }
  },
  "events": {
@@ -26723,6 +27054,157 @@
    ],
    "snips": {
     "Officer change": "(the \u201cCompany\u201d) of his intent to retire as an employee of the Company, including as its President, effective as of December 31, 2026."
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0001213900-26-110039": {
+   "acc": "0001213900-26-110039",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1630212/000121390026110039/0001213900-26-110039-index.htm",
+   "updated": "2026-10-16T09:00:13-04:00",
+   "issuer": "Change Agents Corporation.",
+   "issuer_cik": "0001630212",
+   "ticker": "CHGA",
+   "cap": 1915569.4027328491,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02"
+   ],
+   "filers": [],
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "On October 14, 2026, Change Agents Corporation (the \u201cCompany\u201d) appointed Eric Weisblum as an independent director on the Company\u2019s board of directors, effective October 12, 2026."
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0001705284-26-000010": {
+   "acc": "0001705284-26-000010",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1705284/000170528426000010/0001705284-26-000010-index.htm",
+   "updated": "2026-10-16T08:05:24-04:00",
+   "issuer": "Private Bancorp of America, Inc.",
+   "issuer_cik": "0001705284",
+   "ticker": "PBAM",
+   "cap": 482046360.21875,
+   "cap_src": "yahoo",
+   "items": [
+    "2.02",
+    "7.01"
+   ],
+   "filers": [],
+   "tags": [
+    "New buyback",
+    "Special dividend"
+   ],
+   "snips": {
+    "New buyback": "Share Repurchases Authorized During the second quarter of 2026, the Company\u2019s Board of Directors authorized a stock repurchase program under which the Company may repurchase up to $10.0 million of its common stock.",
+    "Special dividend": "Refer to pages 27-29 for non-GAAP reconciliation 3Q25- $1.3M nonaccrual interest reversed; adjusted earning asset yield of 6.74%, and NIM of 4.86% 4Q25- $304K nonaccrual interest reversed; adjusted earning asset yield of 6.57%, and NIM of 4.89% 1Q26- $1.3M net nonaccrual interest recognized, prepay penalties, and FHLB stock special dividend; adjusted earning asset yield of 6.57%, and NIM of 5.00% "
+   },
+   "groups": [
+    "CAP"
+   ]
+  },
+  "0001628280-26-066048": {
+   "acc": "0001628280-26-066048",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1560672/000162828026066048/0001628280-26-066048-index.htm",
+   "updated": "2026-10-16T07:55:57-04:00",
+   "issuer": "Ellington Credit Co",
+   "issuer_cik": "0001560672",
+   "ticker": "EARN",
+   "cap": 130868997.00164795,
+   "cap_src": "yahoo",
+   "items": [
+    "8.01"
+   ],
+   "filers": [],
+   "tags": [
+    "New buyback"
+   ],
+   "snips": {
+    "New buyback": "On October 9, 2026, the Board of Trustees of Ellington Credit Company (the \u201cFund\u201d) authorized a program under which the Fund may repurchase up to $20 million of the Fund\u2019s outstanding common shares of beneficial interest, no par value (the \"common shares\") in the open market from time to time (the \u201cCommon Share Repurchase Program\u201d)."
+   },
+   "groups": [
+    "CAP"
+   ]
+  },
+  "0001367644-26-000098": {
+   "acc": "0001367644-26-000098",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1367644/000136764426000098/0001367644-26-000098-index.htm",
+   "updated": "2026-10-16T07:48:00-04:00",
+   "issuer": "Emergent BioSolutions Inc.",
+   "issuer_cik": "0001367644",
+   "ticker": "EBS",
+   "cap": 368142543.67834854,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "CFO change"
+   ],
+   "snips": {
+    "CFO change": "(the \u201c Company \u201d) announced that Richard Lindahl, the Company\u2019s Chief Financial Officer, will step down from his role as the Company\u2019s principal financial and accounting officer effective December 31, 2026, after which he will continue as an advisor until his retirement on March 31, 2027."
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0001104659-26-116423": {
+   "acc": "0001104659-26-116423",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1446847/000110465926116423/0001104659-26-116423-index.htm",
+   "updated": "2026-10-16T07:30:40-04:00",
+   "issuer": "IRONWOOD PHARMACEUTICALS INC",
+   "issuer_cik": "0001446847",
+   "ticker": "IRWD",
+   "cap": 622954597.0382981,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "CEO change",
+    "Board change"
+   ],
+   "snips": {
+    "CEO change": "The Company also announced today that, on October 12, 2026, Thomas McCourt notified the Board of his decision to retire as Chief Executive Officer, effective December 31, 2026, following 17 years of service to the Company, including five years in that role.",
+    "Board change": "McCourt will continue to serve as a director on the Board following his retirement as Chief Executive Officer."
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0001193125-26-423376": {
+   "acc": "0001193125-26-423376",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1590877/000119312526423376/0001193125-26-423376-index.htm",
+   "updated": "2026-10-16T07:00:14-04:00",
+   "issuer": "REGENXBIO Inc.",
+   "issuer_cik": "0001590877",
+   "ticker": "RGNX",
+   "cap": 479255789.0292206,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02"
+   ],
+   "filers": [],
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "Mills resigned from the board of directors (the \u201cBoard\u201d) of REGENXBIO Inc."
    },
    "groups": [
     "LEAD"
@@ -28704,6 +29186,86 @@
     "d": "2026-10-15",
     "acc": "0001193125-26-422885",
     "link": "https://www.sec.gov/Archives/edgar/data/1158895/000119312526422885/0001193125-26-422885-index.htm"
+   }
+  ],
+  "0001221029": [
+   {
+    "t": "13D Item 4",
+    "d": "2026-10-16",
+    "acc": "0001104659-26-116448",
+    "link": "https://www.sec.gov/Archives/edgar/data/1221029/000110465926116448/0001104659-26-116448-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2026-04-06",
+    "acc": "0001104659-26-039944",
+    "link": "https://www.sec.gov/Archives/edgar/data/1221029/000110465926039944/0001104659-26-039944-index.htm"
+   }
+  ],
+  "0001630212": [
+   {
+    "t": "Board change",
+    "d": "2026-10-16",
+    "acc": "0001213900-26-110039",
+    "link": "https://www.sec.gov/Archives/edgar/data/1630212/000121390026110039/0001213900-26-110039-index.htm"
+   }
+  ],
+  "0001705284": [
+   {
+    "t": "New buyback",
+    "d": "2026-10-16",
+    "acc": "0001705284-26-000010",
+    "link": "https://www.sec.gov/Archives/edgar/data/1705284/000170528426000010/0001705284-26-000010-index.htm"
+   },
+   {
+    "t": "Special dividend",
+    "d": "2026-10-16",
+    "acc": "0001705284-26-000010",
+    "link": "https://www.sec.gov/Archives/edgar/data/1705284/000170528426000010/0001705284-26-000010-index.htm"
+   }
+  ],
+  "0001560672": [
+   {
+    "t": "New buyback",
+    "d": "2026-10-16",
+    "acc": "0001628280-26-066048",
+    "link": "https://www.sec.gov/Archives/edgar/data/1560672/000162828026066048/0001628280-26-066048-index.htm"
+   }
+  ],
+  "0001367644": [
+   {
+    "t": "CFO change",
+    "d": "2026-10-16",
+    "acc": "0001367644-26-000098",
+    "link": "https://www.sec.gov/Archives/edgar/data/1367644/000136764426000098/0001367644-26-000098-index.htm"
+   }
+  ],
+  "0001446847": [
+   {
+    "t": "CEO change",
+    "d": "2026-10-16",
+    "acc": "0001104659-26-116423",
+    "link": "https://www.sec.gov/Archives/edgar/data/1446847/000110465926116423/0001104659-26-116423-index.htm"
+   },
+   {
+    "t": "Board change",
+    "d": "2026-10-16",
+    "acc": "0001104659-26-116423",
+    "link": "https://www.sec.gov/Archives/edgar/data/1446847/000110465926116423/0001104659-26-116423-index.htm"
+   },
+   {
+    "t": "Strategic review",
+    "d": "2025-11-10",
+    "acc": "0001104659-25-108806",
+    "link": "https://www.sec.gov/Archives/edgar/data/1446847/000110465925108806/0001104659-25-108806-index.htm"
+   }
+  ],
+  "0001590877": [
+   {
+    "t": "Board change",
+    "d": "2026-10-16",
+    "acc": "0001193125-26-423376",
+    "link": "https://www.sec.gov/Archives/edgar/data/1590877/000119312526423376/0001193125-26-423376-index.htm"
    }
   ]
  },
@@ -32713,6 +33275,243 @@
    "tags": [],
    "snips": {},
    "d": "2026-10-15"
+  },
+  "0001213900-26-110051": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001213900-26-110041": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001213900-26-110039": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "On October 14, 2026, Change Agents Corporation (the \u201cCompany\u201d) appointed Eric Weisblum as an independent director on the Company\u2019s board of directors, effective October 12, 2026."
+   },
+   "d": "2026-10-16"
+  },
+  "0001193125-26-423431": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001577670-26-000050": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001493152-26-047342": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001193125-26-423422": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001213900-26-110029": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001705284-26-000010": {
+   "tags": [
+    "New buyback",
+    "Special dividend"
+   ],
+   "snips": {
+    "New buyback": "Share Repurchases Authorized During the second quarter of 2026, the Company\u2019s Board of Directors authorized a stock repurchase program under which the Company may repurchase up to $10.0 million of its common stock.",
+    "Special dividend": "Refer to pages 27-29 for non-GAAP reconciliation 3Q25- $1.3M nonaccrual interest reversed; adjusted earning asset yield of 6.74%, and NIM of 4.86% 4Q25- $304K nonaccrual interest reversed; adjusted earning asset yield of 6.57%, and NIM of 4.89% 1Q26- $1.3M net nonaccrual interest recognized, prepay penalties, and FHLB stock special dividend; adjusted earning asset yield of 6.57%, and NIM of 5.00% "
+   },
+   "d": "2026-10-16"
+  },
+  "0001628280-26-066048": {
+   "tags": [
+    "New buyback"
+   ],
+   "snips": {
+    "New buyback": "On October 9, 2026, the Board of Trustees of Ellington Credit Company (the \u201cFund\u201d) authorized a program under which the Fund may repurchase up to $20 million of the Fund\u2019s outstanding common shares of beneficial interest, no par value (the \"common shares\") in the open market from time to time (the \u201cCommon Share Repurchase Program\u201d)."
+   },
+   "d": "2026-10-16"
+  },
+  "0001367644-26-000098": {
+   "tags": [
+    "CFO change"
+   ],
+   "snips": {
+    "CFO change": "(the \u201c Company \u201d) announced that Richard Lindahl, the Company\u2019s Chief Financial Officer, will step down from his role as the Company\u2019s principal financial and accounting officer effective December 31, 2026, after which he will continue as an advisor until his retirement on March 31, 2027."
+   },
+   "d": "2026-10-16"
+  },
+  "0001868419-26-000054": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001104659-26-116423": {
+   "tags": [
+    "CEO change",
+    "Board change"
+   ],
+   "snips": {
+    "CEO change": "The Company also announced today that, on October 12, 2026, Thomas McCourt notified the Board of his decision to retire as Chief Executive Officer, effective December 31, 2026, following 17 years of service to the Company, including five years in that role.",
+    "Board change": "McCourt will continue to serve as a director on the Board following his retirement as Chief Executive Officer."
+   },
+   "d": "2026-10-16"
+  },
+  "0001193125-26-423377": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001213900-26-110006": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001193125-26-423376": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "Mills resigned from the board of directors (the \u201cBoard\u201d) of REGENXBIO Inc."
+   },
+   "d": "2026-10-16"
+  },
+  "0001493152-26-047314": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001801661-26-000120": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001575872-26-000707": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001193125-26-423054": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001104659-26-091625": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001104659-26-074023": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001104659-26-056656": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001104659-26-026123": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001104659-26-019405": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001104659-26-000057": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001104659-25-123974": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001104659-25-116217": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001104659-25-108806": {
+   "tags": [
+    "Strategic review"
+   ],
+   "snips": {
+    "Strategic review": "In addition, we continue to review strategic alternatives to maximize shareholder value and look forward to providing an update on that process as appropriate,\u201d added Tom McCourt."
+   },
+   "d": "2026-10-16"
+  },
+  "0001628280-26-065295": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001628280-26-060947": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001628280-26-055302": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001628280-26-047662": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001628280-26-041657": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001628280-26-033162": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001628280-26-024138": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001628280-26-022115": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001628280-26-021420": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001628280-26-016125": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001193125-26-389249": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
+  },
+  "0001193125-26-342492": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-16"
   }
  },
  "catalysts": {
@@ -33471,6 +34270,35 @@
    "n": 3,
    "updated": "2026-10-15T17:07:14.864664+00:00",
    "buyback": "$1.5M spent on buybacks in the 6 months to 2026-06-30"
+  },
+  "0001446847": {
+   "cik": "0001446847",
+   "issuer": "IRONWOOD PHARMACEUTICALS INC",
+   "ticker": "IRWD",
+   "cap": 622954597.0382981,
+   "timeline": [
+    {
+     "t": "Strategic review",
+     "d": "2025-11-10",
+     "acc": "0001104659-25-108806",
+     "link": "https://www.sec.gov/Archives/edgar/data/1446847/000110465925108806/0001104659-25-108806-index.htm"
+    },
+    {
+     "t": "Board change",
+     "d": "2026-10-16",
+     "acc": "0001104659-26-116423",
+     "link": "https://www.sec.gov/Archives/edgar/data/1446847/000110465926116423/0001104659-26-116423-index.htm"
+    },
+    {
+     "t": "CEO change",
+     "d": "2026-10-16",
+     "acc": "0001104659-26-116423",
+     "link": "https://www.sec.gov/Archives/edgar/data/1446847/000110465926116423/0001104659-26-116423-index.htm"
+    }
+   ],
+   "n": 3,
+   "updated": "2026-10-16T13:18:45.549494+00:00",
+   "buyback": "no recent repurchase spending reported in XBRL"
   }
  },
  "pending": []
