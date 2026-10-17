@@ -17321,6 +17321,233 @@
    "cap_src": "yahoo",
    "pct": 5.946,
    "event_date": "09/30/2026"
+  },
+  "0000921895-26-002812": {
+   "acc": "0000921895-26-002812",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1120970/000092189526002812/0000921895-26-002812-index.htm",
+   "updated": "2026-10-16T19:42:25-04:00",
+   "filers": [
+    "MAK Capital Fund LP"
+   ],
+   "filer_ciks": [
+    "0001426156"
+   ],
+   "issuer": "Comstock Inc.",
+   "issuer_cik": "0001120970",
+   "ticker": "LODE",
+   "group": "13D",
+   "cap": 136027554.13,
+   "cap_src": "yahoo",
+   "pct": 5.2,
+   "event_date": "10/14/2026"
+  },
+  "0001213900-26-110399": {
+   "acc": "0001213900-26-110399",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/2017758/000121390026110399/0001213900-26-110399-index.htm",
+   "updated": "2026-10-16T19:13:29-04:00",
+   "filers": [
+    "Qin Zhen"
+   ],
+   "filer_ciks": [
+    "0002027409"
+   ],
+   "issuer": "Linkhome Holdings Inc.",
+   "issuer_cik": "0002017758",
+   "ticker": "LHAI",
+   "group": "13D",
+   "cap": 14050500.0,
+   "cap_src": "yahoo",
+   "pct": 20.143,
+   "event_date": "09/24/2026",
+   "converted": "history"
+  },
+  "0000921895-26-002811": {
+   "acc": "0000921895-26-002811",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1704711/000092189526002811/0000921895-26-002811-index.htm",
+   "updated": "2026-10-16T19:07:11-04:00",
+   "filers": [
+    "Fund 1 Investments, LLC"
+   ],
+   "filer_ciks": [
+    "0001959730"
+   ],
+   "issuer": "Funko, Inc.",
+   "issuer_cik": "0001704711",
+   "ticker": "FNKO",
+   "group": "13D",
+   "cap": 371251928.58,
+   "cap_src": "yahoo",
+   "pct": 9.9,
+   "event_date": "10/14/2026"
+  },
+  "0001193125-26-424346": {
+   "acc": "0001193125-26-424346",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1468327/000119312526424346/0001193125-26-424346-index.htm",
+   "updated": "2026-10-16T18:23:11-04:00",
+   "filers": [
+    "CHS US Investments LLC"
+   ],
+   "filer_ciks": [
+    "0002093897"
+   ],
+   "issuer": "Rent the Runway, Inc.",
+   "issuer_cik": "0001468327",
+   "ticker": "RENT",
+   "group": "13D",
+   "cap": 58019993.494319916,
+   "cap_src": "yahoo",
+   "pct": 62.0,
+   "event_date": "10/14/2026"
+  },
+  "0000902664-26-004202": {
+   "acc": "0000902664-26-004202",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1529274/000090266426004202/0000902664-26-004202-index.htm",
+   "updated": "2026-10-16T18:00:30-04:00",
+   "filers": [
+    "JANA Partners Management, LP"
+   ],
+   "filer_ciks": [
+    "0001998597"
+   ],
+   "issuer": "ALKAMI TECHNOLOGY, INC.",
+   "issuer_cik": "0001529274",
+   "ticker": "ALKT",
+   "group": "13D",
+   "cap": 1468313385.4,
+   "cap_src": "yahoo",
+   "pct": 6.3,
+   "event_date": "10/14/2026",
+   "intent": [
+    "capital"
+   ]
+  },
+  "0000921895-26-002806": {
+   "acc": "0000921895-26-002806",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1750284/000092189526002806/0000921895-26-002806-index.htm",
+   "updated": "2026-10-16T17:58:31-04:00",
+   "filers": [
+    "BIOTECHNOLOGY VALUE FUND L P"
+   ],
+   "filer_ciks": [
+    "0000918923"
+   ],
+   "issuer": "Olema Pharmaceuticals, Inc.",
+   "issuer_cik": "0001750284",
+   "ticker": "OLMA",
+   "group": "13D",
+   "cap": 601108550.0766935,
+   "cap_src": "yahoo",
+   "pct": 9.8,
+   "event_date": "10/14/2026"
+  },
+  "0001104659-26-116663": {
+   "acc": "0001104659-26-116663",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1334978/000110465926116663/0001104659-26-116663-index.htm",
+   "updated": "2026-10-16T17:55:55-04:00",
+   "filers": [
+    "ARES MANAGEMENT LLC"
+   ],
+   "filer_ciks": [
+    "0001259313"
+   ],
+   "issuer": "Clear Channel Outdoor Holdings, Inc.",
+   "issuer_cik": "0001334978",
+   "ticker": "CCO",
+   "group": "13D",
+   "cap": 1232007143.740778,
+   "cap_src": "yahoo",
+   "pct": 0.0,
+   "event_date": "10/14/2026",
+   "intent": [
+    "sale"
+   ]
+  },
+  "0001213900-26-110398": {
+   "acc": "0001213900-26-110398",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2017758/000121390026110398/0001213900-26-110398-index.htm",
+   "updated": "2026-10-16T19:12:50-04:00",
+   "filers": [
+    "Qin Zhen"
+   ],
+   "filer_ciks": [
+    "0002027409"
+   ],
+   "issuer": "Linkhome Holdings Inc.",
+   "issuer_cik": "0002017758",
+   "ticker": "LHAI",
+   "group": "13G",
+   "cap": 14050500.0,
+   "cap_src": "yahoo",
+   "pct": 31.24,
+   "event_date": "09/30/2025"
+  },
+  "0001104659-26-116664": {
+   "acc": "0001104659-26-116664",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1835856/000110465926116664/0001104659-26-116664-index.htm",
+   "updated": "2026-10-16T18:13:14-04:00",
+   "filers": [
+    "INTEGRATED CORE STRATEGIES (US) LLC"
+   ],
+   "filer_ciks": [
+    "0001319244"
+   ],
+   "issuer": "Better Home & Finance Holding Co",
+   "issuer_cik": "0001835856",
+   "ticker": "BETR",
+   "group": "13G",
+   "cap": 170524279.77635384,
+   "cap_src": "yahoo",
+   "pct": 4.5,
+   "event_date": "09/30/2026"
+  },
+  "0000078003-26-000118": {
+   "acc": "0000078003-26-000118",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2139097/000007800326000118/0000078003-26-000118-index.htm",
+   "updated": "2026-10-16T18:02:37-04:00",
+   "filers": [
+    "PFIZER INC"
+   ],
+   "filer_ciks": [
+    "0000078003"
+   ],
+   "issuer": "TRex Bio, Inc.",
+   "issuer_cik": "0002139097",
+   "ticker": "TRXB",
+   "group": "13G",
+   "cap": 388630852.9321213,
+   "cap_src": "yahoo",
+   "pct": 7.2,
+   "event_date": "10/08/2026"
+  },
+  "0001213900-26-110378": {
+   "acc": "0001213900-26-110378",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2002988/000121390026110378/0001213900-26-110378-index.htm",
+   "updated": "2026-10-16T17:40:36-04:00",
+   "filers": [
+    "B Group, Inc."
+   ],
+   "filer_ciks": [
+    "0002043476"
+   ],
+   "issuer": "Retension Pharmaceuticals, Inc.",
+   "issuer_cik": "0002002988",
+   "ticker": "RTSN",
+   "group": "13G",
+   "cap": 96979815.22042751,
+   "cap_src": "yahoo",
+   "pct": 10.0,
+   "event_date": "10/13/2026"
   }
  },
  "seen": {
@@ -19445,7 +19672,30 @@
   "0001580642-26-006949": "2026-10-16T21:17:52.087026+00:00",
   "0001580642-26-006943": "2026-10-16T21:17:52.087026+00:00",
   "0000921895-26-002805": "2026-10-16T21:17:52.087026+00:00",
-  "0002107788-26-000014": "2026-10-16T21:17:52.087026+00:00"
+  "0002107788-26-000014": "2026-10-16T21:17:52.087026+00:00",
+  "0000921895-26-002812": "2026-10-17T00:32:36.103773+00:00",
+  "0001213900-26-110399": "2026-10-17T00:32:36.103773+00:00",
+  "0000921895-26-002811": "2026-10-17T00:32:36.103773+00:00",
+  "0001193125-26-424346": "2026-10-17T00:32:36.103773+00:00",
+  "0000902664-26-004202": "2026-10-17T00:32:36.103773+00:00",
+  "0000921895-26-002806": "2026-10-17T00:32:36.103773+00:00",
+  "0001104659-26-116663": "2026-10-17T00:32:36.103773+00:00",
+  "0001213900-26-110398": "2026-10-17T00:32:36.103773+00:00",
+  "0001104659-26-116664": "2026-10-17T00:32:36.103773+00:00",
+  "0000078003-26-000118": "2026-10-17T00:32:36.103773+00:00",
+  "0001213900-26-110378": "2026-10-17T00:32:36.103773+00:00",
+  "0001104659-26-116656": "2026-10-17T00:32:36.103773+00:00",
+  "0001104659-26-116660": "2026-10-17T00:32:36.103773+00:00",
+  "0001213900-26-110367": "2026-10-17T00:32:36.103773+00:00",
+  "0001500435-26-000064": "2026-10-17T00:32:36.103773+00:00",
+  "0001214659-26-013011": "2026-10-17T00:32:36.103773+00:00",
+  "0001493152-26-047462": "2026-10-17T00:32:36.103773+00:00",
+  "0001677703-26-000138": "2026-10-17T00:32:36.103773+00:00",
+  "0001193125-26-424295": "2026-10-17T00:32:36.103773+00:00",
+  "0001193125-26-424297": "2026-10-17T00:32:36.103773+00:00",
+  "0001193125-26-424294": "2026-10-17T00:32:36.103773+00:00",
+  "0001193125-26-424282": "2026-10-17T00:32:36.103773+00:00",
+  "0000899751-26-000075": "2026-10-17T00:32:36.103773+00:00"
  },
  "caps": {
   "0001677250": {
@@ -19859,9 +20109,9 @@
    "checked": "2026-09-23T04:51:21.862614+00:00"
   },
   "0001704711": {
-   "cap": 314696204.92,
+   "cap": 371251928.58,
    "src": "yahoo",
-   "checked": "2026-09-23T04:51:21.862614+00:00"
+   "checked": "2026-10-17T00:32:36.103773+00:00"
   },
   "0001508475": {
    "cap": 2035545247.45,
@@ -21239,9 +21489,9 @@
    "checked": "2026-10-05T22:43:08.328792+00:00"
   },
   "0001845257": {
-   "cap": 4645483777.852109,
+   "cap": 4463009685.78,
    "src": "yahoo",
-   "checked": "2026-10-05T22:43:08.328792+00:00"
+   "checked": "2026-10-17T00:32:36.103773+00:00"
   },
   "0001364479": {
    "cap": 4530294792.795593,
@@ -26462,6 +26712,51 @@
    "cap": 1018147928.3817444,
    "src": "yahoo",
    "checked": "2026-10-16T21:17:52.087026+00:00"
+  },
+  "0001120970": {
+   "cap": 136027554.13,
+   "src": "yahoo",
+   "checked": "2026-10-17T00:32:36.103773+00:00"
+  },
+  "0002017758": {
+   "cap": 14050500.0,
+   "src": "yahoo",
+   "checked": "2026-10-17T00:32:36.103773+00:00"
+  },
+  "0001529274": {
+   "cap": 1468313385.4,
+   "src": "yahoo",
+   "checked": "2026-10-17T00:32:36.103773+00:00"
+  },
+  "0001676238": {
+   "cap": 3332567088.18,
+   "src": "yahoo",
+   "checked": "2026-10-17T00:32:36.103773+00:00"
+  },
+  "0000070502": {
+   "cap": 0.0,
+   "src": "float",
+   "checked": "2026-10-17T00:32:36.103773+00:00"
+  },
+  "0001843165": {
+   "cap": 2242634.04,
+   "src": "yahoo",
+   "checked": "2026-10-17T00:32:36.103773+00:00"
+  },
+  "0001500435": {
+   "cap": 216674182.20000002,
+   "src": "yahoo",
+   "checked": "2026-10-17T00:32:36.103773+00:00"
+  },
+  "0001791145": {
+   "cap": 254328326.64,
+   "src": "yahoo",
+   "checked": "2026-10-17T00:32:36.103773+00:00"
+  },
+  "0000899751": {
+   "cap": 428561217.28,
+   "src": "yahoo",
+   "checked": "2026-10-17T00:32:36.103773+00:00"
   }
  },
  "events": {
@@ -28481,6 +28776,85 @@
    "groups": [
     "LEAD"
    ]
+  },
+  "0001213900-26-110367": {
+   "acc": "0001213900-26-110367",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1843165/000121390026110367/0001213900-26-110367-index.htm",
+   "updated": "2026-10-16T17:30:24-04:00",
+   "issuer": "LQR House Inc.",
+   "issuer_cik": "0001843165",
+   "ticker": "YHC",
+   "cap": 2242634.04,
+   "cap_src": "yahoo",
+   "items": [
+    "1.01",
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "CEO change"
+   ],
+   "snips": {
+    "CEO change": "Resignation of Chief Executive Officer Effective October 16, 2026, Mr."
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0001214659-26-013011": {
+   "acc": "0001214659-26-013011",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1104038/000121465926013011/0001214659-26-013011-index.htm",
+   "updated": "2026-10-16T17:29:27-04:00",
+   "issuer": "OpenWorld, Inc.",
+   "issuer_cik": "0001104038",
+   "ticker": "OPNW",
+   "cap": 38479121.665649414,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02",
+    "5.03",
+    "5.07",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "(the \u201cCompany\u201d) of his resignation as a member of the Board and all committees thereof, effective as of October 15, 2026."
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0001193125-26-424295": {
+   "acc": "0001193125-26-424295",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1791145/000119312526424295/0001193125-26-424295-index.htm",
+   "updated": "2026-10-16T17:26:28-04:00",
+   "issuer": "GBank Financial Holdings Inc.",
+   "issuer_cik": "0001791145",
+   "ticker": "GBFH",
+   "cap": 254328326.64,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "Officer change"
+   ],
+   "snips": {
+    "Officer change": "Newgard, age 55, was appointed to the roles of President and Chief Executive Officer of the Bank on May 15, 2026, effective on June 8, 2026."
+   },
+   "groups": [
+    "LEAD"
+   ]
   }
  },
  "signals": {
@@ -29230,6 +29604,12 @@
     "d": "2026-09-30",
     "acc": "0001214659-26-012283",
     "link": "https://www.sec.gov/Archives/edgar/data/1104038/000121465926012283/0001214659-26-012283-index.htm"
+   },
+   {
+    "t": "Board change",
+    "d": "2026-10-16",
+    "acc": "0001214659-26-013011",
+    "link": "https://www.sec.gov/Archives/edgar/data/1104038/000121465926013011/0001214659-26-013011-index.htm"
    }
   ],
   "0001937073": [
@@ -30160,6 +30540,12 @@
     "d": "2026-10-14",
     "acc": "0001213900-26-109385",
     "link": "https://www.sec.gov/Archives/edgar/data/1334978/000121390026109385/0001213900-26-109385-index.htm"
+   },
+   {
+    "t": "13D Item 4",
+    "d": "2026-10-16",
+    "acc": "0001104659-26-116663",
+    "link": "https://www.sec.gov/Archives/edgar/data/1334978/000110465926116663/0001104659-26-116663-index.htm"
    }
   ],
   "0001574085": [
@@ -30658,6 +31044,74 @@
     "d": "2026-10-16",
     "acc": "0001654954-26-008985",
     "link": "https://www.sec.gov/Archives/edgar/data/1034760/000165495426008985/0001654954-26-008985-index.htm"
+   }
+  ],
+  "0002017758": [
+   {
+    "t": "13G\u219213D",
+    "d": "2026-10-16",
+    "acc": "0001213900-26-110399",
+    "link": "https://www.sec.gov/Archives/edgar/data/2017758/000121390026110399/0001213900-26-110399-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2026-10-16",
+    "acc": "0001213900-26-110399",
+    "link": "https://www.sec.gov/Archives/edgar/data/2017758/000121390026110399/0001213900-26-110399-index.htm"
+   }
+  ],
+  "0001529274": [
+   {
+    "t": "13D Item 4",
+    "d": "2026-10-16",
+    "acc": "0000902664-26-004202",
+    "link": "https://www.sec.gov/Archives/edgar/data/1529274/000090266426004202/0000902664-26-004202-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2026-06-29",
+    "acc": "0000902664-26-002944",
+    "link": "https://www.sec.gov/Archives/edgar/data/1529274/000090266426002944/0000902664-26-002944-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2026-04-01",
+    "acc": "0000902664-26-001830",
+    "link": "https://www.sec.gov/Archives/edgar/data/1529274/000090266426001830/0000902664-26-001830-index.htm"
+   },
+   {
+    "t": "New buyback",
+    "d": "2026-04-29",
+    "acc": "0001529274-26-000028",
+    "link": "https://www.sec.gov/Archives/edgar/data/1529274/000152927426000028/0001529274-26-000028-index.htm"
+   }
+  ],
+  "0001843165": [
+   {
+    "t": "CEO change",
+    "d": "2026-10-16",
+    "acc": "0001213900-26-110367",
+    "link": "https://www.sec.gov/Archives/edgar/data/1843165/000121390026110367/0001213900-26-110367-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2025-12-19",
+    "acc": "0001213900-25-124038",
+    "link": "https://www.sec.gov/Archives/edgar/data/1843165/000121390025124038/0001213900-25-124038-index.htm"
+   },
+   {
+    "t": "Board change",
+    "d": "2026-04-15",
+    "acc": "0001213900-26-044043",
+    "link": "https://www.sec.gov/Archives/edgar/data/1843165/000121390026044043/0001213900-26-044043-index.htm"
+   }
+  ],
+  "0001791145": [
+   {
+    "t": "Officer change",
+    "d": "2026-10-16",
+    "acc": "0001193125-26-424295",
+    "link": "https://www.sec.gov/Archives/edgar/data/1791145/000119312526424295/0001193125-26-424295-index.htm"
    }
   ]
  },
@@ -35248,6 +35702,196 @@
     "Officer change": "Compensatory Arrangements of Certain Officers On February 2, 2026, the registrant (\u201cLaser Photonics\u201d or the \u201cCompany\u201d) appointed Ann Tewari as Executive Vice President of Global Operations and Strategy."
    },
    "d": "2026-10-16"
+  },
+  "0001104659-26-116660": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001213900-26-110367": {
+   "tags": [
+    "CEO change"
+   ],
+   "snips": {
+    "CEO change": "Resignation of Chief Executive Officer Effective October 16, 2026, Mr."
+   },
+   "d": "2026-10-17"
+  },
+  "0001500435-26-000064": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001214659-26-013011": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "(the \u201cCompany\u201d) of his resignation as a member of the Board and all committees thereof, effective as of October 15, 2026."
+   },
+   "d": "2026-10-17"
+  },
+  "0001677703-26-000138": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001193125-26-424295": {
+   "tags": [
+    "Officer change"
+   ],
+   "snips": {
+    "Officer change": "Newgard, age 55, was appointed to the roles of President and Chief Executive Officer of the Bank on May 15, 2026, effective on June 8, 2026."
+   },
+   "d": "2026-10-17"
+  },
+  "0000899751-26-000075": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001334978-26-000030": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001334978-26-000023": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001213900-26-058449": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001334978-26-000017": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001213900-26-042767": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001213900-26-040144": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001213900-26-035140": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001334978-26-000006": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001193125-26-043066": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001334978-25-000035": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001529274-26-000049": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001529274-26-000036": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001529274-26-000028": {
+   "tags": [
+    "New buyback"
+   ],
+   "snips": {
+    "New buyback": "On April 23, 2026, the Board authorized a share repurchase program to repurchase up to $100 million of the Company\u2019s common stock."
+   },
+   "d": "2026-10-17"
+  },
+  "0001213900-26-078355": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001213900-26-074962": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001213900-26-073388": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001213900-26-063829": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001213900-26-060557": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001213900-26-044043": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "Accordingly, on April 10, 2026, the Board appointed Yuting \u201cTina\u201d Luo and to serve as a director of the Company."
+   },
+   "d": "2026-10-17"
+  },
+  "0001213900-26-026510": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001213900-26-019393": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001213900-25-123834": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001213900-26-105784": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001213900-26-096701": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001213900-26-075071": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001213900-26-055851": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
+  },
+  "0001213900-26-005922": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-17"
   }
  },
  "catalysts": {
@@ -36070,6 +36714,41 @@
    "n": 3,
    "updated": "2026-10-16T21:17:52.087026+00:00",
    "buyback": "$0 spent on buybacks in the 12 months to 2026-01-02 (prior year: $25.0M)"
+  },
+  "0001529274": {
+   "cik": "0001529274",
+   "issuer": "ALKAMI TECHNOLOGY, INC.",
+   "ticker": "ALKT",
+   "cap": 1468313385.4,
+   "timeline": [
+    {
+     "t": "13D",
+     "d": "2026-04-01",
+     "acc": "0000902664-26-001830",
+     "link": "https://www.sec.gov/Archives/edgar/data/1529274/000090266426001830/0000902664-26-001830-index.htm"
+    },
+    {
+     "t": "New buyback",
+     "d": "2026-04-29",
+     "acc": "0001529274-26-000028",
+     "link": "https://www.sec.gov/Archives/edgar/data/1529274/000152927426000028/0001529274-26-000028-index.htm"
+    },
+    {
+     "t": "13D",
+     "d": "2026-06-29",
+     "acc": "0000902664-26-002944",
+     "link": "https://www.sec.gov/Archives/edgar/data/1529274/000090266426002944/0000902664-26-002944-index.htm"
+    },
+    {
+     "t": "13D Item 4",
+     "d": "2026-10-16",
+     "acc": "0000902664-26-004202",
+     "link": "https://www.sec.gov/Archives/edgar/data/1529274/000090266426004202/0000902664-26-004202-index.htm"
+    }
+   ],
+   "n": 3,
+   "updated": "2026-10-17T00:32:36.103773+00:00",
+   "buyback": "$15.0M spent on buybacks in the 6 months to 2026-06-30 (prior year: $0)"
   }
  },
  "pending": []
