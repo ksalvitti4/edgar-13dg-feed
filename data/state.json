@@ -17708,6 +17708,1026 @@
    "cap_src": "yahoo",
    "pct": 7.1,
    "event_date": "09/30/2026"
+  },
+  "0001622627-26-000027": {
+   "acc": "0001622627-26-000027",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/872912/000162262726000027/0001622627-26-000027-index.htm",
+   "updated": "2026-10-19T15:41:24-04:00",
+   "filers": [
+    "Rosalind Advisors, Inc."
+   ],
+   "filer_ciks": [
+    "0001622627"
+   ],
+   "issuer": "DELCATH SYSTEMS, INC.",
+   "issuer_cik": "0000872912",
+   "ticker": "DCTH",
+   "group": "13D",
+   "cap": 498795178.125,
+   "cap_src": "yahoo",
+   "pct": 9.9,
+   "event_date": "10/13/2026"
+  },
+  "0001193125-26-425017": {
+   "acc": "0001193125-26-425017",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2054992/000119312526425017/0001193125-26-425017-index.htm",
+   "updated": "2026-10-19T13:35:49-04:00",
+   "filers": [
+    "Lincoln Financial Investments Corp"
+   ],
+   "filer_ciks": [
+    "0001464867"
+   ],
+   "issuer": "Lincoln Bain Capital Total Credit Fund",
+   "issuer_cik": "0002054992",
+   "ticker": null,
+   "group": "13D",
+   "cap": null,
+   "cap_src": null,
+   "pct": 73.88,
+   "event_date": "10/15/2026"
+  },
+  "0001213900-26-110578": {
+   "acc": "0001213900-26-110578",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1546383/000121390026110578/0001213900-26-110578-index.htm",
+   "updated": "2026-10-19T12:41:59-04:00",
+   "filers": [
+    "Li Huidan"
+   ],
+   "filer_ciks": [
+    "0002079389"
+   ],
+   "issuer": "JX Luxventure Group Inc.",
+   "issuer_cik": "0001546383",
+   "ticker": "JXG",
+   "group": "13D",
+   "cap": 93584648.28028679,
+   "cap_src": "yahoo",
+   "pct": 6.66,
+   "event_date": "10/15/2026"
+  },
+  "0001213900-26-110576": {
+   "acc": "0001213900-26-110576",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1546383/000121390026110576/0001213900-26-110576-index.htm",
+   "updated": "2026-10-19T12:40:51-04:00",
+   "filers": [
+    "Sun Lei"
+   ],
+   "filer_ciks": [
+    "0001888095"
+   ],
+   "issuer": "JX Luxventure Group Inc.",
+   "issuer_cik": "0001546383",
+   "ticker": "JXG",
+   "group": "13D",
+   "cap": 93584648.28028679,
+   "cap_src": "yahoo",
+   "pct": 25.61,
+   "event_date": "10/16/2026"
+  },
+  "0001649739-26-000139": {
+   "acc": "0001649739-26-000139",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1649739/000164973926000139/0001649739-26-000139-index.htm",
+   "updated": "2026-10-19T09:32:10-04:00",
+   "filers": [
+    "LEHMAN KENNETH R"
+   ],
+   "filer_ciks": [
+    "0001170549"
+   ],
+   "issuer": "BayFirst Financial Corp.",
+   "issuer_cik": "0001649739",
+   "ticker": "BAFN",
+   "group": "13D",
+   "cap": 172562018.57137442,
+   "cap_src": "yahoo",
+   "pct": 39.2,
+   "event_date": "10/08/2026"
+  },
+  "0001477932-26-006325": {
+   "acc": "0001477932-26-006325",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1830043/000147793226006325/0001477932-26-006325-index.htm",
+   "updated": "2026-10-19T14:59:42-04:00",
+   "filers": [
+    "shane hilary"
+   ],
+   "filer_ciks": [
+    "0001580210"
+   ],
+   "issuer": "Bumble Inc.",
+   "issuer_cik": "0001830043",
+   "ticker": "BMBL",
+   "group": "13G",
+   "cap": 785211443.1290417,
+   "cap_src": "yahoo",
+   "pct": 5.1,
+   "event_date": "10/13/2026"
+  },
+  "0002160839-26-000002": {
+   "acc": "0002160839-26-000002",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/868278/000216083926000002/0002160839-26-000002-index.htm",
+   "updated": "2026-10-19T14:54:25-04:00",
+   "filers": [
+    "Venkatesan Shyam"
+   ],
+   "filer_ciks": [
+    "0002160839"
+   ],
+   "issuer": "ProPhase Labs, Inc.",
+   "issuer_cik": "0000868278",
+   "ticker": "PRPH",
+   "group": "13G",
+   "cap": 138773.74500773102,
+   "cap_src": "yahoo",
+   "pct": 5.5,
+   "event_date": "10/16/2026"
+  },
+  "0001493152-26-047555": {
+   "acc": "0001493152-26-047555",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1818644/000149315226047555/0001493152-26-047555-index.htm",
+   "updated": "2026-10-19T14:40:12-04:00",
+   "filers": [
+    "HIRSCHMAN ORIN"
+   ],
+   "filer_ciks": [
+    "0001131362"
+   ],
+   "issuer": "AEye, Inc.",
+   "issuer_cik": "0001818644",
+   "ticker": "LIDR",
+   "group": "13G",
+   "cap": 39974714.128311515,
+   "cap_src": "yahoo",
+   "pct": 8.3,
+   "event_date": "09/30/2026"
+  },
+  "0001493152-26-047551": {
+   "acc": "0001493152-26-047551",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1994702/000149315226047551/0001493152-26-047551-index.htm",
+   "updated": "2026-10-19T14:29:10-04:00",
+   "filers": [
+    "HIRSCHMAN ORIN"
+   ],
+   "filer_ciks": [
+    "0001131362"
+   ],
+   "issuer": "Kyverna Therapeutics, Inc.",
+   "issuer_cik": "0001994702",
+   "ticker": "KYTX",
+   "group": "13G",
+   "cap": 360547273.80171967,
+   "cap_src": "yahoo",
+   "pct": 5.9,
+   "event_date": "09/30/2026"
+  },
+  "0001493152-26-047549": {
+   "acc": "0001493152-26-047549",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1411690/000149315226047549/0001493152-26-047549-index.htm",
+   "updated": "2026-10-19T14:27:02-04:00",
+   "filers": [
+    "HIRSCHMAN ORIN"
+   ],
+   "filer_ciks": [
+    "0001131362"
+   ],
+   "issuer": "Bionano Genomics, Inc.",
+   "issuer_cik": "0001411690",
+   "ticker": "BNGO",
+   "group": "13G",
+   "cap": 14426825.28078556,
+   "cap_src": "yahoo",
+   "pct": 9.9,
+   "event_date": "09/30/2026"
+  },
+  "0001493152-26-047548": {
+   "acc": "0001493152-26-047548",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/65270/000149315226047548/0001493152-26-047548-index.htm",
+   "updated": "2026-10-19T14:26:57-04:00",
+   "filers": [
+    "HIRSCHMAN ORIN"
+   ],
+   "filer_ciks": [
+    "0001131362"
+   ],
+   "issuer": "METHODE ELECTRONICS INC",
+   "issuer_cik": "0000065270",
+   "ticker": "MEI",
+   "group": "13G",
+   "cap": 501169460.1372595,
+   "cap_src": "yahoo",
+   "pct": 5.6,
+   "event_date": "09/30/2026"
+  },
+  "0001493152-26-047547": {
+   "acc": "0001493152-26-047547",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1409375/000149315226047547/0001493152-26-047547-index.htm",
+   "updated": "2026-10-19T14:26:56-04:00",
+   "filers": [
+    "HIRSCHMAN ORIN"
+   ],
+   "filer_ciks": [
+    "0001131362"
+   ],
+   "issuer": "ORION ENERGY SYSTEMS, INC.",
+   "issuer_cik": "0001409375",
+   "ticker": "OESX",
+   "group": "13G",
+   "cap": 93152299.952137,
+   "cap_src": "yahoo",
+   "pct": 9.9,
+   "event_date": "09/30/2026"
+  },
+  "0001493152-26-047542": {
+   "acc": "0001493152-26-047542",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1145986/000149315226047542/0001493152-26-047542-index.htm",
+   "updated": "2026-10-19T14:22:53-04:00",
+   "filers": [
+    "HIRSCHMAN ORIN"
+   ],
+   "filer_ciks": [
+    "0001131362"
+   ],
+   "issuer": "ASPEN AEROGELS INC",
+   "issuer_cik": "0001145986",
+   "ticker": "ASPN",
+   "group": "13G",
+   "cap": 441915258.97114563,
+   "cap_src": "yahoo",
+   "pct": 8.6,
+   "event_date": "09/30/2026"
+  },
+  "0001493152-26-047539": {
+   "acc": "0001493152-26-047539",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1041934/000149315226047539/0001493152-26-047539-index.htm",
+   "updated": "2026-10-19T14:16:13-04:00",
+   "filers": [
+    "HIRSCHMAN ORIN"
+   ],
+   "filer_ciks": [
+    "0001131362"
+   ],
+   "issuer": "EDAP TMS SA",
+   "issuer_cik": "0001041934",
+   "ticker": "FOCL",
+   "group": "13G",
+   "cap": 198310130.99412918,
+   "cap_src": "yahoo",
+   "pct": 7.6,
+   "event_date": "09/30/2026"
+  },
+  "0001027796-26-000060": {
+   "acc": "0001027796-26-000060",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1557860/000102779626000060/0001027796-26-000060-index.htm",
+   "updated": "2026-10-19T14:12:26-04:00",
+   "filers": [
+    "PZENA INVESTMENT MANAGEMENT LLC"
+   ],
+   "filer_ciks": [
+    "0001027796"
+   ],
+   "issuer": "Globant S.A.",
+   "issuer_cik": "0001557860",
+   "ticker": "GLOB",
+   "group": "13G",
+   "cap": 1737761185.0992584,
+   "cap_src": "yahoo",
+   "pct": 11.4,
+   "event_date": "09/30/2026"
+  },
+  "0001193125-26-425010": {
+   "acc": "0001193125-26-425010",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2054992/000119312526425010/0001193125-26-425010-index.htm",
+   "updated": "2026-10-19T13:29:05-04:00",
+   "filers": [
+    "LVIP GLOBAL GROWTH ALLOCATION MANAGED RISK FUND"
+   ],
+   "filer_ciks": [
+    "0002095286"
+   ],
+   "issuer": "Lincoln Bain Capital Total Credit Fund",
+   "issuer_cik": "0002054992",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 29.17,
+   "event_date": "10/15/2026"
+  },
+  "0001027796-26-000058": {
+   "acc": "0001027796-26-000058",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/768899/000102779626000058/0001027796-26-000058-index.htm",
+   "updated": "2026-10-19T12:05:21-04:00",
+   "filers": [
+    "PZENA INVESTMENT MANAGEMENT LLC"
+   ],
+   "filer_ciks": [
+    "0001027796"
+   ],
+   "issuer": "TrueBlue, Inc.",
+   "issuer_cik": "0000768899",
+   "ticker": "TBI",
+   "group": "13G",
+   "cap": 247512520.20407867,
+   "cap_src": "yahoo",
+   "pct": 9.4,
+   "event_date": "09/30/2026"
+  },
+  "0000009631-26-000038": {
+   "acc": "0000009631-26-000038",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1788060/000000963126000038/0000009631-26-000038-index.htm",
+   "updated": "2026-10-19T10:52:24-04:00",
+   "filers": [
+    "BANK OF NOVA SCOTIA"
+   ],
+   "filer_ciks": [
+    "0000009631"
+   ],
+   "issuer": "Voyager Technologies, Inc./TX",
+   "issuer_cik": "0001788060",
+   "ticker": "VOYG",
+   "group": "13G",
+   "cap": 1529998515.575409,
+   "cap_src": "yahoo",
+   "pct": 5.03,
+   "event_date": "09/30/2026"
+  },
+  "0000009631-26-000036": {
+   "acc": "0000009631-26-000036",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1831481/000000963126000036/0000009631-26-000036-index.htm",
+   "updated": "2026-10-19T10:51:56-04:00",
+   "filers": [
+    "BANK OF NOVA SCOTIA"
+   ],
+   "filer_ciks": [
+    "0000009631"
+   ],
+   "issuer": "Sable Offshore Corp.",
+   "issuer_cik": "0001831481",
+   "ticker": "SOC",
+   "group": "13G",
+   "cap": 614941963.6215134,
+   "cap_src": "yahoo",
+   "pct": 5.49,
+   "event_date": "09/30/2026"
+  },
+  "0000009631-26-000034": {
+   "acc": "0000009631-26-000034",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1674335/000000963126000034/0000009631-26-000034-index.htm",
+   "updated": "2026-10-19T10:51:10-04:00",
+   "filers": [
+    "BANK OF NOVA SCOTIA"
+   ],
+   "filer_ciks": [
+    "0000009631"
+   ],
+   "issuer": "JELD-WEN Holding, Inc.",
+   "issuer_cik": "0001674335",
+   "ticker": "JELD",
+   "group": "13G",
+   "cap": 118865833.75372005,
+   "cap_src": "yahoo",
+   "pct": 5.77,
+   "event_date": "09/30/2026"
+  },
+  "0000009631-26-000033": {
+   "acc": "0000009631-26-000033",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1844452/000000963126000033/0000009631-26-000033-index.htm",
+   "updated": "2026-10-19T10:50:48-04:00",
+   "filers": [
+    "BANK OF NOVA SCOTIA"
+   ],
+   "filer_ciks": [
+    "0000009631"
+   ],
+   "issuer": "Intuitive Machines, Inc.",
+   "issuer_cik": "0001844452",
+   "ticker": "LUNR",
+   "group": "13G",
+   "cap": 1736803465.0244942,
+   "cap_src": "yahoo",
+   "pct": 3.22,
+   "event_date": "09/30/2026"
+  },
+  "0000009631-26-000032": {
+   "acc": "0000009631-26-000032",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2111838/000000963126000032/0000009631-26-000032-index.htm",
+   "updated": "2026-10-19T10:50:10-04:00",
+   "filers": [
+    "BANK OF NOVA SCOTIA"
+   ],
+   "filer_ciks": [
+    "0000009631"
+   ],
+   "issuer": "Haymaker Acquisition Corp V",
+   "issuer_cik": "0002111838",
+   "ticker": "HYAC",
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 7.38,
+   "event_date": "09/30/2026"
+  },
+  "0000092230-26-000116": {
+   "acc": "0000092230-26-000116",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1667919/000009223026000116/0000092230-26-000116-index.htm",
+   "updated": "2026-10-19T10:28:27-04:00",
+   "filers": [
+    "TRUIST FINANCIAL CORP"
+   ],
+   "filer_ciks": [
+    "0000092230"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+   "issuer_cik": "0001667919",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 8.8,
+   "event_date": "09/30/2026"
+  },
+  "0000092230-26-000115": {
+   "acc": "0000092230-26-000115",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1552740/000009223026000115/0000092230-26-000115-index.htm",
+   "updated": "2026-10-19T10:25:14-04:00",
+   "filers": [
+    "TRUIST FINANCIAL CORP"
+   ],
+   "filer_ciks": [
+    "0000092230"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND VI",
+   "issuer_cik": "0001552740",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 0.24,
+   "event_date": "9/30/2026"
+  },
+  "0000936969-26-000010": {
+   "acc": "0000936969-26-000010",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/744187/000093696926000010/0000936969-26-000010-index.htm",
+   "updated": "2026-10-19T10:24:09-04:00",
+   "filers": [
+    "ROSE STUART A"
+   ],
+   "filer_ciks": [
+    "0000936969"
+   ],
+   "issuer": "REX AMERICAN RESOURCES Corp",
+   "issuer_cik": "0000744187",
+   "ticker": "REX",
+   "group": "13G",
+   "cap": 1345272176.6889954,
+   "cap_src": "yahoo",
+   "pct": 8.6,
+   "event_date": "09/30/2026"
+  },
+  "0000092230-26-000114": {
+   "acc": "0000092230-26-000114",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1414040/000009223026000114/0000092230-26-000114-index.htm",
+   "updated": "2026-10-19T10:19:55-04:00",
+   "filers": [
+    "TRUIST FINANCIAL CORP"
+   ],
+   "filer_ciks": [
+    "0000092230"
+   ],
+   "issuer": "ALPS ETF Trust",
+   "issuer_cik": "0001414040",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 5.6,
+   "event_date": "09/30/2026"
+  },
+  "0001027796-26-000056": {
+   "acc": "0001027796-26-000056",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1315257/000102779626000056/0001027796-26-000056-index.htm",
+   "updated": "2026-10-19T10:13:51-04:00",
+   "filers": [
+    "PZENA INVESTMENT MANAGEMENT LLC"
+   ],
+   "filer_ciks": [
+    "0001027796"
+   ],
+   "issuer": "Koppers Holdings Inc.",
+   "issuer_cik": "0001315257",
+   "ticker": "KOP",
+   "group": "13G",
+   "cap": 812157281.9886475,
+   "cap_src": "yahoo",
+   "pct": 4.9,
+   "event_date": "09/30/2026"
+  },
+  "0000092230-26-000113": {
+   "acc": "0000092230-26-000113",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1414040/000009223026000113/0000092230-26-000113-index.htm",
+   "updated": "2026-10-19T10:13:18-04:00",
+   "filers": [
+    "TRUIST FINANCIAL CORP"
+   ],
+   "filer_ciks": [
+    "0000092230"
+   ],
+   "issuer": "ALPS ETF Trust",
+   "issuer_cik": "0001414040",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 3.93,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007708": {
+   "acc": "0001445546-26-007708",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007708/0001445546-26-007708-index.htm",
+   "updated": "2026-10-19T10:01:10-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+   "issuer_cik": "0001667919",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 27.83,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007707": {
+   "acc": "0001445546-26-007707",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007707/0001445546-26-007707-index.htm",
+   "updated": "2026-10-19T10:00:38-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+   "issuer_cik": "0001667919",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 30.72,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007706": {
+   "acc": "0001445546-26-007706",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007706/0001445546-26-007706-index.htm",
+   "updated": "2026-10-19T10:00:06-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+   "issuer_cik": "0001667919",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 27.23,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007705": {
+   "acc": "0001445546-26-007705",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007705/0001445546-26-007705-index.htm",
+   "updated": "2026-10-19T09:59:34-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+   "issuer_cik": "0001667919",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 18.05,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007704": {
+   "acc": "0001445546-26-007704",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007704/0001445546-26-007704-index.htm",
+   "updated": "2026-10-19T09:59:01-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+   "issuer_cik": "0001667919",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 17.58,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007703": {
+   "acc": "0001445546-26-007703",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007703/0001445546-26-007703-index.htm",
+   "updated": "2026-10-19T09:58:28-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+   "issuer_cik": "0001667919",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 18.57,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007702": {
+   "acc": "0001445546-26-007702",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1487610/000144554626007702/0001445546-26-007702-index.htm",
+   "updated": "2026-10-19T09:57:57-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "Neuberger High Yield Strategies Fund Inc.",
+   "issuer_cik": "0001487610",
+   "ticker": "NHS",
+   "group": "13G",
+   "cap": 221626427.12834358,
+   "cap_src": "yahoo",
+   "pct": 19.42,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007701": {
+   "acc": "0001445546-26-007701",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007701/0001445546-26-007701-index.htm",
+   "updated": "2026-10-19T09:57:24-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+   "issuer_cik": "0001667919",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 26.01,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007700": {
+   "acc": "0001445546-26-007700",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007700/0001445546-26-007700-index.htm",
+   "updated": "2026-10-19T09:56:54-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+   "issuer_cik": "0001667919",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 31.3,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007699": {
+   "acc": "0001445546-26-007699",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007699/0001445546-26-007699-index.htm",
+   "updated": "2026-10-19T09:56:27-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+   "issuer_cik": "0001667919",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 20.83,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007698": {
+   "acc": "0001445546-26-007698",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007698/0001445546-26-007698-index.htm",
+   "updated": "2026-10-19T09:55:50-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+   "issuer_cik": "0001667919",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 21.07,
+   "event_date": "09/30/2026"
+  },
+  "0000092230-26-000112": {
+   "acc": "0000092230-26-000112",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1339688/000009223026000112/0000092230-26-000112-index.htm",
+   "updated": "2026-10-19T09:55:45-04:00",
+   "filers": [
+    "TRUIST FINANCIAL CORP"
+   ],
+   "filer_ciks": [
+    "0000092230"
+   ],
+   "issuer": "Lion Copper Corp.",
+   "issuer_cik": "0001339688",
+   "ticker": "LCU",
+   "group": "13G",
+   "cap": 95852376.0,
+   "cap_src": "yahoo",
+   "pct": 0.0,
+   "event_date": "9/30/2026"
+  },
+  "0001445546-26-007697": {
+   "acc": "0001445546-26-007697",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007697/0001445546-26-007697-index.htm",
+   "updated": "2026-10-19T09:55:14-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+   "issuer_cik": "0001667919",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 25.02,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007696": {
+   "acc": "0001445546-26-007696",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007696/0001445546-26-007696-index.htm",
+   "updated": "2026-10-19T09:54:30-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+   "issuer_cik": "0001667919",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 24.38,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007695": {
+   "acc": "0001445546-26-007695",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007695/0001445546-26-007695-index.htm",
+   "updated": "2026-10-19T09:53:51-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+   "issuer_cik": "0001667919",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 22.09,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007694": {
+   "acc": "0001445546-26-007694",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007694/0001445546-26-007694-index.htm",
+   "updated": "2026-10-19T09:53:15-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+   "issuer_cik": "0001667919",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 31.54,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007693": {
+   "acc": "0001445546-26-007693",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1383496/000144554626007693/0001445546-26-007693-index.htm",
+   "updated": "2026-10-19T09:52:42-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED ALPHADEX FUND",
+   "issuer_cik": "0001383496",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 28.2,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007692": {
+   "acc": "0001445546-26-007692",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1364608/000144554626007692/0001445546-26-007692-index.htm",
+   "updated": "2026-10-19T09:51:39-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND II",
+   "issuer_cik": "0001364608",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 19.09,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007691": {
+   "acc": "0001445546-26-007691",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1549548/000144554626007691/0001445546-26-007691-index.htm",
+   "updated": "2026-10-19T09:50:55-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND V",
+   "issuer_cik": "0001549548",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 29.09,
+   "event_date": "09/30/2026"
+  },
+  "0001445546-26-007690": {
+   "acc": "0001445546-26-007690",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1329377/000144554626007690/0001445546-26-007690-index.htm",
+   "updated": "2026-10-19T09:50:14-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "FIRST TRUST EXCHANGE-TRADED FUND",
+   "issuer_cik": "0001329377",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 27.08,
+   "event_date": "09/30/2026"
+  },
+  "0000092230-26-000111": {
+   "acc": "0000092230-26-000111",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1339688/000009223026000111/0000092230-26-000111-index.htm",
+   "updated": "2026-10-19T09:49:55-04:00",
+   "filers": [
+    "TRUIST FINANCIAL CORP"
+   ],
+   "filer_ciks": [
+    "0000092230"
+   ],
+   "issuer": "Lion Copper Corp.",
+   "issuer_cik": "0001339688",
+   "ticker": "LCU",
+   "group": "13G",
+   "cap": 95852376.0,
+   "cap_src": "yahoo",
+   "pct": 6.92,
+   "event_date": "9/30/2026"
+  },
+  "0001445546-26-007689": {
+   "acc": "0001445546-26-007689",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1521404/000144554626007689/0001445546-26-007689-index.htm",
+   "updated": "2026-10-19T09:49:30-04:00",
+   "filers": [
+    "FIRST TRUST PORTFOLIOS LP"
+   ],
+   "filer_ciks": [
+    "0001184765"
+   ],
+   "issuer": "BARINGS GLOBAL SHORT DURATION HIGH YIELD FUND",
+   "issuer_cik": "0001521404",
+   "ticker": "BGH",
+   "group": "13G",
+   "cap": 258460627.27175045,
+   "cap_src": "yahoo",
+   "pct": 18.06,
+   "event_date": "09/30/2026"
+  },
+  "0000092230-26-000110": {
+   "acc": "0000092230-26-000110",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1209466/000009223026000110/0000092230-26-000110-index.htm",
+   "updated": "2026-10-19T09:30:06-04:00",
+   "filers": [
+    "TRUIST FINANCIAL CORP"
+   ],
+   "filer_ciks": [
+    "0000092230"
+   ],
+   "issuer": "INVESCO EXCHANGE-TRADED FUND TRUST",
+   "issuer_cik": "0001209466",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 5.84,
+   "event_date": "9/30/2026"
   }
  },
  "seen": {
@@ -19933,7 +20953,88 @@
   "0001437749-26-032855": "2026-10-19T13:29:31.491402+00:00",
   "0001213900-26-110392": "2026-10-19T13:29:31.491402+00:00",
   "0001493152-26-047463": "2026-10-19T13:29:31.491402+00:00",
-  "0001096906-26-001569": "2026-10-19T13:29:31.491402+00:00"
+  "0001096906-26-001569": "2026-10-19T13:29:31.491402+00:00",
+  "0001622627-26-000027": "2026-10-19T19:59:28.869198+00:00",
+  "0001193125-26-425017": "2026-10-19T19:59:28.869198+00:00",
+  "0001213900-26-110578": "2026-10-19T19:59:28.869198+00:00",
+  "0001213900-26-110576": "2026-10-19T19:59:28.869198+00:00",
+  "0001649739-26-000139": "2026-10-19T19:59:28.869198+00:00",
+  "0001027796-26-000061": "2026-10-19T19:59:28.869198+00:00",
+  "0000316011-26-000036": "2026-10-19T19:59:28.869198+00:00",
+  "0001477932-26-006325": "2026-10-19T19:59:28.869198+00:00",
+  "0002160839-26-000002": "2026-10-19T19:59:28.869198+00:00",
+  "0001493152-26-047555": "2026-10-19T19:59:28.869198+00:00",
+  "0001493152-26-047551": "2026-10-19T19:59:28.869198+00:00",
+  "0001493152-26-047549": "2026-10-19T19:59:28.869198+00:00",
+  "0001493152-26-047548": "2026-10-19T19:59:28.869198+00:00",
+  "0001493152-26-047547": "2026-10-19T19:59:28.869198+00:00",
+  "0001493152-26-047542": "2026-10-19T19:59:28.869198+00:00",
+  "0001493152-26-047539": "2026-10-19T19:59:28.869198+00:00",
+  "0001027796-26-000060": "2026-10-19T19:59:28.869198+00:00",
+  "0001193125-26-425010": "2026-10-19T19:59:28.869198+00:00",
+  "0001027796-26-000059": "2026-10-19T19:59:28.869198+00:00",
+  "0001027796-26-000058": "2026-10-19T19:59:28.869198+00:00",
+  "0001027796-26-000057": "2026-10-19T19:59:28.869198+00:00",
+  "0000009631-26-000038": "2026-10-19T19:59:28.869198+00:00",
+  "0000009631-26-000037": "2026-10-19T19:59:28.869198+00:00",
+  "0000009631-26-000036": "2026-10-19T19:59:28.869198+00:00",
+  "0000009631-26-000035": "2026-10-19T19:59:28.869198+00:00",
+  "0000009631-26-000034": "2026-10-19T19:59:28.869198+00:00",
+  "0000009631-26-000033": "2026-10-19T19:59:28.869198+00:00",
+  "0000009631-26-000032": "2026-10-19T19:59:28.869198+00:00",
+  "0000009631-26-000031": "2026-10-19T19:59:28.869198+00:00",
+  "0000009631-26-000030": "2026-10-19T19:59:28.869198+00:00",
+  "0000009631-26-000029": "2026-10-19T19:59:28.869198+00:00",
+  "0000009631-26-000028": "2026-10-19T19:59:28.869198+00:00",
+  "0000092230-26-000116": "2026-10-19T19:59:28.869198+00:00",
+  "0000092230-26-000115": "2026-10-19T19:59:28.869198+00:00",
+  "0000936969-26-000010": "2026-10-19T19:59:28.869198+00:00",
+  "0000092230-26-000114": "2026-10-19T19:59:28.869198+00:00",
+  "0001027796-26-000056": "2026-10-19T19:59:28.869198+00:00",
+  "0000092230-26-000113": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007708": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007707": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007706": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007705": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007704": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007703": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007702": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007701": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007700": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007699": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007698": "2026-10-19T19:59:28.869198+00:00",
+  "0000092230-26-000112": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007697": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007696": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007695": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007694": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007693": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007692": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007691": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007690": "2026-10-19T19:59:28.869198+00:00",
+  "0000092230-26-000111": "2026-10-19T19:59:28.869198+00:00",
+  "0001445546-26-007689": "2026-10-19T19:59:28.869198+00:00",
+  "0000092230-26-000110": "2026-10-19T19:59:28.869198+00:00",
+  "0000929638-26-003948": "2026-10-19T19:59:28.869198+00:00",
+  "0000929638-26-003947": "2026-10-19T19:59:28.869198+00:00",
+  "0001493152-26-047561": "2026-10-19T19:59:28.869198+00:00",
+  "0001174947-26-000918": "2026-10-19T19:59:28.869198+00:00",
+  "0001213900-26-110624": "2026-10-19T19:59:28.869198+00:00",
+  "0001213900-26-110623": "2026-10-19T19:59:28.869198+00:00",
+  "0002045458-26-000054": "2026-10-19T19:59:28.869198+00:00",
+  "0001823878-26-000067": "2026-10-19T19:59:28.869198+00:00",
+  "0001692951-26-000198": "2026-10-19T19:59:28.869198+00:00",
+  "0001213900-26-110602": "2026-10-19T19:59:28.869198+00:00",
+  "0001628280-26-066254": "2026-10-19T19:59:28.869198+00:00",
+  "0002076765-26-000017": "2026-10-19T19:59:28.869198+00:00",
+  "0001683168-26-007951": "2026-10-19T19:59:28.869198+00:00",
+  "0001493152-26-047524": "2026-10-19T19:59:28.869198+00:00",
+  "0001437749-26-032899": "2026-10-19T19:59:28.869198+00:00",
+  "0001104659-26-116769": "2026-10-19T19:59:28.869198+00:00",
+  "0001104659-26-116768": "2026-10-19T19:59:28.869198+00:00",
+  "0001654954-26-009034": "2026-10-19T19:59:28.869198+00:00",
+  "0001376474-26-000654": "2026-10-19T19:59:28.869198+00:00",
+  "0001580642-26-006974": "2026-10-19T19:59:28.869198+00:00"
  },
  "caps": {
   "0001677250": {
@@ -20064,7 +21165,7 @@
   "0002054992": {
    "cap": null,
    "src": null,
-   "checked": "2026-09-22T15:59:28.623895+00:00"
+   "checked": "2026-10-19T19:59:28.869198+00:00"
   },
   "0001987342": {
    "cap": null,
@@ -20219,7 +21320,7 @@
   "0002111838": {
    "cap": null,
    "src": null,
-   "checked": "2026-09-22T15:59:28.623895+00:00"
+   "checked": "2026-10-19T19:59:28.869198+00:00"
   },
   "0001785530": {
    "cap": 48117936.51652646,
@@ -20522,9 +21623,9 @@
    "checked": "2026-09-24T23:14:59.064908+00:00"
   },
   "0001145986": {
-   "cap": 439840571.02885437,
+   "cap": 441915258.97114563,
    "src": "yahoo",
-   "checked": "2026-09-25T05:03:46.711384+00:00"
+   "checked": "2026-10-19T19:59:28.869198+00:00"
   },
   "0001690511": {
    "cap": 742220619.0863585,
@@ -20617,9 +21718,9 @@
    "checked": "2026-09-25T21:39:19.739307+00:00"
   },
   "0001083301": {
-   "cap": 7853766861.775133,
+   "cap": 6020056878.629411,
    "src": "yahoo",
-   "checked": "2026-09-25T21:39:19.739307+00:00"
+   "checked": "2026-10-19T19:59:28.869198+00:00"
   },
   "0001783328": {
    "cap": 15657008.325155675,
@@ -20924,7 +22025,7 @@
   "0001830043": {
    "cap": 785211443.1290417,
    "src": "yahoo",
-   "checked": "2026-10-14T02:18:12.664220+00:00"
+   "checked": "2026-10-19T19:59:28.869198+00:00"
   },
   "0001468748": {
    "cap": 5958128715.401321,
@@ -21242,9 +22343,9 @@
    "checked": "2026-10-15T17:07:14.864664+00:00"
   },
   "0001667313": {
-   "cap": 44859321.434569836,
+   "cap": 44075068.28249264,
    "src": "yahoo",
-   "checked": "2026-10-14T02:18:12.664220+00:00"
+   "checked": "2026-10-19T19:59:28.869198+00:00"
   },
   "0001782223": {
    "cap": 242495613.6523373,
@@ -22042,9 +23143,9 @@
    "checked": "2026-10-07T01:37:11.209284+00:00"
   },
   "0000004127": {
-   "cap": 19469356017.01049,
+   "cap": 18874387465.10781,
    "src": "yahoo",
-   "checked": "2026-10-07T01:37:11.209284+00:00"
+   "checked": "2026-10-19T19:59:28.869198+00:00"
   },
   "0001484612": {
    "cap": 77820256.45030785,
@@ -22122,9 +23223,9 @@
    "checked": "2026-10-07T17:27:17.382343+00:00"
   },
   "0001557860": {
-   "cap": 1537624015.5147095,
+   "cap": 1737761185.0992584,
    "src": "yahoo",
-   "checked": "2026-10-07T17:27:17.382343+00:00"
+   "checked": "2026-10-19T19:59:28.869198+00:00"
   },
   "0000712034": {
    "cap": 408461006.00627136,
@@ -22299,7 +23400,7 @@
   "0001667919": {
    "cap": null,
    "src": null,
-   "checked": "2026-10-14T13:48:03.566552+00:00"
+   "checked": "2026-10-19T19:59:28.869198+00:00"
   },
   "0001517936": {
    "cap": null,
@@ -22309,7 +23410,7 @@
   "0001329377": {
    "cap": null,
    "src": null,
-   "checked": "2026-10-07T17:27:17.382343+00:00"
+   "checked": "2026-10-19T19:59:28.869198+00:00"
   },
   "0001655589": {
    "cap": null,
@@ -22857,9 +23958,9 @@
    "checked": "2026-10-08T19:59:09.488809+00:00"
   },
   "0000352915": {
-   "cap": 10354556464.237976,
+   "cap": 10764165063.628006,
    "src": "yahoo",
-   "checked": "2026-10-08T19:59:09.488809+00:00"
+   "checked": "2026-10-19T19:59:28.869198+00:00"
   },
   "0000037472": {
    "cap": 353240008.02220154,
@@ -22957,9 +24058,9 @@
    "checked": "2026-10-08T19:59:09.488809+00:00"
   },
   "0001315257": {
-   "cap": 837215124.0170288,
+   "cap": 812157281.9886475,
    "src": "yahoo",
-   "checked": "2026-10-08T19:59:09.488809+00:00"
+   "checked": "2026-10-19T19:59:28.869198+00:00"
   },
   "0001127371": {
    "cap": 708121146.1496849,
@@ -23187,9 +24288,9 @@
    "checked": "2026-10-09T00:26:23.783574+00:00"
   },
   "0001831481": {
-   "cap": 740616547.92,
+   "cap": 614941963.6215134,
    "src": "yahoo",
-   "checked": "2026-10-09T00:26:23.783574+00:00"
+   "checked": "2026-10-19T19:59:28.869198+00:00"
   },
   "0001729637": {
    "cap": 17813656.259999998,
@@ -23487,9 +24588,9 @@
    "checked": "2026-10-13T21:19:31.357696+00:00"
   },
   "0001649739": {
-   "cap": 140206632.85725117,
+   "cap": 172562018.57137442,
    "src": "yahoo",
-   "checked": "2026-10-13T21:19:31.357696+00:00"
+   "checked": "2026-10-19T19:59:28.869198+00:00"
   },
   "0001715497": {
    "cap": 1480861215.6441355,
@@ -25009,7 +26110,7 @@
   "0001552740": {
    "cap": null,
    "src": null,
-   "checked": "2026-10-14T13:48:03.566552+00:00"
+   "checked": "2026-10-19T19:59:28.869198+00:00"
   },
   "0001503290": {
    "cap": 539523939.3316326,
@@ -25322,9 +26423,9 @@
    "checked": "2026-10-14T18:41:37.904801+00:00"
   },
   "0001275168": {
-   "cap": 1040597795.9960098,
+   "cap": 1047284000.8470688,
    "src": "yahoo",
-   "checked": "2026-10-14T18:41:37.904801+00:00"
+   "checked": "2026-10-19T19:59:28.869198+00:00"
   },
   "0000908315": {
    "cap": 1085122363.2853088,
@@ -27170,6 +28271,176 @@
    "cap": 236342900.0,
    "src": "yahoo",
    "checked": "2026-10-19T13:29:31.491402+00:00"
+  },
+  "0000872912": {
+   "cap": 498795178.125,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001546383": {
+   "cap": 93584648.28028679,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0000059478": {
+   "cap": 1108184853939.0835,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0000868278": {
+   "cap": 138773.74500773102,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001818644": {
+   "cap": 39974714.128311515,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001994702": {
+   "cap": 360547273.80171967,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001411690": {
+   "cap": 14426825.28078556,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0000065270": {
+   "cap": 501169460.1372595,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001409375": {
+   "cap": 93152299.952137,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001041934": {
+   "cap": 198310130.99412918,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001402436": {
+   "cap": 19861198718.217957,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0000768899": {
+   "cap": 247512520.20407867,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001788060": {
+   "cap": 1529998515.575409,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001616533": {
+   "cap": 2892137861.188862,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001674335": {
+   "cap": 118865833.75372005,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001844452": {
+   "cap": 1736803465.0244942,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0000827876": {
+   "cap": 2168820103.110649,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0000744187": {
+   "cap": 1345272176.6889954,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001414040": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001487610": {
+   "cap": 221626427.12834358,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001383496": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001364608": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001549548": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001521404": {
+   "cap": 258460627.27175045,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001209466": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0000720762": {
+   "cap": 11162838.4,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0000731122": {
+   "cap": 318315267.10063744,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001792941": {
+   "cap": 24849906.9,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0000773717": {
+   "cap": 70647603.17999999,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001823878": {
+   "cap": 46667152.130443335,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0002076765": {
+   "cap": 0.0,
+   "src": "float",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001160420": {
+   "cap": 12272610.02984333,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0000070487": {
+   "cap": 449911975.8151779,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
+  },
+  "0001093672": {
+   "cap": 234298021.3142395,
+   "src": "yahoo",
+   "checked": "2026-10-19T19:59:28.869198+00:00"
   }
  },
  "events": {
@@ -29316,6 +30587,80 @@
    ],
    "snips": {
     "Board change": "Abbott was appointed as a Class II director, to serve for a term expiring at the annual meeting of stockholders in 2028 or until his earlier death, resignation or removal."
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0001213900-26-110623": {
+   "acc": "0001213900-26-110623",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/773717/000121390026110623/0001213900-26-110623-index.htm",
+   "updated": "2026-10-19T14:46:37-04:00",
+   "issuer": "American Clean Resources Group, Inc.",
+   "issuer_cik": "0000773717",
+   "ticker": "ACRG",
+   "cap": 70647603.17999999,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02"
+   ],
+   "filers": [],
+   "tags": [
+    "CFO change",
+    "CEO change"
+   ],
+   "snips": {
+    "CFO change": "(the \u201cCompany\u201d) terminated Luke McPherson as Chief Financial Officer, effective immediately.",
+    "CEO change": "[Interim] On the same date, the Company\u2019s Board of Directors (the \u201cBoard\u201d) appointed Tawana Bain, the Company\u2019s Chief Executive Officer, to serve additionally as Interim Principal Financial Officer and Interim Principal Accounting Officer, without additional compensation."
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0002076765-26-000017": {
+   "acc": "0002076765-26-000017",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/2076765/000207676526000017/0002076765-26-000017-index.htm",
+   "updated": "2026-10-19T11:39:01-04:00",
+   "issuer": "Elventix Technology Corp",
+   "issuer_cik": "0002076765",
+   "ticker": "ELVX",
+   "cap": 0.0,
+   "cap_src": "float",
+   "items": [
+    "5.02"
+   ],
+   "filers": [],
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "On October 19, 2026, Fernando Martins Jose Maria was appointed to serve as a member of the Board of Directors of Elventix Technology Corporation (the \u201cCompany\u201d), effective immediately."
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0001437749-26-032899": {
+   "acc": "0001437749-26-032899",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/70487/000143774926032899/0001437749-26-032899-index.htm",
+   "updated": "2026-10-19T10:28:38-04:00",
+   "issuer": "NRC HEALTH",
+   "issuer_cik": "0000070487",
+   "ticker": "NRC",
+   "cap": 449911975.8151779,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02"
+   ],
+   "filers": [],
+   "tags": [
+    "CFO change"
+   ],
+   "snips": {
+    "CFO change": "Green was appointed to serve as interim principal financial officer."
    },
    "groups": [
     "LEAD"
@@ -31761,6 +33106,42 @@
     "d": "2026-10-19",
     "acc": "0001628280-26-066193",
     "link": "https://www.sec.gov/Archives/edgar/data/1997652/000162828026066193/0001628280-26-066193-index.htm"
+   }
+  ],
+  "0000773717": [
+   {
+    "t": "CFO change",
+    "d": "2026-10-19",
+    "acc": "0001213900-26-110623",
+    "link": "https://www.sec.gov/Archives/edgar/data/773717/000121390026110623/0001213900-26-110623-index.htm"
+   },
+   {
+    "t": "CEO change",
+    "d": "2026-10-19",
+    "acc": "0001213900-26-110623",
+    "link": "https://www.sec.gov/Archives/edgar/data/773717/000121390026110623/0001213900-26-110623-index.htm"
+   },
+   {
+    "t": "Officer change",
+    "d": "2026-05-29",
+    "acc": "0001213900-26-062334",
+    "link": "https://www.sec.gov/Archives/edgar/data/773717/000121390026062334/0001213900-26-062334-index.htm"
+   }
+  ],
+  "0002076765": [
+   {
+    "t": "Board change",
+    "d": "2026-10-19",
+    "acc": "0002076765-26-000017",
+    "link": "https://www.sec.gov/Archives/edgar/data/2076765/000207676526000017/0002076765-26-000017-index.htm"
+   }
+  ],
+  "0000070487": [
+   {
+    "t": "CFO change",
+    "d": "2026-10-19",
+    "acc": "0001437749-26-032899",
+    "link": "https://www.sec.gov/Archives/edgar/data/70487/000143774926032899/0001437749-26-032899-index.htm"
    }
   ]
  },
@@ -36770,6 +38151,119 @@
    "snips": {
     "New buyback": "District Court for the District of Delaware seeking to void the AMA and recover fees. \u25cf Transparency Initiatives: An investor dashboard was announced and launched to provide shareholders with real-time visibility into the Company\u2019s digital asset holdings and performance. \u25cf Share Repurchases: Subsequent to the fiscal year-end, the Company opportunistically repurchased 1,434,112 shares of its common"
    },
+   "d": "2026-10-19"
+  },
+  "0001493152-26-047561": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-19"
+  },
+  "0001174947-26-000918": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-19"
+  },
+  "0001213900-26-110624": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-19"
+  },
+  "0001213900-26-110623": {
+   "tags": [
+    "CFO change",
+    "CEO change"
+   ],
+   "snips": {
+    "CFO change": "(the \u201cCompany\u201d) terminated Luke McPherson as Chief Financial Officer, effective immediately.",
+    "CEO change": "[Interim] On the same date, the Company\u2019s Board of Directors (the \u201cBoard\u201d) appointed Tawana Bain, the Company\u2019s Chief Executive Officer, to serve additionally as Interim Principal Financial Officer and Interim Principal Accounting Officer, without additional compensation."
+   },
+   "d": "2026-10-19"
+  },
+  "0001823878-26-000067": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-19"
+  },
+  "0001213900-26-110602": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-19"
+  },
+  "0001628280-26-066254": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-19"
+  },
+  "0002076765-26-000017": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "On October 19, 2026, Fernando Martins Jose Maria was appointed to serve as a member of the Board of Directors of Elventix Technology Corporation (the \u201cCompany\u201d), effective immediately."
+   },
+   "d": "2026-10-19"
+  },
+  "0001683168-26-007951": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-19"
+  },
+  "0001437749-26-032899": {
+   "tags": [
+    "CFO change"
+   ],
+   "snips": {
+    "CFO change": "Green was appointed to serve as interim principal financial officer."
+   },
+   "d": "2026-10-19"
+  },
+  "0001654954-26-009034": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-19"
+  },
+  "0001213900-26-080460": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-19"
+  },
+  "0001213900-26-076104": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-19"
+  },
+  "0001213900-26-069176": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-19"
+  },
+  "0001213900-26-067810": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-19"
+  },
+  "0001213900-26-062334": {
+   "tags": [
+    "Officer change"
+   ],
+   "snips": {
+    "Officer change": "Kelly Marshall On April 15, 2026, Kelly Marshall departed as fractional Chief Marketing Officer of the Company."
+   },
+   "d": "2026-10-19"
+  },
+  "0001213900-26-061643": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-19"
+  },
+  "0001213900-26-027171": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-19"
+  },
+  "0001213900-25-116742": {
+   "tags": [],
+   "snips": {},
    "d": "2026-10-19"
   }
  },
