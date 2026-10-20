@@ -18932,6 +18932,133 @@
    "cap_src": "yahoo",
    "pct": 8.0,
    "event_date": "09/30/2026"
+  },
+  "0000919574-26-007073": {
+   "acc": "0000919574-26-007073",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/1991261/000091957426007073/0000919574-26-007073-index.htm",
+   "updated": "2026-10-19T21:53:17-04:00",
+   "filers": [
+    "OLDRIDGE PHILLIP"
+   ],
+   "filer_ciks": [
+    "0001500541"
+   ],
+   "issuer": "Rantizo",
+   "issuer_cik": "0001991261",
+   "ticker": "RNTZ",
+   "group": "13D",
+   "cap": 18218741.22228813,
+   "cap_src": "yahoo",
+   "pct": 9.02,
+   "event_date": "10/09/2026",
+   "intent": [
+    "sale"
+   ]
+  },
+  "0000950157-26-001110": {
+   "acc": "0000950157-26-001110",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1632127/000095015726001110/0000950157-26-001110-index.htm",
+   "updated": "2026-10-19T21:48:39-04:00",
+   "filers": [
+    "GRAHAM DONALD"
+   ],
+   "filer_ciks": [
+    "0001018401"
+   ],
+   "issuer": "Cable One, Inc.",
+   "issuer_cik": "0001632127",
+   "ticker": "CABO",
+   "group": "13D",
+   "cap": 35291812.30956316,
+   "cap_src": "yahoo",
+   "pct": 4.99,
+   "event_date": "10/16/2026"
+  },
+  "0002041777-26-000005": {
+   "acc": "0002041777-26-000005",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2001557/000204177726000005/0002041777-26-000005-index.htm",
+   "updated": "2026-10-19T20:49:55-04:00",
+   "filers": [
+    "Ascent Capital Partners LLC"
+   ],
+   "filer_ciks": [
+    "0002041777"
+   ],
+   "issuer": "Innventure, Inc.",
+   "issuer_cik": "0002001557",
+   "ticker": "INV",
+   "group": "13D",
+   "cap": 28803160.555728704,
+   "cap_src": "yahoo",
+   "pct": 10.7,
+   "event_date": "10/19/2026",
+   "intent": [
+    "sale",
+    "letter"
+   ]
+  },
+  "0001193125-26-425558": {
+   "acc": "0001193125-26-425558",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2092592/000119312526425558/0001193125-26-425558-index.htm",
+   "updated": "2026-10-19T21:45:58-04:00",
+   "filers": [
+    "Arrington XRP Capital Fund, LP"
+   ],
+   "filer_ciks": [
+    "0001727934"
+   ],
+   "issuer": "Evernorth Holdings Inc.",
+   "issuer_cik": "0002092592",
+   "ticker": "XRPN",
+   "group": "13G",
+   "cap": 507651290.3594971,
+   "cap_src": "yahoo",
+   "pct": 19.9,
+   "event_date": "10/09/2026"
+  },
+  "0001493152-26-047674": {
+   "acc": "0001493152-26-047674",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1991261/000149315226047674/0001493152-26-047674-index.htm",
+   "updated": "2026-10-19T21:45:04-04:00",
+   "filers": [
+    "Ng Chun Seong"
+   ],
+   "filer_ciks": [
+    "0002057693"
+   ],
+   "issuer": "Rantizo",
+   "issuer_cik": "0001991261",
+   "ticker": "RNTZ",
+   "group": "13G",
+   "cap": 18218741.22228813,
+   "cap_src": "yahoo",
+   "pct": 0.0,
+   "event_date": "10/09/2026"
+  },
+  "0001493152-26-047671": {
+   "acc": "0001493152-26-047671",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1991261/000149315226047671/0001493152-26-047671-index.htm",
+   "updated": "2026-10-19T21:43:04-04:00",
+   "filers": [
+    "Liao Xiaoyan"
+   ],
+   "filer_ciks": [
+    "0002058401"
+   ],
+   "issuer": "Rantizo",
+   "issuer_cik": "0001991261",
+   "ticker": "RNTZ",
+   "group": "13G",
+   "cap": 18218741.22228813,
+   "cap_src": "yahoo",
+   "pct": 0.0,
+   "event_date": "10/09/2026"
   }
  },
  "seen": {
@@ -21366,7 +21493,13 @@
   "0000902664-26-004213": "2026-10-19T23:46:07.593291+00:00",
   "0001140361-26-040120": "2026-10-19T23:46:07.593291+00:00",
   "0000921895-26-002814": "2026-10-19T23:46:07.593291+00:00",
-  "0001213900-26-110672": "2026-10-19T23:46:07.593291+00:00"
+  "0001213900-26-110672": "2026-10-19T23:46:07.593291+00:00",
+  "0000919574-26-007073": "2026-10-20T04:58:06.481705+00:00",
+  "0000950157-26-001110": "2026-10-20T04:58:06.481705+00:00",
+  "0002041777-26-000005": "2026-10-20T04:58:06.481705+00:00",
+  "0001193125-26-425558": "2026-10-20T04:58:06.481705+00:00",
+  "0001493152-26-047674": "2026-10-20T04:58:06.481705+00:00",
+  "0001493152-26-047671": "2026-10-20T04:58:06.481705+00:00"
  },
  "caps": {
   "0001677250": {
@@ -25735,9 +25868,9 @@
    "checked": "2026-10-14T02:18:12.664220+00:00"
   },
   "0002001557": {
-   "cap": 20995075.548235998,
+   "cap": 28803160.555728704,
    "src": "yahoo",
-   "checked": "2026-10-14T02:18:12.664220+00:00"
+   "checked": "2026-10-20T04:58:06.481705+00:00"
   },
   "0000886982": {
    "cap": 259698682689.73535,
@@ -27055,9 +27188,9 @@
    "checked": "2026-10-14T23:17:13.925197+00:00"
   },
   "0001632127": {
-   "cap": 54469682.16443062,
+   "cap": 35291812.30956316,
    "src": "yahoo",
-   "checked": "2026-10-15T04:48:52.879232+00:00"
+   "checked": "2026-10-20T04:58:06.481705+00:00"
   },
   "0001031316": {
    "cap": 40564564.63210058,
@@ -29163,6 +29296,11 @@
    "cap": 964099984.7230835,
    "src": "yahoo",
    "checked": "2026-10-19T23:46:07.593291+00:00"
+  },
+  "0001991261": {
+   "cap": 18218741.22228813,
+   "src": "yahoo",
+   "checked": "2026-10-20T04:58:06.481705+00:00"
   }
  },
  "events": {
@@ -34648,6 +34786,70 @@
     "d": "2026-10-19",
     "acc": "0001213900-26-110669",
     "link": "https://www.sec.gov/Archives/edgar/data/1544227/000121390026110669/0001213900-26-110669-index.htm"
+   }
+  ],
+  "0001991261": [
+   {
+    "t": "13D Item 4",
+    "d": "2026-10-19",
+    "acc": "0000919574-26-007073",
+    "link": "https://www.sec.gov/Archives/edgar/data/1991261/000091957426007073/0000919574-26-007073-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2026-10-19",
+    "acc": "0000919574-26-007073",
+    "link": "https://www.sec.gov/Archives/edgar/data/1991261/000091957426007073/0000919574-26-007073-index.htm"
+   }
+  ],
+  "0002001557": [
+   {
+    "t": "13D Item 4",
+    "d": "2026-10-19",
+    "acc": "0002041777-26-000005",
+    "link": "https://www.sec.gov/Archives/edgar/data/2001557/000204177726000005/0002041777-26-000005-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2026-02-18",
+    "acc": "0002041777-26-000001",
+    "link": "https://www.sec.gov/Archives/edgar/data/2001557/000204177726000001/0002041777-26-000001-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2026-02-17",
+    "acc": "0000921895-26-000445",
+    "link": "https://www.sec.gov/Archives/edgar/data/2001557/000092189526000445/0000921895-26-000445-index.htm"
+   },
+   {
+    "t": "Board change",
+    "d": "2026-09-21",
+    "acc": "0002001557-26-000175",
+    "link": "https://www.sec.gov/Archives/edgar/data/2001557/000200155726000175/0002001557-26-000175-index.htm"
+   },
+   {
+    "t": "CFO change",
+    "d": "2026-09-21",
+    "acc": "0002001557-26-000175",
+    "link": "https://www.sec.gov/Archives/edgar/data/2001557/000200155726000175/0002001557-26-000175-index.htm"
+   },
+   {
+    "t": "CEO change",
+    "d": "2026-08-31",
+    "acc": "0002001557-26-000160",
+    "link": "https://www.sec.gov/Archives/edgar/data/2001557/000200155726000160/0002001557-26-000160-index.htm"
+   },
+   {
+    "t": "Board change",
+    "d": "2026-08-31",
+    "acc": "0002001557-26-000160",
+    "link": "https://www.sec.gov/Archives/edgar/data/2001557/000200155726000160/0002001557-26-000160-index.htm"
+   },
+   {
+    "t": "Strategic review",
+    "d": "2026-08-31",
+    "acc": "0002001557-26-000160",
+    "link": "https://www.sec.gov/Archives/edgar/data/2001557/000200155726000160/0002001557-26-000160-index.htm"
    }
   ]
  },
@@ -40394,6 +40596,50 @@
    "tags": [],
    "snips": {},
    "d": "2026-10-19"
+  },
+  "0002001557-26-000194": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-20"
+  },
+  "0002001557-26-000192": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-20"
+  },
+  "0001140361-26-038822": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-20"
+  },
+  "0002001557-26-000175": {
+   "tags": [
+    "Board change",
+    "CFO change"
+   ],
+   "snips": {
+    "Board change": "(the \u201cCompany\u201d), resigned from the Board effective as of the Effective Date in connection with the Board\u2019s initiative to increase the percentage of independent directors serving on the Board.",
+    "CFO change": "Appointment of Eric Stober as Chief Financial Officer, Principal Financial Officer and Principal Accounting Officer On September 20, 2026, the Board appointed Eric Stober to serve as the Company\u2019s Chief Financial Officer, Principal Financial Officer and Principal Accounting Officer, effective October 19, 2026."
+   },
+   "d": "2026-10-20"
+  },
+  "0002001557-26-000171": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-20"
+  },
+  "0002001557-26-000160": {
+   "tags": [
+    "CEO change",
+    "Board change",
+    "Strategic review"
+   ],
+   "snips": {
+    "CEO change": "(the \u201cCompany\u201d) and a Class I director on the Company\u2019s Board of Directors (the \u201cBoard\u201d), will retire from his position as Chief Executive Officer and as a Class I director.",
+    "Board change": "Grieco was also appointed as a Class I director on the Board, effective as of the Effective Date.",
+    "Strategic review": "These governance and management changes are part of the Board\u2019s continuing actions to strengthen independent oversight and accountability as Innventure reduces parent-level spending, evaluates funding alternatives, assesses strategic alternatives related to the AeroFlexx business, and sharpens its capital allocation."
+   },
+   "d": "2026-10-20"
   }
  },
  "catalysts": {
