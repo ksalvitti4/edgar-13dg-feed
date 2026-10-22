@@ -91,6 +91,9 @@ Add the catalyst feeds the same way:
 - `https://YOUR-USERNAME.github.io/edgar-13dg-feed/tender.xml` — companies tendering for their own shares (SC TO-I)
 - `https://YOUR-USERNAME.github.io/edgar-13dg-feed/capital.xml` — new or bigger buybacks, special dividends, dividend initiations, Dutch auctions, strategic reviews, capital allocation frameworks
 - `https://YOUR-USERNAME.github.io/edgar-13dg-feed/catalyst.xml` — the stacking flag (see below). Start here if you only follow one.
+- `https://YOUR-USERNAME.github.io/edgar-13dg-feed/insider.xml` — officers and directors buying stock on the open market (Form 4): 2+ insiders in 30 days, or one large purchase
+- `https://YOUR-USERNAME.github.io/edgar-13dg-feed/spinoff.xml` — spin-off registrations (Form 10) showing the parent company and its size, plus small companies announcing a spin-off
+- `https://YOUR-USERNAME.github.io/edgar-13dg-feed/uplisting.xml` — companies moving to NYSE or Nasdaq from OTC or a foreign exchange (TSX, TSXV, CSE, ASX and others)
 
 The page at `https://YOUR-USERNAME.github.io/edgar-13dg-feed/` shows the same filings as a table, if you'd rather browse that way.
 
@@ -119,16 +122,40 @@ The page at `https://YOUR-USERNAME.github.io/edgar-13dg-feed/` shows the same fi
 - These feeds only include companies with an exchange ticker and skip funds, BDCs and SPACs.
 - Every item shows the sentence that triggered the tag, so you can triage without opening the filing.
 
+### Insider buying
+
+- Reads every new Form 4 (insider transaction report) for companies under the cutoff and keeps **open-market purchases** (transaction code P) by **officers and directors**. Sales, option exercises, grants and gifts are ignored.
+- **Not counted:** purchases tied to an IPO, a public or registered direct offering, or a private placement (from the filing's footnotes, or a company offering prospectus filed within 3 days); "purchases" over 5% of the company's market cap that don't say "open market" (private block deals and data-entry errors); and funds, BDCs and SPACs. Buys by 10% holders who aren't officers or directors are listed in the item but don't trigger it.
+- **Flags when, within 30 days:**
+  - **Cluster:** 2 or more officers/directors each bought at least $10K, $100K combined, or
+  - **Large buy:** one officer/director bought at least $250K, and that's at least 0.1% of the company's market cap or adds at least 10% to their holdings (or is a new position).
+- Each item lists every buyer, their role, dollars, dates, how much they added to their stake, and whether it was under a 10b5-1 plan. The item re-appears if more insiders join the same buying episode.
+- EDGAR's latest-filings list only holds about 2½ days of Form 4s, so each run also checks EDGAR's daily index for the last few days to pick up anything missed on heavy filing days. Up to 800 Form 4s are read per run (`FORM4_BUDGET`); the rest carry over.
+- Insider buying counts as a **change** signal for the catalyst stack.
+
+### Spin-offs
+
+- **Form 10 (10-12B / 10-12G):** a new company registering its shares. Kept only when it describes a spin-off ("pro rata distribution," "separation and distribution agreement," "the spin-off"); the many private funds, BDCs and shells that also file 10-12Gs are dropped. The item names the **parent** and its market cap and quotes the distribution sentence. Spin-offs combined with a merger are labeled "Reverse Morris Trust."
+- There's **no size cutoff** on Form 10 spin-offs, since a small spin-off from a large parent is the classic forced-selling setup, and the new company has no stock price yet.
+- **8-K announcements:** the 8-Ks already read for the capital feed are also checked for a small company announcing or approving a spin-off or separation into independent companies. Updates, legal boilerplate and completed spin-offs are ignored, and each company is posted at most once per 180 days. A spin-off counts as a **capital** signal for the catalyst stack (for the parent, when it's under the cutoff).
+
+### Uplistings
+
+- **8-A12B** (registering stock on an exchange) is kept only when the company already files reports with the SEC but isn't exchange-listed yet: no earlier 8-A12B, an SEC file number starting "000-" rather than "001-", and its last annual report doesn't list a U.S. exchange. Exchange transfers, new share classes (preferred, notes, warrants), holding-company reorganizations, SPAC mergers and plain IPOs are dropped. An IPO is kept only if its prospectus says the stock already trades OTC or on a foreign exchange ("uplisting with an offering").
+- **Form 10-12B from an OTC company:** OTC-quoted banks often register this way to list on Nasdaq.
+- **40FR12B / 20FR12B:** a foreign company (40FR12B is Canada) registering its shares for a U.S. listing. These show "cap unknown," because a brand-new U.S. ticker often maps to the wrong Yahoo quote, and the size cutoff isn't applied.
+- The item shows where the stock trades now and which exchange it's moving to, when the filing says.
+
 ### Catalyst stacking flag
 
 The script keeps a 12-month history of signals for each company, from these feeds and from the company's EDGAR filing history. A company lands in `catalyst.xml` when it has both:
 
-- a **change** signal: 13D, 13G→13D, 13D Item 4 tag, CEO change, activist settlement, or proxy fight, and
-- a **capital** signal: tender offer, new buyback, buyback increase, special dividend, dividend initiation, or strategic review.
+- a **change** signal: 13D, 13G→13D, 13D Item 4 tag, CEO change, activist settlement, proxy fight, or insider buying, and
+- a **capital** signal: tender offer, new buyback, buyback increase, special dividend, dividend initiation, strategic review, or spin-off.
 
-Board, CFO and officer changes and "capital allocation" language show up in the timeline but don't qualify on their own, since they're too common. Each item shows the signal timeline and whether the company is actually spending on buybacks (from XBRL cash-flow data vs. the prior year). A company re-appears in the feed whenever a new signal is added to its stack.
+Board, CFO and officer changes, uplistings, and "capital allocation" language show up in the timeline but don't qualify on their own, since they're too common. Each item shows the signal timeline and whether the company is actually spending on buybacks (from XBRL cash-flow data vs. the prior year). A company re-appears in the feed whenever a new signal is added to its stack.
 
-The script reads at most 900 filing documents per run (set with a `DOC_BUDGET` variable). Anything left over is picked up on the next run, so the first few runs after an upgrade take longer and fill in gradually.
+The script reads at most 900 filing documents per run (set with a `DOC_BUDGET` variable) plus up to 800 Form 4s (`FORM4_BUDGET`). Anything left over is picked up on the next run, so the first few runs after an upgrade take longer and fill in gradually.
 
 ## Troubleshooting
 
