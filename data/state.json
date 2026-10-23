@@ -21854,6 +21854,186 @@
    "cap_src": "yahoo",
    "pct": 5.5,
    "event_date": "10/16/2026"
+  },
+  "0000038777-26-000271": {
+   "acc": "0000038777-26-000271",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1762562/000003877726000271/0000038777-26-000271-index.htm",
+   "updated": "2026-10-23T10:50:23-04:00",
+   "filers": [
+    "FRANKLIN TEMPLETON INC"
+   ],
+   "filer_ciks": [
+    "0000038777"
+   ],
+   "issuer": "Clarion Partners Real Estate Income Fund Inc.",
+   "issuer_cik": "0001762562",
+   "ticker": null,
+   "group": "13D",
+   "cap": null,
+   "cap_src": null,
+   "pct": 23.6,
+   "event_date": "10/21/2026"
+  },
+  "0001172661-26-004676": {
+   "acc": "0001172661-26-004676",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1590976/000117266126004676/0001172661-26-004676-index.htm",
+   "updated": "2026-10-23T13:44:12-04:00",
+   "filers": [
+    "COOKE & BIELER LP"
+   ],
+   "filer_ciks": [
+    "0000024386"
+   ],
+   "issuer": "MALIBU BOATS, INC.",
+   "issuer_cik": "0001590976",
+   "ticker": "MBUU",
+   "group": "13G",
+   "cap": 433108778.6838951,
+   "cap_src": "yahoo",
+   "pct": 4.8,
+   "event_date": "09/30/2026"
+  },
+  "0001172661-26-004675": {
+   "acc": "0001172661-26-004675",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1825088/000117266126004675/0001172661-26-004675-index.htm",
+   "updated": "2026-10-23T13:43:46-04:00",
+   "filers": [
+    "COOKE & BIELER LP"
+   ],
+   "filer_ciks": [
+    "0000024386"
+   ],
+   "issuer": "Dream Finders Homes, Inc.",
+   "issuer_cik": "0001825088",
+   "ticker": "DFH",
+   "group": "13G",
+   "cap": 868231795.4345627,
+   "cap_src": "yahoo",
+   "pct": 4.6,
+   "event_date": "09/30/2026"
+  },
+  "0000906304-26-000195": {
+   "acc": "0000906304-26-000195",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1902314/000090630426000195/0000906304-26-000195-index.htm",
+   "updated": "2026-10-23T10:34:26-04:00",
+   "filers": [
+    "ROYCE & ASSOCIATES LP"
+   ],
+   "filer_ciks": [
+    "0000906304"
+   ],
+   "issuer": "M-tron Industries, Inc.",
+   "issuer_cik": "0001902314",
+   "ticker": "MPTI",
+   "group": "13G",
+   "cap": 282021104.54507446,
+   "cap_src": "yahoo",
+   "pct": 5.28,
+   "event_date": "09/30/2026"
+  },
+  "0000906304-26-000193": {
+   "acc": "0000906304-26-000193",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1998768/000090630426000193/0000906304-26-000193-index.htm",
+   "updated": "2026-10-23T10:29:12-04:00",
+   "filers": [
+    "ROYCE & ASSOCIATES LP"
+   ],
+   "filer_ciks": [
+    "0000906304"
+   ],
+   "issuer": "Proficient Auto Logistics, Inc",
+   "issuer_cik": "0001998768",
+   "ticker": "PAL",
+   "group": "13G",
+   "cap": 77005270.42459774,
+   "cap_src": "yahoo",
+   "pct": 5.06,
+   "event_date": "09/30/2026"
+  },
+  "0000906304-26-000191": {
+   "acc": "0000906304-26-000191",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1409171/000090630426000191/0000906304-26-000191-index.htm",
+   "updated": "2026-10-23T10:20:43-04:00",
+   "filers": [
+    "ROYCE & ASSOCIATES LP"
+   ],
+   "filer_ciks": [
+    "0000906304"
+   ],
+   "issuer": "Titan Machinery Inc.",
+   "issuer_cik": "0001409171",
+   "ticker": "TITN",
+   "group": "13G",
+   "cap": 542668592.2520771,
+   "cap_src": "yahoo",
+   "pct": 5.0,
+   "event_date": "09/30/2026"
+  },
+  "0000906304-26-000189": {
+   "acc": "0000906304-26-000189",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2044671/000090630426000189/0000906304-26-000189-index.htm",
+   "updated": "2026-10-23T10:14:51-04:00",
+   "filers": [
+    "ROYCE & ASSOCIATES LP"
+   ],
+   "filer_ciks": [
+    "0000906304"
+   ],
+   "issuer": "Hingham Institution for Savings",
+   "issuer_cik": "0002044671",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 4.66,
+   "event_date": "09/30/2026"
+  },
+  "0000906304-26-000187": {
+   "acc": "0000906304-26-000187",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1034760/000090630426000187/0000906304-26-000187-index.htm",
+   "updated": "2026-10-23T10:09:32-04:00",
+   "filers": [
+    "ROYCE & ASSOCIATES LP"
+   ],
+   "filer_ciks": [
+    "0000906304"
+   ],
+   "issuer": "WIDEPOINT CORP",
+   "issuer_cik": "0001034760",
+   "ticker": "WYY",
+   "group": "13G",
+   "cap": 65778519.606859684,
+   "cap_src": "yahoo",
+   "pct": 5.4,
+   "event_date": "09/30/2026"
+  },
+  "0000906304-26-000185": {
+   "acc": "0000906304-26-000185",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1828791/000090630426000185/0000906304-26-000185-index.htm",
+   "updated": "2026-10-23T10:00:33-04:00",
+   "filers": [
+    "ROYCE & ASSOCIATES LP"
+   ],
+   "filer_ciks": [
+    "0000906304"
+   ],
+   "issuer": "Viant Technology Inc.",
+   "issuer_cik": "0001828791",
+   "ticker": "DSP",
+   "group": "13G",
+   "cap": 292340597.8405466,
+   "cap_src": "yahoo",
+   "pct": 6.59,
+   "event_date": "09/30/2026"
   }
  },
  "seen": {
@@ -25341,7 +25521,47 @@
   "0001193125-26-429192": "2026-10-23T13:31:56.223245+00:00",
   "0001279569-26-001002": "2026-10-23T13:31:56.223245+00:00",
   "0001564708-26-000235": "2026-10-23T13:31:56.223245+00:00",
-  "0001437749-26-033299": "2026-10-23T13:31:56.223245+00:00"
+  "0001437749-26-033299": "2026-10-23T13:31:56.223245+00:00",
+  "0000038777-26-000271": "2026-10-23T18:25:51.699432+00:00",
+  "0001172661-26-004676": "2026-10-23T18:25:51.699432+00:00",
+  "0001172661-26-004675": "2026-10-23T18:25:51.699432+00:00",
+  "0000906304-26-000195": "2026-10-23T18:25:51.699432+00:00",
+  "0000906304-26-000193": "2026-10-23T18:25:51.699432+00:00",
+  "0000906304-26-000191": "2026-10-23T18:25:51.699432+00:00",
+  "0000906304-26-000189": "2026-10-23T18:25:51.699432+00:00",
+  "0000906304-26-000187": "2026-10-23T18:25:51.699432+00:00",
+  "0000906304-26-000185": "2026-10-23T18:25:51.699432+00:00",
+  "0001437749-26-033387": "2026-10-23T18:25:51.699432+00:00",
+  "0001437749-26-033385": "2026-10-23T18:25:51.699432+00:00",
+  "0001331451-26-000196": "2026-10-23T18:25:51.699432+00:00",
+  "0000939057-26-000277": "2026-10-23T18:25:51.699432+00:00",
+  "0001140361-26-040631": "2026-10-23T18:25:51.699432+00:00",
+  "0001104659-26-118407": "2026-10-23T18:25:51.699432+00:00",
+  "0001628280-26-067015": "2026-10-23T18:25:51.699432+00:00",
+  "0000939057-26-000275": "2026-10-23T18:25:51.699432+00:00",
+  "0001331463-26-000207": "2026-10-23T18:25:51.699432+00:00",
+  "0001213900-26-111997": "2026-10-23T18:25:51.699432+00:00",
+  "0001193125-26-430015": "2026-10-23T18:25:51.699432+00:00",
+  "0000930413-26-003116": "2026-10-23T18:25:51.699432+00:00",
+  "0000930413-26-003115": "2026-10-23T18:25:51.699432+00:00",
+  "0000939057-26-000273": "2026-10-23T18:25:51.699432+00:00",
+  "0001185185-26-004951": "2026-10-23T18:25:51.699432+00:00",
+  "0001193125-26-429847": "2026-10-23T18:25:51.699432+00:00",
+  "0001193125-26-429834": "2026-10-23T18:25:51.699432+00:00",
+  "0001331463-26-000203": "2026-10-23T18:25:51.699432+00:00",
+  "0001213900-26-111944": "2026-10-23T18:25:51.699432+00:00",
+  "0001193125-26-429812": "2026-10-23T18:25:51.699432+00:00",
+  "0001193125-26-429794": "2026-10-23T18:25:51.699432+00:00",
+  "0001628280-26-066996": "2026-10-23T18:25:51.699432+00:00",
+  "0001104659-26-118368": "2026-10-23T18:25:51.699432+00:00",
+  "0001193125-26-429770": "2026-10-23T18:25:51.699432+00:00",
+  "0001193125-26-429647": "2026-10-23T18:25:51.699432+00:00",
+  "0001193125-26-429611": "2026-10-23T18:25:51.699432+00:00",
+  "0001213900-26-111898": "2026-10-23T18:25:51.699432+00:00",
+  "0001140361-26-040610": "2026-10-23T18:25:51.699432+00:00",
+  "0001104659-26-118350": "2026-10-23T18:25:51.699432+00:00",
+  "0001193125-26-430029": "2026-10-23T18:25:51.699432+00:00",
+  "0001193125-26-429620": "2026-10-23T18:25:51.699432+00:00"
  },
  "caps": {
   "0001677250": {
@@ -25805,9 +26025,9 @@
    "checked": "2026-09-23T21:34:10.737050+00:00"
   },
   "0000728387": {
-   "cap": 299077343.9963789,
+   "cap": 191204030.08182454,
    "src": "yahoo",
-   "checked": "2026-09-23T21:34:10.737050+00:00"
+   "checked": "2026-10-23T18:25:51.699432+00:00"
   },
   "0001504379": {
    "cap": 95778497.75,
@@ -26672,7 +26892,7 @@
   "0001762562": {
    "cap": null,
    "src": null,
-   "checked": "2026-10-02T19:22:38.541733+00:00"
+   "checked": "2026-10-23T18:25:51.699432+00:00"
   },
   "0001172052": {
    "cap": 1526256257.3684692,
@@ -27555,9 +27775,9 @@
    "checked": "2026-10-07T17:27:17.382343+00:00"
   },
   "0001998768": {
-   "cap": 94398086.16253352,
+   "cap": 77005270.42459774,
    "src": "yahoo",
-   "checked": "2026-10-07T17:27:17.382343+00:00"
+   "checked": "2026-10-23T18:25:51.699432+00:00"
   },
   "0001759655": {
    "cap": 2601945903.7888126,
@@ -32325,9 +32545,9 @@
    "checked": "2026-10-16T21:17:52.087026+00:00"
   },
   "0001034760": {
-   "cap": 62089163.93140316,
+   "cap": 65778519.606859684,
    "src": "yahoo",
-   "checked": "2026-10-16T21:17:52.087026+00:00"
+   "checked": "2026-10-23T18:25:51.699432+00:00"
   },
   "0000013156": {
    "cap": 40038184.59661543,
@@ -35998,6 +36218,81 @@
    "cap": 205773280.03856277,
    "src": "yahoo",
    "checked": "2026-10-23T13:31:56.223245+00:00"
+  },
+  "0001590976": {
+   "cap": 433108778.6838951,
+   "src": "yahoo",
+   "checked": "2026-10-23T18:25:51.699432+00:00"
+  },
+  "0001902314": {
+   "cap": 282021104.54507446,
+   "src": "yahoo",
+   "checked": "2026-10-23T18:25:51.699432+00:00"
+  },
+  "0001409171": {
+   "cap": 542668592.2520771,
+   "src": "yahoo",
+   "checked": "2026-10-23T18:25:51.699432+00:00"
+  },
+  "0002044671": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-10-23T18:25:51.699432+00:00"
+  },
+  "0001828791": {
+   "cap": 292340597.8405466,
+   "src": "yahoo",
+   "checked": "2026-10-23T18:25:51.699432+00:00"
+  },
+  "0001431567": {
+   "cap": 284223338.49632263,
+   "src": "yahoo",
+   "checked": "2026-10-23T18:25:51.699432+00:00"
+  },
+  "0001692345": {
+   "cap": 57904060.0,
+   "src": "float",
+   "checked": "2026-10-23T18:25:51.699432+00:00"
+  },
+  "0001010470": {
+   "cap": 112798636.12849045,
+   "src": "yahoo",
+   "checked": "2026-10-23T18:25:51.699432+00:00"
+  },
+  "0000767405": {
+   "cap": 188684028.8293457,
+   "src": "yahoo",
+   "checked": "2026-10-23T18:25:51.699432+00:00"
+  },
+  "0001787518": {
+   "cap": 13423722.851966858,
+   "src": "yahoo",
+   "checked": "2026-10-23T18:25:51.699432+00:00"
+  },
+  "0001782107": {
+   "cap": 2203520.6811588407,
+   "src": "yahoo",
+   "checked": "2026-10-23T18:25:51.699432+00:00"
+  },
+  "0001847398": {
+   "cap": 377740666.31186867,
+   "src": "yahoo",
+   "checked": "2026-10-23T18:25:51.699432+00:00"
+  },
+  "0001641281": {
+   "cap": 13158670.43086052,
+   "src": "yahoo",
+   "checked": "2026-10-23T18:25:51.699432+00:00"
+  },
+  "0000946644": {
+   "cap": 6351259.07634145,
+   "src": "yahoo",
+   "checked": "2026-10-23T18:25:51.699432+00:00"
+  },
+  "0001515139": {
+   "cap": 527000.5370868463,
+   "src": "yahoo",
+   "checked": "2026-10-23T18:25:51.699432+00:00"
   }
  },
  "events": {
@@ -40222,6 +40517,119 @@
    "groups": [
     "LEAD"
    ]
+  },
+  "0000939057-26-000277": {
+   "acc": "0000939057-26-000277",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1530249/000093905726000277/0000939057-26-000277-index.htm",
+   "updated": "2026-10-23T13:47:51-04:00",
+   "issuer": "FS Bancorp, Inc.",
+   "issuer_cik": "0001530249",
+   "ticker": "FSBW",
+   "cap": 348529035.23602295,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "Board change",
+    "CEO change",
+    "CFO change"
+   ],
+   "snips": {
+    "Board change": "Mullet has been appointed, beginning October 22, 2026 to serve on the Boards of Directors of the Company and the Bank.",
+    "CEO change": "Mullet has been the President of the Company and Bank since July 2024 and was appointed Chief Executive Officer of the Bank in September 2025 and of the Company in June 2026.",
+    "CFO change": "He joined the Company and Bank in July 2011 and was appointed Chief Financial Officer in September 2011."
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0000939057-26-000275": {
+   "acc": "0000939057-26-000275",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1010470/000093905726000275/0000939057-26-000275-index.htm",
+   "updated": "2026-10-23T13:11:26-04:00",
+   "issuer": "PROVIDENT FINANCIAL HOLDINGS INC",
+   "issuer_cik": "0001010470",
+   "ticker": "PROV",
+   "cap": 112798636.12849045,
+   "cap_src": "yahoo",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "New buyback"
+   ],
+   "snips": {
+    "New buyback": "(the \u201cCorporation\u201d) announced that the Corporation\u2019s Board of Directors authorized the repurchase of up to five percent (5%) of the Company\u2019s common stock, approximately 305,477 shares."
+   },
+   "groups": [
+    "CAP"
+   ]
+  },
+  "0001104659-26-118368": {
+   "acc": "0001104659-26-118368",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1847398/000110465926118368/0001104659-26-118368-index.htm",
+   "updated": "2026-10-23T10:59:51-04:00",
+   "issuer": "NorthEast Community Bancorp, Inc./MD/",
+   "issuer_cik": "0001847398",
+   "ticker": "NECB",
+   "cap": 377740666.31186867,
+   "cap_src": "yahoo",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "New buyback"
+   ],
+   "snips": {
+    "New buyback": "The Company commenced its third stock repurchase program on December 10, 2025 whereby the Company is authorized to repurchase up to 1,400,435, or 10%, of the Company\u2019s issued and outstanding common stock."
+   },
+   "groups": [
+    "CAP"
+   ]
+  },
+  "0001193125-26-429647": {
+   "acc": "0001193125-26-429647",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1641281/000119312526429647/0001193125-26-429647-index.htm",
+   "updated": "2026-10-23T10:31:29-04:00",
+   "issuer": "Bolt Biotherapeutics, Inc.",
+   "issuer_cik": "0001641281",
+   "ticker": "BOLT",
+   "cap": 13158670.43086052,
+   "cap_src": "yahoo",
+   "items": [
+    "1.01",
+    "1.02",
+    "2.01",
+    "3.02",
+    "5.02",
+    "5.03",
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "Board change",
+    "Officer change"
+   ],
+   "snips": {
+    "Board change": "Sheila Gujrathi was appointed to the Board as a Class II director of the Board.",
+    "Officer change": "Sheila Gujrathi was appointed as the Chief Strategy Officer of the Company."
+   },
+   "groups": [
+    "LEAD"
+   ]
   }
  },
  "signals": {
@@ -44107,6 +44515,92 @@
     "d": "2026-10-22",
     "acc": "0001731122-26-001362",
     "link": "https://www.sec.gov/Archives/edgar/data/1527728/000173112226001362/0001731122-26-001362-index.htm"
+   }
+  ],
+  "0001530249": [
+   {
+    "t": "Board change",
+    "d": "2026-10-23",
+    "acc": "0000939057-26-000277",
+    "link": "https://www.sec.gov/Archives/edgar/data/1530249/000093905726000277/0000939057-26-000277-index.htm"
+   },
+   {
+    "t": "CEO change",
+    "d": "2026-10-23",
+    "acc": "0000939057-26-000277",
+    "link": "https://www.sec.gov/Archives/edgar/data/1530249/000093905726000277/0000939057-26-000277-index.htm"
+   },
+   {
+    "t": "CFO change",
+    "d": "2026-10-23",
+    "acc": "0000939057-26-000277",
+    "link": "https://www.sec.gov/Archives/edgar/data/1530249/000093905726000277/0000939057-26-000277-index.htm"
+   },
+   {
+    "t": "New buyback",
+    "d": "2026-08-24",
+    "acc": "0000939057-26-000207",
+    "link": "https://www.sec.gov/Archives/edgar/data/1530249/000093905726000207/0000939057-26-000207-index.htm"
+   }
+  ],
+  "0001010470": [
+   {
+    "t": "New buyback",
+    "d": "2026-10-23",
+    "acc": "0000939057-26-000275",
+    "link": "https://www.sec.gov/Archives/edgar/data/1010470/000093905726000275/0000939057-26-000275-index.htm"
+   },
+   {
+    "t": "Board change",
+    "d": "2026-07-24",
+    "acc": "0000939057-26-000136",
+    "link": "https://www.sec.gov/Archives/edgar/data/1010470/000093905726000136/0000939057-26-000136-index.htm"
+   },
+   {
+    "t": "Officer change",
+    "d": "2026-05-28",
+    "acc": "0000939057-26-000120",
+    "link": "https://www.sec.gov/Archives/edgar/data/1010470/000093905726000120/0000939057-26-000120-index.htm"
+   },
+   {
+    "t": "New buyback",
+    "d": "2026-01-23",
+    "acc": "0000939057-26-000014",
+    "link": "https://www.sec.gov/Archives/edgar/data/1010470/000093905726000014/0000939057-26-000014-index.htm"
+   }
+  ],
+  "0001847398": [
+   {
+    "t": "New buyback",
+    "d": "2026-10-23",
+    "acc": "0001104659-26-118368",
+    "link": "https://www.sec.gov/Archives/edgar/data/1847398/000110465926118368/0001104659-26-118368-index.htm"
+   },
+   {
+    "t": "Board change",
+    "d": "2026-01-27",
+    "acc": "0001104659-26-006703",
+    "link": "https://www.sec.gov/Archives/edgar/data/1847398/000110465926006703/0001104659-26-006703-index.htm"
+   },
+   {
+    "t": "New buyback",
+    "d": "2025-12-09",
+    "acc": "0001104659-25-119517",
+    "link": "https://www.sec.gov/Archives/edgar/data/1847398/000110465925119517/0001104659-25-119517-index.htm"
+   }
+  ],
+  "0001641281": [
+   {
+    "t": "Board change",
+    "d": "2026-10-23",
+    "acc": "0001193125-26-429647",
+    "link": "https://www.sec.gov/Archives/edgar/data/1641281/000119312526429647/0001193125-26-429647-index.htm"
+   },
+   {
+    "t": "Officer change",
+    "d": "2026-10-23",
+    "acc": "0001193125-26-429647",
+    "link": "https://www.sec.gov/Archives/edgar/data/1641281/000119312526429647/0001193125-26-429647-index.htm"
    }
   ]
  },
@@ -53153,6 +53647,172 @@
    "tags": [],
    "snips": {},
    "d": "2026-10-23"
+  },
+  "0001437749-26-033387": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-23"
+  },
+  "0000939057-26-000277": {
+   "tags": [
+    "Board change",
+    "CEO change",
+    "CFO change"
+   ],
+   "snips": {
+    "Board change": "Mullet has been appointed, beginning October 22, 2026 to serve on the Boards of Directors of the Company and the Bank.",
+    "CEO change": "Mullet has been the President of the Company and Bank since July 2024 and was appointed Chief Executive Officer of the Bank in September 2025 and of the Company in June 2026.",
+    "CFO change": "He joined the Company and Bank in July 2011 and was appointed Chief Financial Officer in September 2011."
+   },
+   "d": "2026-10-23"
+  },
+  "0001104659-26-118407": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-23"
+  },
+  "0000939057-26-000275": {
+   "tags": [
+    "New buyback"
+   ],
+   "snips": {
+    "New buyback": "(the \u201cCorporation\u201d) announced that the Corporation\u2019s Board of Directors authorized the repurchase of up to five percent (5%) of the Company\u2019s common stock, approximately 305,477 shares."
+   },
+   "d": "2026-10-23"
+  },
+  "0001213900-26-111997": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-23"
+  },
+  "0000939057-26-000273": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-23"
+  },
+  "0001185185-26-004951": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-23"
+  },
+  "0001213900-26-111944": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-23"
+  },
+  "0001104659-26-118368": {
+   "tags": [
+    "New buyback"
+   ],
+   "snips": {
+    "New buyback": "The Company commenced its third stock repurchase program on December 10, 2025 whereby the Company is authorized to repurchase up to 1,400,435, or 10%, of the Company\u2019s issued and outstanding common stock."
+   },
+   "d": "2026-10-23"
+  },
+  "0001193125-26-429770": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-23"
+  },
+  "0001193125-26-429647": {
+   "tags": [
+    "Board change",
+    "Officer change"
+   ],
+   "snips": {
+    "Board change": "Sheila Gujrathi was appointed to the Board as a Class II director of the Board.",
+    "Officer change": "Sheila Gujrathi was appointed as the Chief Strategy Officer of the Company."
+   },
+   "d": "2026-10-23"
+  },
+  "0001213900-26-111898": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-23"
+  },
+  "0000939057-26-000138": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-23"
+  },
+  "0000939057-26-000136": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "Ternes has been appointed, beginning July 23, 2026, to serve on the Boards of Directors of the Corporation and the Bank to fill the vacancies resulting from the death of Director William E."
+   },
+   "d": "2026-10-23"
+  },
+  "0000939057-26-000120": {
+   "tags": [
+    "Officer change"
+   ],
+   "snips": {
+    "Officer change": "Weiant has resigned from his position, in connection with his retirement, as Senior Vice President and Chief Lending Officer of the Bank, effective July 15, 2026."
+   },
+   "d": "2026-10-23"
+  },
+  "0000939057-26-000087": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-23"
+  },
+  "0000939057-26-000085": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-23"
+  },
+  "0000939057-26-000016": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-23"
+  },
+  "0000939057-26-000014": {
+   "tags": [
+    "New buyback"
+   ],
+   "snips": {
+    "New buyback": "(the \u201cCorporation\u201d) announced that the Corporation\u2019s Board of Directors authorized the repurchase of up to five percent (5%) of the Company\u2019s common stock, approximately 318,875 shares."
+   },
+   "d": "2026-10-23"
+  },
+  "0000939057-25-000274": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-23"
+  },
+  "0000939057-26-000207": {
+   "tags": [
+    "New buyback"
+   ],
+   "snips": {
+    "New buyback": "(\u201cCompany\u201d), the holding company for 1st Security Bank of Washington (\u201cBank\u201d), announced that the Company\u2019s Board of Directors authorized a share repurchase program of up to $5.0 million of the Company\u2019s common stock."
+   },
+   "d": "2026-10-23"
+  },
+  "0001104659-26-066282": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-10-23"
+  },
+  "0001104659-26-006703": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "(d) On January 22, 2026, the Board of Directors of the Company and the Bank appointed Lynette Bennett to serve as a director of the Company and the Bank."
+   },
+   "d": "2026-10-23"
+  },
+  "0001104659-25-119517": {
+   "tags": [
+    "New buyback"
+   ],
+   "snips": {
+    "New buyback": "(the \u201cCompany\u201d) issued a press release announcing that its Board of Directors has authorized a third stock repurchase program to acquire up to 1,400,435 shares, or 10%, of the Company\u2019s currently issued and outstanding common stock."
+   },
+   "d": "2026-10-23"
   }
  },
  "catalysts": {
@@ -54521,6 +55181,41 @@
    "n": 4,
    "updated": "2026-10-22T21:42:23.651349+00:00",
    "buyback": "no repurchase spending reported in XBRL"
+  },
+  "0001530249": {
+   "cik": "0001530249",
+   "issuer": "FS Bancorp, Inc.",
+   "ticker": "FSBW",
+   "cap": 348529035.23602295,
+   "timeline": [
+    {
+     "t": "New buyback",
+     "d": "2026-08-24",
+     "acc": "0000939057-26-000207",
+     "link": "https://www.sec.gov/Archives/edgar/data/1530249/000093905726000207/0000939057-26-000207-index.htm"
+    },
+    {
+     "t": "Board change",
+     "d": "2026-10-23",
+     "acc": "0000939057-26-000277",
+     "link": "https://www.sec.gov/Archives/edgar/data/1530249/000093905726000277/0000939057-26-000277-index.htm"
+    },
+    {
+     "t": "CEO change",
+     "d": "2026-10-23",
+     "acc": "0000939057-26-000277",
+     "link": "https://www.sec.gov/Archives/edgar/data/1530249/000093905726000277/0000939057-26-000277-index.htm"
+    },
+    {
+     "t": "CFO change",
+     "d": "2026-10-23",
+     "acc": "0000939057-26-000277",
+     "link": "https://www.sec.gov/Archives/edgar/data/1530249/000093905726000277/0000939057-26-000277-index.htm"
+    }
+   ],
+   "n": 4,
+   "updated": "2026-10-23T18:25:51.699432+00:00",
+   "buyback": "$4.3M spent on buybacks in the 6 months to 2026-06-30 (prior year: $9.0M)"
   }
  },
  "pending": [],
@@ -55591,6 +56286,46 @@
     "issuer": "Baozun Inc.",
     "ticker": "BZUN",
     "link": "https://www.sec.gov/Archives/edgar/data/1625414/000110465926118281/0001104659-26-118281-index.htm"
+   }
+  ],
+  "0000946644": [
+   {
+    "acc": "0001493152-26-048196",
+    "key": "0001450324",
+    "owner": "Equels Thomas K",
+    "role": "CEO & President, Director",
+    "insider": true,
+    "d": "2026-10-22",
+    "filed": "2026-10-23T12:29:11-04:00",
+    "usd": 5094,
+    "shares": 31250.0,
+    "price": 0.163,
+    "pct_added": 24.6,
+    "new_position": false,
+    "plan": false,
+    "issuer": "AIM ImmunoTech Inc.",
+    "ticker": "AIM",
+    "link": "https://www.sec.gov/Archives/edgar/data/946644/000149315226048196/0001493152-26-048196-index.htm"
+   }
+  ],
+  "0001515139": [
+   {
+    "acc": "0001493152-26-048187",
+    "key": "0001166846",
+    "owner": "GALLAGHER SCOTT",
+    "role": "Chairman & CEO, Director",
+    "insider": true,
+    "d": "2026-10-22",
+    "filed": "2026-10-23T10:13:42-04:00",
+    "usd": 219,
+    "shares": 219286.0,
+    "price": 0.001,
+    "pct_added": 2.4,
+    "new_position": false,
+    "plan": false,
+    "issuer": "WASTE ENERGY CORP.",
+    "ticker": "WAST",
+    "link": "https://www.sec.gov/Archives/edgar/data/1515139/000149315226048187/0001493152-26-048187-index.htm"
    }
   ]
  },
@@ -56803,7 +57538,38 @@
   "0001104659-26-118281": "2026-10-23T13:31:56.223245+00:00",
   "0001193125-26-429392": "2026-10-23T13:31:56.223245+00:00",
   "0001193125-26-429389": "2026-10-23T13:31:56.223245+00:00",
-  "0001193125-26-429381": "2026-10-23T13:31:56.223245+00:00"
+  "0001193125-26-429381": "2026-10-23T13:31:56.223245+00:00",
+  "0001510281-26-000376": "2026-10-23T18:25:51.699432+00:00",
+  "0000885639-26-000186": "2026-10-23T18:25:51.699432+00:00",
+  "0001185185-26-004959": "2026-10-23T18:25:51.699432+00:00",
+  "0002111103-26-000043": "2026-10-23T18:25:51.699432+00:00",
+  "0001950027-26-000053": "2026-10-23T18:25:51.699432+00:00",
+  "0001750052-26-000052": "2026-10-23T18:25:51.699432+00:00",
+  "0001578926-26-000050": "2026-10-23T18:25:51.699432+00:00",
+  "0001968243-26-000054": "2026-10-23T18:25:51.699432+00:00",
+  "0001437749-26-033381": "2026-10-23T18:25:51.699432+00:00",
+  "0001760581-26-000073": "2026-10-23T18:25:51.699432+00:00",
+  "0001215315-26-000046": "2026-10-23T18:25:51.699432+00:00",
+  "0001437749-26-033379": "2026-10-23T18:25:51.699432+00:00",
+  "0001493152-26-048199": "2026-10-23T18:25:51.699432+00:00",
+  "0001437749-26-033377": "2026-10-23T18:25:51.699432+00:00",
+  "0001437749-26-033375": "2026-10-23T18:25:51.699432+00:00",
+  "0001214659-26-013158": "2026-10-23T18:25:51.699432+00:00",
+  "0001190249-26-000001": "2026-10-23T18:25:51.699432+00:00",
+  "0001096906-26-001615": "2026-10-23T18:25:51.699432+00:00",
+  "0001437749-26-033371": "2026-10-23T18:25:51.699432+00:00",
+  "0001437749-26-033369": "2026-10-23T18:25:51.699432+00:00",
+  "0001437749-26-033367": "2026-10-23T18:25:51.699432+00:00",
+  "0001060529-26-000002": "2026-10-23T18:25:51.699432+00:00",
+  "0001062993-26-005522": "2026-10-23T18:25:51.699432+00:00",
+  "0001493152-26-048196": "2026-10-23T18:25:51.699432+00:00",
+  "0001213900-26-111971": "2026-10-23T18:25:51.699432+00:00",
+  "0001193125-26-429845": "2026-10-23T18:25:51.699432+00:00",
+  "0001096906-26-001612": "2026-10-23T18:25:51.699432+00:00",
+  "0001096906-26-001611": "2026-10-23T18:25:51.699432+00:00",
+  "0001493152-26-048187": "2026-10-23T18:25:51.699432+00:00",
+  "0001193125-26-429600": "2026-10-23T18:25:51.699432+00:00",
+  "0001510281-26-000375": "2026-10-23T18:25:51.699432+00:00"
  },
  "f4_index": {
   "2026-10-21": "done",
