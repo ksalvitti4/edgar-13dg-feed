@@ -1,73 +1,5 @@
 {
  "kept": {
-  "0000921895-26-002628": {
-   "acc": "0000921895-26-002628",
-   "form": "SCHEDULE 13D",
-   "link": "https://www.sec.gov/Archives/edgar/data/2084261/000092189526002628/0000921895-26-002628-index.htm",
-   "updated": "2026-09-23T11:49:56-04:00",
-   "filers": [
-    "SEIDMAN LAWRENCE B"
-   ],
-   "issuer": "URSB Bancorp, Inc.",
-   "issuer_cik": "0002084261",
-   "ticker": "URSB",
-   "group": "13D",
-   "cap": 30556969.106197357,
-   "cap_src": "yahoo",
-   "pct": 5.4,
-   "event_date": "09/18/2026"
-  },
-  "0001062993-26-005061": {
-   "acc": "0001062993-26-005061",
-   "form": "SCHEDULE 13D/A",
-   "link": "https://www.sec.gov/Archives/edgar/data/859796/000106299326005061/0001062993-26-005061-index.htm",
-   "updated": "2026-09-23T11:00:07-04:00",
-   "filers": [
-    "Saba Capital Management, L.P."
-   ],
-   "issuer": "JAPAN SMALLER CAPITALIZATION FUND INC",
-   "issuer_cik": "0000859796",
-   "ticker": "JOF",
-   "group": "13D",
-   "cap": 350773598.5825567,
-   "cap_src": "yahoo",
-   "pct": 8.8,
-   "event_date": "09/21/2026"
-  },
-  "0001879713-26-000003": {
-   "acc": "0001879713-26-000003",
-   "form": "SCHEDULE 13G/A",
-   "link": "https://www.sec.gov/Archives/edgar/data/1702123/000187971326000003/0001879713-26-000003-index.htm",
-   "updated": "2026-09-23T12:16:32-04:00",
-   "filers": [
-    "Tejara Capital Ltd"
-   ],
-   "issuer": "Cardiol Therapeutics Inc.",
-   "issuer_cik": "0001702123",
-   "ticker": "CRDL",
-   "group": "13G",
-   "cap": 219938423.4969735,
-   "cap_src": "yahoo",
-   "pct": 5.3,
-   "event_date": "09/02/2026"
-  },
-  "0002072569-26-000008": {
-   "acc": "0002072569-26-000008",
-   "form": "SCHEDULE 13G",
-   "link": "https://www.sec.gov/Archives/edgar/data/1996211/000207256926000008/0002072569-26-000008-index.htm",
-   "updated": "2026-09-23T10:26:47-04:00",
-   "filers": [
-    "HORAN Wealth, LLC"
-   ],
-   "issuer": "Connetic Venture Capital Access Fund",
-   "issuer_cik": "0001996211",
-   "ticker": null,
-   "group": "13G",
-   "cap": null,
-   "cap_src": null,
-   "pct": 11.5,
-   "event_date": "06/30/2025"
-  },
   "0001213900-26-102694": {
    "acc": "0001213900-26-102694",
    "form": "SCHEDULE 13D/A",
@@ -117,74 +49,6 @@
    "cap": null,
    "cap_src": null,
    "pct": 25.67,
-   "event_date": "09/21/2026"
-  },
-  "0001104659-26-109988": {
-   "acc": "0001104659-26-109988",
-   "form": "SCHEDULE 13D/A",
-   "link": "https://www.sec.gov/Archives/edgar/data/2092574/000110465926109988/0001104659-26-109988-index.htm",
-   "updated": "2026-09-23T16:24:49-04:00",
-   "filers": [
-    "Kupriienko Serhii"
-   ],
-   "issuer": "Swarmer, Inc",
-   "issuer_cik": "0002092574",
-   "ticker": "SWMR",
-   "group": "13D",
-   "cap": 362406944.2923145,
-   "cap_src": "yahoo",
-   "pct": 28.7,
-   "event_date": "09/21/2026"
-  },
-  "0001193125-26-399446": {
-   "acc": "0001193125-26-399446",
-   "form": "SCHEDULE 13D/A",
-   "link": "https://www.sec.gov/Archives/edgar/data/728387/000119312526399446/0001193125-26-399446-index.htm",
-   "updated": "2026-09-23T16:19:57-04:00",
-   "filers": [
-    "Lantheus Holdings, Inc."
-   ],
-   "issuer": "Perspective Therapeutics, Inc.",
-   "issuer_cik": "0000728387",
-   "ticker": "CATX",
-   "group": "13D",
-   "cap": 299077343.9963789,
-   "cap_src": "yahoo",
-   "pct": 7.7,
-   "event_date": "09/21/2026"
-  },
-  "0001493152-26-043894": {
-   "acc": "0001493152-26-043894",
-   "form": "SCHEDULE 13D/A",
-   "link": "https://www.sec.gov/Archives/edgar/data/1504379/000149315226043894/0001493152-26-043894-index.htm",
-   "updated": "2026-09-23T15:01:06-04:00",
-   "filers": [
-    "Mifalei Sdot-Yam Agricultural Cooperative Society Ltd."
-   ],
-   "issuer": "Caesarstone Ltd.",
-   "issuer_cik": "0001504379",
-   "ticker": "CSTE",
-   "group": "13D",
-   "cap": 96470037.93098927,
-   "cap_src": "yahoo",
-   "pct": 30.19,
-   "event_date": "09/01/2026"
-  },
-  "0002146263-26-000006": {
-   "acc": "0002146263-26-000006",
-   "form": "SCHEDULE 13D/A",
-   "link": "https://www.sec.gov/Archives/edgar/data/1419275/000214626326000006/0002146263-26-000006-index.htm",
-   "updated": "2026-09-23T13:50:58-04:00",
-   "filers": [
-    "Dorsett Jason Christopher"
-   ],
-   "issuer": "RTB Digital, Inc.",
-   "issuer_cik": "0001419275",
-   "ticker": "RTB",
-   "group": "13D",
-   "cap": 136255732.40355492,
-   "cap_src": "yahoo",
-   "pct": 30.0,
    "event_date": "09/21/2026"
   },
   "0001213900-26-102724": {
@@ -39976,7 +39840,6 @@
   }
  },
  "seen": {
-  "0001104659-26-109779": "2026-09-23T11:46:10.099938+00:00",
   "0000921895-26-002628": "2026-09-23T17:10:11.699423+00:00",
   "0001062993-26-005061": "2026-09-23T17:10:11.699423+00:00",
   "0001609074-26-000001": "2026-09-23T17:10:11.699423+00:00",
@@ -128951,15 +128814,6 @@
   ]
  },
  "seen4": {
-  "0001628280-26-067740": "2026-10-28T13:06:11.197543+00:00",
-  "0001493152-26-048824": "2026-10-28T13:06:11.197543+00:00",
-  "0001193125-26-435151": "2026-10-28T13:06:11.197543+00:00",
-  "0001193125-26-435150": "2026-10-28T13:06:11.197543+00:00",
-  "0001193125-26-435149": "2026-10-28T13:06:11.197543+00:00",
-  "0001193125-26-435148": "2026-10-28T13:06:11.197543+00:00",
-  "0001104659-26-119350": "2026-10-28T13:06:11.197543+00:00",
-  "0001487630-26-000022": "2026-10-28T13:06:11.197543+00:00",
-  "0001369240-26-000014": "2026-10-28T13:06:11.197543+00:00",
   "0001193125-26-436043": "2026-10-28T19:37:50.799276+00:00",
   "0001193125-26-435894": "2026-10-28T19:37:50.799276+00:00",
   "0000095029-26-000084": "2026-10-28T19:37:50.799276+00:00",
