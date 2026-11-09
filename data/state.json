@@ -1,445 +1,5 @@
 {
  "kept": {
-  "0000904853-26-000006": {
-   "acc": "0000904853-26-000006",
-   "form": "SCHEDULE 13D",
-   "link": "https://www.sec.gov/Archives/edgar/data/930236/000090485326000006/0000904853-26-000006-index.htm",
-   "updated": "2026-09-25T13:15:23-04:00",
-   "filers": [
-    "Amster Howard"
-   ],
-   "filer_ciks": [
-    "0000904853"
-   ],
-   "issuer": "REDWOOD TRUST INC",
-   "issuer_cik": "0000930236",
-   "ticker": "RWT",
-   "group": "13D",
-   "cap": 464012324.5267601,
-   "cap_src": "yahoo",
-   "pct": 9.0,
-   "event_date": "09/18/2026"
-  },
-  "0001213900-26-103303": {
-   "acc": "0001213900-26-103303",
-   "form": "SCHEDULE 13D/A",
-   "link": "https://www.sec.gov/Archives/edgar/data/1837821/000121390026103303/0001213900-26-103303-index.htm",
-   "updated": "2026-09-25T10:03:23-04:00",
-   "filers": [
-    "Wang Erqi"
-   ],
-   "filer_ciks": [
-    "0002000510"
-   ],
-   "issuer": "Jin Medical International Ltd.",
-   "issuer_cik": "0001837821",
-   "ticker": "ZJYL",
-   "group": "13D",
-   "cap": 143643688.11254597,
-   "cap_src": "yahoo",
-   "pct": 3.35,
-   "event_date": "09/24/2026"
-  },
-  "0001213900-26-103411": {
-   "acc": "0001213900-26-103411",
-   "form": "SCHEDULE 13G",
-   "link": "https://www.sec.gov/Archives/edgar/data/2115191/000121390026103411/0001213900-26-103411-index.htm",
-   "updated": "2026-09-25T12:59:58-04:00",
-   "filers": [
-    "Live Oak Sponsor VI, LLC"
-   ],
-   "filer_ciks": [
-    "0002133801"
-   ],
-   "issuer": "Live Oak Acquisition Corp. VI",
-   "issuer_cik": "0002115191",
-   "ticker": null,
-   "group": "13G",
-   "cap": null,
-   "cap_src": null,
-   "pct": 20.0,
-   "event_date": "09/24/2026"
-  },
-  "0001193125-26-402359": {
-   "acc": "0001193125-26-402359",
-   "form": "SCHEDULE 13G",
-   "link": "https://www.sec.gov/Archives/edgar/data/2111838/000119312526402359/0001193125-26-402359-index.htm",
-   "updated": "2026-09-25T12:34:34-04:00",
-   "filers": [
-    "Linden Capital L.P."
-   ],
-   "filer_ciks": [
-    "0001349339"
-   ],
-   "issuer": "Haymaker Acquisition Corp V",
-   "issuer_cik": "0002111838",
-   "ticker": "HYAC",
-   "group": "13G",
-   "cap": null,
-   "cap_src": null,
-   "pct": 6.1,
-   "event_date": "09/22/2026"
-  },
-  "0001636587-26-000083": {
-   "acc": "0001636587-26-000083",
-   "form": "SCHEDULE 13G/A",
-   "link": "https://www.sec.gov/Archives/edgar/data/1503802/000163658726000083/0001636587-26-000083-index.htm",
-   "updated": "2026-09-25T10:56:28-04:00",
-   "filers": [
-    "ACORN BIOVENTURES, L.P."
-   ],
-   "filer_ciks": [
-    "0001766853"
-   ],
-   "issuer": "Karyopharm Therapeutics Inc.",
-   "issuer_cik": "0001503802",
-   "ticker": "KPTI",
-   "group": "13G",
-   "cap": 39692555.0,
-   "cap_src": "yahoo",
-   "pct": 5.7,
-   "event_date": "09/22/2026"
-  },
-  "0000947871-26-000898": {
-   "acc": "0000947871-26-000898",
-   "form": "SCHEDULE 13D",
-   "link": "https://www.sec.gov/Archives/edgar/data/2088082/000094787126000898/0000947871-26-000898-index.htm",
-   "updated": "2026-09-25T17:11:02-04:00",
-   "filers": [
-    "ORBIMED ADVISORS LLC"
-   ],
-   "filer_ciks": [
-    "0001055951"
-   ],
-   "issuer": "Electra Therapeutics, Inc.",
-   "issuer_cik": "0002088082",
-   "ticker": "ETRA",
-   "group": "13D",
-   "cap": 724958342.2218466,
-   "cap_src": "yahoo",
-   "pct": 11.0,
-   "event_date": "09/21/2026"
-  },
-  "0001493152-26-044350": {
-   "acc": "0001493152-26-044350",
-   "form": "SCHEDULE 13D/A",
-   "link": "https://www.sec.gov/Archives/edgar/data/1828972/000149315226044350/0001493152-26-044350-index.htm",
-   "updated": "2026-09-25T16:46:15-04:00",
-   "filers": [
-    "Allen Family Digital, LLC"
-   ],
-   "filer_ciks": [
-    "0002136301"
-   ],
-   "issuer": "BuzzFeed, Inc.",
-   "issuer_cik": "0001828972",
-   "ticker": "BZFD",
-   "group": "13D",
-   "cap": 86668119.14103222,
-   "cap_src": "yahoo",
-   "pct": 55.7,
-   "event_date": "09/23/2026"
-  },
-  "0001213900-26-103567": {
-   "acc": "0001213900-26-103567",
-   "form": "SCHEDULE 13D/A",
-   "link": "https://www.sec.gov/Archives/edgar/data/2028355/000121390026103567/0001213900-26-103567-index.htm",
-   "updated": "2026-09-25T16:43:10-04:00",
-   "filers": [
-    "Inflection Point Fund I, LP"
-   ],
-   "filer_ciks": [
-    "0002062187"
-   ],
-   "issuer": "Inflection Point Acquisition Corp. V",
-   "issuer_cik": "0002028355",
-   "ticker": "IPEX",
-   "group": "13D",
-   "cap": 37633626.022189856,
-   "cap_src": "yahoo",
-   "pct": 0.0,
-   "event_date": "09/24/2026"
-  },
-  "0001437749-26-031229": {
-   "acc": "0001437749-26-031229",
-   "form": "SCHEDULE 13D/A",
-   "link": "https://www.sec.gov/Archives/edgar/data/1620393/000143774926031229/0001437749-26-031229-index.htm",
-   "updated": "2026-09-25T16:17:02-04:00",
-   "filers": [
-    "DONDERO JAMES D"
-   ],
-   "filer_ciks": [
-    "0001228922"
-   ],
-   "issuer": "NexPoint Residential Trust, Inc.",
-   "issuer_cik": "0001620393",
-   "ticker": "NXRT",
-   "group": "13D",
-   "cap": 501798311.7256317,
-   "cap_src": "yahoo",
-   "pct": 14.1,
-   "event_date": "05/22/2026"
-  },
-  "0001437749-26-031228": {
-   "acc": "0001437749-26-031228",
-   "form": "SCHEDULE 13D/A",
-   "link": "https://www.sec.gov/Archives/edgar/data/1663712/000143774926031228/0001437749-26-031228-index.htm",
-   "updated": "2026-09-25T16:16:04-04:00",
-   "filers": [
-    "DONDERO JAMES D"
-   ],
-   "filer_ciks": [
-    "0001228922"
-   ],
-   "issuer": "NEXPOINT REAL ESTATE STRATEGIES FUND",
-   "issuer_cik": "0001663712",
-   "ticker": "NRSAX",
-   "group": "13D",
-   "cap": null,
-   "cap_src": null,
-   "pct": 8.0,
-   "event_date": "06/30/2026"
-  },
-  "0001140361-26-037699": {
-   "acc": "0001140361-26-037699",
-   "form": "SCHEDULE 13D",
-   "link": "https://www.sec.gov/Archives/edgar/data/37785/000114036126037699/0001140361-26-037699-index.htm",
-   "updated": "2026-09-25T16:15:43-04:00",
-   "filers": [
-    "Tessenderlo Group NV"
-   ],
-   "filer_ciks": [
-    "0002150441"
-   ],
-   "issuer": "FMC CORP",
-   "issuer_cik": "0000037785",
-   "ticker": "FMC",
-   "group": "13D",
-   "cap": 1490130716.0327816,
-   "cap_src": "yahoo",
-   "pct": 20.0,
-   "event_date": "09/23/2026"
-  },
-  "0001193125-26-402801": {
-   "acc": "0001193125-26-402801",
-   "form": "SCHEDULE 13D/A",
-   "link": "https://www.sec.gov/Archives/edgar/data/1583107/000119312526402801/0001193125-26-402801-index.htm",
-   "updated": "2026-09-25T16:01:02-04:00",
-   "filers": [
-    "Weiss Asset Management LP"
-   ],
-   "filer_ciks": [
-    "0001357550"
-   ],
-   "issuer": "Theravance Biopharma, Inc.",
-   "issuer_cik": "0001583107",
-   "ticker": "TBPH",
-   "group": "13D",
-   "cap": 883699540.62,
-   "cap_src": "yahoo",
-   "pct": 0.0,
-   "event_date": "09/23/2026"
-  },
-  "0001104659-26-110920": {
-   "acc": "0001104659-26-110920",
-   "form": "SCHEDULE 13D/A",
-   "link": "https://www.sec.gov/Archives/edgar/data/2063706/000110465926110920/0001104659-26-110920-index.htm",
-   "updated": "2026-09-25T14:22:08-04:00",
-   "filers": [
-    "Calamos Aksia Hedged Strategies Fund (Offshore), Ltd."
-   ],
-   "filer_ciks": [
-    "0002125773"
-   ],
-   "issuer": "Calamos Aksia Hedged Strategies Fund",
-   "issuer_cik": "0002063706",
-   "ticker": null,
-   "group": "13D",
-   "cap": null,
-   "cap_src": null,
-   "pct": 39.52,
-   "event_date": "09/23/2026"
-  },
-  "0001104659-26-111022": {
-   "acc": "0001104659-26-111022",
-   "form": "SCHEDULE 13G",
-   "link": "https://www.sec.gov/Archives/edgar/data/2097163/000110465926111022/0001104659-26-111022-index.htm",
-   "updated": "2026-09-25T16:52:00-04:00",
-   "filers": [
-    "BDC CAPITAL INC."
-   ],
-   "filer_ciks": [
-    "0001430885"
-   ],
-   "issuer": "Xanadu Quantum Technologies Ltd",
-   "issuer_cik": "0002097163",
-   "ticker": "XNDU",
-   "group": "13G",
-   "cap": 1552405800.9707928,
-   "cap_src": "yahoo",
-   "pct": 4.0,
-   "event_date": "09/20/2026"
-  },
-  "0002063423-26-000002": {
-   "acc": "0002063423-26-000002",
-   "form": "SCHEDULE 13G",
-   "link": "https://www.sec.gov/Archives/edgar/data/1783328/000206342326000002/0002063423-26-000002-index.htm",
-   "updated": "2026-09-25T16:12:27-04:00",
-   "filers": [
-    "Readout Capital, LP"
-   ],
-   "filer_ciks": [
-    "0002063423"
-   ],
-   "issuer": "TScan Therapeutics, Inc.",
-   "issuer_cik": "0001783328",
-   "ticker": "TCRX",
-   "group": "13G",
-   "cap": 23044946.942397505,
-   "cap_src": "yahoo",
-   "pct": 5.4,
-   "event_date": "09/21/2026"
-  },
-  "0001193805-26-001288": {
-   "acc": "0001193805-26-001288",
-   "form": "SCHEDULE 13G/A",
-   "link": "https://www.sec.gov/Archives/edgar/data/1598665/000119380526001288/0001193805-26-001288-index.htm",
-   "updated": "2026-09-25T16:05:11-04:00",
-   "filers": [
-    "Hyer Raymond T"
-   ],
-   "filer_ciks": [
-    "0001672048"
-   ],
-   "issuer": "Heritage Insurance Holdings, Inc.",
-   "issuer_cik": "0001598665",
-   "ticker": "HRTG",
-   "group": "13G",
-   "cap": 989197493.9304199,
-   "cap_src": "yahoo",
-   "pct": 7.04,
-   "event_date": "08/27/2026"
-  },
-  "0002157255-26-000002": {
-   "acc": "0002157255-26-000002",
-   "form": "SCHEDULE 13G",
-   "link": "https://www.sec.gov/Archives/edgar/data/2025000/000215725526000002/0002157255-26-000002-index.htm",
-   "updated": "2026-09-25T14:28:33-04:00",
-   "filers": [
-    "Karminski Michal Adam"
-   ],
-   "filer_ciks": [
-    "0002157255"
-   ],
-   "issuer": "Grayscale Near Trust (NEAR)",
-   "issuer_cik": "0002025000",
-   "ticker": "GSNR",
-   "group": "13G",
-   "cap": null,
-   "cap_src": null,
-   "pct": 100.0,
-   "event_date": "09/22/2026"
-  },
-  "0001636587-26-000084": {
-   "acc": "0001636587-26-000084",
-   "form": "SCHEDULE 13G/A",
-   "link": "https://www.sec.gov/Archives/edgar/data/1503802/000163658726000084/0001636587-26-000084-index.htm",
-   "updated": "2026-09-25T14:18:58-04:00",
-   "filers": [
-    "ACORN BIOVENTURES, L.P."
-   ],
-   "filer_ciks": [
-    "0001766853"
-   ],
-   "issuer": "Karyopharm Therapeutics Inc.",
-   "issuer_cik": "0001503802",
-   "ticker": "KPTI",
-   "group": "13G",
-   "cap": 39692555.0,
-   "cap_src": "yahoo",
-   "pct": 5.7,
-   "event_date": "09/22/2026"
-  },
-  "0002157255-26-000001": {
-   "acc": "0002157255-26-000001",
-   "form": "SCHEDULE 13G",
-   "link": "https://www.sec.gov/Archives/edgar/data/1720265/000215725526000001/0002157255-26-000001-index.htm",
-   "updated": "2026-09-25T13:16:32-04:00",
-   "filers": [
-    "Karminski Michal Adam"
-   ],
-   "filer_ciks": [
-    "0002157255"
-   ],
-   "issuer": "Zcash ETF",
-   "issuer_cik": "0001720265",
-   "ticker": "ZCSH",
-   "group": "13G",
-   "cap": 14436171.0,
-   "cap_src": "float",
-   "pct": 100.0,
-   "event_date": "09/17/2026"
-  },
-  "0001536588-26-000035": {
-   "acc": "0001536588-26-000035",
-   "form": "SCHEDULE 13D/A",
-   "link": "https://www.sec.gov/Archives/edgar/data/885307/000153658826000035/0001536588-26-000035-index.htm",
-   "updated": "2026-09-25T18:34:37-04:00",
-   "filers": [
-    "AJB Investment Fund II, LP"
-   ],
-   "filer_ciks": [
-    "0001536588"
-   ],
-   "issuer": "JEWETT CAMERON TRADING CO LTD",
-   "issuer_cik": "0000885307",
-   "ticker": "JCTC",
-   "group": "13D",
-   "cap": 10243528.83,
-   "cap_src": "yahoo",
-   "pct": 14.5,
-   "event_date": "09/24/2026"
-  },
-  "0001193125-26-402957": {
-   "acc": "0001193125-26-402957",
-   "form": "SCHEDULE 13G",
-   "link": "https://www.sec.gov/Archives/edgar/data/2109823/000119312526402957/0001193125-26-402957-index.htm",
-   "updated": "2026-09-25T17:00:03-04:00",
-   "filers": [
-    "Sculptor Capital LP"
-   ],
-   "filer_ciks": [
-    "0001054587"
-   ],
-   "issuer": "Leader's Advantage Acquisition Corp.",
-   "issuer_cik": "0002109823",
-   "ticker": "LEDR",
-   "group": "13G",
-   "cap": null,
-   "cap_src": null,
-   "pct": 9.77,
-   "event_date": "09/21/2026"
-  },
-  "0001193125-26-402954": {
-   "acc": "0001193125-26-402954",
-   "form": "SCHEDULE 13G/A",
-   "link": "https://www.sec.gov/Archives/edgar/data/1951294/000119312526402954/0001193125-26-402954-index.htm",
-   "updated": "2026-09-25T17:00:02-04:00",
-   "filers": [
-    "Warner Bros. Discovery, Inc."
-   ],
-   "filer_ciks": [
-    "0001437107"
-   ],
-   "issuer": "VS MEDIA Holdings Ltd",
-   "issuer_cik": "0001951294",
-   "ticker": "VSME",
-   "group": "13G",
-   "cap": 2765070.0,
-   "cap_src": "yahoo",
-   "pct": 0.4,
-   "event_date": "09/25/2026"
-  },
   "0002107788-26-000009": {
    "acc": "0002107788-26-000009",
    "form": "SCHEDULE 13D/A",
@@ -39187,17 +38747,694 @@
    "cap_src": "yahoo",
    "pct": 55.1,
    "event_date": "11/05/2026"
+  },
+  "0001834600-26-000031": {
+   "acc": "0001834600-26-000031",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1849396/000183460026000031/0001834600-26-000031-index.htm",
+   "updated": "2026-11-09T13:27:38-05:00",
+   "filers": [
+    "Mithaq Capital SPC"
+   ],
+   "filer_ciks": [
+    "0001834600"
+   ],
+   "issuer": "Nexxen International Ltd.",
+   "issuer_cik": "0001849396",
+   "ticker": "NEXN",
+   "group": "13D",
+   "cap": 507152477.84732723,
+   "cap_src": "yahoo",
+   "pct": 30.2,
+   "event_date": "11/05/2026"
+  },
+  "0001861642-26-000002": {
+   "acc": "0001861642-26-000002",
+   "form": "SCHEDULE 13D/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1633061/000186164226000002/0001861642-26-000002-index.htm",
+   "updated": "2026-11-09T10:33:23-05:00",
+   "filers": [
+    "Hennion & Walsh Asset Management, Inc."
+   ],
+   "filer_ciks": [
+    "0001861642"
+   ],
+   "issuer": "Amplify ETF Trust",
+   "issuer_cik": "0001633061",
+   "ticker": null,
+   "group": "13D",
+   "cap": null,
+   "cap_src": null,
+   "pct": 0.0,
+   "event_date": "11/05/2026"
+  },
+  "0000921895-26-002960": {
+   "acc": "0000921895-26-002960",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/1026785/000092189526002960/0000921895-26-002960-index.htm",
+   "updated": "2026-11-09T09:30:26-05:00",
+   "filers": [
+    "Lazar David E."
+   ],
+   "filer_ciks": [
+    "0001932843"
+   ],
+   "issuer": "HIGHWAY HOLDINGS LTD",
+   "issuer_cik": "0001026785",
+   "ticker": "HIHO",
+   "group": "13D",
+   "cap": 4025670.8864364624,
+   "cap_src": "yahoo",
+   "pct": 16.7,
+   "event_date": "11/04/2026",
+   "intent": [
+    "letter",
+    "nominating"
+   ]
+  },
+  "0001493152-26-050601": {
+   "acc": "0001493152-26-050601",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/1971828/000149315226050601/0001493152-26-050601-index.htm",
+   "updated": "2026-11-09T06:20:13-05:00",
+   "filers": [
+    "Lau Michael Kwok Yan"
+   ],
+   "filer_ciks": [
+    "0002065674"
+   ],
+   "issuer": "Energys Group Ltd",
+   "issuer_cik": "0001971828",
+   "ticker": "ENGS",
+   "group": "13D",
+   "cap": 207048405.94638157,
+   "cap_src": "yahoo",
+   "pct": 98.9,
+   "event_date": "04/10/2026"
+  },
+  "0001493152-26-050586": {
+   "acc": "0001493152-26-050586",
+   "form": "SCHEDULE 13D",
+   "link": "https://www.sec.gov/Archives/edgar/data/2000530/000149315226050586/0001493152-26-050586-index.htm",
+   "updated": "2026-11-09T06:04:18-05:00",
+   "filers": [
+    "Xie Feng"
+   ],
+   "filer_ciks": [
+    "0002080129"
+   ],
+   "issuer": "Gamehaus Holdings Inc.",
+   "issuer_cik": "0002000530",
+   "ticker": "GMHS",
+   "group": "13D",
+   "cap": 34552137.876570225,
+   "cap_src": "yahoo",
+   "pct": 31.5,
+   "event_date": "11/02/2026",
+   "converted": "history"
+  },
+  "0001142031-26-000027": {
+   "acc": "0001142031-26-000027",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1754170/000114203126000027/0001142031-26-000027-index.htm",
+   "updated": "2026-11-09T13:52:32-05:00",
+   "filers": [
+    "PRIVATE MANAGEMENT GROUP INC"
+   ],
+   "filer_ciks": [
+    "0001142031"
+   ],
+   "issuer": "AerSale Corp",
+   "issuer_cik": "0001754170",
+   "ticker": "ASLE",
+   "group": "13G",
+   "cap": 230043005.85284185,
+   "cap_src": "yahoo",
+   "pct": 6.2,
+   "event_date": "09/30/2026"
+  },
+  "0000886982-26-000551": {
+   "acc": "0000886982-26-000551",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/58492/000088698226000551/0000886982-26-000551-index.htm",
+   "updated": "2026-11-09T13:52:28-05:00",
+   "filers": [
+    "GOLDMAN SACHS GROUP INC"
+   ],
+   "filer_ciks": [
+    "0000886982"
+   ],
+   "issuer": "LEGGETT & PLATT INC",
+   "issuer_cik": "0000058492",
+   "ticker": null,
+   "group": "13G",
+   "cap": 1182418000.0,
+   "cap_src": "float",
+   "pct": 0.0,
+   "event_date": "09/30/2026"
+  },
+  "0001142031-26-000026": {
+   "acc": "0001142031-26-000026",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1884516/000114203126000026/0001142031-26-000026-index.htm",
+   "updated": "2026-11-09T13:51:25-05:00",
+   "filers": [
+    "PRIVATE MANAGEMENT GROUP INC"
+   ],
+   "filer_ciks": [
+    "0001142031"
+   ],
+   "issuer": "Drilling Tools International Corp",
+   "issuer_cik": "0001884516",
+   "ticker": "DTI",
+   "group": "13G",
+   "cap": 49747934.66232872,
+   "cap_src": "yahoo",
+   "pct": 8.2,
+   "event_date": "09/30/2026"
+  },
+  "0001142031-26-000025": {
+   "acc": "0001142031-26-000025",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1574197/000114203126000025/0001142031-26-000025-index.htm",
+   "updated": "2026-11-09T13:50:26-05:00",
+   "filers": [
+    "PRIVATE MANAGEMENT GROUP INC"
+   ],
+   "filer_ciks": [
+    "0001142031"
+   ],
+   "issuer": "Five Point Holdings, LLC",
+   "issuer_cik": "0001574197",
+   "ticker": "FPH",
+   "group": "13G",
+   "cap": 315830471.5745516,
+   "cap_src": "yahoo",
+   "pct": 8.4,
+   "event_date": "09/30/2026"
+  },
+  "0001142031-26-000024": {
+   "acc": "0001142031-26-000024",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1873923/000114203126000024/0001142031-26-000024-index.htm",
+   "updated": "2026-11-09T13:48:11-05:00",
+   "filers": [
+    "PRIVATE MANAGEMENT GROUP INC"
+   ],
+   "filer_ciks": [
+    "0001142031"
+   ],
+   "issuer": "Orion Properties Inc.",
+   "issuer_cik": "0001873923",
+   "ticker": "ONL",
+   "group": "13G",
+   "cap": 134055072.45979214,
+   "cap_src": "yahoo",
+   "pct": 9.6,
+   "event_date": "09/30/2026"
+  },
+  "0000886982-26-000549": {
+   "acc": "0000886982-26-000549",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1503802/000088698226000549/0000886982-26-000549-index.htm",
+   "updated": "2026-11-09T13:45:45-05:00",
+   "filers": [
+    "GOLDMAN SACHS GROUP INC"
+   ],
+   "filer_ciks": [
+    "0000886982"
+   ],
+   "issuer": "Karyopharm Therapeutics Inc.",
+   "issuer_cik": "0001503802",
+   "ticker": "KPTI",
+   "group": "13G",
+   "cap": 842616.2229121476,
+   "cap_src": "yahoo",
+   "pct": 0.9,
+   "event_date": "09/30/2026"
+  },
+  "0001142031-26-000023": {
+   "acc": "0001142031-26-000023",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1632127/000114203126000023/0001142031-26-000023-index.htm",
+   "updated": "2026-11-09T13:43:40-05:00",
+   "filers": [
+    "PRIVATE MANAGEMENT GROUP INC"
+   ],
+   "filer_ciks": [
+    "0001142031"
+   ],
+   "issuer": "Cable One, Inc.",
+   "issuer_cik": "0001632127",
+   "ticker": "CABO",
+   "group": "13G",
+   "cap": 29277452.134227753,
+   "cap_src": "yahoo",
+   "pct": 9.9,
+   "event_date": "09/30/2026"
+  },
+  "0000886982-26-000547": {
+   "acc": "0000886982-26-000547",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1861795/000088698226000547/0000886982-26-000547-index.htm",
+   "updated": "2026-11-09T13:41:46-05:00",
+   "filers": [
+    "GOLDMAN SACHS GROUP INC"
+   ],
+   "filer_ciks": [
+    "0000886982"
+   ],
+   "issuer": "Definitive Healthcare Corp.",
+   "issuer_cik": "0001861795",
+   "ticker": "DH",
+   "group": "13G",
+   "cap": 120621525.18100154,
+   "cap_src": "yahoo",
+   "pct": 1.0,
+   "event_date": "09/30/2026"
+  },
+  "0001298088-26-000028": {
+   "acc": "0001298088-26-000028",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1821159/000129808826000028/0001298088-26-000028-index.htm",
+   "updated": "2026-11-09T13:31:24-05:00",
+   "filers": [
+    "CIBC Private Wealth Group LLC"
+   ],
+   "filer_ciks": [
+    "0001298088"
+   ],
+   "issuer": "EVgo Inc.",
+   "issuer_cik": "0001821159",
+   "ticker": "EVGO",
+   "group": "13G",
+   "cap": 265008397.0757532,
+   "cap_src": "yahoo",
+   "pct": 5.6,
+   "event_date": "11/05/2026"
+  },
+  "0001104659-26-124373": {
+   "acc": "0001104659-26-124373",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1382101/000110465926124373/0001104659-26-124373-index.htm",
+   "updated": "2026-11-09T13:23:33-05:00",
+   "filers": [
+    "Coastlands Capital LP"
+   ],
+   "filer_ciks": [
+    "0002068530"
+   ],
+   "issuer": "SUTRO BIOPHARMA, INC.",
+   "issuer_cik": "0001382101",
+   "ticker": "STRO",
+   "group": "13G",
+   "cap": 177303694.13943958,
+   "cap_src": "yahoo",
+   "pct": 5.14,
+   "event_date": "11/05/2026"
+  },
+  "0000886982-26-000543": {
+   "acc": "0000886982-26-000543",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1060822/000088698226000543/0000886982-26-000543-index.htm",
+   "updated": "2026-11-09T13:16:53-05:00",
+   "filers": [
+    "GOLDMAN SACHS GROUP INC"
+   ],
+   "filer_ciks": [
+    "0000886982"
+   ],
+   "issuer": "CARTERS INC",
+   "issuer_cik": "0001060822",
+   "ticker": "CRI",
+   "group": "13G",
+   "cap": 1293960990.1046753,
+   "cap_src": "yahoo",
+   "pct": 5.2,
+   "event_date": "09/30/2026"
+  },
+  "0000764038-26-000006": {
+   "acc": "0000764038-26-000006",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1739439/000076403826000006/0000764038-26-000006-index.htm",
+   "updated": "2026-11-09T13:11:56-05:00",
+   "filers": [
+    "SouthState Bank Corp"
+   ],
+   "filer_ciks": [
+    "0000764038"
+   ],
+   "issuer": "Rockefeller Capital Management L.P.",
+   "issuer_cik": "0001739439",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 8.13,
+   "event_date": "09/30/2026"
+  },
+  "0000886982-26-000541": {
+   "acc": "0000886982-26-000541",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2027708/000088698226000541/0000886982-26-000541-index.htm",
+   "updated": "2026-11-09T13:11:45-05:00",
+   "filers": [
+    "GOLDMAN SACHS GROUP INC"
+   ],
+   "filer_ciks": [
+    "0000886982"
+   ],
+   "issuer": "Cantor Equity Partners I, Inc.",
+   "issuer_cik": "0002027708",
+   "ticker": "CEPO",
+   "group": "13G",
+   "cap": 275782489.29977417,
+   "cap_src": "yahoo",
+   "pct": 6.6,
+   "event_date": "09/30/2026"
+  },
+  "0000886982-26-000538": {
+   "acc": "0000886982-26-000538",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1772016/000088698226000538/0000886982-26-000538-index.htm",
+   "updated": "2026-11-09T13:04:37-05:00",
+   "filers": [
+    "GOLDMAN SACHS GROUP INC"
+   ],
+   "filer_ciks": [
+    "0000886982"
+   ],
+   "issuer": "BELLRING BRANDS, INC.",
+   "issuer_cik": "0001772016",
+   "ticker": "BRBR",
+   "group": "13G",
+   "cap": 1112200876.817728,
+   "cap_src": "yahoo",
+   "pct": 6.7,
+   "event_date": "09/30/2026"
+  },
+  "0000886982-26-000536": {
+   "acc": "0000886982-26-000536",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2028516/000088698226000536/0000886982-26-000536-index.htm",
+   "updated": "2026-11-09T13:01:18-05:00",
+   "filers": [
+    "GOLDMAN SACHS GROUP INC"
+   ],
+   "filer_ciks": [
+    "0000886982"
+   ],
+   "issuer": "Archimedes Tech SPAC Partners II Co.",
+   "issuer_cik": "0002028516",
+   "ticker": null,
+   "group": "13G",
+   "cap": 235290000.0,
+   "cap_src": "float",
+   "pct": 6.4,
+   "event_date": "09/30/2026"
+  },
+  "0001569395-26-000003": {
+   "acc": "0001569395-26-000003",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2006960/000156939526000003/0001569395-26-000003-index.htm",
+   "updated": "2026-11-09T12:58:53-05:00",
+   "filers": [
+    "Mirae Asset Global Investments Co., Ltd."
+   ],
+   "filer_ciks": [
+    "0001569395"
+   ],
+   "issuer": "Londian Wason New Energy Tech Inc.",
+   "issuer_cik": "0002006960",
+   "ticker": "FOIL",
+   "group": "13G",
+   "cap": 1178616736.3653917,
+   "cap_src": "yahoo",
+   "pct": 9.0,
+   "event_date": "09/30/2026"
+  },
+  "0000886982-26-000534": {
+   "acc": "0000886982-26-000534",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2082526/000088698226000534/0000886982-26-000534-index.htm",
+   "updated": "2026-11-09T12:57:26-05:00",
+   "filers": [
+    "GOLDMAN SACHS GROUP INC"
+   ],
+   "filer_ciks": [
+    "0000886982"
+   ],
+   "issuer": "Aeon Acquisition I Corp.",
+   "issuer_cik": "0002082526",
+   "ticker": "AESP",
+   "group": "13G",
+   "cap": 214957846.07959747,
+   "cap_src": "yahoo",
+   "pct": 6.2,
+   "event_date": "09/30/2026"
+  },
+  "0001298088-26-000027": {
+   "acc": "0001298088-26-000027",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1821159/000129808826000027/0001298088-26-000027-index.htm",
+   "updated": "2026-11-09T12:22:40-05:00",
+   "filers": [
+    "CIBC Private Wealth Group LLC"
+   ],
+   "filer_ciks": [
+    "0001298088"
+   ],
+   "issuer": "EVgo Inc.",
+   "issuer_cik": "0001821159",
+   "ticker": "EVGO",
+   "group": "13G",
+   "cap": 265008397.0757532,
+   "cap_src": "yahoo",
+   "pct": 5.1,
+   "event_date": "11/05/2026"
+  },
+  "0001056823-26-000023": {
+   "acc": "0001056823-26-000023",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/65172/000105682326000023/0001056823-26-000023-index.htm",
+   "updated": "2026-11-09T12:11:33-05:00",
+   "filers": [
+    "HORIZON KINETICS ASSET MANAGEMENT LLC"
+   ],
+   "filer_ciks": [
+    "0001056823"
+   ],
+   "issuer": "MESABI TRUST",
+   "issuer_cik": "0000065172",
+   "ticker": "MSB",
+   "group": "13G",
+   "cap": 224747086.58420563,
+   "cap_src": "yahoo",
+   "pct": 25.0,
+   "event_date": "09/30/2026"
+  },
+  "0000912282-26-001436": {
+   "acc": "0000912282-26-001436",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2142627/000091228226001436/0000912282-26-001436-index.htm",
+   "updated": "2026-11-09T11:18:26-05:00",
+   "filers": [
+    "MMCAP International Inc. SPC"
+   ],
+   "filer_ciks": [
+    "0001304857"
+   ],
+   "issuer": "BHAV Acquisition Corp II",
+   "issuer_cik": "0002142627",
+   "ticker": "BHAI",
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 9.7,
+   "event_date": "10/30/2026"
+  },
+  "0001632494-26-000018": {
+   "acc": "0001632494-26-000018",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1130713/000163249426000018/0001632494-26-000018-index.htm",
+   "updated": "2026-11-09T11:09:37-05:00",
+   "filers": [
+    "Amplify Investments, LLC"
+   ],
+   "filer_ciks": [
+    "0001632494"
+   ],
+   "issuer": "NEIGHBORHOOD INTELLIGENCE, INC.",
+   "issuer_cik": "0001130713",
+   "ticker": "NXH",
+   "group": "13G",
+   "cap": 183619252.45138705,
+   "cap_src": "yahoo",
+   "pct": 7.4,
+   "event_date": "09/30/2026"
+  },
+  "0000929638-26-004241": {
+   "acc": "0000929638-26-004241",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/2067955/000092963826004241/0000929638-26-004241-index.htm",
+   "updated": "2026-11-09T11:03:36-05:00",
+   "filers": [
+    "Abu Dhabi Pension Fund"
+   ],
+   "filer_ciks": [
+    "0002134287"
+   ],
+   "issuer": "Diameter Dynamic Credit Fund",
+   "issuer_cik": "0002067955",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 18.68,
+   "event_date": "09/30/2026"
+  },
+  "0001441449-26-000012": {
+   "acc": "0001441449-26-000012",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1997038/000144144926000012/0001441449-26-000012-index.htm",
+   "updated": "2026-11-09T10:14:15-05:00",
+   "filers": [
+    "Qatar Investment Authority"
+   ],
+   "filer_ciks": [
+    "0001441449"
+   ],
+   "issuer": "Iambic Therapeutics, Inc.",
+   "issuer_cik": "0001997038",
+   "ticker": "IAM",
+   "group": "13G",
+   "cap": 618485602.1201324,
+   "cap_src": "yahoo",
+   "pct": 5.8,
+   "event_date": "10/15/2026"
+  },
+  "0001172661-26-004905": {
+   "acc": "0001172661-26-004905",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/1021882/000117266126004905/0001172661-26-004905-index.htm",
+   "updated": "2026-11-09T08:45:48-05:00",
+   "filers": [
+    "NEOS Investment Management LLC"
+   ],
+   "filer_ciks": [
+    "0002001019"
+   ],
+   "issuer": "VANGUARD SCOTTSDALE FUNDS",
+   "issuer_cik": "0001021882",
+   "ticker": null,
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 7.91,
+   "event_date": "09/30/2026"
+  },
+  "0001172661-26-004904": {
+   "acc": "0001172661-26-004904",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1838028/000117266126004904/0001172661-26-004904-index.htm",
+   "updated": "2026-11-09T08:45:18-05:00",
+   "filers": [
+    "NEOS Investment Management LLC"
+   ],
+   "filer_ciks": [
+    "0002001019"
+   ],
+   "issuer": "VanEck Bitcoin ETF",
+   "issuer_cik": "0001838028",
+   "ticker": "HODL",
+   "group": "13G",
+   "cap": 1568121495.0,
+   "cap_src": "float",
+   "pct": 1.94,
+   "event_date": "09/30/2026"
+  },
+  "0001999371-26-024876": {
+   "acc": "0001999371-26-024876",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2110117/000199937126024876/0001999371-26-024876-index.htm",
+   "updated": "2026-11-09T08:44:56-05:00",
+   "filers": [
+    "REAVES W H & CO INC"
+   ],
+   "filer_ciks": [
+    "0000740913"
+   ],
+   "issuer": "ITG, Inc./DE/",
+   "issuer_cik": "0002110117",
+   "ticker": "ITG",
+   "group": "13G",
+   "cap": 249004893.15195704,
+   "cap_src": "yahoo",
+   "pct": 6.49,
+   "event_date": "09/30/2026"
+  },
+  "0001461790-26-000038": {
+   "acc": "0001461790-26-000038",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2028027/000146179026000038/0001461790-26-000038-index.htm",
+   "updated": "2026-11-09T08:36:08-05:00",
+   "filers": [
+    "K2 PRINCIPAL FUND, L.P."
+   ],
+   "filer_ciks": [
+    "0001461790"
+   ],
+   "issuer": "Newbury Street II Acquisition Corp",
+   "issuer_cik": "0002028027",
+   "ticker": "NTWO",
+   "group": "13G",
+   "cap": 108149835.67741013,
+   "cap_src": "yahoo",
+   "pct": 7.74,
+   "event_date": "11/04/2026"
+  },
+  "0001178913-26-005081": {
+   "acc": "0001178913-26-005081",
+   "form": "SCHEDULE 13G/A",
+   "link": "https://www.sec.gov/Archives/edgar/data/1030997/000117891326005081/0001178913-26-005081-index.htm",
+   "updated": "2026-11-09T06:41:25-05:00",
+   "filers": [
+    "MEITAV INVESTMENT HOUSE LTD"
+   ],
+   "filer_ciks": [
+    "0001398346"
+   ],
+   "issuer": "G WILLI FOOD INTERNATIONAL LTD",
+   "issuer_cik": "0001030997",
+   "ticker": "WILCF",
+   "group": "13G",
+   "cap": null,
+   "cap_src": null,
+   "pct": 18.38,
+   "event_date": "11/05/2026"
+  },
+  "0001104659-26-124063": {
+   "acc": "0001104659-26-124063",
+   "form": "SCHEDULE 13G",
+   "link": "https://www.sec.gov/Archives/edgar/data/2131524/000110465926124063/0001104659-26-124063-index.htm",
+   "updated": "2026-11-09T06:02:30-05:00",
+   "filers": [
+    "Jiangsu Hengrui Pharmaceuticals Co., Ltd."
+   ],
+   "filer_ciks": [
+    "0002080343"
+   ],
+   "issuer": "Braveheart Bio, Inc.",
+   "issuer_cik": "0002131524",
+   "ticker": "BRVE",
+   "group": "13G",
+   "cap": 1568028727.5681381,
+   "cap_src": "yahoo",
+   "pct": 8.2,
+   "event_date": "09/30/2026"
   }
  },
  "seen": {
-  "0001493152-26-044221": "2026-09-25T11:57:16.239271+00:00",
-  "0000904853-26-000006": "2026-09-25T17:17:13.880718+00:00",
-  "0001193125-26-401948": "2026-09-25T17:17:13.880718+00:00",
-  "0001213900-26-103303": "2026-09-25T17:17:13.880718+00:00",
-  "0001361570-26-000021": "2026-09-25T17:17:13.880718+00:00",
-  "0001213900-26-103411": "2026-09-25T17:17:13.880718+00:00",
-  "0001193125-26-402359": "2026-09-25T17:17:13.880718+00:00",
-  "0001636587-26-000083": "2026-09-25T17:17:13.880718+00:00",
   "0000947871-26-000898": "2026-09-25T21:39:19.739307+00:00",
   "0001493152-26-044350": "2026-09-25T21:39:19.739307+00:00",
   "0001539497-26-002605": "2026-09-25T21:39:19.739307+00:00",
@@ -48465,7 +48702,236 @@
   "0001437749-26-035656": "2026-11-07T08:52:57.347530+00:00",
   "0001193125-26-452279": "2026-11-07T08:52:57.347530+00:00",
   "0000950142-26-002977": "2026-11-07T08:52:57.347530+00:00",
-  "0000950142-26-002976": "2026-11-07T08:52:57.347530+00:00"
+  "0000950142-26-002976": "2026-11-07T08:52:57.347530+00:00",
+  "0001834600-26-000031": "2026-11-09T18:53:09.265663+00:00",
+  "0001966736-26-000002": "2026-11-09T18:53:09.265663+00:00",
+  "0001861642-26-000002": "2026-11-09T18:53:09.265663+00:00",
+  "0000921895-26-002960": "2026-11-09T18:53:09.265663+00:00",
+  "0001493152-26-050601": "2026-11-09T18:53:09.265663+00:00",
+  "0001493152-26-050586": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124070": "2026-11-09T18:53:09.265663+00:00",
+  "0001142031-26-000027": "2026-11-09T18:53:09.265663+00:00",
+  "0000886982-26-000551": "2026-11-09T18:53:09.265663+00:00",
+  "0001142031-26-000026": "2026-11-09T18:53:09.265663+00:00",
+  "0001142031-26-000025": "2026-11-09T18:53:09.265663+00:00",
+  "0001142031-26-000024": "2026-11-09T18:53:09.265663+00:00",
+  "0000886982-26-000549": "2026-11-09T18:53:09.265663+00:00",
+  "0001142031-26-000023": "2026-11-09T18:53:09.265663+00:00",
+  "0000886982-26-000547": "2026-11-09T18:53:09.265663+00:00",
+  "0001298088-26-000028": "2026-11-09T18:53:09.265663+00:00",
+  "0000886982-26-000545": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124373": "2026-11-09T18:53:09.265663+00:00",
+  "0000886982-26-000543": "2026-11-09T18:53:09.265663+00:00",
+  "0000764038-26-000006": "2026-11-09T18:53:09.265663+00:00",
+  "0000886982-26-000541": "2026-11-09T18:53:09.265663+00:00",
+  "0000886982-26-000538": "2026-11-09T18:53:09.265663+00:00",
+  "0000886982-26-000536": "2026-11-09T18:53:09.265663+00:00",
+  "0001569395-26-000003": "2026-11-09T18:53:09.265663+00:00",
+  "0000886982-26-000534": "2026-11-09T18:53:09.265663+00:00",
+  "0001298088-26-000027": "2026-11-09T18:53:09.265663+00:00",
+  "0001056823-26-000024": "2026-11-09T18:53:09.265663+00:00",
+  "0001056823-26-000023": "2026-11-09T18:53:09.265663+00:00",
+  "0000912282-26-001436": "2026-11-09T18:53:09.265663+00:00",
+  "0001632494-26-000018": "2026-11-09T18:53:09.265663+00:00",
+  "0000929638-26-004241": "2026-11-09T18:53:09.265663+00:00",
+  "0000892303-26-000012": "2026-11-09T18:53:09.265663+00:00",
+  "0001441449-26-000012": "2026-11-09T18:53:09.265663+00:00",
+  "0001172661-26-004905": "2026-11-09T18:53:09.265663+00:00",
+  "0001172661-26-004904": "2026-11-09T18:53:09.265663+00:00",
+  "0001999371-26-024876": "2026-11-09T18:53:09.265663+00:00",
+  "0001013594-26-001149": "2026-11-09T18:53:09.265663+00:00",
+  "0001461790-26-000038": "2026-11-09T18:53:09.265663+00:00",
+  "0001088875-26-000075": "2026-11-09T18:53:09.265663+00:00",
+  "0001178913-26-005081": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124063": "2026-11-09T18:53:09.265663+00:00",
+  "0001178913-26-005059": "2026-11-09T18:53:09.265663+00:00",
+  "0000089439-26-000044": "2026-11-09T18:53:09.265663+00:00",
+  "0001628280-26-071988": "2026-11-09T18:53:09.265663+00:00",
+  "0001140361-26-042702": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452987": "2026-11-09T18:53:09.265663+00:00",
+  "0001437749-26-035762": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452970": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117349": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452879": "2026-11-09T18:53:09.265663+00:00",
+  "0001628280-26-071942": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124277": "2026-11-09T18:53:09.265663+00:00",
+  "0000020286-26-000062": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124272": "2026-11-09T18:53:09.265663+00:00",
+  "0001129928-26-000080": "2026-11-09T18:53:09.265663+00:00",
+  "0001654954-26-009615": "2026-11-09T18:53:09.265663+00:00",
+  "0001829126-26-012120": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452789": "2026-11-09T18:53:09.265663+00:00",
+  "0001787400-26-000027": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124241": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124236": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452778": "2026-11-09T18:53:09.265663+00:00",
+  "0001206264-26-000132": "2026-11-09T18:53:09.265663+00:00",
+  "0001493152-26-050654": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117271": "2026-11-09T18:53:09.265663+00:00",
+  "0001827635-26-000038": "2026-11-09T18:53:09.265663+00:00",
+  "0001829126-26-012118": "2026-11-09T18:53:09.265663+00:00",
+  "0000320121-26-000041": "2026-11-09T18:53:09.265663+00:00",
+  "0001171843-26-007262": "2026-11-09T18:53:09.265663+00:00",
+  "0001140361-26-042623": "2026-11-09T18:53:09.265663+00:00",
+  "0000893538-26-000149": "2026-11-09T18:53:09.265663+00:00",
+  "0001437749-26-035720": "2026-11-09T18:53:09.265663+00:00",
+  "0001140361-26-042621": "2026-11-09T18:53:09.265663+00:00",
+  "0000805928-26-000110": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452761": "2026-11-09T18:53:09.265663+00:00",
+  "0001493152-26-050647": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452755": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124214": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452749": "2026-11-09T18:53:09.265663+00:00",
+  "0000091767-26-000054": "2026-11-09T18:53:09.265663+00:00",
+  "0001628280-26-071911": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452737": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452736": "2026-11-09T18:53:09.265663+00:00",
+  "0000814453-26-000043": "2026-11-09T18:53:09.265663+00:00",
+  "0001628280-26-071910": "2026-11-09T18:53:09.265663+00:00",
+  "0001628280-26-071908": "2026-11-09T18:53:09.265663+00:00",
+  "0001683168-26-008412": "2026-11-09T18:53:09.265663+00:00",
+  "0001493152-26-050644": "2026-11-09T18:53:09.265663+00:00",
+  "0001437749-26-035718": "2026-11-09T18:53:09.265663+00:00",
+  "0001404644-26-000064": "2026-11-09T18:53:09.265663+00:00",
+  "0001493152-26-050636": "2026-11-09T18:53:09.265663+00:00",
+  "0001805526-26-000158": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452721": "2026-11-09T18:53:09.265663+00:00",
+  "0001683168-26-008411": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452716": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124192": "2026-11-09T18:53:09.265663+00:00",
+  "0001628280-26-071902": "2026-11-09T18:53:09.265663+00:00",
+  "0001503274-26-000042": "2026-11-09T18:53:09.265663+00:00",
+  "0001628280-26-071900": "2026-11-09T18:53:09.265663+00:00",
+  "0001628280-26-071899": "2026-11-09T18:53:09.265663+00:00",
+  "0001065696-26-000058": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117230": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452707": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452706": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452704": "2026-11-09T18:53:09.265663+00:00",
+  "0001805385-26-000051": "2026-11-09T18:53:09.265663+00:00",
+  "0001628280-26-071894": "2026-11-09T18:53:09.265663+00:00",
+  "0001628280-26-071893": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452698": "2026-11-09T18:53:09.265663+00:00",
+  "0001437749-26-035713": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117226": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452696": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124178": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117223": "2026-11-09T18:53:09.265663+00:00",
+  "0001171843-26-007256": "2026-11-09T18:53:09.265663+00:00",
+  "0001171843-26-007257": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124177": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124175": "2026-11-09T18:53:09.265663+00:00",
+  "0001493152-26-050631": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452694": "2026-11-09T18:53:09.265663+00:00",
+  "0001829126-26-012116": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452693": "2026-11-09T18:53:09.265663+00:00",
+  "0001628280-26-071888": "2026-11-09T18:53:09.265663+00:00",
+  "0001140361-26-042613": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452685": "2026-11-09T18:53:09.265663+00:00",
+  "0001081316-26-000029": "2026-11-09T18:53:09.265663+00:00",
+  "0001628280-26-071886": "2026-11-09T18:53:09.265663+00:00",
+  "0001683168-26-008404": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117213": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117207": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452672": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452671": "2026-11-09T18:53:09.265663+00:00",
+  "0001326110-26-000097": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452665": "2026-11-09T18:53:09.265663+00:00",
+  "0001628280-26-071879": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452660": "2026-11-09T18:53:09.265663+00:00",
+  "0001493152-26-050625": "2026-11-09T18:53:09.265663+00:00",
+  "0001493152-26-050624": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117201": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452659": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452658": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124159": "2026-11-09T18:53:09.265663+00:00",
+  "0001178913-26-005089": "2026-11-09T18:53:09.265663+00:00",
+  "0001493152-26-050621": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452644": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452643": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117193": "2026-11-09T18:53:09.265663+00:00",
+  "0001635088-26-000130": "2026-11-09T18:53:09.265663+00:00",
+  "0001493152-26-050619": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452635": "2026-11-09T18:53:09.265663+00:00",
+  "0000746598-26-000054": "2026-11-09T18:53:09.265663+00:00",
+  "0001437749-26-035709": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452631": "2026-11-09T18:53:09.265663+00:00",
+  "0001764013-26-000121": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124151": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452624": "2026-11-09T18:53:09.265663+00:00",
+  "0001437749-26-035705": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124149": "2026-11-09T18:53:09.265663+00:00",
+  "0001628280-26-071872": "2026-11-09T18:53:09.265663+00:00",
+  "0001628280-26-071871": "2026-11-09T18:53:09.265663+00:00",
+  "0001140361-26-042601": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452620": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452618": "2026-11-09T18:53:09.265663+00:00",
+  "0001650664-26-000100": "2026-11-09T18:53:09.265663+00:00",
+  "0001628280-26-071870": "2026-11-09T18:53:09.265663+00:00",
+  "0001564708-26-000256": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124147": "2026-11-09T18:53:09.265663+00:00",
+  "0001689548-26-000086": "2026-11-09T18:53:09.265663+00:00",
+  "0001819796-26-000030": "2026-11-09T18:53:09.265663+00:00",
+  "0000883237-26-000064": "2026-11-09T18:53:09.265663+00:00",
+  "0001628280-26-071867": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452616": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117183": "2026-11-09T18:53:09.265663+00:00",
+  "0001140361-26-042598": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124144": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117180": "2026-11-09T18:53:09.265663+00:00",
+  "0001645113-26-000085": "2026-11-09T18:53:09.265663+00:00",
+  "0001603015-26-000033": "2026-11-09T18:53:09.265663+00:00",
+  "0001868275-26-000116": "2026-11-09T18:53:09.265663+00:00",
+  "0001404912-26-000030": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124138": "2026-11-09T18:53:09.265663+00:00",
+  "0002011641-26-000042": "2026-11-09T18:53:09.265663+00:00",
+  "0001140361-26-042592": "2026-11-09T18:53:09.265663+00:00",
+  "0001831631-26-000113": "2026-11-09T18:53:09.265663+00:00",
+  "0001013871-26-000022": "2026-11-09T18:53:09.265663+00:00",
+  "0001567094-26-000020": "2026-11-09T18:53:09.265663+00:00",
+  "0001206264-26-000129": "2026-11-09T18:53:09.265663+00:00",
+  "0001493152-26-050609": "2026-11-09T18:53:09.265663+00:00",
+  "0001831481-26-000121": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452579": "2026-11-09T18:53:09.265663+00:00",
+  "0001326110-26-000091": "2026-11-09T18:53:09.265663+00:00",
+  "0001767042-26-000076": "2026-11-09T18:53:09.265663+00:00",
+  "0001493152-26-050606": "2026-11-09T18:53:09.265663+00:00",
+  "0001140361-26-042582": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452559": "2026-11-09T18:53:09.265663+00:00",
+  "0001437749-26-035669": "2026-11-09T18:53:09.265663+00:00",
+  "0001493152-26-050598": "2026-11-09T18:53:09.265663+00:00",
+  "0001493152-26-050596": "2026-11-09T18:53:09.265663+00:00",
+  "0000950103-26-017127": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452530": "2026-11-09T18:53:09.265663+00:00",
+  "0000354707-26-000082": "2026-11-09T18:53:09.265663+00:00",
+  "0001493152-26-050590": "2026-11-09T18:53:09.265663+00:00",
+  "0001793229-26-000080": "2026-11-09T18:53:09.265663+00:00",
+  "0001171843-26-007242": "2026-11-09T18:53:09.265663+00:00",
+  "0001759138-26-000050": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452515": "2026-11-09T18:53:09.265663+00:00",
+  "0001889539-26-000162": "2026-11-09T18:53:09.265663+00:00",
+  "0001628280-26-071846": "2026-11-09T18:53:09.265663+00:00",
+  "0001829126-26-012106": "2026-11-09T18:53:09.265663+00:00",
+  "0001140361-26-042548": "2026-11-09T18:53:09.265663+00:00",
+  "0001857475-26-000091": "2026-11-09T18:53:09.265663+00:00",
+  "0001683168-26-008390": "2026-11-09T18:53:09.265663+00:00",
+  "0001199835-26-000384": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124046": "2026-11-09T18:53:09.265663+00:00",
+  "0001493152-26-050578": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-124036": "2026-11-09T18:53:09.265663+00:00",
+  "0001185185-26-005247": "2026-11-09T18:53:09.265663+00:00",
+  "0001214659-26-013841": "2026-11-09T18:53:09.265663+00:00",
+  "0001821159-26-000032": "2026-11-09T18:53:09.265663+00:00",
+  "0001104659-26-123980": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452963": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117358": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452702": "2026-11-09T18:53:09.265663+00:00",
+  "0002107788-26-000017": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117436": "2026-11-09T18:53:09.265663+00:00",
+  "0001999371-26-024891": "2026-11-09T18:53:09.265663+00:00",
+  "0001999371-26-024885": "2026-11-09T18:53:09.265663+00:00",
+  "0000039263-26-000060": "2026-11-09T18:53:09.265663+00:00",
+  "0001140361-26-042627": "2026-11-09T18:53:09.265663+00:00"
  },
  "caps": {
   "0001677250": {
@@ -48754,9 +49220,9 @@
    "checked": "2026-11-06T21:34:30.608981+00:00"
   },
   "0001785530": {
-   "cap": 48117936.51652646,
+   "cap": 50302537.422750354,
    "src": "yahoo",
-   "checked": "2026-09-22T15:59:28.623895+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001357671": {
    "cap": 37242936.87752247,
@@ -49094,9 +49560,9 @@
    "checked": "2026-11-06T21:34:30.608981+00:00"
   },
   "0001503802": {
-   "cap": 1975555.147613883,
+   "cap": 842616.2229121476,
    "src": "yahoo",
-   "checked": "2026-11-03T16:18:34.980459+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0002088082": {
    "cap": 461337113.2640767,
@@ -49199,9 +49665,9 @@
    "checked": "2026-09-28T14:05:54.649589+00:00"
   },
   "0000896493": {
-   "cap": 24077946.555983573,
+   "cap": 32180449.358005732,
    "src": "yahoo",
-   "checked": "2026-10-20T21:41:43.267611+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000906709": {
    "cap": 1949223532.6698074,
@@ -49254,9 +49720,9 @@
    "checked": "2026-09-29T02:02:34.496429+00:00"
   },
   "0002022416": {
-   "cap": 1378943.4654636383,
+   "cap": 1840835.4260252416,
    "src": "yahoo",
-   "checked": "2026-09-29T02:02:34.496429+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000880406": {
    "cap": 29963217.019701004,
@@ -49449,9 +49915,9 @@
    "checked": "2026-10-19T13:29:31.491402+00:00"
   },
   "0001621672": {
-   "cap": 14805623.270648003,
+   "cap": 14187690.603034973,
    "src": "yahoo",
-   "checked": "2026-11-02T16:18:07.695011+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001830043": {
    "cap": 785211443.1290417,
@@ -49739,9 +50205,9 @@
    "checked": "2026-10-01T23:56:09.202878+00:00"
   },
   "0001501796": {
-   "cap": 653340316.4801226,
+   "cap": 777267531.5869265,
    "src": "yahoo",
-   "checked": "2026-10-27T23:49:03.034875+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001636282": {
    "cap": 9276982704.387741,
@@ -49894,9 +50360,9 @@
    "checked": "2026-10-02T23:50:03.432191+00:00"
   },
   "0000805928": {
-   "cap": 2197834823.2646255,
+   "cap": 2956073185.606022,
    "src": "yahoo",
-   "checked": "2026-10-28T13:06:11.197543+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000901243": {
    "cap": 485307078.7217865,
@@ -50094,9 +50560,9 @@
    "checked": "2026-10-05T22:43:08.328792+00:00"
   },
   "0001822462": {
-   "cap": 118770630.0,
+   "cap": 122333745.50194502,
    "src": "yahoo",
-   "checked": "2026-10-05T22:43:08.328792+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000832428": {
    "cap": 259009836.91508293,
@@ -50394,9 +50860,9 @@
    "checked": "2026-10-06T21:01:53.722067+00:00"
   },
   "0001889539": {
-   "cap": 15619869578.996933,
+   "cap": 15833365413.834457,
    "src": "yahoo",
-   "checked": "2026-11-02T23:37:27.039914+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001738827": {
    "cap": 101323270.56301594,
@@ -50469,9 +50935,9 @@
    "checked": "2026-10-06T21:01:53.722067+00:00"
   },
   "0001404644": {
-   "cap": 509289687.16747284,
+   "cap": 533303322.6662636,
    "src": "yahoo",
-   "checked": "2026-10-06T21:01:53.722067+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0002053927": {
    "cap": 78425848.75,
@@ -50484,9 +50950,9 @@
    "checked": "2026-10-14T02:18:12.664220+00:00"
   },
   "0002028027": {
-   "cap": 261182754.32264805,
+   "cap": 108149835.67741013,
    "src": "yahoo",
-   "checked": "2026-10-22T17:16:32.323181+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0002080087": {
    "cap": 145741326.23,
@@ -50584,9 +51050,9 @@
    "checked": "2026-11-05T00:55:44.393688+00:00"
   },
   "0001593899": {
-   "cap": 405737405.667562,
+   "cap": 356108868.1493497,
    "src": "yahoo",
-   "checked": "2026-10-07T01:37:11.209284+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000884887": {
    "cap": 75047056402.79797,
@@ -50964,9 +51430,9 @@
    "checked": "2026-11-04T19:50:49.071260+00:00"
   },
   "0001728328": {
-   "cap": 9229474.511842132,
+   "cap": 8548259.44,
    "src": "yahoo",
-   "checked": "2026-11-03T21:51:39.174510+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001671502": {
    "cap": 19312727.1283679,
@@ -51084,9 +51550,9 @@
    "checked": "2026-10-07T23:09:26.872865+00:00"
   },
   "0002023658": {
-   "cap": 1078857484.7328072,
+   "cap": 647971557.0701237,
    "src": "yahoo",
-   "checked": "2026-10-07T23:09:26.872865+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001901440": {
    "cap": 16561706884.73227,
@@ -51434,9 +51900,9 @@
    "checked": "2026-11-05T23:41:14.211032+00:00"
   },
   "0001693256": {
-   "cap": 2354497237.432686,
+   "cap": 2073065772.6952124,
    "src": "yahoo",
-   "checked": "2026-11-02T23:37:27.039914+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001674168": {
    "cap": 2761538776.9718933,
@@ -51579,9 +52045,9 @@
    "checked": "2026-11-05T00:55:44.393688+00:00"
   },
   "0000091767": {
-   "cap": 5038670062.357231,
+   "cap": 5051561418.41724,
    "src": "yahoo",
-   "checked": "2026-10-21T23:25:14.430513+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000076605": {
    "cap": 2246030211.3217163,
@@ -51719,9 +52185,9 @@
    "checked": "2026-10-26T19:58:41.801537+00:00"
   },
   "0001831481": {
-   "cap": 614941963.6215134,
+   "cap": 154934680.3049054,
    "src": "yahoo",
-   "checked": "2026-10-19T19:59:28.869198+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001729637": {
    "cap": 16384798.95,
@@ -52009,9 +52475,9 @@
    "checked": "2026-10-13T16:04:52.947650+00:00"
   },
   "0001920406": {
-   "cap": 2757931954.9312363,
+   "cap": 2708969295.4020367,
    "src": "yahoo",
-   "checked": "2026-11-02T16:18:07.695011+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001898496": {
    "cap": 6222169.450923672,
@@ -52134,9 +52600,9 @@
    "checked": "2026-10-13T21:19:31.357696+00:00"
   },
   "0001827635": {
-   "cap": 4546356706.590157,
+   "cap": 6021979918.680313,
    "src": "yahoo",
-   "checked": "2026-10-19T13:29:31.491402+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001649904": {
    "cap": 5755352636.431915,
@@ -52579,9 +53045,9 @@
    "checked": "2026-10-29T13:12:38.788167+00:00"
   },
   "0000721994": {
-   "cap": 1451449262.4279785,
+   "cap": 1545056913.6545181,
    "src": "yahoo",
-   "checked": "2026-10-26T13:13:35.940970+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001570827": {
    "cap": 7392835608.8498535,
@@ -52614,9 +53080,9 @@
    "checked": "2026-10-20T21:41:43.267611+00:00"
   },
   "0001075736": {
-   "cap": 191541838.0111885,
+   "cap": 167545441.08341122,
    "src": "yahoo",
-   "checked": "2026-11-03T21:51:39.174510+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001107421": {
    "cap": 6673867.716253996,
@@ -52664,9 +53130,9 @@
    "checked": "2026-11-05T23:41:14.211032+00:00"
   },
   "0000887151": {
-   "cap": 2418545.25,
+   "cap": 1902688.0471491814,
    "src": "yahoo",
-   "checked": "2026-10-21T23:25:14.430513+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000313616": {
    "cap": 159113860887.94818,
@@ -52674,9 +53140,9 @@
    "checked": "2026-11-05T23:41:14.211032+00:00"
   },
   "0001805526": {
-   "cap": 104657284.26526546,
+   "cap": 109605850.97794294,
    "src": "yahoo",
-   "checked": "2026-11-02T16:18:07.695011+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001327811": {
    "cap": 50607591323.85254,
@@ -52684,9 +53150,9 @@
    "checked": "2026-10-23T23:12:25.557054+00:00"
   },
   "0001829311": {
-   "cap": 12326931039.23235,
+   "cap": 11328592093.522694,
    "src": "yahoo",
-   "checked": "2026-11-02T16:18:07.695011+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001533040": {
    "cap": 9293800.938488424,
@@ -52804,9 +53270,9 @@
    "checked": "2026-11-06T15:58:47.906924+00:00"
   },
   "0001050446": {
-   "cap": 57027648359.808105,
+   "cap": 53036215886.09207,
    "src": "yahoo",
-   "checked": "2026-11-02T16:18:07.695011+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001802665": {
    "cap": 2013232088.2376633,
@@ -52894,9 +53360,9 @@
    "checked": "2026-11-06T15:58:47.906924+00:00"
   },
   "0001564708": {
-   "cap": 16016371289.58066,
+   "cap": 14212530929.883766,
    "src": "yahoo",
-   "checked": "2026-11-02T16:18:07.695011+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000032604": {
    "cap": 92812341659.5459,
@@ -53079,9 +53545,9 @@
    "checked": "2026-10-14T02:18:12.664220+00:00"
   },
   "0001411685": {
-   "cap": 7468634.246147305,
+   "cap": 8076597.638005659,
    "src": "yahoo",
-   "checked": "2026-10-30T23:52:34.780379+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001855467": {
    "cap": 13428130.122250915,
@@ -53364,9 +53830,9 @@
    "checked": "2026-11-06T15:58:47.906924+00:00"
   },
   "0001628808": {
-   "cap": 255362823.6983528,
+   "cap": 269939836.08839035,
    "src": "yahoo",
-   "checked": "2026-11-03T21:51:39.174510+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001471420": {
    "cap": 971813211.9993591,
@@ -53384,9 +53850,9 @@
    "checked": "2026-10-14T02:18:12.664220+00:00"
   },
   "0001996192": {
-   "cap": 15148125.877918303,
+   "cap": 11447163.736867636,
    "src": "yahoo",
-   "checked": "2026-10-29T13:12:38.788167+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000039368": {
    "cap": 2762510370.6526566,
@@ -53499,9 +53965,9 @@
    "checked": "2026-11-05T23:41:14.211032+00:00"
   },
   "0001829794": {
-   "cap": 75425184.56722736,
+   "cap": 58255529.00760174,
    "src": "yahoo",
-   "checked": "2026-11-02T16:18:07.695011+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000896156": {
    "cap": 532065237.1435547,
@@ -53604,9 +54070,9 @@
    "checked": "2026-10-21T23:25:14.430513+00:00"
   },
   "0001671584": {
-   "cap": 2507147.7577364445,
+   "cap": 2430377.749613285,
    "src": "yahoo",
-   "checked": "2026-11-02T16:18:07.695011+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001625101": {
    "cap": 3785090731.7240677,
@@ -53644,9 +54110,9 @@
    "checked": "2026-11-06T21:34:30.608981+00:00"
   },
   "0001787740": {
-   "cap": 1098349.568491757,
+   "cap": 1143781.0166637301,
    "src": "yahoo",
-   "checked": "2026-11-02T16:18:07.695011+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000866374": {
    "cap": 24654120691.175385,
@@ -53664,9 +54130,9 @@
    "checked": "2026-11-05T18:05:01.719769+00:00"
   },
   "0001552198": {
-   "cap": 158281588.81221294,
+   "cap": 175518602.4378128,
    "src": "yahoo",
-   "checked": "2026-10-14T13:48:03.566552+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001849380": {
    "cap": 27289403.17669964,
@@ -53779,9 +54245,9 @@
    "checked": "2026-10-14T13:48:03.566552+00:00"
   },
   "0001498148": {
-   "cap": 293560.2327327132,
+   "cap": 209685.89795954525,
    "src": "yahoo",
-   "checked": "2026-11-02T16:18:07.695011+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001819576": {
    "cap": 3100922717.1445427,
@@ -53854,9 +54320,9 @@
    "checked": "2026-11-05T23:41:14.211032+00:00"
   },
   "0001275168": {
-   "cap": 1114207637.9960098,
+   "cap": 1095089906.608429,
    "src": "yahoo",
-   "checked": "2026-10-27T19:27:42.201336+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000908315": {
    "cap": 1085122363.2853088,
@@ -53929,9 +54395,9 @@
    "checked": "2026-11-05T00:55:44.393688+00:00"
   },
   "0001326110": {
-   "cap": 10502977303.711819,
+   "cap": 7625522166.1679535,
    "src": "yahoo",
-   "checked": "2026-10-14T23:17:13.925197+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001056358": {
    "cap": 13990107.5,
@@ -54004,9 +54470,9 @@
    "checked": "2026-10-14T23:17:13.925197+00:00"
   },
   "0001677576": {
-   "cap": 1499854880.4697952,
+   "cap": 1544684869.7955399,
    "src": "yahoo",
-   "checked": "2026-11-02T23:37:27.039914+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000023197": {
    "cap": 38350630.82279658,
@@ -54049,9 +54515,9 @@
    "checked": "2026-11-05T23:41:14.211032+00:00"
   },
   "0000893538": {
-   "cap": 8722108238.036194,
+   "cap": 6902517155.716049,
    "src": "yahoo",
-   "checked": "2026-11-03T21:51:39.174510+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001734750": {
    "cap": 280499735.58261395,
@@ -54219,9 +54685,9 @@
    "checked": "2026-10-22T17:16:32.323181+00:00"
   },
   "0001430306": {
-   "cap": 109766555.23564911,
+   "cap": 85069079.69425964,
    "src": "yahoo",
-   "checked": "2026-10-15T11:38:36.601133+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001853962": {
    "cap": 1246898473.0672917,
@@ -54279,9 +54745,9 @@
    "checked": "2026-10-15T11:38:36.601133+00:00"
   },
   "0000910406": {
-   "cap": 10856570.72532978,
+   "cap": 13450135.223680884,
    "src": "yahoo",
-   "checked": "2026-10-30T19:27:09.786783+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001688757": {
    "cap": 2055436458.6492615,
@@ -54304,9 +54770,9 @@
    "checked": "2026-11-06T21:34:30.608981+00:00"
   },
   "0002109869": {
-   "cap": 202654591.4854436,
+   "cap": 71418051.25678372,
    "src": "yahoo",
-   "checked": "2026-10-29T23:58:35.660640+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001607997": {
    "cap": 65378540.977454185,
@@ -54494,9 +54960,9 @@
    "checked": "2026-11-05T00:55:44.393688+00:00"
   },
   "0001779128": {
-   "cap": 396419752.96136284,
+   "cap": 532792960.6341286,
    "src": "yahoo",
-   "checked": "2026-11-03T16:18:34.980459+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001872529": {
    "cap": 57593934.17752361,
@@ -54694,9 +55160,9 @@
    "checked": "2026-10-30T19:27:09.786783+00:00"
   },
   "0000065172": {
-   "cap": 225401775.8039093,
+   "cap": 224747086.58420563,
    "src": "yahoo",
-   "checked": "2026-11-02T23:37:27.039914+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001688126": {
    "cap": 4851346.611044673,
@@ -54729,9 +55195,9 @@
    "checked": "2026-10-15T21:29:29.370933+00:00"
   },
   "0001979414": {
-   "cap": 88432514.67703342,
+   "cap": 109487983.66112518,
    "src": "yahoo",
-   "checked": "2026-11-04T02:23:42.061724+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001320854": {
    "cap": 146577014.72011566,
@@ -55269,9 +55735,9 @@
    "checked": "2026-10-16T21:17:52.087026+00:00"
   },
   "0001513525": {
-   "cap": 10897443.750424385,
+   "cap": 10766148.749575615,
    "src": "yahoo",
-   "checked": "2026-11-03T21:51:39.174510+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0002067674": {
    "cap": 163883180.6321144,
@@ -55289,9 +55755,9 @@
    "checked": "2026-11-07T01:59:11.866799+00:00"
   },
   "0001997038": {
-   "cap": 1128612927.4452438,
+   "cap": 618485602.1201324,
    "src": "yahoo",
-   "checked": "2026-10-16T21:17:52.087026+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0002096900": {
    "cap": 356821526.90320015,
@@ -55334,9 +55800,9 @@
    "checked": "2026-11-02T23:37:27.039914+00:00"
   },
   "0000936528": {
-   "cap": 2157435779.7668457,
+   "cap": 2220625680.0,
    "src": "yahoo",
-   "checked": "2026-10-16T21:17:52.087026+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001823584": {
    "cap": 229308165.0,
@@ -55364,9 +55830,9 @@
    "checked": "2026-10-16T21:17:52.087026+00:00"
   },
   "0001393434": {
-   "cap": 1508760988.0269585,
+   "cap": 1474720587.130722,
    "src": "yahoo",
-   "checked": "2026-10-16T21:17:52.087026+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000884144": {
    "cap": 208797541.99082947,
@@ -55529,9 +55995,9 @@
    "checked": "2026-10-27T23:49:03.034875+00:00"
   },
   "0001479419": {
-   "cap": 3674559.293890357,
+   "cap": 3421208.131411493,
    "src": "yahoo",
-   "checked": "2026-10-19T13:29:31.491402+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001505952": {
    "cap": 145341733.45285392,
@@ -55634,9 +56100,9 @@
    "checked": "2026-10-19T13:29:31.491402+00:00"
   },
   "0001410098": {
-   "cap": 420894377.25878716,
+   "cap": 424406857.56003,
    "src": "yahoo",
-   "checked": "2026-11-02T16:18:07.695011+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001065059": {
    "cap": 1893548776.0907593,
@@ -55694,9 +56160,9 @@
    "checked": "2026-10-19T13:29:31.491402+00:00"
   },
   "0002028516": {
-   "cap": 274299313.54522705,
-   "src": "yahoo",
-   "checked": "2026-10-19T13:29:31.491402+00:00"
+   "cap": 235290000.0,
+   "src": "float",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0002102123": {
    "cap": 236342900.0,
@@ -55704,9 +56170,9 @@
    "checked": "2026-10-19T13:29:31.491402+00:00"
   },
   "0000872912": {
-   "cap": 498795178.125,
+   "cap": 669860248.0642319,
    "src": "yahoo",
-   "checked": "2026-10-19T19:59:28.869198+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001546383": {
    "cap": 93584648.28028679,
@@ -55754,9 +56220,9 @@
    "checked": "2026-11-05T23:41:14.211032+00:00"
   },
   "0001402436": {
-   "cap": 19861198718.217957,
+   "cap": 18399299095.69226,
    "src": "yahoo",
-   "checked": "2026-10-19T19:59:28.869198+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000768899": {
    "cap": 299572349.60543823,
@@ -55904,9 +56370,9 @@
    "checked": "2026-10-29T00:02:11.848897+00:00"
   },
   "0001065696": {
-   "cap": 4349105993.457691,
+   "cap": 5203186299.585665,
    "src": "yahoo",
-   "checked": "2026-10-29T13:12:38.788167+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001486159": {
    "cap": 7238169501.914795,
@@ -56499,9 +56965,9 @@
    "checked": "2026-10-20T17:16:09.891327+00:00"
   },
   "0000089439": {
-   "cap": 12112290680.931381,
+   "cap": 11983141262.87249,
    "src": "yahoo",
-   "checked": "2026-10-20T17:16:09.891327+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0002134856": {
    "cap": 267156995.96566296,
@@ -56574,9 +57040,9 @@
    "checked": "2026-10-20T17:16:09.891327+00:00"
   },
   "0000064463": {
-   "cap": 134524819.16574687,
+   "cap": 136946259.46692973,
    "src": "yahoo",
-   "checked": "2026-10-26T13:13:35.940970+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001543637": {
    "cap": 601548.9768,
@@ -56644,9 +57110,9 @@
    "checked": "2026-11-05T18:05:01.719769+00:00"
   },
   "0000814453": {
-   "cap": 2163571967.5064087,
+   "cap": 2498489902.496338,
    "src": "yahoo",
-   "checked": "2026-10-30T13:05:02.184074+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000040987": {
    "cap": 17372397320.22708,
@@ -56799,9 +57265,9 @@
    "checked": "2026-11-03T16:18:34.980459+00:00"
   },
   "0001854963": {
-   "cap": 135662.47126489878,
+   "cap": 2266179.609287083,
    "src": "yahoo",
-   "checked": "2026-10-26T13:13:35.940970+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001823608": {
    "cap": 1434011022.7455978,
@@ -56949,9 +57415,9 @@
    "checked": "2026-10-20T21:41:43.267611+00:00"
   },
   "0001842279": {
-   "cap": 46345172.5233686,
+   "cap": 43316075.50117576,
    "src": "yahoo",
-   "checked": "2026-10-20T21:41:43.267611+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001065280": {
    "cap": 286021026510.30835,
@@ -57034,9 +57500,9 @@
    "checked": "2026-10-21T13:53:10.772648+00:00"
   },
   "0001236275": {
-   "cap": 11038901499.954166,
+   "cap": 14426308031.605091,
    "src": "yahoo",
-   "checked": "2026-10-27T23:49:03.034875+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001001838": {
    "cap": 164642792928.7981,
@@ -57629,9 +58095,9 @@
    "checked": "2026-10-21T23:25:14.430513+00:00"
   },
   "0000874015": {
-   "cap": 7356980011.013145,
+   "cap": 5015442888.67543,
    "src": "yahoo",
-   "checked": "2026-10-21T23:25:14.430513+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001472787": {
    "cap": 6633437124.633789,
@@ -57894,9 +58360,9 @@
    "checked": "2026-10-22T12:01:16.621408+00:00"
   },
   "0001584549": {
-   "cap": 336287316.75,
+   "cap": 359521720.17727804,
    "src": "yahoo",
-   "checked": "2026-10-22T12:01:16.621408+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001703647": {
    "cap": 202856075.93987274,
@@ -57914,9 +58380,9 @@
    "checked": "2026-11-02T16:18:07.695011+00:00"
   },
   "0000763901": {
-   "cap": 10348061787.25,
+   "cap": 9969264247.865479,
    "src": "yahoo",
-   "checked": "2026-10-22T12:01:16.621408+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0002080126": {
    "cap": 8718980568.274265,
@@ -58304,9 +58770,9 @@
    "checked": "2026-11-06T15:58:47.906924+00:00"
   },
   "0001729173": {
-   "cap": 201413927.3702001,
+   "cap": 181879677.3192836,
    "src": "yahoo",
-   "checked": "2026-11-02T16:18:07.695011+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001551047": {
    "cap": 1778041587.613678,
@@ -58534,9 +59000,9 @@
    "checked": "2026-10-22T21:42:23.651349+00:00"
   },
   "0002110117": {
-   "cap": 238831539.37394476,
+   "cap": 249004893.15195704,
    "src": "yahoo",
-   "checked": "2026-10-22T21:42:23.651349+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000081362": {
    "cap": 2716579830.7180176,
@@ -58579,9 +59045,9 @@
    "checked": "2026-10-22T21:42:23.651349+00:00"
   },
   "0002064307": {
-   "cap": 694998926.8409767,
+   "cap": 686763287.6321945,
    "src": "yahoo",
-   "checked": "2026-10-22T21:42:23.651349+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001396009": {
    "cap": 34338365835.0,
@@ -58639,9 +59105,9 @@
    "checked": "2026-10-22T21:42:23.651349+00:00"
   },
   "0001574197": {
-   "cap": 323127369.0,
+   "cap": 315830471.5745516,
    "src": "yahoo",
-   "checked": "2026-10-22T21:42:23.651349+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000007789": {
    "cap": 5705148025.492973,
@@ -58729,9 +59195,9 @@
    "checked": "2026-11-05T23:41:14.211032+00:00"
   },
   "0000810958": {
-   "cap": 490966984.125,
+   "cap": 511411450.2914429,
    "src": "yahoo",
-   "checked": "2026-10-28T19:37:50.799276+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001868159": {
    "cap": 7989093502.590351,
@@ -59104,9 +59570,9 @@
    "checked": "2026-10-23T13:31:56.223245+00:00"
   },
   "0002102041": {
-   "cap": 342393317.0817547,
+   "cap": 342899328.65817547,
    "src": "yahoo",
-   "checked": "2026-10-29T19:41:45.300208+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001130464": {
    "cap": 6419752126.954895,
@@ -59204,9 +59670,9 @@
    "checked": "2026-10-23T23:12:25.557054+00:00"
   },
   "0000318306": {
-   "cap": 251609680.25349283,
+   "cap": 156970120.1208086,
    "src": "yahoo",
-   "checked": "2026-10-23T23:12:25.557054+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000924396": {
    "cap": 28165583.303,
@@ -59399,9 +59865,9 @@
    "checked": "2026-11-03T16:18:34.980459+00:00"
   },
   "0001856031": {
-   "cap": 30463638.87881756,
+   "cap": 19351717.632037997,
    "src": "yahoo",
-   "checked": "2026-10-23T23:12:25.557054+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001611647": {
    "cap": 3377040698.652237,
@@ -59604,9 +60070,9 @@
    "checked": "2026-10-26T13:13:35.940970+00:00"
   },
   "0000101538": {
-   "cap": 453447994.8407507,
+   "cap": 499385529.1815014,
    "src": "yahoo",
-   "checked": "2026-10-26T13:13:35.940970+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000732712": {
    "cap": 185552259887.35162,
@@ -59644,9 +60110,9 @@
    "checked": "2026-11-06T15:58:47.906924+00:00"
   },
   "0001404912": {
-   "cap": 86164039422.43347,
+   "cap": 88237582317.66646,
    "src": "yahoo",
-   "checked": "2026-11-04T12:15:15.138058+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0002112457": {
    "cap": 98878502.58350372,
@@ -59694,9 +60160,9 @@
    "checked": "2026-10-26T19:58:41.801537+00:00"
   },
   "0001590364": {
-   "cap": 20625497099.651184,
+   "cap": 20219160908.751038,
    "src": "yahoo",
-   "checked": "2026-11-02T16:18:07.695011+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001581091": {
    "cap": 160900000.0,
@@ -60009,9 +60475,9 @@
    "checked": "2026-11-06T21:34:30.608981+00:00"
   },
   "0000790526": {
-   "cap": 5512778118.016495,
+   "cap": 6316675417.571701,
    "src": "yahoo",
-   "checked": "2026-10-26T23:55:54.876573+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001070750": {
    "cap": 17888598476.056747,
@@ -60039,9 +60505,9 @@
    "checked": "2026-10-26T23:55:54.876573+00:00"
   },
   "0000020286": {
-   "cap": 27213191784.24774,
+   "cap": 28711035710.329468,
    "src": "yahoo",
-   "checked": "2026-10-26T23:55:54.876573+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000917273": {
    "cap": 7462448267.483101,
@@ -60239,9 +60705,9 @@
    "checked": "2026-10-27T12:21:19.249344+00:00"
   },
   "0001855644": {
-   "cap": 341151722.2366128,
+   "cap": 111737473.54479253,
    "src": "yahoo",
-   "checked": "2026-10-27T12:21:19.249344+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001631574": {
    "cap": 632524649.2667913,
@@ -60249,9 +60715,9 @@
    "checked": "2026-10-27T12:21:19.249344+00:00"
   },
   "0001829802": {
-   "cap": 516606253.7611542,
+   "cap": 329122630.70218563,
    "src": "yahoo",
-   "checked": "2026-11-03T16:18:34.980459+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000012927": {
    "cap": 148834576536.5857,
@@ -60489,9 +60955,9 @@
    "checked": "2026-10-27T19:27:42.201336+00:00"
   },
   "0001519061": {
-   "cap": 146239.472,
+   "cap": 475278.284,
    "src": "yahoo",
-   "checked": "2026-10-27T19:27:42.201336+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000750574": {
    "cap": 86410438.94169617,
@@ -60734,9 +61200,9 @@
    "checked": "2026-10-27T23:49:03.034875+00:00"
   },
   "0001861657": {
-   "cap": 152191396.85034764,
+   "cap": 157769096.29980135,
    "src": "yahoo",
-   "checked": "2026-10-27T23:49:03.034875+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001360214": {
    "cap": 1008048263.6192322,
@@ -60824,9 +61290,9 @@
    "checked": "2026-11-04T02:23:42.061724+00:00"
   },
   "0001001316": {
-   "cap": 8639217141.111645,
+   "cap": 8896373196.864613,
    "src": "yahoo",
-   "checked": "2026-10-27T23:49:03.034875+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001177394": {
    "cap": 17181682154.531372,
@@ -60944,9 +61410,9 @@
    "checked": "2026-10-27T23:49:03.034875+00:00"
   },
   "0001357874": {
-   "cap": 195142991.51812077,
+   "cap": 393350064.4288025,
    "src": "yahoo",
-   "checked": "2026-11-03T16:18:34.980459+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001108426": {
    "cap": 6456673250.536999,
@@ -60984,9 +61450,9 @@
    "checked": "2026-10-27T23:49:03.034875+00:00"
   },
   "0002011641": {
-   "cap": 44409005242.22333,
+   "cap": 51239820207.196655,
    "src": "yahoo",
-   "checked": "2026-10-27T23:49:03.034875+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001967649": {
    "cap": 2003547171.6339684,
@@ -60999,9 +61465,9 @@
    "checked": "2026-11-05T00:55:44.393688+00:00"
   },
   "0001567094": {
-   "cap": 17914888960.27749,
+   "cap": 21002553871.450264,
    "src": "yahoo",
-   "checked": "2026-10-27T23:49:03.034875+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001378239": {
    "cap": 4781742774.830444,
@@ -61069,9 +61535,9 @@
    "checked": "2026-10-27T23:49:03.034875+00:00"
   },
   "0001650664": {
-   "cap": 399308076.3534665,
+   "cap": 450004855.0464034,
    "src": "yahoo",
-   "checked": "2026-10-27T23:49:03.034875+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001318484": {
    "cap": 378193908.72501373,
@@ -61104,9 +61570,9 @@
    "checked": "2026-11-05T18:05:01.719769+00:00"
   },
   "0001772016": {
-   "cap": 1070922171.1756611,
+   "cap": 1112200876.817728,
    "src": "yahoo",
-   "checked": "2026-10-27T23:49:03.034875+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001505732": {
    "cap": 532846579.2857666,
@@ -61199,9 +61665,9 @@
    "checked": "2026-11-05T23:41:14.211032+00:00"
   },
   "0000928876": {
-   "cap": 18039659130.247467,
+   "cap": 17222900424.09137,
    "src": "yahoo",
-   "checked": "2026-11-02T16:18:07.695011+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001114448": {
    "cap": 298146130962.5043,
@@ -62169,9 +62635,9 @@
    "checked": "2026-10-28T19:37:50.799276+00:00"
   },
   "0001719714": {
-   "cap": 47763571.87466213,
+   "cap": 48298696.793334365,
    "src": "yahoo",
-   "checked": "2026-10-28T19:37:50.799276+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001501989": {
    "cap": 466304490.6185446,
@@ -62491,7 +62957,7 @@
   "0002131303": {
    "cap": null,
    "src": null,
-   "checked": "2026-11-04T02:23:42.061724+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001108109": {
    "cap": 375084889.62,
@@ -62589,9 +63055,9 @@
    "checked": "2026-10-29T00:02:11.848897+00:00"
   },
   "0001576940": {
-   "cap": 1611845227.8,
+   "cap": 1622145492.3582306,
    "src": "yahoo",
-   "checked": "2026-10-29T00:02:11.848897+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001410384": {
    "cap": 4234507337.45,
@@ -63074,9 +63540,9 @@
    "checked": "2026-10-29T13:12:38.788167+00:00"
   },
   "0000908937": {
-   "cap": 9208667359.255348,
+   "cap": 11117521371.662788,
    "src": "yahoo",
-   "checked": "2026-10-29T13:12:38.788167+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000913142": {
    "cap": 4168079995.1686096,
@@ -63239,9 +63705,9 @@
    "checked": "2026-11-05T00:55:44.393688+00:00"
   },
   "0001645113": {
-   "cap": 1650037561.6841125,
+   "cap": 1497108890.6749191,
    "src": "yahoo",
-   "checked": "2026-10-29T13:12:38.788167+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001669811": {
    "cap": 1305975518.6999779,
@@ -63584,9 +64050,9 @@
    "checked": "2026-11-05T23:41:14.211032+00:00"
   },
   "0001850270": {
-   "cap": 301643583.9808109,
+   "cap": 241366680.3511634,
    "src": "yahoo",
-   "checked": "2026-10-29T23:58:35.660640+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001328581": {
    "cap": 2716291622.1100235,
@@ -64199,9 +64665,9 @@
    "checked": "2026-10-30T13:05:02.184074+00:00"
   },
   "0000791963": {
-   "cap": 1155822085.8425903,
+   "cap": 995820741.9252014,
    "src": "yahoo",
-   "checked": "2026-10-30T13:05:02.184074+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001821825": {
    "cap": 3626636379.9253035,
@@ -64309,9 +64775,9 @@
    "checked": "2026-10-30T13:05:02.184074+00:00"
   },
   "0001060822": {
-   "cap": 1225419394.511776,
+   "cap": 1293960990.1046753,
    "src": "yahoo",
-   "checked": "2026-10-30T13:05:02.184074+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001865782": {
    "cap": 13105126667.770569,
@@ -64979,9 +65445,9 @@
    "checked": "2026-10-31T05:52:58.479838+00:00"
   },
   "0001821159": {
-   "cap": 598617784.6333218,
+   "cap": 265008397.0757532,
    "src": "yahoo",
-   "checked": "2026-11-02T16:18:07.695011+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001903145": {
    "cap": 205771277.44470263,
@@ -65079,9 +65545,9 @@
    "checked": "2026-11-02T16:18:07.695011+00:00"
   },
   "0000095574": {
-   "cap": 205852542.4769554,
+   "cap": 228813640.43261147,
    "src": "yahoo",
-   "checked": "2026-11-02T16:18:07.695011+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001865861": {
    "cap": 61080041.0,
@@ -65109,9 +65575,9 @@
    "checked": "2026-11-02T16:18:07.695011+00:00"
   },
   "0001055726": {
-   "cap": 182951568.40836453,
+   "cap": 175739506.8173182,
    "src": "yahoo",
-   "checked": "2026-11-02T16:18:07.695011+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001579428": {
    "cap": 6619364114.5282135,
@@ -65151,7 +65617,7 @@
   "0002142627": {
    "cap": null,
    "src": null,
-   "checked": "2026-11-02T16:18:07.695011+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000021175": {
    "cap": 12854897373.672974,
@@ -65354,9 +65820,9 @@
    "checked": "2026-11-02T23:37:27.039914+00:00"
   },
   "0000320121": {
-   "cap": 389378673.54098225,
+   "cap": 472710176.17008877,
    "src": "yahoo",
-   "checked": "2026-11-02T23:37:27.039914+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001762303": {
    "cap": 476582707.55093765,
@@ -65444,9 +65910,9 @@
    "checked": "2026-11-02T23:37:27.039914+00:00"
   },
   "0001034054": {
-   "cap": 19611448079.351044,
+   "cap": 19926949625.833435,
    "src": "yahoo",
-   "checked": "2026-11-02T23:37:27.039914+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001459839": {
    "cap": 906231555.7255268,
@@ -65719,9 +66185,9 @@
    "checked": "2026-11-03T16:18:34.980459+00:00"
   },
   "0001376139": {
-   "cap": 4890311034.374256,
+   "cap": 4374651193.397755,
    "src": "yahoo",
-   "checked": "2026-11-03T16:18:34.980459+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001425292": {
    "cap": 1262437588.5247803,
@@ -66604,9 +67070,9 @@
    "checked": "2026-11-04T12:15:15.138058+00:00"
   },
   "0001590750": {
-   "cap": 2849300522.132429,
+   "cap": 3428329635.9567547,
    "src": "yahoo",
-   "checked": "2026-11-04T12:15:15.138058+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001831651": {
    "cap": 1425500621.4409351,
@@ -66629,9 +67095,9 @@
    "checked": "2026-11-04T12:15:15.138058+00:00"
   },
   "0001100682": {
-   "cap": 16797876657.54004,
+   "cap": 17053348032.54602,
    "src": "yahoo",
-   "checked": "2026-11-04T12:15:15.138058+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0001419612": {
    "cap": 2022966659.9565887,
@@ -66774,9 +67240,9 @@
    "checked": "2026-11-04T12:15:15.138058+00:00"
   },
   "0001698514": {
-   "cap": 2086622844.1206474,
+   "cap": 1892483102.2549744,
    "src": "yahoo",
-   "checked": "2026-11-04T12:15:15.138058+00:00"
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   },
   "0000093556": {
    "cap": 15799361396.199593,
@@ -70147,6 +70613,271 @@
    "cap": 76407133.78479767,
    "src": "yahoo",
    "checked": "2026-11-07T01:59:11.866799+00:00"
+  },
+  "0001849396": {
+   "cap": 507152477.84732723,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001402388": {
+   "cap": 5333273364.21286,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001633061": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001026785": {
+   "cap": 4025670.8864364624,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001971828": {
+   "cap": 207048405.94638157,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0002000530": {
+   "cap": 34552137.876570225,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0000058492": {
+   "cap": 1182418000.0,
+   "src": "float",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0000892553": {
+   "cap": 7485849790.0,
+   "src": "float",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001382101": {
+   "cap": 177303694.13943958,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001739439": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0002027708": {
+   "cap": 275782489.29977417,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0002006960": {
+   "cap": 1178616736.3653917,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0002082526": {
+   "cap": 214957846.07959747,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0002067955": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001021882": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001838028": {
+   "cap": 1568121495.0,
+   "src": "float",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001207179": {
+   "cap": 4435093539.791107,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0002099039": {
+   "cap": 10894048486.09088,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001030997": {
+   "cap": null,
+   "src": null,
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0000864240": {
+   "cap": 28783041.25,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001798562": {
+   "cap": 1149157939.0239916,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001206264": {
+   "cap": 15380233303.045883,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001005101": {
+   "cap": 85507015.77929854,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0000101295": {
+   "cap": 38953851.05415249,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001853868": {
+   "cap": 3296926504.5025606,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0000818033": {
+   "cap": 72371696.72159383,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001503274": {
+   "cap": 146078816.97101355,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0002020795": {
+   "cap": 1058281621.0073018,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001683553": {
+   "cap": 144936476.46707916,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001422142": {
+   "cap": 187559640.72527885,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001805385": {
+   "cap": 851691150.3654242,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001290677": {
+   "cap": 1252885821.7440186,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0000884624": {
+   "cap": 293885772.93530273,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001738021": {
+   "cap": 147383954.20442283,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0000918251": {
+   "cap": 149193673.3267336,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0000003197": {
+   "cap": 3167456513.644562,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001009891": {
+   "cap": 13961520.375,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001880438": {
+   "cap": 152265710.5369072,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001774170": {
+   "cap": 375161451.05062485,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001764013": {
+   "cap": 7051708437.410248,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001173489": {
+   "cap": 732568966.3279114,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001004434": {
+   "cap": 9867245398.279602,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001819796": {
+   "cap": 811756835.9975252,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001948455": {
+   "cap": 86054162.34078956,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0002023016": {
+   "cap": 295781430.00938416,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001603015": {
+   "cap": 3513607643.858124,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001868275": {
+   "cap": 97317612547.47537,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001831631": {
+   "cap": 186695524.39802098,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0000352955": {
+   "cap": 38927323.96030426,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001067983": {
+   "cap": 1229260004514.9954,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0002032528": {
+   "cap": 329973336.92,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001086434": {
+   "cap": 195227421.30611038,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
+  },
+  "0001713334": {
+   "cap": 183382459.37176794,
+   "src": "yahoo",
+   "checked": "2026-11-09T18:53:09.265663+00:00"
   }
  },
  "events": {
@@ -84093,6 +84824,448 @@
    "groups": [
     "CAP"
    ]
+  },
+  "0001628280-26-071988": {
+   "acc": "0001628280-26-071988",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1275168/000162828026071988/0001628280-26-071988-index.htm",
+   "updated": "2026-11-09T12:29:23-05:00",
+   "issuer": "FIVE STAR BANCORP",
+   "issuer_cik": "0001275168",
+   "ticker": "FSBC",
+   "cap": 1095089906.608429,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "Compensatory Arrangements of Certain Officers Appointment of Christopher Myers On November 4, 2026, Christopher Myers was appointed to the Board of Directors (the \u201cBoard\u201d) of Five Star Bancorp (the \u201cCompany\u201d), effective November 4, 2026, and will serve on the Strategy and Asset Liability Committees of the Board."
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0001140361-26-042623": {
+   "acc": "0001140361-26-042623",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1576940/000114036126042623/0001140361-26-042623-index.htm",
+   "updated": "2026-11-09T09:00:18-05:00",
+   "issuer": "Century Communities, Inc.",
+   "issuer_cik": "0001576940",
+   "ticker": "CCS",
+   "cap": 1622145492.3582306,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "Officer change"
+   ],
+   "snips": {
+    "Officer change": "(the \u201cCompany\u201d) elected James Francescon as President of the Company, effective as of January 1, 2027, succeeding Robert J."
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0001805385-26-000051": {
+   "acc": "0001805385-26-000051",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1805385/000180538526000051/0001805385-26-000051-index.htm",
+   "updated": "2026-11-09T08:03:08-05:00",
+   "issuer": "Evolv Technologies Holdings, Inc.",
+   "issuer_cik": "0001805385",
+   "ticker": "EVLV",
+   "cap": 851691150.3654242,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "(the \u201cCompany\u201d) appointed Jason Blessing, age 55, to the Board, effective November 6, 2026, to serve as a Class III director until the Company\u2019s 2027 annual meeting of stockholders."
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0001193125-26-452696": {
+   "acc": "0001193125-26-452696",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/884624/000119312526452696/0001193125-26-452696-index.htm",
+   "updated": "2026-11-09T08:01:00-05:00",
+   "issuer": "Orthofix Medical Inc.",
+   "issuer_cik": "0000884624",
+   "ticker": "OFIX",
+   "cap": 293885772.93530273,
+   "cap_src": "yahoo",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "Capital allocation"
+   ],
+   "snips": {
+    "Capital allocation": "Limb Reconstruction Operating with Discipline for Margin Expansion Well-Developed Infrastructure in Place to Further Scale and Support Growth Our Approach to Operational Excellence Building culture of excellence and accountability through implementation of the High Performance Management System (HPMS) Focusing on \u201cVital Few\u201d initiatives to enhance operational excellence and drive business performa"
+   },
+   "groups": [
+    "CAP"
+   ]
+  },
+  "0001104659-26-124175": {
+   "acc": "0001104659-26-124175",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1041859/000110465926124175/0001104659-26-124175-index.htm",
+   "updated": "2026-11-09T08:00:27-05:00",
+   "issuer": "Childrens Place, Inc.",
+   "issuer_cik": "0001041859",
+   "ticker": "PLCE",
+   "cap": 5372475.538829476,
+   "cap_src": "yahoo",
+   "items": [
+    "1.01",
+    "1.03",
+    "2.04",
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "Officer change"
+   ],
+   "snips": {
+    "Officer change": "Appointment of Chief Operating Officer, Global Sourcing & Product Operations On November 5, 2026, the Human Capital and Compensation Committee of the Board of Directors of The Children\u2019s Place, Inc., acting pursuant to authority delegated by the Board, approved the Company\u2019s offer of employment to Kristin Clifford to serve as Chief Operating Officer, Global Sourcing & Product Operations of the Com"
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0001493152-26-050631": {
+   "acc": "0001493152-26-050631",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1896212/000149315226050631/0001493152-26-050631-index.htm",
+   "updated": "2026-11-09T08:00:18-05:00",
+   "issuer": "CDT Equity Inc.",
+   "issuer_cik": "0001896212",
+   "ticker": "CDT",
+   "cap": 21173609.609538674,
+   "cap_src": "yahoo",
+   "items": [
+    "8.01"
+   ],
+   "filers": [],
+   "tags": [
+    "Strategic review"
+   ],
+   "snips": {
+    "Strategic review": "It will also consider any other proposed transaction, as well as any strategic alternatives that may be put forth with regard to the Proposal."
+   },
+   "groups": [
+    "CAP"
+   ]
+  },
+  "0001140361-26-042613": {
+   "acc": "0001140361-26-042613",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/918251/000114036126042613/0001140361-26-042613-index.htm",
+   "updated": "2026-11-09T07:58:50-05:00",
+   "issuer": "MOTORCAR PARTS OF AMERICA INC",
+   "issuer_cik": "0000918251",
+   "ticker": "MPAA",
+   "cap": 149193673.3267336,
+   "cap_src": "yahoo",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "New buyback"
+   ],
+   "snips": {
+    "New buyback": "U nder its authorized share repurchase program , the company had approximately $20 .1 million available to repurchase shares at September 30, 2026 ."
+   },
+   "groups": [
+    "CAP"
+   ]
+  },
+  "0001213900-26-117213": {
+   "acc": "0001213900-26-117213",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1410098/000121390026117213/0001213900-26-117213-index.htm",
+   "updated": "2026-11-09T07:49:44-05:00",
+   "issuer": "CorMedix Inc.",
+   "issuer_cik": "0001410098",
+   "ticker": "CRMD",
+   "cap": 424406857.56003,
+   "cap_src": "yahoo",
+   "items": [
+    "1.01",
+    "2.03",
+    "3.02",
+    "7.01",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "Strategic review"
+   ],
+   "snips": {
+    "Strategic review": "Importantly, the Pharmakon facility gives us an efficient source of non-dilutive capital to fund this transaction while preserving dry powder for additional growth-oriented business development opportunities, including the flexibility of a second $75 million tranche to fund further growth.\u201d \u201cFollowing a thorough review of strategic alternatives, our Board concluded that this transaction offers the"
+   },
+   "groups": [
+    "CAP"
+   ]
+  },
+  "0001193125-26-452672": {
+   "acc": "0001193125-26-452672",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/818033/000119312526452672/0001193125-26-452672-index.htm",
+   "updated": "2026-11-09T07:40:15-05:00",
+   "issuer": "HERON THERAPEUTICS, INC. /DE/",
+   "issuer_cik": "0000818033",
+   "ticker": "HRTX",
+   "cap": 72371696.72159383,
+   "cap_src": "yahoo",
+   "items": [
+    "1.01",
+    "3.03",
+    "7.01",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "Strategic review"
+   ],
+   "snips": {
+    "Strategic review": "Importantly, the Pharmakon facility gives us an efficient source of non-dilutive capital to fund this transaction while preserving dry powder for additional growth-oriented business development opportunities, including the flexibility of a second $75 million tranche to fund further growth.\" \"Following a thorough review of strategic alternatives, our Board concluded that this transaction offers the"
+   },
+   "groups": [
+    "CAP"
+   ]
+  },
+  "0001628280-26-071879": {
+   "acc": "0001628280-26-071879",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/42582/000162828026071879/0001628280-26-071879-index.htm",
+   "updated": "2026-11-09T07:32:02-05:00",
+   "issuer": "GOODYEAR TIRE & RUBBER CO /OH/",
+   "issuer_cik": "0000042582",
+   "ticker": "GT",
+   "cap": 1309939308.2623262,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "Stewart also resigned as a Director of the Company. "
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0001213900-26-117201": {
+   "acc": "0001213900-26-117201",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1513525/000121390026117201/0001213900-26-117201-index.htm",
+   "updated": "2026-11-09T07:30:31-05:00",
+   "issuer": "Azora Therapeutics, Inc. (DE)",
+   "issuer_cik": "0001513525",
+   "ticker": "AZR",
+   "cap": 10766148.749575615,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02",
+    "8.01",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "Appointment of New Directors On November 3, 2026, each of Aida Habtezion, M.D., Paul Hastings and Thomas Soloway were appointed to the Board of Directors (the \u201cBoard\u201d) of Azora Therapeutics, Inc."
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0001104659-26-124159": {
+   "acc": "0001104659-26-124159",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926124159/0001104659-26-124159-index.htm",
+   "updated": "2026-11-09T07:28:18-05:00",
+   "issuer": "OCULAR THERAPEUTIX, INC",
+   "issuer_cik": "0001393434",
+   "ticker": "OCUL",
+   "cap": 1474720587.130722,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02"
+   ],
+   "filers": [],
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "(the \u201cCompany\u201d), following the recommendation of the Nominating and Corporate Governance Committee of the Board, elected Riad Sherif, M.D., to serve as a member of the Board, effective immediately."
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0001437749-26-035709": {
+   "acc": "0001437749-26-035709",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/95574/000143774926035709/0001437749-26-035709-index.htm",
+   "updated": "2026-11-09T07:10:33-05:00",
+   "issuer": "SUPERIOR GROUP OF COMPANIES, INC.",
+   "issuer_cik": "0000095574",
+   "ticker": "SGC",
+   "cap": 228813640.43261147,
+   "cap_src": "yahoo",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "Capital allocation"
+   ],
+   "snips": {
+    "Capital allocation": "We look forward to finishing the year with growth in both sales and earnings compared to 2025, and with a solid balance sheet that provides the foundation for continued strategic investment such as our recent acquisition of Select VoiceCom and the return of capital to shareholders.\u201d Third Quarter Results For the third quarter ended September 30, 2026 , net sales were $146.0 million, up 5% from thi"
+   },
+   "groups": [
+    "CAP"
+   ]
+  },
+  "0000883237-26-000064": {
+   "acc": "0000883237-26-000064",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/883237/000088323726000064/0000883237-26-000064-index.htm",
+   "updated": "2026-11-09T07:01:57-05:00",
+   "issuer": "VIRTUS INVESTMENT PARTNERS, INC.",
+   "issuer_cik": "0000883237",
+   "ticker": "VRTS",
+   "cap": 826975318.4897614,
+   "cap_src": "yahoo",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "Capital allocation"
+   ],
+   "snips": {
+    "Capital allocation": "Excludes redeemable noncontrolling interests of consolidated investment products of $76.2 million, $64.5 million, and $78.0 million as of September 30, 2026, September 30, 2025, and June 30, 2026, respectively (5) Defined as cash and cash equivalents plus accounts receivable, net, and deferred compensation related investments less accrued compensation and benefits, accounts payable and accrued lia"
+   },
+   "groups": [
+    "CAP"
+   ]
+  },
+  "0001140361-26-042582": {
+   "acc": "0001140361-26-042582",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1561032/000114036126042582/0001140361-26-042582-index.htm",
+   "updated": "2026-11-09T06:30:21-05:00",
+   "issuer": "National Healthcare Properties, Inc.",
+   "issuer_cik": "0001561032",
+   "ticker": "NHP",
+   "cap": 1151897054.7055016,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "Smith was elected as a director of the Company, and there are no transactions involving Mr."
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0001193125-26-452515": {
+   "acc": "0001193125-26-452515",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1517228/000119312526452515/0001193125-26-452515-index.htm",
+   "updated": "2026-11-09T06:04:24-05:00",
+   "issuer": "Vistance Networks, Inc.",
+   "issuer_cik": "0001517228",
+   "ticker": "VISN",
+   "cap": 1231545075.2707977,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "Officer change"
+   ],
+   "snips": {
+    "Officer change": "(the \u201cCompany\u201d) announced that Chuck Treadway will step down as President and Chief Executive Officer (\u201cCEO\u201d) of the Company and as a member of the Board of Directors of the Company on February 1, 2027."
+   },
+   "groups": [
+    "LEAD"
+   ]
+  },
+  "0001104659-26-124046": {
+   "acc": "0001104659-26-124046",
+   "form": "8-K",
+   "link": "https://www.sec.gov/Archives/edgar/data/1682149/000110465926124046/0001104659-26-124046-index.htm",
+   "updated": "2026-11-06T21:44:45-05:00",
+   "issuer": "Datavault AI Inc.",
+   "issuer_cik": "0001682149",
+   "ticker": "DVLT",
+   "cap": 56223933.432982475,
+   "cap_src": "yahoo",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "filers": [],
+   "tags": [
+    "CEO change",
+    "CFO change",
+    "Board change"
+   ],
+   "snips": {
+    "CEO change": "Appointment of Chief Executive Officer and President On November 6, 2026, the Board of Directors (the \u201cBoard\u201d) of Datavault AI Inc.",
+    "CFO change": "(the \u201cCompany\u201d) appointed Brett Moyer, previously the Company\u2019s Chief Financial Officer and a member of the Board, to serve as Chief Executive Officer and President of the Company, effective immediately.",
+    "Board change": "Board Leadership On November 6, 2026, the Board appointed Kimberly Briskey as Chair of the Board, succeeding Mr."
+   },
+   "groups": [
+    "LEAD"
+   ]
   }
  },
  "signals": {
@@ -84170,6 +85343,12 @@
     "d": "2026-11-05",
     "acc": "0001104659-26-123429",
     "link": "https://www.sec.gov/Archives/edgar/data/1951667/000110465926123429/0001104659-26-123429-index.htm"
+   },
+   {
+    "t": "Proxy fight",
+    "d": "2026-11-09",
+    "acc": "0002107788-26-000017",
+    "link": "https://www.sec.gov/Archives/edgar/data/1951667/000210778826000017/0002107788-26-000017-index.htm"
    }
   ],
   "0001095565": [
@@ -85848,6 +87027,12 @@
     "d": "2026-11-02",
     "acc": "0001683168-26-008228",
     "link": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826008228/0001683168-26-008228-index.htm"
+   },
+   {
+    "t": "Capital allocation",
+    "d": "2026-11-09",
+    "acc": "0001683168-26-008412",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826008412/0001683168-26-008412-index.htm"
    }
   ],
   "0001370755": [
@@ -86014,6 +87199,12 @@
     "d": "2026-01-15",
     "acc": "0001193125-26-014078",
     "link": "https://www.sec.gov/Archives/edgar/data/1517228/000119312526014078/0001193125-26-014078-index.htm"
+   },
+   {
+    "t": "Officer change",
+    "d": "2026-11-09",
+    "acc": "0001193125-26-452515",
+    "link": "https://www.sec.gov/Archives/edgar/data/1517228/000119312526452515/0001193125-26-452515-index.htm"
    }
   ],
   "0002065708": [
@@ -86516,6 +87707,24 @@
     "d": "2026-11-05",
     "acc": "0001104659-26-123463",
     "link": "https://www.sec.gov/Archives/edgar/data/1682149/000110465926123463/0001104659-26-123463-index.htm"
+   },
+   {
+    "t": "CEO change",
+    "d": "2026-11-06",
+    "acc": "0001104659-26-124046",
+    "link": "https://www.sec.gov/Archives/edgar/data/1682149/000110465926124046/0001104659-26-124046-index.htm"
+   },
+   {
+    "t": "CFO change",
+    "d": "2026-11-06",
+    "acc": "0001104659-26-124046",
+    "link": "https://www.sec.gov/Archives/edgar/data/1682149/000110465926124046/0001104659-26-124046-index.htm"
+   },
+   {
+    "t": "Board change",
+    "d": "2026-11-06",
+    "acc": "0001104659-26-124046",
+    "link": "https://www.sec.gov/Archives/edgar/data/1682149/000110465926124046/0001104659-26-124046-index.htm"
    }
   ],
   "0001979414": [
@@ -90266,6 +91475,12 @@
     "d": "2026-06-11",
     "acc": "0001213900-26-067711",
     "link": "https://www.sec.gov/Archives/edgar/data/1513525/000121390026067711/0001213900-26-067711-index.htm"
+   },
+   {
+    "t": "Board change",
+    "d": "2026-11-09",
+    "acc": "0001213900-26-117201",
+    "link": "https://www.sec.gov/Archives/edgar/data/1513525/000121390026117201/0001213900-26-117201-index.htm"
    }
   ],
   "0001598665": [
@@ -92232,6 +93447,12 @@
     "d": "2026-05-06",
     "acc": "0001104659-26-056300",
     "link": "https://www.sec.gov/Archives/edgar/data/1041859/000110465926056300/0001104659-26-056300-index.htm"
+   },
+   {
+    "t": "Officer change",
+    "d": "2026-11-09",
+    "acc": "0001104659-26-124175",
+    "link": "https://www.sec.gov/Archives/edgar/data/1041859/000110465926124175/0001104659-26-124175-index.htm"
    }
   ],
   "0000890394": [
@@ -94026,6 +95247,12 @@
     "d": "2026-03-30",
     "acc": "0001753926-26-000581",
     "link": "https://www.sec.gov/Archives/edgar/data/1896212/000175392626000581/0001753926-26-000581-index.htm"
+   },
+   {
+    "t": "Strategic review",
+    "d": "2026-11-09",
+    "acc": "0001493152-26-050631",
+    "link": "https://www.sec.gov/Archives/edgar/data/1896212/000149315226050631/0001493152-26-050631-index.htm"
    }
   ],
   "0001413855": [
@@ -94314,6 +95541,150 @@
     "d": "2026-11-06",
     "acc": "0001731122-26-001409",
     "link": "https://www.sec.gov/Archives/edgar/data/1419951/000173112226001409/0001731122-26-001409-index.htm"
+   }
+  ],
+  "0001026785": [
+   {
+    "t": "13D Item 4",
+    "d": "2026-11-09",
+    "acc": "0000921895-26-002960",
+    "link": "https://www.sec.gov/Archives/edgar/data/1026785/000092189526002960/0000921895-26-002960-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2026-11-09",
+    "acc": "0000921895-26-002960",
+    "link": "https://www.sec.gov/Archives/edgar/data/1026785/000092189526002960/0000921895-26-002960-index.htm"
+   }
+  ],
+  "0001971828": [
+   {
+    "t": "13D",
+    "d": "2026-11-09",
+    "acc": "0001493152-26-050601",
+    "link": "https://www.sec.gov/Archives/edgar/data/1971828/000149315226050601/0001493152-26-050601-index.htm"
+   }
+  ],
+  "0002000530": [
+   {
+    "t": "13G\u219213D",
+    "d": "2026-11-09",
+    "acc": "0001493152-26-050586",
+    "link": "https://www.sec.gov/Archives/edgar/data/2000530/000149315226050586/0001493152-26-050586-index.htm"
+   },
+   {
+    "t": "13D",
+    "d": "2026-11-09",
+    "acc": "0001493152-26-050586",
+    "link": "https://www.sec.gov/Archives/edgar/data/2000530/000149315226050586/0001493152-26-050586-index.htm"
+   }
+  ],
+  "0001275168": [
+   {
+    "t": "Board change",
+    "d": "2026-11-09",
+    "acc": "0001628280-26-071988",
+    "link": "https://www.sec.gov/Archives/edgar/data/1275168/000162828026071988/0001628280-26-071988-index.htm"
+   }
+  ],
+  "0001576940": [
+   {
+    "t": "Officer change",
+    "d": "2026-11-09",
+    "acc": "0001140361-26-042623",
+    "link": "https://www.sec.gov/Archives/edgar/data/1576940/000114036126042623/0001140361-26-042623-index.htm"
+   }
+  ],
+  "0001805385": [
+   {
+    "t": "Board change",
+    "d": "2026-11-09",
+    "acc": "0001805385-26-000051",
+    "link": "https://www.sec.gov/Archives/edgar/data/1805385/000180538526000051/0001805385-26-000051-index.htm"
+   }
+  ],
+  "0000884624": [
+   {
+    "t": "Capital allocation",
+    "d": "2026-11-09",
+    "acc": "0001193125-26-452696",
+    "link": "https://www.sec.gov/Archives/edgar/data/884624/000119312526452696/0001193125-26-452696-index.htm"
+   }
+  ],
+  "0000918251": [
+   {
+    "t": "New buyback",
+    "d": "2026-11-09",
+    "acc": "0001140361-26-042613",
+    "link": "https://www.sec.gov/Archives/edgar/data/918251/000114036126042613/0001140361-26-042613-index.htm"
+   },
+   {
+    "t": "Board change",
+    "d": "2025-11-12",
+    "acc": "0001140361-25-041556",
+    "link": "https://www.sec.gov/Archives/edgar/data/918251/000114036125041556/0001140361-25-041556-index.htm"
+   }
+  ],
+  "0001410098": [
+   {
+    "t": "Strategic review",
+    "d": "2026-11-09",
+    "acc": "0001213900-26-117213",
+    "link": "https://www.sec.gov/Archives/edgar/data/1410098/000121390026117213/0001213900-26-117213-index.htm"
+   },
+   {
+    "t": "Board change",
+    "d": "2026-01-08",
+    "acc": "0001213900-26-002350",
+    "link": "https://www.sec.gov/Archives/edgar/data/1410098/000121390026002350/0001213900-26-002350-index.htm"
+   }
+  ],
+  "0000818033": [
+   {
+    "t": "Strategic review",
+    "d": "2026-11-09",
+    "acc": "0001193125-26-452672",
+    "link": "https://www.sec.gov/Archives/edgar/data/818033/000119312526452672/0001193125-26-452672-index.htm"
+   }
+  ],
+  "0000042582": [
+   {
+    "t": "Board change",
+    "d": "2026-11-09",
+    "acc": "0001628280-26-071879",
+    "link": "https://www.sec.gov/Archives/edgar/data/42582/000162828026071879/0001628280-26-071879-index.htm"
+   }
+  ],
+  "0001393434": [
+   {
+    "t": "Board change",
+    "d": "2026-11-09",
+    "acc": "0001104659-26-124159",
+    "link": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926124159/0001104659-26-124159-index.htm"
+   }
+  ],
+  "0000095574": [
+   {
+    "t": "Capital allocation",
+    "d": "2026-11-09",
+    "acc": "0001437749-26-035709",
+    "link": "https://www.sec.gov/Archives/edgar/data/95574/000143774926035709/0001437749-26-035709-index.htm"
+   }
+  ],
+  "0000883237": [
+   {
+    "t": "Capital allocation",
+    "d": "2026-11-09",
+    "acc": "0000883237-26-000064",
+    "link": "https://www.sec.gov/Archives/edgar/data/883237/000088323726000064/0000883237-26-000064-index.htm"
+   }
+  ],
+  "0001561032": [
+   {
+    "t": "Board change",
+    "d": "2026-11-09",
+    "acc": "0001140361-26-042582",
+    "link": "https://www.sec.gov/Archives/edgar/data/1561032/000114036126042582/0001140361-26-042582-index.htm"
    }
   ]
  },
@@ -120153,6 +121524,715 @@
     "Officer change": "On December 18, 2025, David Lazar notified the Company of his resignation as President of the Company effective as of January 8, 2026."
    },
    "d": "2026-11-07"
+  },
+  "0001628280-26-071988": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "Compensatory Arrangements of Certain Officers Appointment of Christopher Myers On November 4, 2026, Christopher Myers was appointed to the Board of Directors (the \u201cBoard\u201d) of Five Star Bancorp (the \u201cCompany\u201d), effective November 4, 2026, and will serve on the Strategy and Asset Liability Committees of the Board."
+   },
+   "d": "2026-11-09"
+  },
+  "0001437749-26-035762": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001628280-26-071942": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-26-124277": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001129928-26-000080": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001654954-26-009615": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001829126-26-012120": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452789": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001787400-26-000027": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-26-124241": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001493152-26-050654": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001829126-26-012118": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0000320121-26-000041": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001171843-26-007262": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001140361-26-042623": {
+   "tags": [
+    "Officer change"
+   ],
+   "snips": {
+    "Officer change": "(the \u201cCompany\u201d) elected James Francescon as President of the Company, effective as of January 1, 2027, succeeding Robert J."
+   },
+   "d": "2026-11-09"
+  },
+  "0001437749-26-035720": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001140361-26-042621": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452755": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-26-124214": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452737": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452736": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001628280-26-071910": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001628280-26-071908": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001683168-26-008412": {
+   "tags": [
+    "Capital allocation"
+   ],
+   "snips": {
+    "Capital allocation": "About Empery Digital Empery Digital is focused on building long-term shareholder value through its disciplined capital allocation strategy."
+   },
+   "d": "2026-11-09"
+  },
+  "0001493152-26-050644": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001437749-26-035718": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001404644-26-000064": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001493152-26-050636": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001805526-26-000158": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452721": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001683168-26-008411": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452716": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-26-124192": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001628280-26-071902": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001503274-26-000042": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001628280-26-071900": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001628280-26-071899": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001213900-26-117230": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452707": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452706": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452704": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001805385-26-000051": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "(the \u201cCompany\u201d) appointed Jason Blessing, age 55, to the Board, effective November 6, 2026, to serve as a Class III director until the Company\u2019s 2027 annual meeting of stockholders."
+   },
+   "d": "2026-11-09"
+  },
+  "0001628280-26-071894": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001437749-26-035713": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001213900-26-117226": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452696": {
+   "tags": [
+    "Capital allocation"
+   ],
+   "snips": {
+    "Capital allocation": "Limb Reconstruction Operating with Discipline for Margin Expansion Well-Developed Infrastructure in Place to Further Scale and Support Growth Our Approach to Operational Excellence Building culture of excellence and accountability through implementation of the High Performance Management System (HPMS) Focusing on \u201cVital Few\u201d initiatives to enhance operational excellence and drive business performa"
+   },
+   "d": "2026-11-09"
+  },
+  "0001171843-26-007256": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001171843-26-007257": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-26-124175": {
+   "tags": [
+    "Officer change"
+   ],
+   "snips": {
+    "Officer change": "Appointment of Chief Operating Officer, Global Sourcing & Product Operations On November 5, 2026, the Human Capital and Compensation Committee of the Board of Directors of The Children\u2019s Place, Inc., acting pursuant to authority delegated by the Board, approved the Company\u2019s offer of employment to Kristin Clifford to serve as Chief Operating Officer, Global Sourcing & Product Operations of the Com"
+   },
+   "d": "2026-11-09"
+  },
+  "0001493152-26-050631": {
+   "tags": [
+    "Strategic review"
+   ],
+   "snips": {
+    "Strategic review": "It will also consider any other proposed transaction, as well as any strategic alternatives that may be put forth with regard to the Proposal."
+   },
+   "d": "2026-11-09"
+  },
+  "0001140361-26-042613": {
+   "tags": [
+    "New buyback"
+   ],
+   "snips": {
+    "New buyback": "U nder its authorized share repurchase program , the company had approximately $20 .1 million available to repurchase shares at September 30, 2026 ."
+   },
+   "d": "2026-11-09"
+  },
+  "0001628280-26-071886": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001213900-26-117213": {
+   "tags": [
+    "Strategic review"
+   ],
+   "snips": {
+    "Strategic review": "Importantly, the Pharmakon facility gives us an efficient source of non-dilutive capital to fund this transaction while preserving dry powder for additional growth-oriented business development opportunities, including the flexibility of a second $75 million tranche to fund further growth.\u201d \u201cFollowing a thorough review of strategic alternatives, our Board concluded that this transaction offers the"
+   },
+   "d": "2026-11-09"
+  },
+  "0001213900-26-117207": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452672": {
+   "tags": [
+    "Strategic review"
+   ],
+   "snips": {
+    "Strategic review": "Importantly, the Pharmakon facility gives us an efficient source of non-dilutive capital to fund this transaction while preserving dry powder for additional growth-oriented business development opportunities, including the flexibility of a second $75 million tranche to fund further growth.\" \"Following a thorough review of strategic alternatives, our Board concluded that this transaction offers the"
+   },
+   "d": "2026-11-09"
+  },
+  "0001628280-26-071879": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "Stewart also resigned as a Director of the Company. "
+   },
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452660": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001493152-26-050624": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001213900-26-117201": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "Appointment of New Directors On November 3, 2026, each of Aida Habtezion, M.D., Paul Hastings and Thomas Soloway were appointed to the Board of Directors (the \u201cBoard\u201d) of Azora Therapeutics, Inc."
+   },
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452659": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452658": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-26-124159": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "(the \u201cCompany\u201d), following the recommendation of the Nominating and Corporate Governance Committee of the Board, elected Riad Sherif, M.D., to serve as a member of the Board, effective immediately."
+   },
+   "d": "2026-11-09"
+  },
+  "0001178913-26-005089": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001493152-26-050621": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452644": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452643": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001493152-26-050619": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001437749-26-035709": {
+   "tags": [
+    "Capital allocation"
+   ],
+   "snips": {
+    "Capital allocation": "We look forward to finishing the year with growth in both sales and earnings compared to 2025, and with a solid balance sheet that provides the foundation for continued strategic investment such as our recent acquisition of Select VoiceCom and the return of capital to shareholders.\u201d Third Quarter Results For the third quarter ended September 30, 2026 , net sales were $146.0 million, up 5% from thi"
+   },
+   "d": "2026-11-09"
+  },
+  "0001104659-26-124151": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452624": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001437749-26-035705": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-26-124149": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001628280-26-071871": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452620": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452618": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001650664-26-000100": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001819796-26-000030": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0000883237-26-000064": {
+   "tags": [
+    "Capital allocation"
+   ],
+   "snips": {
+    "Capital allocation": "Excludes redeemable noncontrolling interests of consolidated investment products of $76.2 million, $64.5 million, and $78.0 million as of September 30, 2026, September 30, 2025, and June 30, 2026, respectively (5) Defined as cash and cash equivalents plus accounts receivable, net, and deferred compensation related investments less accrued compensation and benefits, accounts payable and accrued lia"
+   },
+   "d": "2026-11-09"
+  },
+  "0001628280-26-071867": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452616": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001213900-26-117183": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-26-124144": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001213900-26-117180": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001645113-26-000085": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-26-124138": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001831631-26-000113": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001493152-26-050609": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001831481-26-000121": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452579": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001493152-26-050606": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001140361-26-042582": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "Smith was elected as a director of the Company, and there are no transactions involving Mr."
+   },
+   "d": "2026-11-09"
+  },
+  "0001437749-26-035669": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001493152-26-050598": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001493152-26-050596": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0000354707-26-000082": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001493152-26-050590": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001171843-26-007242": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001759138-26-000050": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-452515": {
+   "tags": [
+    "Officer change"
+   ],
+   "snips": {
+    "Officer change": "(the \u201cCompany\u201d) announced that Chuck Treadway will step down as President and Chief Executive Officer (\u201cCEO\u201d) of the Company and as a member of the Board of Directors of the Company on February 1, 2027."
+   },
+   "d": "2026-11-09"
+  },
+  "0001857475-26-000091": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001683168-26-008390": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-26-124046": {
+   "tags": [
+    "CEO change",
+    "CFO change",
+    "Board change"
+   ],
+   "snips": {
+    "CEO change": "Appointment of Chief Executive Officer and President On November 6, 2026, the Board of Directors (the \u201cBoard\u201d) of Datavault AI Inc.",
+    "CFO change": "(the \u201cCompany\u201d) appointed Brett Moyer, previously the Company\u2019s Chief Financial Officer and a member of the Board, to serve as Chief Executive Officer and President of the Company, effective immediately.",
+    "Board change": "Board Leadership On November 6, 2026, the Board appointed Kimberly Briskey as Chair of the Board, succeeding Mr."
+   },
+   "d": "2026-11-09"
+  },
+  "0001214659-26-013841": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001821159-26-000032": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-407728": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-352403": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-253851": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001193125-26-142947": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001140361-26-027388": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001140361-26-000345": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001140361-25-041556": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "(the \u201cCompany\u201d), (ii) the Audit Committee of the Board and (iii) the Nominating and Corporate Governance Committee of the Board resigned from the Board, effective November 10, 2025."
+   },
+   "d": "2026-11-09"
+  },
+  "0001410098-26-000044": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001410098-26-000040": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001213900-26-002350": {
+   "tags": [
+    "Board change"
+   ],
+   "snips": {
+    "Board change": "Todisco\u2019s appointment as Chairman of the Board, effective January 8, 2026, was approved by the Board on January 5, 2026."
+   },
+   "d": "2026-11-09"
+  },
+  "0001104659-26-009721": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-26-006014": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-26-004080": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-26-002125": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-26-001832": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-26-001828": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-26-000645": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-26-000326": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-25-120430": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-25-116464": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
+  },
+  "0001104659-25-108696": {
+   "tags": [],
+   "snips": {},
+   "d": "2026-11-09"
   }
  },
  "catalysts": {
@@ -123170,6 +125250,35 @@
    "n": 5,
    "updated": "2026-11-06T21:34:30.608981+00:00",
    "buyback": "no repurchase spending reported in XBRL"
+  },
+  "0001896212": {
+   "cik": "0001896212",
+   "issuer": "CDT Equity Inc.",
+   "ticker": "CDT",
+   "cap": 21173609.609538674,
+   "timeline": [
+    {
+     "t": "13D",
+     "d": "2026-03-30",
+     "acc": "0001753926-26-000581",
+     "link": "https://www.sec.gov/Archives/edgar/data/1896212/000175392626000581/0001753926-26-000581-index.htm"
+    },
+    {
+     "t": "13D Item 4",
+     "d": "2026-11-06",
+     "acc": "0001753926-26-002067",
+     "link": "https://www.sec.gov/Archives/edgar/data/1896212/000175392626002067/0001753926-26-002067-index.htm"
+    },
+    {
+     "t": "Strategic review",
+     "d": "2026-11-09",
+     "acc": "0001493152-26-050631",
+     "link": "https://www.sec.gov/Archives/edgar/data/1896212/000149315226050631/0001493152-26-050631-index.htm"
+    }
+   ],
+   "n": 3,
+   "updated": "2026-11-09T18:53:09.265663+00:00",
+   "buyback": "$106K spent on buybacks in the 12 months to 2025-12-31"
   }
  },
  "pending": [],
@@ -123594,6 +125703,24 @@
     "issuer": "Uxin Ltd",
     "ticker": "UXIN",
     "link": "https://www.sec.gov/Archives/edgar/data/1729173/000149315226050359/0001493152-26-050359-index.htm"
+   },
+   {
+    "acc": "0001493152-26-050649",
+    "key": "0001764279",
+    "owner": "Dai Kun",
+    "role": "Chief Executive Officer, Director",
+    "insider": true,
+    "d": "2026-11-06",
+    "filed": "2026-11-09T09:00:02-05:00",
+    "usd": 6312,
+    "shares": 8245.0,
+    "price": 0.7656,
+    "pct_added": 4.9,
+    "new_position": false,
+    "plan": true,
+    "issuer": "Uxin Ltd",
+    "ticker": "UXIN",
+    "link": "https://www.sec.gov/Archives/edgar/data/1729173/000149315226050649/0001493152-26-050649-index.htm"
    }
   ],
   "0001444192": [
@@ -124552,6 +126679,24 @@
     "issuer": "Agora, Inc.",
     "ticker": "API",
     "link": "https://www.sec.gov/Archives/edgar/data/1802883/000119312526446310/0001193125-26-446310-index.htm"
+   },
+   {
+    "acc": "0001193125-26-452690",
+    "key": "0001843236",
+    "owner": "Zhao Bin",
+    "role": "Chief Executive Officer, Director",
+    "insider": true,
+    "d": "2026-11-06",
+    "filed": "2026-11-09T07:57:31-05:00",
+    "usd": 123109,
+    "shares": 28665.0,
+    "price": 4.2948,
+    "pct_added": 1.3,
+    "new_position": false,
+    "plan": true,
+    "issuer": "Agora, Inc.",
+    "ticker": "API",
+    "link": "https://www.sec.gov/Archives/edgar/data/1802883/000119312526452690/0001193125-26-452690-index.htm"
    }
   ],
   "0001655923": [
@@ -127718,6 +129863,24 @@
     "issuer": "DONEGAL GROUP INC",
     "ticker": "DGICA",
     "link": "https://www.sec.gov/Archives/edgar/data/800457/000093559626000027/0000935596-26-000027-index.htm"
+   },
+   {
+    "acc": "0000935596-26-000028",
+    "key": "0000935596",
+    "owner": "DONEGAL MUTUAL INSURANCE CO",
+    "role": "10% owner",
+    "insider": false,
+    "d": "2026-11-06",
+    "filed": "2026-11-09T08:18:33-05:00",
+    "usd": 621506,
+    "shares": 33000.0,
+    "price": 18.8335,
+    "pct_added": 0.2,
+    "new_position": false,
+    "plan": false,
+    "issuer": "DONEGAL GROUP INC",
+    "ticker": "DGICB",
+    "link": "https://www.sec.gov/Archives/edgar/data/800457/000093559626000028/0000935596-26-000028-index.htm"
    }
   ],
   "0002088082": [
@@ -127872,6 +130035,24 @@
     "issuer": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
     "ticker": "SHEN",
     "link": "https://www.sec.gov/Archives/edgar/data/354963/000203083726000003/0002030837-26-000003-index.htm"
+   },
+   {
+    "acc": "0001697225-26-000004",
+    "key": "0001697225",
+    "owner": "QUAGLIO KENNETH L",
+    "role": "Director",
+    "insider": true,
+    "d": "2026-11-06",
+    "filed": "2026-11-09T12:23:56-05:00",
+    "usd": 4971,
+    "shares": 520.0,
+    "price": 9.56,
+    "pct_added": 1.5,
+    "new_position": false,
+    "plan": false,
+    "issuer": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+    "ticker": "SHEN",
+    "link": "https://www.sec.gov/Archives/edgar/data/354963/000169722526000004/0001697225-26-000004-index.htm"
    }
   ],
   "0000711669": [
@@ -128113,38 +130294,167 @@
     "ticker": "DFH",
     "link": "https://www.sec.gov/Archives/edgar/data/1825088/000089706926001897/0000897069-26-001897-index.htm"
    }
+  ],
+  "0000721994": [
+   {
+    "acc": "0001210212-26-000004",
+    "key": "0001210212",
+    "owner": "BARTELS ROBERT E JR",
+    "role": "Director",
+    "insider": true,
+    "d": "2026-11-06",
+    "filed": "2026-11-09T11:36:48-05:00",
+    "usd": 117177,
+    "shares": 1918.0,
+    "price": 61.0931,
+    "pct_added": 6.7,
+    "new_position": false,
+    "plan": false,
+    "issuer": "LAKELAND FINANCIAL CORP",
+    "ticker": "LKFN",
+    "link": "https://www.sec.gov/Archives/edgar/data/721994/000121021226000004/0001210212-26-000004-index.htm"
+   }
+  ],
+  "0000810958": [
+   {
+    "acc": "0001667211-26-000030",
+    "key": "0001667211",
+    "owner": "Pellegrino Frank G",
+    "role": "Director",
+    "insider": true,
+    "d": "2026-11-06",
+    "filed": "2026-11-09T10:10:12-05:00",
+    "usd": 7168,
+    "shares": 254.0,
+    "price": 28.22,
+    "pct_added": 0.5,
+    "new_position": false,
+    "plan": true,
+    "issuer": "CITIZENS & NORTHERN CORP",
+    "ticker": "CZNC",
+    "link": "https://www.sec.gov/Archives/edgar/data/810958/000166721126000030/0001667211-26-000030-index.htm"
+   },
+   {
+    "acc": "0001870473-26-000032",
+    "key": "0001870473",
+    "owner": "Shattuck Katherine W",
+    "role": "Director",
+    "insider": true,
+    "d": "2026-11-06",
+    "filed": "2026-11-09T10:07:32-05:00",
+    "usd": 198,
+    "shares": 7.0,
+    "price": 28.22,
+    "pct_added": 0.1,
+    "new_position": false,
+    "plan": true,
+    "issuer": "CITIZENS & NORTHERN CORP",
+    "ticker": "CZNC",
+    "link": "https://www.sec.gov/Archives/edgar/data/810958/000187047326000032/0001870473-26-000032-index.htm"
+   }
+  ],
+  "0001779128": [
+   {
+    "acc": "0001628280-26-071913",
+    "key": "0001970526",
+    "owner": "LAUCK ANDREW",
+    "role": "Director",
+    "insider": true,
+    "d": "2026-11-05",
+    "filed": "2026-11-09T08:57:50-05:00",
+    "usd": 9998,
+    "shares": 2000.0,
+    "price": 4.999,
+    "pct_added": 1.2,
+    "new_position": false,
+    "plan": false,
+    "issuer": "Strata Critical Medical, Inc.",
+    "ticker": "SRTA",
+    "link": "https://www.sec.gov/Archives/edgar/data/1779128/000162828026071913/0001628280-26-071913-index.htm"
+   }
+  ],
+  "0001062822": [
+   {
+    "acc": "0001062822-26-000130",
+    "key": "0002029249",
+    "owner": "Exton Michael",
+    "role": "Chief Executive Officer, Director",
+    "insider": true,
+    "d": "2026-11-06",
+    "filed": "2026-11-09T08:13:49-05:00",
+    "usd": 49999,
+    "shares": 30064.0,
+    "price": 1.6631,
+    "pct_added": 10.1,
+    "new_position": false,
+    "plan": false,
+    "issuer": "LEXICON PHARMACEUTICALS, INC.",
+    "ticker": "LXRX",
+    "link": "https://www.sec.gov/Archives/edgar/data/1062822/000106282226000130/0001062822-26-000130-index.htm"
+   }
+  ],
+  "0001086434": [
+   {
+    "acc": "0001976408-26-000933",
+    "key": "0001215547",
+    "owner": "ADLERSBERG SHABTAI",
+    "role": "President and CEO",
+    "insider": true,
+    "d": "2026-11-06",
+    "filed": "2026-11-09T07:55:51-05:00",
+    "usd": 126140,
+    "shares": 15939.0,
+    "price": 7.9139,
+    "pct_added": 0.3,
+    "new_position": false,
+    "plan": false,
+    "issuer": "AUDIOCODES LTD",
+    "ticker": "AUDC",
+    "link": "https://www.sec.gov/Archives/edgar/data/1086434/000197640826000933/0001976408-26-000933-index.htm"
+   }
+  ],
+  "0001713334": [
+   {
+    "acc": "0001193125-26-452558",
+    "key": "0001958709",
+    "owner": "HO LAWRENCE YAU LUNG",
+    "role": "Director",
+    "insider": true,
+    "d": "2026-11-06",
+    "filed": "2026-11-09T06:30:03-05:00",
+    "usd": 19928,
+    "shares": 72248.0,
+    "price": 0.2758,
+    "pct_added": 0.0,
+    "new_position": false,
+    "plan": false,
+    "issuer": "STUDIO CITY INTERNATIONAL HOLDINGS Ltd",
+    "ticker": "MSC",
+    "link": "https://www.sec.gov/Archives/edgar/data/1713334/000119312526452558/0001193125-26-452558-index.htm"
+   }
+  ],
+  "0001979414": [
+   {
+    "acc": "0001213900-26-117150",
+    "key": "0001443035",
+    "owner": "Heshmatpour Amir F",
+    "role": "CEO, President, Director",
+    "insider": true,
+    "d": "2026-11-06",
+    "filed": "2026-11-09T06:00:16-05:00",
+    "usd": 230510,
+    "shares": 70000.0,
+    "price": 3.293,
+    "pct_added": 2.2,
+    "new_position": false,
+    "plan": false,
+    "issuer": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+    "ticker": "NTHI",
+    "link": "https://www.sec.gov/Archives/edgar/data/1979414/000121390026117150/0001213900-26-117150-index.htm"
+   }
   ]
  },
  "seen4": {
-  "0001493152-26-049370": "2026-10-30T13:05:02.184074+00:00",
-  "0000902664-26-004313": "2026-10-30T13:05:02.184074+00:00",
-  "0001493152-26-049356": "2026-10-30T13:05:02.184074+00:00",
-  "0001168534-26-000011": "2026-10-30T13:05:02.184074+00:00",
-  "0001829340-26-000014": "2026-10-30T13:05:02.184074+00:00",
-  "0001411587-26-000002": "2026-10-30T13:05:02.184074+00:00",
-  "0002084269-26-000003": "2026-10-30T13:05:02.184074+00:00",
-  "0001628280-26-068424": "2026-10-30T13:05:02.184074+00:00",
-  "0001628280-26-068420": "2026-10-30T13:05:02.184074+00:00",
-  "0001628280-26-068418": "2026-10-30T13:05:02.184074+00:00",
-  "0001628280-26-068416": "2026-10-30T13:05:02.184074+00:00",
-  "0001628280-26-068412": "2026-10-30T13:05:02.184074+00:00",
-  "0001628280-26-068409": "2026-10-30T13:05:02.184074+00:00",
-  "0001628280-26-068407": "2026-10-30T13:05:02.184074+00:00",
-  "0001628280-26-068405": "2026-10-30T13:05:02.184074+00:00",
-  "0001628280-26-068403": "2026-10-30T13:05:02.184074+00:00",
-  "0001628280-26-068401": "2026-10-30T13:05:02.184074+00:00",
-  "0001628280-26-068399": "2026-10-30T13:05:02.184074+00:00",
-  "0001628280-26-068397": "2026-10-30T13:05:02.184074+00:00",
-  "0000711377-26-000038": "2026-10-30T13:05:02.184074+00:00",
-  "0000711377-26-000037": "2026-10-30T13:05:02.184074+00:00",
-  "0000711377-26-000036": "2026-10-30T13:05:02.184074+00:00",
-  "0000711377-26-000035": "2026-10-30T13:05:02.184074+00:00",
-  "0001812730-26-000008": "2026-10-30T13:05:02.184074+00:00",
-  "0001888543-26-000002": "2026-10-30T13:05:02.184074+00:00",
-  "0002141713-26-000007": "2026-10-30T13:05:02.184074+00:00",
-  "0002066642-26-000004": "2026-10-30T13:05:02.184074+00:00",
-  "0002054266-26-000008": "2026-10-30T13:05:02.184074+00:00",
-  "0001341767-26-000008": "2026-10-30T13:05:02.184074+00:00",
   "0001628280-26-068545": "2026-10-30T19:27:09.786783+00:00",
   "0000711377-26-000042": "2026-10-30T19:27:09.786783+00:00",
   "0001801785-26-000010": "2026-10-30T19:27:09.786783+00:00",
@@ -131242,7 +133552,73 @@
   "0001493152-26-050571": "2026-11-07T08:52:57.347530+00:00",
   "0001493152-26-050570": "2026-11-07T08:52:57.347530+00:00",
   "0001493152-26-050569": "2026-11-07T08:52:57.347530+00:00",
-  "0001493152-26-050568": "2026-11-07T08:52:57.347530+00:00"
+  "0001493152-26-050568": "2026-11-07T08:52:57.347530+00:00",
+  "0001700266-26-000004": "2026-11-09T18:53:09.265663+00:00",
+  "0001065088-26-000223": "2026-11-09T18:53:09.265663+00:00",
+  "0002118015-26-000008": "2026-11-09T18:53:09.265663+00:00",
+  "0002117143-26-000006": "2026-11-09T18:53:09.265663+00:00",
+  "0001697225-26-000004": "2026-11-09T18:53:09.265663+00:00",
+  "0000021344-26-000171": "2026-11-09T18:53:09.265663+00:00",
+  "0001070938-26-000024": "2026-11-09T18:53:09.265663+00:00",
+  "0001210212-26-000004": "2026-11-09T18:53:09.265663+00:00",
+  "0001791222-26-000004": "2026-11-09T18:53:09.265663+00:00",
+  "0001891323-26-000004": "2026-11-09T18:53:09.265663+00:00",
+  "0001171200-26-000021": "2026-11-09T18:53:09.265663+00:00",
+  "0001171200-26-000020": "2026-11-09T18:53:09.265663+00:00",
+  "0001171200-26-000019": "2026-11-09T18:53:09.265663+00:00",
+  "0001171200-26-000018": "2026-11-09T18:53:09.265663+00:00",
+  "0001171200-26-000017": "2026-11-09T18:53:09.265663+00:00",
+  "0000080424-26-000273": "2026-11-09T18:53:09.265663+00:00",
+  "0000080424-26-000272": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452897": "2026-11-09T18:53:09.265663+00:00",
+  "0001493152-26-050663": "2026-11-09T18:53:09.265663+00:00",
+  "0001667211-26-000030": "2026-11-09T18:53:09.265663+00:00",
+  "0000939057-26-000294": "2026-11-09T18:53:09.265663+00:00",
+  "0001870473-26-000032": "2026-11-09T18:53:09.265663+00:00",
+  "0001435109-26-000163": "2026-11-09T18:53:09.265663+00:00",
+  "0001437749-26-035741": "2026-11-09T18:53:09.265663+00:00",
+  "0001388772-26-000008": "2026-11-09T18:53:09.265663+00:00",
+  "0001437749-26-035738": "2026-11-09T18:53:09.265663+00:00",
+  "0001437749-26-035735": "2026-11-09T18:53:09.265663+00:00",
+  "0001437749-26-035732": "2026-11-09T18:53:09.265663+00:00",
+  "0000350852-26-000076": "2026-11-09T18:53:09.265663+00:00",
+  "0001437749-26-035727": "2026-11-09T18:53:09.265663+00:00",
+  "0001435109-26-000162": "2026-11-09T18:53:09.265663+00:00",
+  "0001437749-26-035725": "2026-11-09T18:53:09.265663+00:00",
+  "0001609253-26-000161": "2026-11-09T18:53:09.265663+00:00",
+  "0001493152-26-050649": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452767": "2026-11-09T18:53:09.265663+00:00",
+  "0001628280-26-071913": "2026-11-09T18:53:09.265663+00:00",
+  "0001992395-26-000006": "2026-11-09T18:53:09.265663+00:00",
+  "0001225208-26-008762": "2026-11-09T18:53:09.265663+00:00",
+  "0000935596-26-000028": "2026-11-09T18:53:09.265663+00:00",
+  "0001590558-26-000006": "2026-11-09T18:53:09.265663+00:00",
+  "0001062822-26-000130": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117231": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117229": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117228": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117227": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117225": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117221": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452690": "2026-11-09T18:53:09.265663+00:00",
+  "0001976408-26-000933": "2026-11-09T18:53:09.265663+00:00",
+  "0002054635-26-000006": "2026-11-09T18:53:09.265663+00:00",
+  "0001540655-26-000027": "2026-11-09T18:53:09.265663+00:00",
+  "0001368458-26-000015": "2026-11-09T18:53:09.265663+00:00",
+  "0001368458-26-000012": "2026-11-09T18:53:09.265663+00:00",
+  "0002028515-26-000019": "2026-11-09T18:53:09.265663+00:00",
+  "0002012952-26-000023": "2026-11-09T18:53:09.265663+00:00",
+  "0001683382-26-000006": "2026-11-09T18:53:09.265663+00:00",
+  "0001850971-26-000004": "2026-11-09T18:53:09.265663+00:00",
+  "0001833119-26-000004": "2026-11-09T18:53:09.265663+00:00",
+  "0001193125-26-452558": "2026-11-09T18:53:09.265663+00:00",
+  "0001807266-26-000012": "2026-11-09T18:53:09.265663+00:00",
+  "0001673358-26-000165": "2026-11-09T18:53:09.265663+00:00",
+  "0001673358-26-000163": "2026-11-09T18:53:09.265663+00:00",
+  "0001673358-26-000162": "2026-11-09T18:53:09.265663+00:00",
+  "0001046179-26-000734": "2026-11-09T18:53:09.265663+00:00",
+  "0001673358-26-000159": "2026-11-09T18:53:09.265663+00:00",
+  "0001213900-26-117150": "2026-11-09T18:53:09.265663+00:00"
  },
  "f4_index": {
   "2026-10-30": "done",
@@ -131698,24 +134074,24 @@
    "cap": 367791561.03670406,
    "kind": "Large buy",
    "n": 1,
-   "total": 544128,
+   "total": 667237,
    "people": [
     {
      "owner": "Zhao Bin",
      "role": "Chief Executive Officer, Director",
      "insider": true,
-     "usd": 544128,
+     "usd": 667237,
      "first": "2026-10-16",
      "plan": true,
-     "pct_added": 5.7,
+     "pct_added": 7.0,
      "new_position": false,
-     "link": "https://www.sec.gov/Archives/edgar/data/1802883/000119312526446310/0001193125-26-446310-index.htm",
-     "n": 6,
-     "last": "2026-11-03"
+     "link": "https://www.sec.gov/Archives/edgar/data/1802883/000119312526452690/0001193125-26-452690-index.htm",
+     "n": 7,
+     "last": "2026-11-06"
     }
    ],
    "start": "2026-10-16",
-   "link": "https://www.sec.gov/Archives/edgar/data/1802883/000119312526446310/0001193125-26-446310-index.htm",
+   "link": "https://www.sec.gov/Archives/edgar/data/1802883/000119312526452690/0001193125-26-452690-index.htm",
    "updated": "2026-10-29T13:12:38.788167+00:00"
   },
   "0001158463": {
